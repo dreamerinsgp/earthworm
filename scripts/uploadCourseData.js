@@ -1,7 +1,8 @@
 // 该文件的逻辑都是临时的
 // 后续会基于后台管理页面来上传数据
-// 所以这个脚本的逻辑都无需修改
 // 平时的开发也无需执行该脚本 数据已经全部推上去了
+// Course JSON: each statement should include englishGloss (English prompt on question screen).
+// Validate: npm run validate:courses-english
 const fs = require("fs");
 const { PrismaClient } = require("@prisma/client");
 const path = require("path");

@@ -18,7 +18,8 @@
     "docker:stop": "docker-compose stop",
     "db:init": "node scripts/ensure-node18.js && npx prisma migrate dev && node scripts/createCourses.js && node scripts/uploadCourseData.js",
     "db:update": "node scripts/ensure-node18.js && node scripts/createCourses.js && node scripts/uploadCourseData.js",
-    "migrate:courses-json": "node scripts/migrateCourseJsonToPinyin.js"
+    "migrate:courses-json": "node scripts/migrateCourseJsonToPinyin.js",
+    "validate:courses-english": "node scripts/validateCourseEnglishGloss.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",

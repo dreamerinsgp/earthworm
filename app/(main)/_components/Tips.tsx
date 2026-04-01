@@ -23,7 +23,7 @@ export function Tips({ onShowAnswer }: Props) {
       ></TipsItem>
       <TipsItem
         text="control"
-        description="play pronunciation"
+        description="hear Chinese (audio hint)"
         keyboardKey="Control"
         handler={playSound}
       ></TipsItem>

@@ -10,7 +10,7 @@ export function Answer() {
   const {
     chinese: hanzi = "",
     soundmark = "",
-    englishGloss,
+    englishGloss: enCue,
   } = currentStatement || {};
   const { playSound } = usePlaySound();
   const { session } = useUserStore();
@@ -50,8 +50,11 @@ export function Answer() {
   }
 
   return (
-    <div className="text-center mb-20 mt-10">
-      <div className="text-5xl mb-3 text-fuchsia-500 dark:text-gray-50">
+    <div className="text-center mb-20 mt-10 px-4">
+      <div
+        className="text-5xl mb-3 text-fuchsia-500 dark:text-gray-50"
+        lang="zh"
+      >
         {hanzi}
         <svg
           className="w-7 h-7 inline-block ml-1 cursor-pointer"
@@ -69,12 +72,15 @@ export function Answer() {
           ></path>
         </svg>{" "}
       </div>
-      <div className="text-2xl text-slate-600 dark:text-slate-300">
+      <div className="text-2xl text-slate-600 dark:text-slate-300" lang="zh">
         {soundmark}
       </div>
-      {englishGloss ? (
-        <div className="text-lg text-slate-500 dark:text-slate-400 mt-2">
-          {englishGloss}
+      {enCue?.trim() ? (
+        <div
+          className="text-sm text-slate-500 dark:text-slate-400 mt-3"
+          lang="en"
+        >
+          EN: {enCue.trim()}
         </div>
       ) : null}{" "}
       <button
