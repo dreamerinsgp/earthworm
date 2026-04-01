@@ -1,787 +1,944 @@
 [
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "承诺",
-		"english": "promise",
-		"soundmark": "/'prɑmɪs/"
+		"pinyin": "cheng nuo",
+		"soundmark": "chéng nuò",
+		"englishGloss": "promise"
 	},
 	{
 		"chinese": "做一个承诺",
-		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "zuo yi ge cheng nuo",
+		"soundmark": "zuò yí gè chéng nuò",
+		"englishGloss": "to make a promise"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你需要做一个承诺",
-		"english": "you need to make a promise",
-		"soundmark": "/ju/ /nid/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "ni xu yao zuo yi ge cheng nuo",
+		"soundmark": "nǐ xū yào zuò yí gè chéng nuò",
+		"englishGloss": "you need to make a promise"
 	},
 	{
 		"chinese": "做一个承诺",
-		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "zuo yi ge cheng nuo",
+		"soundmark": "zuò yí gè chéng nuò",
+		"englishGloss": "to make a promise"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你做一个承诺",
-		"english": "I want you to make a promise",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "wo xiang yao ni zuo yi ge cheng nuo",
+		"soundmark": "wǒ xiǎng yào nǐ zuò yí gè chéng nuò",
+		"englishGloss": "I want you to make a promise"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不想要你做一个承诺",
-		"english": "I don't want you to make a promise",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "wo bu xiang yao ni zuo yi ge cheng nuo",
+		"soundmark": "wǒ bù xiǎng yào nǐ zuò yí gè chéng nuò",
+		"englishGloss": "I don't want you to make a promise"
 	},
 	{
 		"chinese": "承诺",
-		"english": "promise",
-		"soundmark": "/'prɑmɪs/"
+		"pinyin": "cheng nuo",
+		"soundmark": "chéng nuò",
+		"englishGloss": "promise"
 	},
 	{
 		"chinese": "这个承诺",
-		"english": "the promise",
-		"soundmark": "/ðə/ /'prɑmɪs/"
+		"pinyin": "zhe ge cheng nuo",
+		"soundmark": "zhè ge chéng nuò",
+		"englishGloss": "the promise"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "遵守这个承诺",
-		"english": "to keep the promise",
-		"soundmark": "/tə/ /kip/ /ðə/ /'prɑmɪs/"
+		"pinyin": "zun shou zhe ge cheng nuo",
+		"soundmark": "zūn shǒu zhè ge chéng nuò",
+		"englishGloss": "to keep the promise"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你需要遵守这个承诺",
-		"english": "you need to keep the promise",
-		"soundmark": "/ju/ /nid/ /tə/ /kip/ /ðə/ /'prɑmɪs/"
+		"pinyin": "ni xu yao zun shou zhe ge cheng nuo",
+		"soundmark": "nǐ xū yào zūn shǒu zhè ge chéng nuò",
+		"englishGloss": "you need to keep the promise"
 	},
 	{
 		"chinese": "能够",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "neng gou",
+		"soundmark": "néng gòu",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你能够遵守这个承诺",
-		"english": "you can keep the promise",
-		"soundmark": "/ju/ /kæn/ /kip/ /ðə/ /'prɑmɪs/"
+		"pinyin": "ni neng gou zun shou zhe ge cheng nuo",
+		"soundmark": "nǐ néng gòu zūn shǒu zhè ge chéng nuò",
+		"englishGloss": "you can keep the promise"
 	},
 	{
 		"chinese": "不能",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu neng",
+		"soundmark": "bù néng",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "你不能遵守这个承诺",
-		"english": "you can't keep the promise",
-		"soundmark": "/ju/ /kænt/ /kip/ /ðə/ /'prɑmɪs/"
+		"pinyin": "ni bu neng zun shou zhe ge cheng nuo",
+		"soundmark": "nǐ bù néng zūn shǒu zhè ge chéng nuò",
+		"englishGloss": "you can't keep the promise"
 	},
 	{
 		"chinese": "你不能遵守的这个承诺",
-		"english": "the promise you can't keep",
-		"soundmark": "/ðə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+		"pinyin": "ni bu neng zun shou de zhe ge cheng nuo",
+		"soundmark": "nǐ bù néng zūn shǒu de zhè ge chéng nuò",
+		"englishGloss": "the promise you can't keep"
 	},
 	{
 		"chinese": "你不能遵守",
-		"english": "you can't keep",
-		"soundmark": "/ju/ /kænt/ /kip/"
+		"pinyin": "ni bu neng zun shou",
+		"soundmark": "nǐ bù néng zūn shǒu",
+		"englishGloss": "you can't keep"
 	},
 	{
 		"chinese": "我不想要你做一个承诺",
-		"english": "I don't want you to make a promise",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "wo bu xiang yao ni zuo yi ge cheng nuo",
+		"soundmark": "wǒ bù xiǎng yào nǐ zuò yí gè chéng nuò",
+		"englishGloss": "I don't want you to make a promise"
 	},
 	{
 		"chinese": "我不想要你做一个你不能遵守的承诺",
-		"english": "I don't want you to make a promise you can't keep",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+		"pinyin": "wo bu xiang yao ni zuo yi ge ni bu neng zun shou de cheng nuo",
+		"soundmark": "wǒ bù xiǎng yào nǐ zuò yí gè nǐ bù néng zūn shǒu de chéng nuò",
+		"englishGloss": "I don't want you to make a promise you can't keep"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "安静",
-		"english": "quiet",
-		"soundmark": "/'kwaɪət/"
+		"pinyin": "an jing",
+		"soundmark": "ān jìng",
+		"englishGloss": "quiet"
 	},
 	{
 		"chinese": "保持安静",
-		"english": "to keep quiet",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/"
+		"pinyin": "bao chi an jing",
+		"soundmark": "bǎo chí ān jìng",
+		"englishGloss": "to keep quiet"
 	},
 	{
 		"chinese": "你必须保持安静",
-		"english": "you have to keep quiet",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+		"pinyin": "ni bi xu bao chi an jing",
+		"soundmark": "nǐ bì xū bǎo chí ān jìng",
+		"englishGloss": "you have to keep quiet"
 	},
 	{
 		"chinese": "鱼",
-		"english": "fish",
-		"soundmark": "/fɪʃ/"
+		"pinyin": "yu",
+		"soundmark": "yú",
+		"englishGloss": "fish"
 	},
 	{
 		"chinese": "钓鱼",
-		"english": "to fish",
-		"soundmark": "/tə/ /fɪʃ/"
+		"pinyin": "diao yu",
+		"soundmark": "diào yú",
+		"englishGloss": "to fish"
 	},
 	{
 		"chinese": "钓鱼(ing形式）",
-		"english": "fishing",
-		"soundmark": "/'fɪʃɪŋ/"
+		"pinyin": "diao yu ( i n g xing shi ）",
+		"soundmark": "diào yú ( i n g xíng shì ）",
+		"englishGloss": "fishing"
 	},
 	{
 		"chinese": "正在钓鱼",
-		"english": "be fishing",
-		"soundmark": "/bi/ /'fɪʃɪŋ/ /（you，现在时）be are/ /ɚ/"
+		"pinyin": "zheng zai diao yu",
+		"soundmark": "zhèng zài diào yú",
+		"englishGloss": "be fishing"
 	},
 	{
 		"chinese": "你（现在）正在钓鱼",
-		"english": "you are fishing",
-		"soundmark": "/ju/ /ɚ/ /'fɪʃɪŋ/"
+		"pinyin": "ni （ xian zai ） zheng zai diao yu",
+		"soundmark": "nǐ （ xiàn zài ） zhèng zài diào yú",
+		"englishGloss": "you are fishing"
 	},
 	{
 		"chinese": "当......时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . shi hou",
+		"soundmark": "dāng . . . . . . shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你（现在）正在钓鱼的时候",
-		"english": "when you are fishing",
-		"soundmark": "/wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+		"pinyin": "dang ni （ xian zai ） zheng zai diao yu de shi hou",
+		"soundmark": "dāng nǐ （ xiàn zài ） zhèng zài diào yú de shí hòu",
+		"englishGloss": "when you are fishing"
 	},
 	{
 		"chinese": "你必须保持安静",
-		"english": "you have to keep quiet",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+		"pinyin": "ni bi xu bao chi an jing",
+		"soundmark": "nǐ bì xū bǎo chí ān jìng",
+		"englishGloss": "you have to keep quiet"
 	},
 	{
 		"chinese": "你必须保持安静当你（现在）正在钓鱼的时候",
-		"english": "you have to keep quiet when you are fishing",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/ /wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+		"pinyin": "ni bi xu bao chi an jing dang ni （ xian zai ） zheng zai diao yu de shi hou",
+		"soundmark": "nǐ bì xū bǎo chí ān jìng dāng nǐ （ xiàn zài ） zhèng zài diào yú de shí hòu",
+		"englishGloss": "you have to keep quiet when you are fishing"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "秘密",
-		"english": "secret",
-		"soundmark": "/'sikrət/"
+		"pinyin": "mi mi",
+		"soundmark": "mì mì",
+		"englishGloss": "secret"
 	},
 	{
 		"chinese": "保守一个秘密",
-		"english": "to keep a secret",
-		"soundmark": "/tə/ /kip/ /ə/ /'sikrət/"
+		"pinyin": "bao shou yi ge mi mi",
+		"soundmark": "bǎo shǒu yí gè mì mì",
+		"englishGloss": "to keep a secret"
 	},
 	{
 		"chinese": "我们的",
-		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"pinyin": "wo men de",
+		"soundmark": "wǒ men de",
+		"englishGloss": "our"
 	},
 	{
 		"chinese": "我们的秘密",
-		"english": "our secret",
-		"soundmark": "/'aʊɚ/ /'sikrət/"
+		"pinyin": "wo men de mi mi",
+		"soundmark": "wǒ men de mì mì",
+		"englishGloss": "our secret"
 	},
 	{
 		"chinese": "保守我们的秘密",
-		"english": "to keep our secret",
-		"soundmark": "/tə/ /kip/ /'aʊɚ/ /'sikrət/"
+		"pinyin": "bao shou wo men de mi mi",
+		"soundmark": "bǎo shǒu wǒ men de mì mì",
+		"englishGloss": "to keep our secret"
 	},
 	{
 		"chinese": "你必须保守我们的秘密",
-		"english": "you have to keep our secret",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'aʊɚ/ /'sikrət/"
+		"pinyin": "ni bi xu bao shou wo men de mi mi",
+		"soundmark": "nǐ bì xū bǎo shǒu wǒ men de mì mì",
+		"englishGloss": "you have to keep our secret"
 	},
 	{
 		"chinese": "保守一个秘密",
-		"english": "to keep a secret",
-		"soundmark": "/tə/ /kip/ /ə/ /'sikrət/"
+		"pinyin": "bao shou yi ge mi mi",
+		"soundmark": "bǎo shǒu yí gè mì mì",
+		"englishGloss": "to keep a secret"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "不可以",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu ke yi",
+		"soundmark": "bù kě yǐ",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "她不可以",
-		"english": "she can't",
-		"soundmark": "/ʃi/ /kænt/"
+		"pinyin": "ta bu ke yi",
+		"soundmark": "tā bù kě yǐ",
+		"englishGloss": "she can't"
 	},
 	{
 		"chinese": "她不可以保守一个秘密",
-		"english": "she can't keep a secret",
-		"soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/"
+		"pinyin": "ta bu ke yi bao shou yi ge mi mi",
+		"soundmark": "tā bù kě yǐ bǎo shǒu yí gè mì mì",
+		"englishGloss": "she can't keep a secret"
 	},
 	{
 		"chinese": "分钟",
-		"english": "minute",
-		"soundmark": "/'mɪnɪt/"
+		"pinyin": "fen zhong",
+		"soundmark": "fēn zhōng",
+		"englishGloss": "minute"
 	},
 	{
 		"chinese": "五",
-		"english": "five",
-		"soundmark": "/faɪv/"
+		"pinyin": "wu",
+		"soundmark": "wǔ",
+		"englishGloss": "five"
 	},
 	{
 		"chinese": "五分钟",
-		"english": "five minutes",
-		"soundmark": "/faɪv/ /'mɪnɪts/"
+		"pinyin": "wu fen zhong",
+		"soundmark": "wǔ fēn zhōng",
+		"englishGloss": "five minutes"
 	},
 	{
 		"chinese": "她不可以保守一个秘密五分钟",
-		"english": "she can't keep a secret for five minutes",
-		"soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+		"pinyin": "ta bu ke yi bao shou yi ge mi mi wu fen zhong",
+		"soundmark": "tā bù kě yǐ bǎo shǒu yí gè mì mì wǔ fēn zhōng",
+		"englishGloss": "she can't keep a secret for five minutes"
 	},
 	{
 		"chinese": "说",
-		"english": "to say",
-		"soundmark": "/tə/ /se/ /（过去）说 said/ /sɛd/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to say"
 	},
 	{
 		"chinese": "她（过去）说",
-		"english": "she said",
-		"soundmark": "/ʃi/ /sɛd/"
+		"pinyin": "ta （ guo qu ） shuo",
+		"soundmark": "tā （ guò qù ） shuō",
+		"englishGloss": "she said"
 	},
 	{
 		"chinese": "她（过去）说她不可以保守一个秘密五分钟",
-		"english": "she said she can't keep a secret for five minutes",
-		"soundmark": "/ʃi/ /sɛd/ /ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+		"pinyin": "ta （ guo qu ） shuo ta bu ke yi bao shou yi ge mi mi wu fen zhong",
+		"soundmark": "tā （ guò qù ） shuō tā bù kě yǐ bǎo shǒu yí gè mì mì wǔ fēn zhōng",
+		"englishGloss": "she said she can't keep a secret for five minutes"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "平衡",
-		"english": "balance",
-		"soundmark": "/'bæləns/"
+		"pinyin": "ping heng",
+		"soundmark": "píng héng",
+		"englishGloss": "balance"
 	},
 	{
 		"chinese": "保持平衡",
-		"english": "to keep balance",
-		"soundmark": "/tə/ /kip/ /'bæləns/"
+		"pinyin": "bao chi ping heng",
+		"soundmark": "bǎo chí píng héng",
+		"englishGloss": "to keep balance"
 	},
 	{
 		"chinese": "好的",
-		"english": "good",
-		"soundmark": "/ɡʊd/"
+		"pinyin": "hao de",
+		"soundmark": "hǎo de",
+		"englishGloss": "good"
 	},
 	{
 		"chinese": "保持一个好的平衡",
-		"english": "to keep a good balance",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+		"pinyin": "bao chi yi ge hao de ping heng",
+		"soundmark": "bǎo chí yí gè hǎo de píng héng",
+		"englishGloss": "to keep a good balance"
 	},
 	{
 		"chinese": "工作",
-		"english": "work",
-		"soundmark": "/wɝk/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work"
 	},
 	{
 		"chinese": "生活",
-		"english": "life",
-		"soundmark": "/laɪf/"
+		"pinyin": "sheng huo",
+		"soundmark": "shēng huó",
+		"englishGloss": "life"
 	},
 	{
 		"chinese": "和",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "he",
+		"soundmark": "hé",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "工作和生活",
-		"english": "work and life",
-		"soundmark": "/wɝk/ /ənd/ /laɪf/"
+		"pinyin": "gong zuo he sheng huo",
+		"soundmark": "gōng zuò hé shēng huó",
+		"englishGloss": "work and life"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "在工作和生活之间",
-		"english": "between work and life",
-		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "zai gong zuo he sheng huo zhi jian",
+		"soundmark": "zài gōng zuò hé shēng huó zhī jiān",
+		"englishGloss": "between work and life"
 	},
 	{
 		"chinese": "保持一个好的平衡",
-		"english": "to keep a good balance",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+		"pinyin": "bao chi yi ge hao de ping heng",
+		"soundmark": "bǎo chí yí gè hǎo de píng héng",
+		"englishGloss": "to keep a good balance"
 	},
 	{
 		"chinese": "在工作和生活之间保持一个好的平衡",
-		"english": "to keep a good balance between work and life",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "zai gong zuo he sheng huo zhi jian bao chi yi ge hao de ping heng",
+		"soundmark": "zài gōng zuò hé shēng huó zhī jiān bǎo chí yí gè hǎo de píng héng",
+		"englishGloss": "to keep a good balance between work and life"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你必须在工作和生活之间保持一个好的平衡",
-		"english": "you have to keep a good balance between work and life",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "ni bi xu zai gong zuo he sheng huo zhi jian bao chi yi ge hao de ping heng",
+		"soundmark": "nǐ bì xū zài gōng zuò hé shēng huó zhī jiān bǎo chí yí gè hǎo de píng héng",
+		"englishGloss": "you have to keep a good balance between work and life"
 	},
 	{
 		"chinese": "困难的",
-		"english": "difficult",
-		"soundmark": "/'dɪfɪkəlt/"
+		"pinyin": "kun nan de",
+		"soundmark": "kùn nán de",
+		"englishGloss": "difficult"
 	},
 	{
 		"chinese": "它；这件事情",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta ； zhe jian shi qing",
+		"soundmark": "tā ； zhè jiàn shì qíng",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "它是困难的",
-		"english": "it is difficult",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+		"pinyin": "ta shi kun nan de",
+		"soundmark": "tā shì kùn nán de",
+		"englishGloss": "it is difficult"
 	},
 	{
 		"chinese": "一个好的平衡",
-		"english": "a good balance",
-		"soundmark": "/ə/ /ɡʊd/ /'bæləns/"
+		"pinyin": "yi ge hao de ping heng",
+		"soundmark": "yí gè hǎo de píng héng",
+		"englishGloss": "a good balance"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "保持一个好的平衡",
-		"english": "to keep a good balance",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+		"pinyin": "bao chi yi ge hao de ping heng",
+		"soundmark": "bǎo chí yí gè hǎo de píng héng",
+		"englishGloss": "to keep a good balance"
 	},
 	{
 		"chinese": "工作和生活",
-		"english": "work and life",
-		"soundmark": "/wɝk/ /ənd/ /laɪf/"
+		"pinyin": "gong zuo he sheng huo",
+		"soundmark": "gōng zuò hé shēng huó",
+		"englishGloss": "work and life"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "在工作和生活之间",
-		"english": "between work and life",
-		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "zai gong zuo he sheng huo zhi jian",
+		"soundmark": "zài gōng zuò hé shēng huó zhī jiān",
+		"englishGloss": "between work and life"
 	},
 	{
 		"chinese": "在工作和生活之间保持一个好的平衡",
-		"english": "to keep a good balance between work and life",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "zai gong zuo he sheng huo zhi jian bao chi yi ge hao de ping heng",
+		"soundmark": "zài gōng zuò hé shēng huó zhī jiān bǎo chí yí gè hǎo de píng héng",
+		"englishGloss": "to keep a good balance between work and life"
 	},
 	{
 		"chinese": "它是困难的",
-		"english": "it is difficult",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+		"pinyin": "ta shi kun nan de",
+		"soundmark": "tā shì kùn nán de",
+		"englishGloss": "it is difficult"
 	},
 	{
 		"chinese": "在工作和生活之间保持一个好的平衡（它）是困难的",
-		"english": "it is difficult to keep a good balance between work and life",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "zai gong zuo he sheng huo zhi jian bao chi yi ge hao de ping heng （ ta ） shi kun nan de",
+		"soundmark": "zài gōng zuò hé shēng huó zhī jiān bǎo chí yí gè hǎo de píng héng （ tā ） shì kùn nán de",
+		"englishGloss": "it is difficult to keep a good balance between work and life"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "在工作和生活之间保持一个好的平衡（它）是非常困难的",
-		"english": "it is very difficult to keep a good balance between work and life",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"pinyin": "zai gong zuo he sheng huo zhi jian bao chi yi ge hao de ping heng （ ta ） shi fei chang kun nan de",
+		"soundmark": "zài gōng zuò hé shēng huó zhī jiān bǎo chí yí gè hǎo de píng héng （ tā ） shì fēi cháng kùn nán de",
+		"englishGloss": "it is very difficult to keep a good balance between work and life"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "安静",
-		"english": "quiet",
-		"soundmark": "/'kwaɪət/"
+		"pinyin": "an jing",
+		"soundmark": "ān jìng",
+		"englishGloss": "quiet"
 	},
 	{
 		"chinese": "保持安静",
-		"english": "to keep quiet",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/"
+		"pinyin": "bao chi an jing",
+		"soundmark": "bǎo chí ān jìng",
+		"englishGloss": "to keep quiet"
 	},
 	{
 		"chinese": "关于",
-		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"pinyin": "guan yu",
+		"soundmark": "guān yú",
+		"englishGloss": "about"
 	},
 	{
 		"chinese": "那件事",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "na jian shi",
+		"soundmark": "nà jiàn shì",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "关于那件事",
-		"english": "about it",
-		"soundmark": "/ə'baʊt/ /ɪt/"
+		"pinyin": "guan yu na jian shi",
+		"soundmark": "guān yú nà jiàn shì",
+		"englishGloss": "about it"
 	},
 	{
 		"chinese": "对于那件事保持沉默",
-		"english": "to keep quiet about it",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+		"pinyin": "dui yu na jian shi bao chi chen mo",
+		"soundmark": "duì yú nà jiàn shì bǎo chí chén mò",
+		"englishGloss": "to keep quiet about it"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/ /（过去）告诉 told/ /told/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "我（过去）告诉你",
-		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"pinyin": "wo （ guo qu ） gao su ni",
+		"soundmark": "wǒ （ guò qù ） gào sù nǐ",
+		"englishGloss": "I told you"
 	},
 	{
 		"chinese": "我（过去）告诉你对于那件事保持沉默",
-		"english": "I told you to keep quiet about it",
-		"soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+		"pinyin": "wo （ guo qu ） gao su ni dui yu na jian shi bao chi chen mo",
+		"soundmark": "wǒ （ guò qù ） gào sù nǐ duì yú nà jiàn shì bǎo chí chén mò",
+		"englishGloss": "I told you to keep quiet about it"
 	},
 	{
 		"chinese": "计划",
-		"english": "plan",
-		"soundmark": "/plæn/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "plan"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的计划",
-		"english": "my plan",
-		"soundmark": "/maɪ/ /plæn/"
+		"pinyin": "wo de ji hua",
+		"soundmark": "wǒ de jì huà",
+		"englishGloss": "my plan"
 	},
 	{
 		"chinese": "关于我的计划",
-		"english": "about my plan",
-		"soundmark": "/ə'baʊt/ /maɪ/ /plæn/"
+		"pinyin": "guan yu wo de ji hua",
+		"soundmark": "guān yú wǒ de jì huà",
+		"englishGloss": "about my plan"
 	},
 	{
 		"chinese": "保持沉默",
-		"english": "to keep quiet",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/"
+		"pinyin": "bao chi chen mo",
+		"soundmark": "bǎo chí chén mò",
+		"englishGloss": "to keep quiet"
 	},
 	{
 		"chinese": "对于我的计划保持沉默",
-		"english": "to keep quiet about my plan",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+		"pinyin": "dui yu wo de ji hua bao chi chen mo",
+		"soundmark": "duì yú wǒ de jì huà bǎo chí chén mò",
+		"englishGloss": "to keep quiet about my plan"
 	},
 	{
 		"chinese": "我（过去）告诉你",
-		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"pinyin": "wo （ guo qu ） gao su ni",
+		"soundmark": "wǒ （ guò qù ） gào sù nǐ",
+		"englishGloss": "I told you"
 	},
 	{
 		"chinese": "我（过去）告诉你对于我的计划保持沉默",
-		"english": "I told you to keep quiet about my plan",
-		"soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+		"pinyin": "wo （ guo qu ） gao su ni dui yu wo de ji hua bao chi chen mo",
+		"soundmark": "wǒ （ guò qù ） gào sù nǐ duì yú wǒ de jì huà bǎo chí chén mò",
+		"englishGloss": "I told you to keep quiet about my plan"
 	},
 	{
 		"chinese": "做一个承诺",
-		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "zuo yi ge cheng nuo",
+		"soundmark": "zuò yí gè chéng nuò",
+		"englishGloss": "to make a promise"
 	},
 	{
 		"chinese": "承诺",
-		"english": "to promise",
-		"soundmark": "/tə/ /'prɑmɪs/ /（过去）承诺 promised/ /'prɑmɪst/"
+		"pinyin": "cheng nuo",
+		"soundmark": "chéng nuò",
+		"englishGloss": "to promise"
 	},
 	{
 		"chinese": "你（过去）承诺",
-		"english": "you promised",
-		"soundmark": "/ju/ /'prɑmɪst/"
+		"pinyin": "ni （ guo qu ） cheng nuo",
+		"soundmark": "nǐ （ guò qù ） chéng nuò",
+		"englishGloss": "you promised"
 	},
 	{
 		"chinese": "你（过去）承诺对于我的计划保持沉默",
-		"english": "you promised to keep quiet about my plan",
-		"soundmark": "/ju/ /'prɑmɪst/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+		"pinyin": "ni （ guo qu ） cheng nuo dui yu wo de ji hua bao chi chen mo",
+		"soundmark": "nǐ （ guò qù ） chéng nuò duì yú wǒ de jì huà bǎo chí chén mò",
+		"englishGloss": "you promised to keep quiet about my plan"
 	},
 	{
 		"chinese": "承诺",
-		"english": "to promise",
-		"soundmark": "/tə/ /'prɑmɪs/"
+		"pinyin": "cheng nuo",
+		"soundmark": "chéng nuò",
+		"englishGloss": "to promise"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "承诺我",
-		"english": "to promise me",
-		"soundmark": "/tə/ /'prɑmɪs/ /mi/"
+		"pinyin": "cheng nuo wo",
+		"soundmark": "chéng nuò wǒ",
+		"englishGloss": "to promise me"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你承诺我",
-		"english": "I want you to promise me",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/"
+		"pinyin": "wo xiang yao ni cheng nuo wo",
+		"soundmark": "wǒ xiǎng yào nǐ chéng nuò wǒ",
+		"englishGloss": "I want you to promise me"
 	},
 	{
 		"chinese": "你将会",
-		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"pinyin": "ni jiang hui",
+		"soundmark": "nǐ jiāng huì",
+		"englishGloss": "you will"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "你将会告诉",
-		"english": "you will tell",
-		"soundmark": "/ju/ /wɪl/ /tɛl/"
+		"pinyin": "ni jiang hui gao su",
+		"soundmark": "nǐ jiāng huì gào sù",
+		"englishGloss": "you will tell"
 	},
 	{
 		"chinese": "你将不会告诉",
-		"english": "you will not tell",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/"
+		"pinyin": "ni jiang bu hui gao su",
+		"soundmark": "nǐ jiāng bú huì gào sù",
+		"englishGloss": "you will not tell"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "你将不会告诉他",
-		"english": "you will not tell him",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/"
+		"pinyin": "ni jiang bu hui gao su ta",
+		"soundmark": "nǐ jiāng bú huì gào sù tā",
+		"englishGloss": "you will not tell him"
 	},
 	{
 		"chinese": "真相",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "zhen xiang",
+		"soundmark": "zhēn xiàng",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "你将不会告诉他真相",
-		"english": "you will not tell him the truth",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+		"pinyin": "ni jiang bu hui gao su ta zhen xiang",
+		"soundmark": "nǐ jiāng bú huì gào sù tā zhēn xiàng",
+		"englishGloss": "you will not tell him the truth"
 	},
 	{
 		"chinese": "我想要你承诺我你将不会告诉他真相",
-		"english": "I want you to promise me you will not tell him the truth",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+		"pinyin": "wo xiang yao ni cheng nuo wo ni jiang bu hui gao su ta zhen xiang",
+		"soundmark": "wǒ xiǎng yào nǐ chéng nuò wǒ nǐ jiāng bú huì gào sù tā zhēn xiàng",
+		"englishGloss": "I want you to promise me you will not tell him the truth"
 	},
 	{
 		"chinese": "绝不",
-		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"pinyin": "jue bu",
+		"soundmark": "jué bù",
+		"englishGloss": "never"
 	},
 	{
 		"chinese": "我想要你承诺我你将绝不会告诉他真相",
-		"english": "I want you to promise me you will never tell him the truth",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /'nɛvɚ/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+		"pinyin": "wo xiang yao ni cheng nuo wo ni jiang jue bu hui gao su ta zhen xiang",
+		"soundmark": "wǒ xiǎng yào nǐ chéng nuò wǒ nǐ jiāng jué bú huì gào sù tā zhēn xiàng",
+		"englishGloss": "I want you to promise me you will never tell him the truth"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "承诺",
-		"english": "promise",
-		"soundmark": "/'prɑmɪs/"
+		"pinyin": "cheng nuo",
+		"soundmark": "chéng nuò",
+		"englishGloss": "promise"
 	},
 	{
 		"chinese": "做一个承诺",
-		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "zuo yi ge cheng nuo",
+		"soundmark": "zuò yí gè chéng nuò",
+		"englishGloss": "to make a promise"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我做一个承诺",
-		"english": "I make a promise",
-		"soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/"
+		"pinyin": "wo zuo yi ge cheng nuo",
+		"soundmark": "wǒ zuò yí gè chéng nuò",
+		"englishGloss": "I make a promise"
 	},
 	{
 		"chinese": "我自己",
-		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"pinyin": "wo zi ji",
+		"soundmark": "wǒ zì jǐ",
+		"englishGloss": "myself"
 	},
 	{
 		"chinese": "我对我自己做一个承诺",
-		"english": "I make a promise to myself",
-		"soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /（过去）做 made/ /med/"
+		"pinyin": "wo dui wo zi ji zuo yi ge cheng nuo",
+		"soundmark": "wǒ duì wǒ zì jǐ zuò yí gè chéng nuò",
+		"englishGloss": "I make a promise to myself"
 	},
 	{
 		"chinese": "我对我自己做了一个承诺",
-		"english": "I made a promise to myself",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+		"pinyin": "wo dui wo zi ji zuo le yi ge cheng nuo",
+		"soundmark": "wǒ duì wǒ zì jǐ zuò le yí gè chéng nuò",
+		"englishGloss": "I made a promise to myself"
 	},
 	{
 		"chinese": "年轻",
-		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"pinyin": "nian qing",
+		"soundmark": "nián qīng",
+		"englishGloss": "young"
 	},
 	{
 		"chinese": "我是年轻的",
-		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/ /（过去）是 was/ /wəz/"
+		"pinyin": "wo shi nian qing de",
+		"soundmark": "wǒ shì nián qīng de",
+		"englishGloss": "I am young"
 	},
 	{
 		"chinese": "我（过去）是年轻的",
-		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "wo （ guo qu ） shi nian qing de",
+		"soundmark": "wǒ （ guò qù ） shì nián qīng de",
+		"englishGloss": "I was young"
 	},
 	{
 		"chinese": "当......什么时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . shen me shi hou",
+		"soundmark": "dāng . . . . . . shén me shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我（过去）是年轻的时候",
-		"english": "when I was young",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "dang wo （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "dāng wǒ （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "when I was young"
 	},
 	{
 		"chinese": "更年轻的",
-		"english": "younger",
-		"soundmark": "/ˈjʌŋɡər/"
+		"pinyin": "geng nian qing de",
+		"soundmark": "gèng nián qīng de",
+		"englishGloss": "younger"
 	},
 	{
 		"chinese": "当我是更年轻的时候",
-		"english": "when I was younger",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+		"pinyin": "dang wo shi geng nian qing de shi hou",
+		"soundmark": "dāng wǒ shì gèng nián qīng de shí hòu",
+		"englishGloss": "when I was younger"
 	},
 	{
 		"chinese": "我对我自己做了一个承诺",
-		"english": "I made a promise to myself",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+		"pinyin": "wo dui wo zi ji zuo le yi ge cheng nuo",
+		"soundmark": "wǒ duì wǒ zì jǐ zuò le yí gè chéng nuò",
+		"englishGloss": "I made a promise to myself"
 	},
 	{
 		"chinese": "当我年轻一点的时候我对自己做了一个承诺",
-		"english": "I made a promise to myself when I was younger",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+		"pinyin": "dang wo nian qing yi dian de shi hou wo dui zi ji zuo le yi ge cheng nuo",
+		"soundmark": "dāng wǒ nián qīng yì diǎn de shí hòu wǒ duì zì jǐ zuò le yí gè chéng nuò",
+		"englishGloss": "I made a promise to myself when I was younger"
 	},
 	{
 		"chinese": "学",
-		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"pinyin": "xue",
+		"soundmark": "xué",
+		"englishGloss": "to learn"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "学英语",
-		"english": "to learn English",
-		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "xue ying yu",
+		"soundmark": "xué yīng yǔ",
+		"englishGloss": "to learn English"
 	},
 	{
 		"chinese": "每一个",
-		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"pinyin": "mei yi ge",
+		"soundmark": "měi yí gè",
+		"englishGloss": "every"
 	},
 	{
 		"chinese": "天",
-		"english": "day",
-		"soundmark": "/de/"
+		"pinyin": "tian",
+		"soundmark": "tiān",
+		"englishGloss": "day"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "每天学英语",
-		"english": "to learn English every day",
-		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"pinyin": "mei tian xue ying yu",
+		"soundmark": "měi tiān xué yīng yǔ",
+		"englishGloss": "to learn English every day"
 	},
 	{
 		"chinese": "我将会",
-		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"pinyin": "wo jiang hui",
+		"soundmark": "wǒ jiāng huì",
+		"englishGloss": "I will"
 	},
 	{
 		"chinese": "我将会每天学英语",
-		"english": "I will learn English every day",
-		"soundmark": "/aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"pinyin": "wo jiang hui mei tian xue ying yu",
+		"soundmark": "wǒ jiāng huì měi tiān xué yīng yǔ",
+		"englishGloss": "I will learn English every day"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "那个我将会每天学英语",
-		"english": "that I will learn English every day",
-		"soundmark": "/ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"pinyin": "na ge wo jiang hui mei tian xue ying yu",
+		"soundmark": "nà ge wǒ jiāng huì měi tiān xué yīng yǔ",
+		"englishGloss": "that I will learn English every day"
 	},
 	{
 		"chinese": "当我年轻一点的时候我对自己做了一个承诺",
-		"english": "I made a promise to myself when I was younger",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+		"pinyin": "dang wo nian qing yi dian de shi hou wo dui zi ji zuo le yi ge cheng nuo",
+		"soundmark": "dāng wǒ nián qīng yì diǎn de shí hòu wǒ duì zì jǐ zuò le yí gè chéng nuò",
+		"englishGloss": "I made a promise to myself when I was younger"
 	},
 	{
 		"chinese": "当我年轻一点的时候我对自己做了一个承诺（那个）我将会每天学英语",
-		"english": "I made a promise to myself when I was younger that I will learn English every day",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/ /will过去式 would/ /wʊd/"
+		"pinyin": "dang wo nian qing yi dian de shi hou wo dui zi ji zuo le yi ge cheng nuo （ na ge ） wo jiang hui mei tian xue ying yu",
+		"soundmark": "dāng wǒ nián qīng yì diǎn de shí hòu wǒ duì zì jǐ zuò le yí gè chéng nuò （ nà ge ） wǒ jiāng huì měi tiān xué yīng yǔ",
+		"englishGloss": "I made a promise to myself when I was younger that I will learn English every day"
 	},
 	{
 		"chinese": "我（过去）将会每天学英语",
-		"english": "I would learn English every day",
-		"soundmark": "/aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"pinyin": "wo （ guo qu ） jiang hui mei tian xue ying yu",
+		"soundmark": "wǒ （ guò qù ） jiāng huì měi tiān xué yīng yǔ",
+		"englishGloss": "I would learn English every day"
 	},
 	{
 		"chinese": "当我年轻一点的时候我对自己做了一个承诺（那个）我过去将会每天学英语",
-		"english": "I made a promise to myself when I was younger that I would learn English every day",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"pinyin": "dang wo nian qing yi dian de shi hou wo dui zi ji zuo le yi ge cheng nuo （ na ge ） wo guo qu jiang hui mei tian xue ying yu",
+		"soundmark": "dāng wǒ nián qīng yì diǎn de shí hòu wǒ duì zì jǐ zuò le yí gè chéng nuò （ nà ge ） wǒ guò qù jiāng huì měi tiān xué yīng yǔ",
+		"englishGloss": "I made a promise to myself when I was younger that I would learn English every day"
 	}
 ]

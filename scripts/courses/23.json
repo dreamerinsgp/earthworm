@@ -1,647 +1,776 @@
 [
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "把手",
-		"english": "handle",
-		"soundmark": "/'hændl/"
+		"pinyin": "ba shou",
+		"soundmark": "bǎ shǒu",
+		"englishGloss": "handle"
 	},
 	{
 		"chinese": "门",
-		"english": "door",
-		"soundmark": "/dɔr/"
+		"pinyin": "men",
+		"soundmark": "mén",
+		"englishGloss": "door"
 	},
 	{
 		"chinese": "门把手",
-		"english": "door handle",
-		"soundmark": "/dɔr/ /'hændl/"
+		"pinyin": "men ba shou",
+		"soundmark": "mén bǎ shǒu",
+		"englishGloss": "door handle"
 	},
 	{
 		"chinese": "刀",
-		"english": "knife",
-		"soundmark": "/naɪf/"
+		"pinyin": "dao",
+		"soundmark": "dāo",
+		"englishGloss": "knife"
 	},
 	{
 		"chinese": "把手",
-		"english": "handle",
-		"soundmark": "/'hændl/"
+		"pinyin": "ba shou",
+		"soundmark": "bǎ shǒu",
+		"englishGloss": "handle"
 	},
 	{
 		"chinese": "刀柄",
-		"english": "knife handle",
-		"soundmark": "/naɪf/ /'hændl/"
+		"pinyin": "dao bing",
+		"soundmark": "dāo bǐng",
+		"englishGloss": "knife handle"
 	},
 	{
 		"chinese": "把手",
-		"english": "handle",
-		"soundmark": "/'hændl/"
+		"pinyin": "ba shou",
+		"soundmark": "bǎ shǒu",
+		"englishGloss": "handle"
 	},
 	{
 		"chinese": "操作",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo",
+		"soundmark": "cāo zuò",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "机器",
-		"english": "machine",
-		"soundmark": "/mə'ʃin/"
+		"pinyin": "ji qi",
+		"soundmark": "jī qì",
+		"englishGloss": "machine"
 	},
 	{
 		"chinese": "这个",
-		"english": "this",
-		"soundmark": "/ðɪs/"
+		"pinyin": "zhe ge",
+		"soundmark": "zhè ge",
+		"englishGloss": "this"
 	},
 	{
 		"chinese": "这台机器",
-		"english": "this machine",
-		"soundmark": "/ðɪs/ /mə'ʃin/"
+		"pinyin": "zhe tai ji qi",
+		"soundmark": "zhè tái jī qì",
+		"englishGloss": "this machine"
 	},
 	{
 		"chinese": "操作",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo",
+		"soundmark": "cāo zuò",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "操作这台机器",
-		"english": "to handle this machine",
-		"soundmark": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "cao zuo zhe tai ji qi",
+		"soundmark": "cāo zuò zhè tái jī qì",
+		"englishGloss": "to handle this machine"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我知道",
-		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"pinyin": "wo zhi dao",
+		"soundmark": "wǒ zhī dào",
+		"englishGloss": "I know"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "我知道如何操作这台机器",
-		"english": "I know how to handle this machine",
-		"soundmark": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "wo zhi dao ru he cao zuo zhe tai ji qi",
+		"soundmark": "wǒ zhī dào rú hé cāo zuò zhè tái jī qì",
+		"englishGloss": "I know how to handle this machine"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不知道",
-		"english": "I don't know",
-		"soundmark": "/aɪ/ /dont/ /no/"
+		"pinyin": "wo bu zhi dao",
+		"soundmark": "wǒ bù zhī dào",
+		"englishGloss": "I don't know"
 	},
 	{
 		"chinese": "我不知道如何操作这台机器",
-		"english": "I don't know how to handle this machine",
-		"soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "wo bu zhi dao ru he cao zuo zhe tai ji qi",
+		"soundmark": "wǒ bù zhī dào rú hé cāo zuò zhè tái jī qì",
+		"englishGloss": "I don't know how to handle this machine"
 	},
 	{
 		"chinese": "操作这台机器",
-		"english": "to handle this machine",
-		"soundmark": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "cao zuo zhe tai ji qi",
+		"soundmark": "cāo zuò zhè tái jī qì",
+		"englishGloss": "to handle this machine"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我可以操作这台机器",
-		"english": "I can handle this machine",
-		"soundmark": "/aɪ/ /kæn/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "wo ke yi cao zuo zhe tai ji qi",
+		"soundmark": "wǒ kě yǐ cāo zuò zhè tái jī qì",
+		"englishGloss": "I can handle this machine"
 	},
 	{
 		"chinese": "不可以",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu ke yi",
+		"soundmark": "bù kě yǐ",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "我不可以",
-		"english": "I can't",
-		"soundmark": "/aɪ/ /kænt/"
+		"pinyin": "wo bu ke yi",
+		"soundmark": "wǒ bù kě yǐ",
+		"englishGloss": "I can't"
 	},
 	{
 		"chinese": "操作这台机器",
-		"english": "to handle this machine",
-		"soundmark": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "cao zuo zhe tai ji qi",
+		"soundmark": "cāo zuò zhè tái jī qì",
+		"englishGloss": "to handle this machine"
 	},
 	{
 		"chinese": "我不可以操作这台机器",
-		"english": "I can't handle this machine",
-		"soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "wo bu ke yi cao zuo zhe tai ji qi",
+		"soundmark": "wǒ bù kě yǐ cāo zuò zhè tái jī qì",
+		"englishGloss": "I can't handle this machine"
 	},
 	{
 		"chinese": "单独",
-		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"pinyin": "dan du",
+		"soundmark": "dān dú",
+		"englishGloss": "alone"
 	},
 	{
 		"chinese": "我不可以单独操作这台机器",
-		"english": "I can't handle this machine alone",
-		"soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /ə'lon/"
+		"pinyin": "wo bu ke yi dan du cao zuo zhe tai ji qi",
+		"soundmark": "wǒ bù kě yǐ dān dú cāo zuò zhè tái jī qì",
+		"englishGloss": "I can't handle this machine alone"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "自己",
-		"english": "self",
-		"soundmark": "/sɛlf/"
+		"pinyin": "zi ji",
+		"soundmark": "zì jǐ",
+		"englishGloss": "self"
 	},
 	{
 		"chinese": "我自己一个人",
-		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"pinyin": "wo zi ji yi ge ren",
+		"soundmark": "wǒ zì jǐ yí gè rén",
+		"englishGloss": "myself"
 	},
 	{
 		"chinese": "通过......的方式",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo . . . . . . de fang shi",
+		"soundmark": "tōng guò . . . . . . de fāng shì",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过我自己一个人的方式",
-		"english": "by myself",
-		"soundmark": "/baɪ/ /maɪ'sɛlf/"
+		"pinyin": "tong guo wo zi ji yi ge ren de fang shi",
+		"soundmark": "tōng guò wǒ zì jǐ yí gè rén de fāng shì",
+		"englishGloss": "by myself"
 	},
 	{
 		"chinese": "我不可以操作这台机器",
-		"english": "I can't handle this machine",
-		"soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "wo bu ke yi cao zuo zhe tai ji qi",
+		"soundmark": "wǒ bù kě yǐ cāo zuò zhè tái jī qì",
+		"englishGloss": "I can't handle this machine"
 	},
 	{
 		"chinese": "我不可以一个人操作这台机器",
-		"english": "I can't handle this machine by myself",
-		"soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /maɪ'sɛlf/"
+		"pinyin": "wo bu ke yi yi ge ren cao zuo zhe tai ji qi",
+		"soundmark": "wǒ bù kě yǐ yí gè rén cāo zuò zhè tái jī qì",
+		"englishGloss": "I can't handle this machine by myself"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "自己",
-		"english": "self",
-		"soundmark": "/sɛlf/"
+		"pinyin": "zi ji",
+		"soundmark": "zì jǐ",
+		"englishGloss": "self"
 	},
 	{
 		"chinese": "你自己一个人",
-		"english": "yourself",
-		"soundmark": "/jɔr'sɛlf/"
+		"pinyin": "ni zi ji yi ge ren",
+		"soundmark": "nǐ zì jǐ yí gè rén",
+		"englishGloss": "yourself"
 	},
 	{
 		"chinese": "通过......的方式",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo . . . . . . de fang shi",
+		"soundmark": "tōng guò . . . . . . de fāng shì",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过你自己一个人的方式",
-		"english": "by yourself",
-		"soundmark": "/baɪ/ /jɔr'sɛlf/"
+		"pinyin": "tong guo ni zi ji yi ge ren de fang shi",
+		"soundmark": "tōng guò nǐ zì jǐ yí gè rén de fāng shì",
+		"englishGloss": "by yourself"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你不可以一个人操作这台机器",
-		"english": "you can't handle this machine by yourself",
-		"soundmark": "/ju/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /jɔr'sɛlf/"
+		"pinyin": "ni bu ke yi yi ge ren cao zuo zhe tai ji qi",
+		"soundmark": "nǐ bù kě yǐ yí gè rén cāo zuò zhè tái jī qì",
+		"englishGloss": "you can't handle this machine by yourself"
 	},
 	{
 		"chinese": "她自己一个人",
-		"english": "herself",
-		"soundmark": "/hɝ'sɛlf/"
+		"pinyin": "ta zi ji yi ge ren",
+		"soundmark": "tā zì jǐ yí gè rén",
+		"englishGloss": "herself"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "她不可以一个人操作这台机器",
-		"english": "she can't handle this machine by herself",
-		"soundmark": "/ʃi/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /hɝ'sɛlf/"
+		"pinyin": "ta bu ke yi yi ge ren cao zuo zhe tai ji qi",
+		"soundmark": "tā bù kě yǐ yí gè rén cāo zuò zhè tái jī qì",
+		"englishGloss": "she can't handle this machine by herself"
 	},
 	{
 		"chinese": "操作",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo",
+		"soundmark": "cāo zuò",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "操作(ing形式)",
-		"english": "handling",
-		"soundmark": "/'hændlɪŋ/"
+		"pinyin": "cao zuo ( i n g xing shi )",
+		"soundmark": "cāo zuò ( i n g xíng shì )",
+		"englishGloss": "handling"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在操作",
-		"english": "be handling",
-		"soundmark": "/bi/ /'hændlɪŋ/"
+		"pinyin": "zheng zai cao zuo",
+		"soundmark": "zhèng zài cāo zuò",
+		"englishGloss": "be handling"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我(现在)正在操作",
-		"english": "I am handling",
-		"soundmark": "/aɪ/ /æm/ /'hændlɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai cao zuo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cāo zuò",
+		"englishGloss": "I am handling"
 	},
 	{
 		"chinese": "这台机器",
-		"english": "this machine",
-		"soundmark": "/ðɪs/ /mə'ʃin/"
+		"pinyin": "zhe tai ji qi",
+		"soundmark": "zhè tái jī qì",
+		"englishGloss": "this machine"
 	},
 	{
 		"chinese": "我(现在)正在操作这台机器",
-		"english": "I am handling this machine",
-		"soundmark": "/aɪ/ /æm/ /'hændlɪŋ/ /ðɪs/ /mə'ʃin/"
+		"pinyin": "wo ( xian zai ) zheng zai cao zuo zhe tai ji qi",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cāo zuò zhè tái jī qì",
+		"englishGloss": "I am handling this machine"
 	},
 	{
 		"chinese": "问题",
-		"english": "problem",
-		"soundmark": "/'prɑbləm/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "problem"
 	},
 	{
 		"chinese": "这个问题",
-		"english": "this problem",
-		"soundmark": "/ðɪs/ /'prɑbləm/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "this problem"
 	},
 	{
 		"chinese": "操作；处理",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo ； chu li",
+		"soundmark": "cāo zuò ； chǔ lǐ",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "处理这个问题",
-		"english": "to handle this problem",
-		"soundmark": "/tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+		"pinyin": "chu li zhe ge wen ti",
+		"soundmark": "chǔ lǐ zhè ge wèn tí",
+		"englishGloss": "to handle this problem"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我知道",
-		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"pinyin": "wo zhi dao",
+		"soundmark": "wǒ zhī dào",
+		"englishGloss": "I know"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "我知道如何处理这个问题",
-		"english": "I know how to handle this problem",
-		"soundmark": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+		"pinyin": "wo zhi dao ru he chu li zhe ge wen ti",
+		"soundmark": "wǒ zhī dào rú hé chǔ lǐ zhè ge wèn tí",
+		"englishGloss": "I know how to handle this problem"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不知道",
-		"english": "I don't know",
-		"soundmark": "/aɪ/ /dont/ /no/"
+		"pinyin": "wo bu zhi dao",
+		"soundmark": "wǒ bù zhī dào",
+		"englishGloss": "I don't know"
 	},
 	{
 		"chinese": "我不知道如何处理这个问题",
-		"english": "I don't know how to handle this problem",
-		"soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+		"pinyin": "wo bu zhi dao ru he chu li zhe ge wen ti",
+		"soundmark": "wǒ bù zhī dào rú hé chǔ lǐ zhè ge wèn tí",
+		"englishGloss": "I don't know how to handle this problem"
 	},
 	{
 		"chinese": "自己",
-		"english": "self",
-		"soundmark": "/sɛlf/"
+		"pinyin": "zi ji",
+		"soundmark": "zì jǐ",
+		"englishGloss": "self"
 	},
 	{
 		"chinese": "我自己一个人",
-		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"pinyin": "wo zi ji yi ge ren",
+		"soundmark": "wǒ zì jǐ yí gè rén",
+		"englishGloss": "myself"
 	},
 	{
 		"chinese": "通过......的方式",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo . . . . . . de fang shi",
+		"soundmark": "tōng guò . . . . . . de fāng shì",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过我自己一个人的方式",
-		"english": "by myself",
-		"soundmark": "/baɪ/ /maɪ'sɛlf/"
+		"pinyin": "tong guo wo zi ji yi ge ren de fang shi",
+		"soundmark": "tōng guò wǒ zì jǐ yí gè rén de fāng shì",
+		"englishGloss": "by myself"
 	},
 	{
 		"chinese": "我不知道如何处理这个问题",
-		"english": "I don't know how to handle this problem",
-		"soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+		"pinyin": "wo bu zhi dao ru he chu li zhe ge wen ti",
+		"soundmark": "wǒ bù zhī dào rú hé chǔ lǐ zhè ge wèn tí",
+		"englishGloss": "I don't know how to handle this problem"
 	},
 	{
 		"chinese": "我不知道如何一个人处理这个问题",
-		"english": "I don't know how to handle this problem by myself",
-		"soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/ /baɪ/ /maɪ'sɛlf/"
+		"pinyin": "wo bu zhi dao ru he yi ge ren chu li zhe ge wen ti",
+		"soundmark": "wǒ bù zhī dào rú hé yí gè rén chǔ lǐ zhè ge wèn tí",
+		"englishGloss": "I don't know how to handle this problem by myself"
 	},
 	{
 		"chinese": "操作；处理",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo ； chu li",
+		"soundmark": "cāo zuò ； chǔ lǐ",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "处理(ing形式)",
-		"english": "handling",
-		"soundmark": "/'hændlɪŋ/"
+		"pinyin": "chu li ( i n g xing shi )",
+		"soundmark": "chǔ lǐ ( i n g xíng shì )",
+		"englishGloss": "handling"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在处理",
-		"english": "be handling",
-		"soundmark": "/bi/ /'hændlɪŋ/"
+		"pinyin": "zheng zai chu li",
+		"soundmark": "zhèng zài chǔ lǐ",
+		"englishGloss": "be handling"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/ /(they，现在时)be are/ /ɚ/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们(现在)正在处理",
-		"english": "they are handling",
-		"soundmark": "/ðe/ /ɚ/ /'hændlɪŋ/"
+		"pinyin": "ta men ( xian zai ) zheng zai chu li",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài chǔ lǐ",
+		"englishGloss": "they are handling"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "他们(现在)正在处理那个问题",
-		"english": "they are handling the problem",
-		"soundmark": "/ðe/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+		"pinyin": "ta men ( xian zai ) zheng zai chu li na ge wen ti",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài chǔ lǐ nà ge wèn tí",
+		"englishGloss": "they are handling the problem"
 	},
 	{
 		"chinese": "警察",
-		"english": "the police",
-		"soundmark": "/ðə/ /pə'lis/"
+		"pinyin": "jing cha",
+		"soundmark": "jǐng chá",
+		"englishGloss": "the police"
 	},
 	{
 		"chinese": "警察(现在)正在处理那个问题",
-		"english": "the police are handling the problem",
-		"soundmark": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+		"pinyin": "jing cha ( xian zai ) zheng zai chu li na ge wen ti",
+		"soundmark": "jǐng chá ( xiàn zài ) zhèng zài chǔ lǐ nà ge wèn tí",
+		"englishGloss": "the police are handling the problem"
 	},
 	{
 		"chinese": "脸",
-		"english": "face",
-		"soundmark": "/fes/"
+		"pinyin": "lian",
+		"soundmark": "liǎn",
+		"englishGloss": "face"
 	},
 	{
 		"chinese": "面对",
-		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"pinyin": "mian dui",
+		"soundmark": "miàn duì",
+		"englishGloss": "to face"
 	},
 	{
 		"chinese": "面对(ing形式)",
-		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"pinyin": "mian dui ( i n g xing shi )",
+		"soundmark": "miàn duì ( i n g xíng shì )",
+		"englishGloss": "facing"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在面对",
-		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"pinyin": "zheng zai mian dui",
+		"soundmark": "zhèng zài miàn duì",
+		"englishGloss": "be facing"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/ /(they，现在时)be are/ /ɚ/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们(现在)正在面对",
-		"english": "they are facing",
-		"soundmark": "/ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "ta men ( xian zai ) zheng zai mian dui",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài miàn duì",
+		"englishGloss": "they are facing"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "他们(现在)正在面对的那个问题",
-		"english": "the problem they are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "ta men ( xian zai ) zheng zai mian dui de na ge wen ti",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "the problem they are facing"
 	},
 	{
 		"chinese": "警察(现在)正在处理那个问题",
-		"english": "the police are handling the problem",
-		"soundmark": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+		"pinyin": "jing cha ( xian zai ) zheng zai chu li na ge wen ti",
+		"soundmark": "jǐng chá ( xiàn zài ) zhèng zài chǔ lǐ nà ge wèn tí",
+		"englishGloss": "the police are handling the problem"
 	},
 	{
 		"chinese": "警察(现在)正在处理他们(现在)正在面对的那个问题",
-		"english": "the police are handling the problem they are facing",
-		"soundmark": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "jing cha ( xian zai ) zheng zai chu li ta men ( xian zai ) zheng zai mian dui de na ge wen ti",
+		"soundmark": "jǐng chá ( xiàn zài ) zhèng zài chǔ lǐ tā men ( xiàn zài ) zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "the police are handling the problem they are facing"
 	},
 	{
 		"chinese": "挑战",
-		"english": "challenge",
-		"soundmark": "/'tʃælɪndʒ/"
+		"pinyin": "tiao zhan",
+		"soundmark": "tiǎo zhàn",
+		"englishGloss": "challenge"
 	},
 	{
 		"chinese": "挑战(复数)",
-		"english": "challenges",
-		"soundmark": "/ˈtʃælɪndʒɪz/"
+		"pinyin": "tiao zhan ( fu shu )",
+		"soundmark": "tiǎo zhàn ( fù shù )",
+		"englishGloss": "challenges"
 	},
 	{
 		"chinese": "操作；处理；应对",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo ； chu li ； ying dui",
+		"soundmark": "cāo zuò ； chǔ lǐ ； yìng duì",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "应对挑战",
-		"english": "to handle challenges",
-		"soundmark": "/tə/ /'hændl/ /ˈtʃælɪndʒɪz/"
+		"pinyin": "ying dui tiao zhan",
+		"soundmark": "yìng duì tiǎo zhàn",
+		"englishGloss": "to handle challenges"
 	},
 	{
 		"chinese": "生活",
-		"english": "life",
-		"soundmark": "/laɪf/"
+		"pinyin": "sheng huo",
+		"soundmark": "shēng huó",
+		"englishGloss": "life"
 	},
 	{
 		"chinese": "生活的",
-		"english": "life's",
-		"soundmark": "/laɪfs/"
+		"pinyin": "sheng huo de",
+		"soundmark": "shēng huó de",
+		"englishGloss": "life's"
 	},
 	{
 		"chinese": "生活的挑战",
-		"english": "life's challenges",
-		"soundmark": "/laɪfs/ /ˈtʃælɪndʒɪz/"
+		"pinyin": "sheng huo de tiao zhan",
+		"soundmark": "shēng huó de tiǎo zhàn",
+		"englishGloss": "life's challenges"
 	},
 	{
 		"chinese": "操作；处理；应对",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo ； chu li ； ying dui",
+		"soundmark": "cāo zuò ； chǔ lǐ ； yìng duì",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "应对生活的挑战",
-		"english": "to handle life's challenges",
-		"soundmark": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+		"pinyin": "ying dui sheng huo de tiao zhan",
+		"soundmark": "yìng duì shēng huó de tiǎo zhàn",
+		"englishGloss": "to handle life's challenges"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我知道",
-		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"pinyin": "wo zhi dao",
+		"soundmark": "wǒ zhī dào",
+		"englishGloss": "I know"
 	},
 	{
 		"chinese": "我不知道",
-		"english": "I don't know",
-		"soundmark": "/aɪ/ /dont/ /no/"
+		"pinyin": "wo bu zhi dao",
+		"soundmark": "wǒ bù zhī dào",
+		"englishGloss": "I don't know"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "我不知道如何应对生活的挑战",
-		"english": "I don't know how to handle life's challenges",
-		"soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+		"pinyin": "wo bu zhi dao ru he ying dui sheng huo de tiao zhan",
+		"soundmark": "wǒ bù zhī dào rú hé yìng duì shēng huó de tiǎo zhàn",
+		"englishGloss": "I don't know how to handle life's challenges"
 	},
 	{
 		"chinese": "我自己一个人",
-		"english": "by myself",
-		"soundmark": "/baɪ/ /maɪ'sɛlf/"
+		"pinyin": "wo zi ji yi ge ren",
+		"soundmark": "wǒ zì jǐ yí gè rén",
+		"englishGloss": "by myself"
 	},
 	{
 		"chinese": "我不知道如何一个人应对生活的挑战",
-		"english": "I don't know how to handle life's challenges by myself",
-		"soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /baɪ/ /maɪ'sɛlf/"
+		"pinyin": "wo bu zhi dao ru he yi ge ren ying dui sheng huo de tiao zhan",
+		"soundmark": "wǒ bù zhī dào rú hé yí gè rén yìng duì shēng huó de tiǎo zhàn",
+		"englishGloss": "I don't know how to handle life's challenges by myself"
 	},
 	{
 		"chinese": "力量",
-		"english": "force",
-		"soundmark": "/fɔrs/"
+		"pinyin": "li liang",
+		"soundmark": "lì liàng",
+		"englishGloss": "force"
 	},
 	{
 		"chinese": "强迫",
-		"english": "to force",
-		"soundmark": "/tə/ /fɔrs/"
+		"pinyin": "qiang po",
+		"soundmark": "qiǎng pò",
+		"englishGloss": "to force"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "自己",
-		"english": "self",
-		"soundmark": "/sɛlf/"
+		"pinyin": "zi ji",
+		"soundmark": "zì jǐ",
+		"englishGloss": "self"
 	},
 	{
 		"chinese": "你自己",
-		"english": "yourself",
-		"soundmark": "/jɔr'sɛlf/"
+		"pinyin": "ni zi ji",
+		"soundmark": "nǐ zì jǐ",
+		"englishGloss": "yourself"
 	},
 	{
 		"chinese": "强迫你自己",
-		"english": "to force yourself",
-		"soundmark": "/tə/ /fɔrs/ /jɔr'sɛlf/"
+		"pinyin": "qiang po ni zi ji",
+		"soundmark": "qiǎng pò nǐ zì jǐ",
+		"englishGloss": "to force yourself"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你不需要",
-		"english": "you don't need",
-		"soundmark": "/ju/ /dont/ /nid/"
+		"pinyin": "ni bu xu yao",
+		"soundmark": "nǐ bù xū yào",
+		"englishGloss": "you don't need"
 	},
 	{
 		"chinese": "你不需要强迫你自己",
-		"english": "you don't need to force yourself",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/"
+		"pinyin": "ni bu xu yao qiang po ni zi ji",
+		"soundmark": "nǐ bù xū yào qiǎng pò nǐ zì jǐ",
+		"englishGloss": "you don't need to force yourself"
 	},
 	{
 		"chinese": "生活",
-		"english": "life",
-		"soundmark": "/laɪf/"
+		"pinyin": "sheng huo",
+		"soundmark": "shēng huó",
+		"englishGloss": "life"
 	},
 	{
 		"chinese": "挑战(复数)",
-		"english": "challenges",
-		"soundmark": "/ˈtʃælɪndʒɪz/"
+		"pinyin": "tiao zhan ( fu shu )",
+		"soundmark": "tiǎo zhàn ( fù shù )",
+		"englishGloss": "challenges"
 	},
 	{
 		"chinese": "生活的挑战",
-		"english": "life's challenges",
-		"soundmark": "/laɪfs/ /ˈtʃælɪndʒɪz/"
+		"pinyin": "sheng huo de tiao zhan",
+		"soundmark": "shēng huó de tiǎo zhàn",
+		"englishGloss": "life's challenges"
 	},
 	{
 		"chinese": "操作；处理；应对",
-		"english": "to handle",
-		"soundmark": "/tə/ /'hændl/"
+		"pinyin": "cao zuo ； chu li ； ying dui",
+		"soundmark": "cāo zuò ； chǔ lǐ ； yìng duì",
+		"englishGloss": "to handle"
 	},
 	{
 		"chinese": "应对生活的挑战",
-		"english": "to handle life's challenges",
-		"soundmark": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+		"pinyin": "ying dui sheng huo de tiao zhan",
+		"soundmark": "yìng duì shēng huó de tiǎo zhàn",
+		"englishGloss": "to handle life's challenges"
 	},
 	{
 		"chinese": "独自",
-		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"pinyin": "du zi",
+		"soundmark": "dú zì",
+		"englishGloss": "alone"
 	},
 	{
 		"chinese": "独自应对生活的挑战",
-		"english": "to handle life's challenges alone",
-		"soundmark": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/"
+		"pinyin": "du zi ying dui sheng huo de tiao zhan",
+		"soundmark": "dú zì yìng duì shēng huó de tiǎo zhàn",
+		"englishGloss": "to handle life's challenges alone"
 	},
 	{
 		"chinese": "你不需要强迫你自己",
-		"english": "you don't need to force yourself",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/"
+		"pinyin": "ni bu xu yao qiang po ni zi ji",
+		"soundmark": "nǐ bù xū yào qiǎng pò nǐ zì jǐ",
+		"englishGloss": "you don't need to force yourself"
 	},
 	{
 		"chinese": "你不需要强迫你自己独自应对生活的挑战",
-		"english": "you don't need to force yourself to handle life's challenges alone",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/"
+		"pinyin": "ni bu xu yao qiang po ni zi ji du zi ying dui sheng huo de tiao zhan",
+		"soundmark": "nǐ bù xū yào qiǎng pò nǐ zì jǐ dú zì yìng duì shēng huó de tiǎo zhàn",
+		"englishGloss": "you don't need to force yourself to handle life's challenges alone"
 	}
 ]

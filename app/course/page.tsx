@@ -27,7 +27,7 @@ export default async function Course() {
             ></path>
           </svg>
         </Link>
-        <h1 className="m-4 text-3xl text-indigo-500 ml-0 "> English Course </h1>
+        <h1 className="m-4 text-3xl text-indigo-500 ml-0 "> Chinese courses </h1>
       </div>
       <div className="overflow-y-auto scrollbar-hide h-full">
         <ul className="flex gap-14  flex-wrap p-1 overflow-y-auto md:justify-start justify-center">

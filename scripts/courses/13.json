@@ -1,907 +1,1088 @@
 [
 	{
 		"chinese": "支付；付钱",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "zhi fu ； fu qian",
+		"soundmark": "zhī fù ； fù qián",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "账单",
-		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"pinyin": "zhang dan",
+		"soundmark": "zhàng dān",
+		"englishGloss": "the bill"
 	},
 	{
 		"chinese": "支付账单",
-		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "zhi fu zhang dan",
+		"soundmark": "zhī fù zhàng dān",
+		"englishGloss": "to pay the bill"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "付钱给他",
-		"english": "to pay him",
-		"soundmark": "/tə/ /pe/ /hɪm/ /(过去)付钱 paid/ /ped/ /(过去)付钱给他 paid him/ /ped/ /hɪm/"
+		"pinyin": "fu qian gei ta",
+		"soundmark": "fù qián gěi tā",
+		"englishGloss": "to pay him"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你(过去)付钱给他",
-		"english": "you paid him",
-		"soundmark": "/ju/ /ped/ /hɪm/"
+		"pinyin": "ni ( guo qu ) fu qian gei ta",
+		"soundmark": "nǐ ( guò qù ) fù qián gěi tā",
+		"englishGloss": "you paid him"
 	},
 	{
 		"chinese": "十",
-		"english": "ten",
-		"soundmark": "/tɛn/"
+		"pinyin": "shi",
+		"soundmark": "shí",
+		"englishGloss": "ten"
 	},
 	{
 		"chinese": "美元",
-		"english": "dollars",
-		"soundmark": "/'dɑlɚz/"
+		"pinyin": "mei yuan",
+		"soundmark": "měi yuán",
+		"englishGloss": "dollars"
 	},
 	{
 		"chinese": "十美元",
-		"english": "ten dollars",
-		"soundmark": "/tɛn/ /'dɑlɚz/"
+		"pinyin": "shi mei yuan",
+		"soundmark": "shí měi yuán",
+		"englishGloss": "ten dollars"
 	},
 	{
 		"chinese": "你(过去)付给他十美元",
-		"english": "you paid him ten dollars",
-		"soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/"
+		"pinyin": "ni ( guo qu ) fu gei ta shi mei yuan",
+		"soundmark": "nǐ ( guò qù ) fù gěi tā shí měi yuán",
+		"englishGloss": "you paid him ten dollars"
 	},
 	{
 		"chinese": "你(过去)没有付给他十美元",
-		"english": "you didn't pay him ten dollars",
-		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/"
+		"pinyin": "ni ( guo qu ) mei you fu gei ta shi mei yuan",
+		"soundmark": "nǐ ( guò qù ) méi yǒu fù gěi tā shí měi yuán",
+		"englishGloss": "you didn't pay him ten dollars"
 	},
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "你(过去)付钱给他去做这件事",
-		"english": "you paid him to do it",
-		"soundmark": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) fu qian gei ta qu zuo zhe jian shi",
+		"soundmark": "nǐ ( guò qù ) fù qián gěi tā qù zuò zhè jiàn shì",
+		"englishGloss": "you paid him to do it"
 	},
 	{
 		"chinese": "你(过去)没有付钱给他去做这件事",
-		"english": "you didn't pay him to do it",
-		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) mei you fu qian gei ta qu zuo zhe jian shi",
+		"soundmark": "nǐ ( guò qù ) méi yǒu fù qián gěi tā qù zuò zhè jiàn shì",
+		"englishGloss": "you didn't pay him to do it"
 	},
 	{
 		"chinese": "你(过去)付给他十美元去做这件事",
-		"english": "you paid him ten dollars to do it",
-		"soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) fu gei ta shi mei yuan qu zuo zhe jian shi",
+		"soundmark": "nǐ ( guò qù ) fù gěi tā shí měi yuán qù zuò zhè jiàn shì",
+		"englishGloss": "you paid him ten dollars to do it"
 	},
 	{
 		"chinese": "你(过去)没有付给他十美元去做这件事",
-		"english": "you didn't pay him ten dollars to do it",
-		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) mei you fu gei ta shi mei yuan qu zuo zhe jian shi",
+		"soundmark": "nǐ ( guò qù ) méi yǒu fù gěi tā shí měi yuán qù zuò zhè jiàn shì",
+		"englishGloss": "you didn't pay him ten dollars to do it"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "我们必须决定",
-		"english": "we have to decide",
-		"soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/"
+		"pinyin": "wo men bi xu jue ding",
+		"soundmark": "wǒ men bì xū jué dìng",
+		"englishGloss": "we have to decide"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "我们必须今晚决定",
-		"english": "we have to decide tonight",
-		"soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+		"pinyin": "wo men bi xu jin wan jue ding",
+		"soundmark": "wǒ men bì xū jīn wǎn jué dìng",
+		"englishGloss": "we have to decide tonight"
 	},
 	{
 		"chinese": "我们不必今晚决定",
-		"english": "we don't have to decide tonight",
-		"soundmark": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+		"pinyin": "wo men bu bi jin wan jue ding",
+		"soundmark": "wǒ men bú bì jīn wǎn jué dìng",
+		"englishGloss": "we don't have to decide tonight"
 	},
 	{
 		"chinese": "我们决定",
-		"english": "we decide",
-		"soundmark": "/wi/ /dɪ'saɪd/"
+		"pinyin": "wo men jue ding",
+		"soundmark": "wǒ men jué dìng",
+		"englishGloss": "we decide"
 	},
 	{
 		"chinese": "去",
-		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "to go"
 	},
 	{
 		"chinese": "外面",
-		"english": "out",
-		"soundmark": "/aʊt/"
+		"pinyin": "wai mian",
+		"soundmark": "wài miàn",
+		"englishGloss": "out"
 	},
 	{
 		"chinese": "去外面",
-		"english": "to go out",
-		"soundmark": "/tə/ /ɡo/ /aʊt/"
+		"pinyin": "qu wai mian",
+		"soundmark": "qù wài miàn",
+		"englishGloss": "to go out"
 	},
 	{
 		"chinese": "我们决定去外面",
-		"english": "we decide to go out",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/"
+		"pinyin": "wo men jue ding qu wai mian",
+		"soundmark": "wǒ men jué dìng qù wài miàn",
+		"englishGloss": "we decide to go out"
 	},
 	{
 		"chinese": "为了",
-		"english": "for",
-		"soundmark": "/fɝ/"
+		"pinyin": "wei le",
+		"soundmark": "wèi le",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "晚餐",
-		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"pinyin": "wan can",
+		"soundmark": "wǎn cān",
+		"englishGloss": "dinner"
 	},
 	{
 		"chinese": "为了晚餐",
-		"english": "for dinner",
-		"soundmark": "/fɝ/ /'dɪnɚ/"
+		"pinyin": "wei le wan can",
+		"soundmark": "wèi le wǎn cān",
+		"englishGloss": "for dinner"
 	},
 	{
 		"chinese": "我们决定去外面为了晚餐",
-		"english": "we decide to go out for dinner",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+		"pinyin": "wo men jue ding qu wai mian wei le wan can",
+		"soundmark": "wǒ men jué dìng qù wài miàn wèi le wǎn cān",
+		"englishGloss": "we decide to go out for dinner"
 	},
 	{
 		"chinese": "过去(决定)",
-		"english": "decided",
-		"soundmark": "/dɪ'saɪdɪd/"
+		"pinyin": "guo qu ( jue ding )",
+		"soundmark": "guò qù ( jué dìng )",
+		"englishGloss": "decided"
 	},
 	{
 		"chinese": "我们(过去)决定",
-		"english": "we decided",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/"
+		"pinyin": "wo men ( guo qu ) jue ding",
+		"soundmark": "wǒ men ( guò qù ) jué dìng",
+		"englishGloss": "we decided"
 	},
 	{
 		"chinese": "我们(过去)决定去外面为了晚餐",
-		"english": "we decided to go out for dinner",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+		"pinyin": "wo men ( guo qu ) jue ding qu wai mian wei le wan can",
+		"soundmark": "wǒ men ( guò qù ) jué dìng qù wài miàn wèi le wǎn cān",
+		"englishGloss": "we decided to go out for dinner"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "to drive"
 	},
 	{
 		"chinese": "那辆汽车",
-		"english": "the car",
-		"soundmark": "/ðə/ /kɑr/"
+		"pinyin": "na liang qi che",
+		"soundmark": "nà liàng qì chē",
+		"englishGloss": "the car"
 	},
 	{
 		"chinese": "开那辆车",
-		"english": "to drive the car",
-		"soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "kai na liang che",
+		"soundmark": "kāi nà liàng chē",
+		"englishGloss": "to drive the car"
 	},
 	{
 		"chinese": "我(过去)决定",
-		"english": "I decided",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/"
+		"pinyin": "wo ( guo qu ) jue ding",
+		"soundmark": "wǒ ( guò qù ) jué dìng",
+		"englishGloss": "I decided"
 	},
 	{
 		"chinese": "我(过去)决定开那辆车",
-		"english": "I decided to drive the car",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) jue ding kai na liang che",
+		"soundmark": "wǒ ( guò qù ) jué dìng kāi nà liàng chē",
+		"englishGloss": "I decided to drive the car"
 	},
 	{
 		"chinese": "我开那辆车",
-		"english": "I drive the car",
-		"soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/ /(过去)驾驶 drove/ /drov/"
+		"pinyin": "wo kai na liang che",
+		"soundmark": "wǒ kāi nà liàng chē",
+		"englishGloss": "I drive the car"
 	},
 	{
 		"chinese": "我(过去)开那辆车",
-		"english": "I drove the car",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) kai na liang che",
+		"soundmark": "wǒ ( guò qù ) kāi nà liàng chē",
+		"englishGloss": "I drove the car"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "我昨天开了那辆车",
-		"english": "I drove the car yesterday",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/"
+		"pinyin": "wo zuo tian kai le na liang che",
+		"soundmark": "wǒ zuó tiān kāi le nà liàng chē",
+		"englishGloss": "I drove the car yesterday"
 	},
 	{
 		"chinese": "我昨天没有开那辆车",
-		"english": "I didn't drive the car yesterday",
-		"soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/"
+		"pinyin": "wo zuo tian mei you kai na liang che",
+		"soundmark": "wǒ zuó tiān méi yǒu kāi nà liàng chē",
+		"englishGloss": "I didn't drive the car yesterday"
 	},
 	{
 		"chinese": "相信",
-		"english": "to believe",
-		"soundmark": "/tə/ /bɪ'liv/"
+		"pinyin": "xiang xin",
+		"soundmark": "xiāng xìn",
+		"englishGloss": "to believe"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "相信我",
-		"english": "to believe me",
-		"soundmark": "/tə/ /bɪ'liv/ /mi/"
+		"pinyin": "xiang xin wo",
+		"soundmark": "xiāng xìn wǒ",
+		"englishGloss": "to believe me"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你需要相信我",
-		"english": "you need to believe me",
-		"soundmark": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/"
+		"pinyin": "ni xu yao xiang xin wo",
+		"soundmark": "nǐ xū yào xiāng xìn wǒ",
+		"englishGloss": "you need to believe me"
 	},
 	{
 		"chinese": "你相信我",
-		"english": "you believe me",
-		"soundmark": "/ju/ /bɪ'liv/ /mi/"
+		"pinyin": "ni xiang xin wo",
+		"soundmark": "nǐ xiāng xìn wǒ",
+		"englishGloss": "you believe me"
 	},
 	{
 		"chinese": "你不相信我",
-		"english": "you don't believe me",
-		"soundmark": "/ju/ /dont/ /bɪ'liv/ /mi/ /(过去)相信 believed/ /bɪ'livd/"
+		"pinyin": "ni bu xiang xin wo",
+		"soundmark": "nǐ bù xiāng xìn wǒ",
+		"englishGloss": "you don't believe me"
 	},
 	{
 		"chinese": "你(过去)相信我",
-		"english": "you believed me",
-		"soundmark": "/ju/ /bɪ'livd/ /mi/"
+		"pinyin": "ni ( guo qu ) xiang xin wo",
+		"soundmark": "nǐ ( guò qù ) xiāng xìn wǒ",
+		"englishGloss": "you believed me"
 	},
 	{
 		"chinese": "你(过去)不相信我",
-		"english": "you didn't believe me",
-		"soundmark": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+		"pinyin": "ni ( guo qu ) bu xiang xin wo",
+		"soundmark": "nǐ ( guò qù ) bù xiāng xìn wǒ",
+		"englishGloss": "you didn't believe me"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bət/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "但是你(过去)不相信我",
-		"english": "but you didn't believe me",
-		"soundmark": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+		"pinyin": "dan shi ni ( guo qu ) bu xiang xin wo",
+		"soundmark": "dàn shì nǐ ( guò qù ) bù xiāng xìn wǒ",
+		"englishGloss": "but you didn't believe me"
 	},
 	{
 		"chinese": "我昨天开了那辆车但是你(过去)不相信我",
-		"english": "I drove the car yesterday but you didn't believe me",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+		"pinyin": "wo zuo tian kai le na liang che dan shi ni ( guo qu ) bu xiang xin wo",
+		"soundmark": "wǒ zuó tiān kāi le nà liàng chē dàn shì nǐ ( guò qù ) bù xiāng xìn wǒ",
+		"englishGloss": "I drove the car yesterday but you didn't believe me"
 	},
 	{
 		"chinese": "改变",
-		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "to change"
 	},
 	{
 		"chinese": "想法",
-		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"pinyin": "xiang fa",
+		"soundmark": "xiǎng fǎ",
+		"englishGloss": "mind"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的想法",
-		"english": "my mind",
-		"soundmark": "/maɪ/ /maɪnd/"
+		"pinyin": "wo de xiang fa",
+		"soundmark": "wǒ de xiǎng fǎ",
+		"englishGloss": "my mind"
 	},
 	{
 		"chinese": "改变我的想法",
-		"english": "to change my mind",
-		"soundmark": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+		"pinyin": "gai bian wo de xiang fa",
+		"soundmark": "gǎi biàn wǒ de xiǎng fǎ",
+		"englishGloss": "to change my mind"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要改变我的想法",
-		"english": "I want to change my mind",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+		"pinyin": "wo xiang yao gai bian wo de xiang fa",
+		"soundmark": "wǒ xiǎng yào gǎi biàn wǒ de xiǎng fǎ",
+		"englishGloss": "I want to change my mind"
 	},
 	{
 		"chinese": "我改变我的想法",
-		"english": "I change my mind",
-		"soundmark": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/"
+		"pinyin": "wo gai bian wo de xiang fa",
+		"soundmark": "wǒ gǎi biàn wǒ de xiǎng fǎ",
+		"englishGloss": "I change my mind"
 	},
 	{
 		"chinese": "改变了",
-		"english": "changed",
-		"soundmark": "/tʃendʒd/"
+		"pinyin": "gai bian le",
+		"soundmark": "gǎi biàn le",
+		"englishGloss": "changed"
 	},
 	{
 		"chinese": "我改变了我的想法",
-		"english": "I changed my mind",
-		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/"
+		"pinyin": "wo gai bian le wo de xiang fa",
+		"soundmark": "wǒ gǎi biàn le wǒ de xiǎng fǎ",
+		"englishGloss": "I changed my mind"
 	},
 	{
 		"chinese": "再次",
-		"english": "again",
-		"soundmark": "/ə'ɡɛn/"
+		"pinyin": "zai ci",
+		"soundmark": "zài cì",
+		"englishGloss": "again"
 	},
 	{
 		"chinese": "我再次改变了我的想法",
-		"english": "I changed my mind again",
-		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/"
+		"pinyin": "wo zai ci gai bian le wo de xiang fa",
+		"soundmark": "wǒ zài cì gǎi biàn le wǒ de xiǎng fǎ",
+		"englishGloss": "I changed my mind again"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "开那辆车",
-		"english": "to drive the car",
-		"soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "kai na liang che",
+		"soundmark": "kāi nà liàng chē",
+		"englishGloss": "to drive the car"
 	},
 	{
 		"chinese": "我(过去)决定开那辆车",
-		"english": "I decided to drive the car",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) jue ding kai na liang che",
+		"soundmark": "wǒ ( guò qù ) jué dìng kāi nà liàng chē",
+		"englishGloss": "I decided to drive the car"
 	},
 	{
 		"chinese": "我再次改变了我的想法我(过去)决定开那辆车",
-		"english": "I changed my mind again I decided to drive the car",
-		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo zai ci gai bian le wo de xiang fa wo ( guo qu ) jue ding kai na liang che",
+		"soundmark": "wǒ zài cì gǎi biàn le wǒ de xiǎng fǎ wǒ ( guò qù ) jué dìng kāi nà liàng chē",
+		"englishGloss": "I changed my mind again I decided to drive the car"
 	},
 	{
 		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "to try"
 	},
 	{
 		"chinese": "我(过去)决定尝试",
-		"english": "I decided to try",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+		"pinyin": "wo ( guo qu ) jue ding chang shi",
+		"soundmark": "wǒ ( guò qù ) jué dìng cháng shì",
+		"englishGloss": "I decided to try"
 	},
 	{
 		"chinese": "我(过去)决定尝试开那辆车",
-		"english": "I decided to try to drive the car",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) jue ding chang shi kai na liang che",
+		"soundmark": "wǒ ( guò qù ) jué dìng cháng shì kāi nà liàng chē",
+		"englishGloss": "I decided to try to drive the car"
 	},
 	{
 		"chinese": "我(过去)没有决定尝试开那辆车",
-		"english": "I didn't decide to try to drive the car",
-		"soundmark": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) mei you jue ding chang shi kai na liang che",
+		"soundmark": "wǒ ( guò qù ) méi yǒu jué dìng cháng shì kāi nà liàng chē",
+		"englishGloss": "I didn't decide to try to drive the car"
 	},
 	{
 		"chinese": "我尝试开那辆车",
-		"english": "I try to drive the car",
-		"soundmark": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo chang shi kai na liang che",
+		"soundmark": "wǒ cháng shì kāi nà liàng chē",
+		"englishGloss": "I try to drive the car"
 	},
 	{
 		"chinese": "我不尝试开那辆车",
-		"english": "I don't try to drive the car",
-		"soundmark": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/ /(过去)尝试 tried/ /traɪd/"
+		"pinyin": "wo bu chang shi kai na liang che",
+		"soundmark": "wǒ bù cháng shì kāi nà liàng chē",
+		"englishGloss": "I don't try to drive the car"
 	},
 	{
 		"chinese": "我(过去)尝试开那辆车",
-		"english": "I tried to drive the car",
-		"soundmark": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) chang shi kai na liang che",
+		"soundmark": "wǒ ( guò qù ) cháng shì kāi nà liàng chē",
+		"englishGloss": "I tried to drive the car"
 	},
 	{
 		"chinese": "我(过去)没有尝试开那辆车",
-		"english": "I didn't try to drive the car",
-		"soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) mei you chang shi kai na liang che",
+		"soundmark": "wǒ ( guò qù ) méi yǒu cháng shì kāi nà liàng chē",
+		"englishGloss": "I didn't try to drive the car"
 	},
 	{
 		"chinese": "我开那辆车",
-		"english": "I drive the car",
-		"soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo kai na liang che",
+		"soundmark": "wǒ kāi nà liàng chē",
+		"englishGloss": "I drive the car"
 	},
 	{
 		"chinese": "我不开那辆车",
-		"english": "I don't drive the car",
-		"soundmark": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/ /(过去)驾驶 drove/ /drov/"
+		"pinyin": "wo bu kai na liang che",
+		"soundmark": "wǒ bù kāi nà liàng chē",
+		"englishGloss": "I don't drive the car"
 	},
 	{
 		"chinese": "我(过去)开那辆车",
-		"english": "I drove the car",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) kai na liang che",
+		"soundmark": "wǒ ( guò qù ) kāi nà liàng chē",
+		"englishGloss": "I drove the car"
 	},
 	{
 		"chinese": "我(过去)没有开那辆车",
-		"english": "I didn't drive the car",
-		"soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/"
+		"pinyin": "wo ( guo qu ) mei you kai na liang che",
+		"soundmark": "wǒ ( guò qù ) méi yǒu kāi nà liàng chē",
+		"englishGloss": "I didn't drive the car"
 	},
 	{
 		"chinese": "停止；阻止",
-		"english": "to stop",
-		"soundmark": "/tə/ /stɑp/"
+		"pinyin": "ting zhi ； zu zhi",
+		"soundmark": "tíng zhǐ ； zǔ zhǐ",
+		"englishGloss": "to stop"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "阻止他",
-		"english": "to stop him",
-		"soundmark": "/tə/ /stɑp/ /hɪm/"
+		"pinyin": "zu zhi ta",
+		"soundmark": "zǔ zhǐ tā",
+		"englishGloss": "to stop him"
 	},
 	{
 		"chinese": "我(过去)尝试阻止他",
-		"english": "I tried to stop him",
-		"soundmark": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) chang shi zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) cháng shì zǔ zhǐ tā",
+		"englishGloss": "I tried to stop him"
 	},
 	{
 		"chinese": "我(过去)没有尝试阻止他",
-		"english": "I didn't try to stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) mei you chang shi zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) méi yǒu cháng shì zǔ zhǐ tā",
+		"englishGloss": "I didn't try to stop him"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "一个方法",
-		"english": "a way",
-		"soundmark": "/ə/ /we/"
+		"pinyin": "yi ge fang fa",
+		"soundmark": "yí gè fāng fǎ",
+		"englishGloss": "a way"
 	},
 	{
 		"chinese": "找到一个方法",
-		"english": "to find a way",
-		"soundmark": "/tə/ /faɪnd/ /ə/ /we/"
+		"pinyin": "zhao dao yi ge fang fa",
+		"soundmark": "zhǎo dào yí gè fāng fǎ",
+		"englishGloss": "to find a way"
 	},
 	{
 		"chinese": "我必须找到一个方法",
-		"english": "I have to find a way",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/"
+		"pinyin": "wo bi xu zhao dao yi ge fang fa",
+		"soundmark": "wǒ bì xū zhǎo dào yí gè fāng fǎ",
+		"englishGloss": "I have to find a way"
 	},
 	{
 		"chinese": "阻止他",
-		"english": "to stop him",
-		"soundmark": "/tə/ /stɑp/ /hɪm/"
+		"pinyin": "zu zhi ta",
+		"soundmark": "zǔ zhǐ tā",
+		"englishGloss": "to stop him"
 	},
 	{
 		"chinese": "我必须找到一个方法阻止他",
-		"english": "I have to find a way to stop him",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo bi xu zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ bì xū zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I have to find a way to stop him"
 	},
 	{
 		"chinese": "我不必找到一个方法阻止他",
-		"english": "I don't have to find a way to stop him",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo bu bi zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ bú bì zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I don't have to find a way to stop him"
 	},
 	{
 		"chinese": "我(过去)必须",
-		"english": "I had to",
-		"soundmark": "/aɪ/ /hæd/ /tə/"
+		"pinyin": "wo ( guo qu ) bi xu",
+		"soundmark": "wǒ ( guò qù ) bì xū",
+		"englishGloss": "I had to"
 	},
 	{
 		"chinese": "我(过去)必须找到一个方法",
-		"english": "I had to find a way",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/"
+		"pinyin": "wo ( guo qu ) bi xu zhao dao yi ge fang fa",
+		"soundmark": "wǒ ( guò qù ) bì xū zhǎo dào yí gè fāng fǎ",
+		"englishGloss": "I had to find a way"
 	},
 	{
 		"chinese": "我(过去)必须找到一个方法阻止他",
-		"english": "I had to find a way to stop him",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) bi xu zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) bì xū zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I had to find a way to stop him"
 	},
 	{
 		"chinese": "我(过去)不必找到一个方法阻止他",
-		"english": "I didn't have to find a way to stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) bu bi zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) bú bì zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I didn't have to find a way to stop him"
 	},
 	{
 		"chinese": "我找到一个方法阻止他",
-		"english": "I find a way to stop him",
-		"soundmark": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/ /(过去)找到 found/ /faʊnd/"
+		"pinyin": "wo zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I find a way to stop him"
 	},
 	{
 		"chinese": "我(过去)找到一个方法阻止他",
-		"english": "I found a way to stop him",
-		"soundmark": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I found a way to stop him"
 	},
 	{
 		"chinese": "我(过去)没有找到一个方法阻止他",
-		"english": "I didn't find a way to stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) mei you zhao dao yi ge fang fa zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) méi yǒu zhǎo dào yí gè fāng fǎ zǔ zhǐ tā",
+		"englishGloss": "I didn't find a way to stop him"
 	},
 	{
 		"chinese": "我阻止他",
-		"english": "I stop him",
-		"soundmark": "/aɪ/ /stɑp/ /hɪm/ /(过去)阻止 stopped/ /stɑpt/"
+		"pinyin": "wo zu zhi ta",
+		"soundmark": "wǒ zǔ zhǐ tā",
+		"englishGloss": "I stop him"
 	},
 	{
 		"chinese": "我阻止了他",
-		"english": "I stopped him",
-		"soundmark": "/aɪ/ /stɑpt/ /hɪm/"
+		"pinyin": "wo zu zhi le ta",
+		"soundmark": "wǒ zǔ zhǐ le tā",
+		"englishGloss": "I stopped him"
 	},
 	{
 		"chinese": "我(过去)没有阻止他",
-		"english": "I didn't stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/"
+		"pinyin": "wo ( guo qu ) mei you zu zhi ta",
+		"soundmark": "wǒ ( guò qù ) méi yǒu zǔ zhǐ tā",
+		"englishGloss": "I didn't stop him"
 	},
 	{
 		"chinese": "问",
-		"english": "to ask",
-		"soundmark": "/tə/ /æsk/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "to ask"
 	},
 	{
 		"chinese": "问过",
-		"english": "asked",
-		"soundmark": "/æskt/"
+		"pinyin": "wen guo",
+		"soundmark": "wèn guò",
+		"englishGloss": "asked"
 	},
 	{
 		"chinese": "他们",
-		"english": "them",
-		"soundmark": "/ðəm/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "them"
 	},
 	{
 		"chinese": "问过他们",
-		"english": "asked them",
-		"soundmark": "/æskt/ /ðəm/"
+		"pinyin": "wen guo ta men",
+		"soundmark": "wèn guò tā men",
+		"englishGloss": "asked them"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我问过他们",
-		"english": "I asked them",
-		"soundmark": "/aɪ/ /æskt/ /ðəm/"
+		"pinyin": "wo wen guo ta men",
+		"soundmark": "wǒ wèn guò tā men",
+		"englishGloss": "I asked them"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "相同的",
-		"english": "same",
-		"soundmark": "/sem/"
+		"pinyin": "xiang tong de",
+		"soundmark": "xiāng tóng de",
+		"englishGloss": "same"
 	},
 	{
 		"chinese": "那个相同的问题",
-		"english": "the same question",
-		"soundmark": "/ðə/ /sem/ /'kwɛstʃən/"
+		"pinyin": "na ge xiang tong de wen ti",
+		"soundmark": "nà ge xiāng tóng de wèn tí",
+		"englishGloss": "the same question"
 	},
 	{
 		"chinese": "我问过他们那个相同的问题",
-		"english": "I asked them the same question",
-		"soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+		"pinyin": "wo wen guo ta men na ge xiang tong de wen ti",
+		"soundmark": "wǒ wèn guò tā men nà ge xiāng tóng de wèn tí",
+		"englishGloss": "I asked them the same question"
 	},
 	{
 		"chinese": "我没有问过他们那个相同的问题",
-		"english": "I didn't ask them the same question",
-		"soundmark": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+		"pinyin": "wo mei you wen guo ta men na ge xiang tong de wen ti",
+		"soundmark": "wǒ méi yǒu wèn guò tā men nà ge xiāng tóng de wèn tí",
+		"englishGloss": "I didn't ask them the same question"
 	},
 	{
 		"chinese": "回答",
-		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "to answer"
 	},
 	{
 		"chinese": "回答过",
-		"english": "answered",
-		"soundmark": "/'ænsɚd/"
+		"pinyin": "hui da guo",
+		"soundmark": "huí dá guò",
+		"englishGloss": "answered"
 	},
 	{
 		"chinese": "没有人",
-		"english": "nobody",
-		"soundmark": "/ˈnobɑdi/"
+		"pinyin": "mei you ren",
+		"soundmark": "méi yǒu rén",
+		"englishGloss": "nobody"
 	},
 	{
 		"chinese": "没有人回答过",
-		"english": "nobody answered",
-		"soundmark": "/ˈnobɑdi/ /'ænsɚd/"
+		"pinyin": "mei you ren hui da guo",
+		"soundmark": "méi yǒu rén huí dá guò",
+		"englishGloss": "nobody answered"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bət/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "但是没有人回答过",
-		"english": "but nobody answered",
-		"soundmark": "/bət/ /ˈnobɑdi/ /'ænsɚd/"
+		"pinyin": "dan shi mei you ren hui da guo",
+		"soundmark": "dàn shì méi yǒu rén huí dá guò",
+		"englishGloss": "but nobody answered"
 	},
 	{
 		"chinese": "我问过他们那个相同的问题但是没有人回答过",
-		"english": "I asked them the same question but nobody answered",
-		"soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/"
+		"pinyin": "wo wen guo ta men na ge xiang tong de wen ti dan shi mei you ren hui da guo",
+		"soundmark": "wǒ wèn guò tā men nà ge xiāng tóng de wèn tí dàn shì méi yǒu rén huí dá guò",
+		"englishGloss": "I asked them the same question but nobody answered"
 	},
 	{
 		"chinese": "中文 原形 第三人称单数 过去式想要",
-		"english": "want wants",
-		"soundmark": "/wanted/"
+		"pinyin": "zhong wen   yuan xing   di san ren cheng dan shu   guo qu shi xiang yao",
+		"soundmark": "zhōng wén   yuán xíng   dì sān rén chēng dān shù   guò qù shì xiǎng yào",
+		"englishGloss": "want wants"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like likes",
-		"soundmark": "/liked/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like likes"
 	},
 	{
 		"chinese": "有；(+to)不得不",
-		"english": "have has",
-		"soundmark": "/had/"
+		"pinyin": "you ； ( + t o ) bu de bu",
+		"soundmark": "yǒu ； ( + t o ) bù dé bù",
+		"englishGloss": "have has"
 	},
 	{
 		"chinese": "计划",
-		"english": "plan plans",
-		"soundmark": "/planned/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "plan plans"
 	},
 	{
 		"chinese": "需要",
-		"english": "need needs",
-		"soundmark": "/needed/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need needs"
 	},
 	{
 		"chinese": "做",
-		"english": "do does",
-		"soundmark": "/did/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "do does"
 	},
 	{
 		"chinese": "告诉",
-		"english": "tell tells",
-		"soundmark": "/told/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "tell tells"
 	},
 	{
 		"chinese": "说话",
-		"english": "talk talks",
-		"soundmark": "/talked/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "talk talks"
 	},
 	{
 		"chinese": "是 be（am）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ a m ）",
+		"soundmark": "shì   b e （ a m ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（is ）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ i s   ）",
+		"soundmark": "shì   b e （ i s   ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（are）",
-		"english": "is",
-		"soundmark": "/were/"
+		"pinyin": "shi   b e （ a r e ）",
+		"soundmark": "shì   b e （ a r e ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "看到",
-		"english": "see sees",
-		"soundmark": "/saw/"
+		"pinyin": "kan dao",
+		"soundmark": "kàn dào",
+		"englishGloss": "see sees"
 	},
 	{
 		"chinese": "吃",
-		"english": "eat eats",
-		"soundmark": "/ate/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "eat eats"
 	},
 	{
 		"chinese": "喝",
-		"english": "drink drinks",
-		"soundmark": "/drank/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "drink drinks"
 	},
 	{
 		"chinese": "知道",
-		"english": "know knows",
-		"soundmark": "/knew/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "know knows"
 	},
 	{
 		"chinese": "忘记",
-		"english": "forget forgets",
-		"soundmark": "/forgot/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "forget forgets"
 	},
 	{
 		"chinese": "失去",
-		"english": "lose loses",
-		"soundmark": "/lost/"
+		"pinyin": "shi qu",
+		"soundmark": "shī qù",
+		"englishGloss": "lose loses"
 	},
 	{
 		"chinese": "离开",
-		"english": "leave leaves",
-		"soundmark": "/left/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "leave leaves"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "sleep sleeps",
-		"soundmark": "/slept/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "sleep sleeps"
 	},
 	{
 		"chinese": "明白",
-		"english": "understand understands",
-		"soundmark": "/understood/"
+		"pinyin": "ming bai",
+		"soundmark": "míng bái",
+		"englishGloss": "understand understands"
 	},
 	{
 		"chinese": "买",
-		"english": "buy buys",
-		"soundmark": "/bought/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "buy buys"
 	},
 	{
 		"chinese": "洗",
-		"english": "wash washes",
-		"soundmark": "/washed/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "wash washes"
 	},
 	{
 		"chinese": "打电话",
-		"english": "call calls",
-		"soundmark": "/called/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "call calls"
 	},
 	{
 		"chinese": "帮助",
-		"english": "help helps",
-		"soundmark": "/helped/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "help helps"
 	},
 	{
 		"chinese": "相信",
-		"english": "believe believes",
-		"soundmark": "/believed/"
+		"pinyin": "xiang xin",
+		"soundmark": "xiāng xìn",
+		"englishGloss": "believe believes"
 	},
 	{
 		"chinese": "学习",
-		"english": "study studies",
-		"soundmark": "/studied/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "study studies"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain explains",
-		"soundmark": "/explained/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain explains"
 	},
 	{
 		"chinese": "问",
-		"english": "ask asks",
-		"soundmark": "/asked/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "ask asks"
 	},
 	{
 		"chinese": "飞",
-		"english": "fly flies",
-		"soundmark": "/flew/"
+		"pinyin": "fei",
+		"soundmark": "fēi",
+		"englishGloss": "fly flies"
 	},
 	{
 		"chinese": "阅读",
-		"english": "read reads",
-		"soundmark": "/read/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "read reads"
 	},
 	{
 		"chinese": "走路",
-		"english": "walk walks",
-		"soundmark": "/walked/"
+		"pinyin": "zou lu",
+		"soundmark": "zǒu lù",
+		"englishGloss": "walk walks"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "dance dances",
-		"soundmark": "/danced/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "dance dances"
 	},
 	{
 		"chinese": "回答",
-		"english": "answer answers",
-		"soundmark": "/answered/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "answer answers"
 	},
 	{
 		"chinese": "工作",
-		"english": "work works",
-		"soundmark": "/worked/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work works"
 	},
 	{
 		"chinese": "待在",
-		"english": "stay stays",
-		"soundmark": "/stayed/"
+		"pinyin": "dai zai",
+		"soundmark": "dài zài",
+		"englishGloss": "stay stays"
 	},
 	{
 		"chinese": "支付",
-		"english": "pay pays",
-		"soundmark": "/paid/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "pay pays"
 	},
 	{
 		"chinese": "旅行",
-		"english": "travel travels",
-		"soundmark": "/traveled/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "travel travels"
 	},
 	{
 		"chinese": "给",
-		"english": "give gives",
-		"soundmark": "/gave/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "give gives"
 	},
 	{
 		"chinese": "达到",
-		"english": "get gets",
-		"soundmark": "/got/"
+		"pinyin": "da dao",
+		"soundmark": "dá dào",
+		"englishGloss": "get gets"
 	},
 	{
 		"chinese": "锁",
-		"english": "lock locks",
-		"soundmark": "/locked/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "lock locks"
 	},
 	{
 		"chinese": "记得",
-		"english": "remember remembers",
-		"soundmark": "/remembered/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "remember remembers"
 	},
 	{
 		"chinese": "清理",
-		"english": "clean cleans",
-		"soundmark": "/cleaned/"
+		"pinyin": "qing li",
+		"soundmark": "qīng lǐ",
+		"englishGloss": "clean cleans"
 	},
 	{
 		"chinese": "找到",
-		"english": "find finds",
-		"soundmark": "/found/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "find finds"
 	},
 	{
 		"chinese": "关闭",
-		"english": "close closes",
-		"soundmark": "/closed/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "close closes"
 	},
 	{
 		"chinese": "教",
-		"english": "teach teaches",
-		"soundmark": "/taught/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "teach teaches"
 	},
 	{
 		"chinese": "展示",
-		"english": "show shows",
-		"soundmark": "/showed/"
+		"pinyin": "zhan shi",
+		"soundmark": "zhǎn shì",
+		"englishGloss": "show shows"
 	},
 	{
 		"chinese": "让",
-		"english": "let lets",
-		"soundmark": "/let/"
+		"pinyin": "rang",
+		"soundmark": "ràng",
+		"englishGloss": "let lets"
 	},
 	{
 		"chinese": "休息",
-		"english": "rest rests",
-		"soundmark": "/rested/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "rest rests"
 	},
 	{
 		"chinese": "用",
-		"english": "use uses",
-		"soundmark": "/used/"
+		"pinyin": "yong",
+		"soundmark": "yòng",
+		"englishGloss": "use uses"
 	},
 	{
 		"chinese": "做饭",
-		"english": "cook cooks",
-		"soundmark": "/cooked/"
+		"pinyin": "zuo fan",
+		"soundmark": "zuò fàn",
+		"englishGloss": "cook cooks"
 	},
 	{
 		"chinese": "去",
-		"english": "go goes",
-		"soundmark": "/went/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "go goes"
 	},
 	{
 		"chinese": "决定",
-		"english": "decide decides",
-		"soundmark": "/decided/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "decide decides"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "drive drives",
-		"soundmark": "/drove/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "drive drives"
 	},
 	{
 		"chinese": "改变",
-		"english": "change changes",
-		"soundmark": "/changed/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "change changes"
 	},
 	{
 		"chinese": "尝试",
-		"english": "try tries",
-		"soundmark": "/tried/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "try tries"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop stops",
-		"soundmark": "/stopped/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop stops"
 	}
 ]

@@ -1,1012 +1,1214 @@
 [
 	{
 		"chinese": "球",
-		"english": "ball",
-		"soundmark": "/bɔl/"
+		"pinyin": "qiu",
+		"soundmark": "qiú",
+		"englishGloss": "ball"
 	},
 	{
 		"chinese": "篮子",
-		"english": "basket",
-		"soundmark": "/'bæskɪt/"
+		"pinyin": "lan zi",
+		"soundmark": "lán zi",
+		"englishGloss": "basket"
 	},
 	{
 		"chinese": "篮球",
-		"english": "basketball",
-		"soundmark": "/'bæskɪtbɔl/"
+		"pinyin": "lan qiu",
+		"soundmark": "lán qiú",
+		"englishGloss": "basketball"
 	},
 	{
 		"chinese": "玩",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "wan",
+		"soundmark": "wán",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "打篮球",
-		"english": "to play basketball",
-		"soundmark": "/tə/ /ple/ /'bæskɪtbɔl/"
+		"pinyin": "da lan qiu",
+		"soundmark": "dǎ lán qiú",
+		"englishGloss": "to play basketball"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要打篮球",
-		"english": "I want to play basketball",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/ /(过去)想要 wanted/ /wɑntɪd/"
+		"pinyin": "wo xiang yao da lan qiu",
+		"soundmark": "wǒ xiǎng yào dǎ lán qiú",
+		"englishGloss": "I want to play basketball"
 	},
 	{
 		"chinese": "我(过去)想要打篮球",
-		"english": "I wanted to play basketball",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"pinyin": "wo ( guo qu ) xiang yao da lan qiu",
+		"soundmark": "wǒ ( guò qù ) xiǎng yào dǎ lán qiú",
+		"englishGloss": "I wanted to play basketball"
 	},
 	{
 		"chinese": "使用",
-		"english": "to use",
-		"soundmark": "/tə/ /juz/ /(过去)使用 used/ /juzd/"
+		"pinyin": "shi yong",
+		"soundmark": "shǐ yòng",
+		"englishGloss": "to use"
 	},
 	{
 		"chinese": "我(过去)想要打篮球",
-		"english": "I wanted to play basketball",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"pinyin": "wo ( guo qu ) xiang yao da lan qiu",
+		"soundmark": "wǒ ( guò qù ) xiǎng yào dǎ lán qiú",
+		"englishGloss": "I wanted to play basketball"
 	},
 	{
 		"chinese": "我过去常常打篮球",
-		"english": "I used to play basketball",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"pinyin": "wo guo qu chang chang da lan qiu",
+		"soundmark": "wǒ guò qù cháng cháng dǎ lán qiú",
+		"englishGloss": "I used to play basketball"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "学校",
-		"english": "school",
-		"soundmark": "/skul/"
+		"pinyin": "xue xiao",
+		"soundmark": "xué xiào",
+		"englishGloss": "school"
 	},
 	{
 		"chinese": "高",
-		"english": "high",
-		"soundmark": "/haɪ/"
+		"pinyin": "gao",
+		"soundmark": "gāo",
+		"englishGloss": "high"
 	},
 	{
 		"chinese": "高中",
-		"english": "high school",
-		"soundmark": "/haɪ/ /skul/"
+		"pinyin": "gao zhong",
+		"soundmark": "gāo zhōng",
+		"englishGloss": "high school"
 	},
 	{
 		"chinese": "在高中",
-		"english": "in high school",
-		"soundmark": "/ɪn/ /haɪ/ /skul/"
+		"pinyin": "zai gao zhong",
+		"soundmark": "zài gāo zhōng",
+		"englishGloss": "in high school"
 	},
 	{
 		"chinese": "我在高中常常打篮球",
-		"english": "I used to play basketball in high school",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/"
+		"pinyin": "wo zai gao zhong chang chang da lan qiu",
+		"soundmark": "wǒ zài gāo zhōng cháng cháng dǎ lán qiú",
+		"englishGloss": "I used to play basketball in high school"
 	},
 	{
 		"chinese": "在高中",
-		"english": "in high school",
-		"soundmark": "/ɪn/ /haɪ/ /skul/"
+		"pinyin": "zai gao zhong",
+		"soundmark": "zài gāo zhōng",
+		"englishGloss": "in high school"
 	},
 	{
 		"chinese": "我在高中",
-		"english": "I am in high school",
-		"soundmark": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/"
+		"pinyin": "wo zai gao zhong",
+		"soundmark": "wǒ zài gāo zhōng",
+		"englishGloss": "I am in high school"
 	},
 	{
 		"chinese": "我(过去)在高中",
-		"english": "I was in high school",
-		"soundmark": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"pinyin": "wo ( guo qu ) zai gao zhong",
+		"soundmark": "wǒ ( guò qù ) zài gāo zhōng",
+		"englishGloss": "I was in high school"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我(过去)在高中的时候",
-		"english": "when I was in high school",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"pinyin": "dang wo ( guo qu ) zai gao zhong de shi hou",
+		"soundmark": "dāng wǒ ( guò qù ) zài gāo zhōng de shí hòu",
+		"englishGloss": "when I was in high school"
 	},
 	{
 		"chinese": "我过去常常打篮球当我在高中的时候",
-		"english": "I used to play basketball when I was in high school",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"pinyin": "wo guo qu chang chang da lan qiu dang wo zai gao zhong de shi hou",
+		"soundmark": "wǒ guò qù cháng cháng dǎ lán qiú dāng wǒ zài gāo zhōng de shí hòu",
+		"englishGloss": "I used to play basketball when I was in high school"
 	},
 	{
 		"chinese": "象棋",
-		"english": "chess",
-		"soundmark": "/tʃɛs/"
+		"pinyin": "xiang qi",
+		"soundmark": "xiàng qí",
+		"englishGloss": "chess"
 	},
 	{
 		"chinese": "玩",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "wan",
+		"soundmark": "wán",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "下象棋",
-		"english": "to play chess",
-		"soundmark": "/tə/ /ple/ /tʃɛs/"
+		"pinyin": "xia xiang qi",
+		"soundmark": "xià xiàng qí",
+		"englishGloss": "to play chess"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "我过去常常下象棋",
-		"english": "I used to play chess",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/"
+		"pinyin": "wo guo qu chang chang xia xiang qi",
+		"soundmark": "wǒ guò qù cháng cháng xià xiàng qí",
+		"englishGloss": "I used to play chess"
 	},
 	{
 		"chinese": "年轻的",
-		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"pinyin": "nian qing de",
+		"soundmark": "nián qīng de",
+		"englishGloss": "young"
 	},
 	{
 		"chinese": "我是年轻的",
-		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"pinyin": "wo shi nian qing de",
+		"soundmark": "wǒ shì nián qīng de",
+		"englishGloss": "I am young"
 	},
 	{
 		"chinese": "我(过去)是年轻的",
-		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "wo ( guo qu ) shi nian qing de",
+		"soundmark": "wǒ ( guò qù ) shì nián qīng de",
+		"englishGloss": "I was young"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我(过去)是年轻的时候",
-		"english": "when I was young",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "dang wo ( guo qu ) shi nian qing de shi hou",
+		"soundmark": "dāng wǒ ( guò qù ) shì nián qīng de shí hòu",
+		"englishGloss": "when I was young"
 	},
 	{
 		"chinese": "我过去常常下象棋当我(过去)是年轻的时候",
-		"english": "I used to play chess when I was young",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "wo guo qu chang chang xia xiang qi dang wo ( guo qu ) shi nian qing de shi hou",
+		"soundmark": "wǒ guò qù cháng cháng xià xiàng qí dāng wǒ ( guò qù ) shì nián qīng de shí hòu",
+		"englishGloss": "I used to play chess when I was young"
 	},
 	{
 		"chinese": "看",
-		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "to watch"
 	},
 	{
 		"chinese": "卡通片",
-		"english": "cartoons",
-		"soundmark": "/kɑrˈtunz/"
+		"pinyin": "ka tong pian",
+		"soundmark": "kǎ tōng piàn",
+		"englishGloss": "cartoons"
 	},
 	{
 		"chinese": "看卡通片",
-		"english": "to watch cartoons",
-		"soundmark": "/tə/ /wɑtʃ/ /kɑrˈtunz/"
+		"pinyin": "kan ka tong pian",
+		"soundmark": "kàn kǎ tōng piàn",
+		"englishGloss": "to watch cartoons"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "我过去常常看卡通片",
-		"english": "I used to watch cartoons",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/"
+		"pinyin": "wo guo qu chang chang kan ka tong pian",
+		"soundmark": "wǒ guò qù cháng cháng kàn kǎ tōng piàn",
+		"englishGloss": "I used to watch cartoons"
 	},
 	{
 		"chinese": "早上",
-		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"pinyin": "zao shang",
+		"soundmark": "zǎo shàng",
+		"englishGloss": "morning"
 	},
 	{
 		"chinese": "每一个",
-		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"pinyin": "mei yi ge",
+		"soundmark": "měi yí gè",
+		"englishGloss": "every"
 	},
 	{
 		"chinese": "每天早上",
-		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "mei tian zao shang",
+		"soundmark": "měi tiān zǎo shàng",
+		"englishGloss": "every morning"
 	},
 	{
 		"chinese": "我过去每天早上都会看卡通片",
-		"english": "I used to watch cartoons every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "wo guo qu mei tian zao shang dou hui kan ka tong pian",
+		"soundmark": "wǒ guò qù měi tiān zǎo shàng dōu huì kàn kǎ tōng piàn",
+		"englishGloss": "I used to watch cartoons every morning"
 	},
 	{
 		"chinese": "孩子",
-		"english": "kid",
-		"soundmark": "/kɪd/"
+		"pinyin": "hai zi",
+		"soundmark": "hái zi",
+		"englishGloss": "kid"
 	},
 	{
 		"chinese": "我是一个孩子",
-		"english": "I am a kid",
-		"soundmark": "/aɪ/ /æm/ /ə/ /kɪd/"
+		"pinyin": "wo shi yi ge hai zi",
+		"soundmark": "wǒ shì yí gè hái zi",
+		"englishGloss": "I am a kid"
 	},
 	{
 		"chinese": "我(过去)是一个孩子",
-		"english": "I was a kid",
-		"soundmark": "/aɪ/ /wəz/ /ə/ /kɪd/"
+		"pinyin": "wo ( guo qu ) shi yi ge hai zi",
+		"soundmark": "wǒ ( guò qù ) shì yí gè hái zi",
+		"englishGloss": "I was a kid"
 	},
 	{
 		"chinese": "当我(过去)是一个孩子的时候",
-		"english": "when I was a kid",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+		"pinyin": "dang wo ( guo qu ) shi yi ge hai zi de shi hou",
+		"soundmark": "dāng wǒ ( guò qù ) shì yí gè hái zi de shí hòu",
+		"englishGloss": "when I was a kid"
 	},
 	{
 		"chinese": "我过去每天早上都会看卡通片当我(过去)是一个孩子的时候",
-		"english": "I used to watch cartoons every morning when I was a kid",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+		"pinyin": "wo guo qu mei tian zao shang dou hui kan ka tong pian dang wo ( guo qu ) shi yi ge hai zi de shi hou",
+		"soundmark": "wǒ guò qù měi tiān zǎo shàng dōu huì kàn kǎ tōng piàn dāng wǒ ( guò qù ) shì yí gè hái zi de shí hòu",
+		"englishGloss": "I used to watch cartoons every morning when I was a kid"
 	},
 	{
 		"chinese": "喝",
-		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "to drink"
 	},
 	{
 		"chinese": "咖啡",
-		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"pinyin": "ka fei",
+		"soundmark": "kā fēi",
+		"englishGloss": "coffee"
 	},
 	{
 		"chinese": "喝咖啡",
-		"english": "to drink coffee",
-		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/"
+		"pinyin": "he ka fei",
+		"soundmark": "hē kā fēi",
+		"englishGloss": "to drink coffee"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "过去常常喝咖啡",
-		"english": "used to drink coffee",
-		"soundmark": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+		"pinyin": "guo qu chang chang he ka fei",
+		"soundmark": "guò qù cháng cháng hē kā fēi",
+		"englishGloss": "used to drink coffee"
 	},
 	{
 		"chinese": "我过去常常喝咖啡",
-		"english": "I used to drink coffee",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+		"pinyin": "wo guo qu chang chang he ka fei",
+		"soundmark": "wǒ guò qù cháng cháng hē kā fēi",
+		"englishGloss": "I used to drink coffee"
 	},
 	{
 		"chinese": "早上",
-		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"pinyin": "zao shang",
+		"soundmark": "zǎo shàng",
+		"englishGloss": "morning"
 	},
 	{
 		"chinese": "每天早上",
-		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "mei tian zao shang",
+		"soundmark": "měi tiān zǎo shàng",
+		"englishGloss": "every morning"
 	},
 	{
 		"chinese": "我过去每天早上喝咖啡",
-		"english": "I used to drink coffee every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "wo guo qu mei tian zao shang he ka fei",
+		"soundmark": "wǒ guò qù měi tiān zǎo shàng hē kā fēi",
+		"englishGloss": "I used to drink coffee every morning"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like",
-		"soundmark": "/laɪk/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like"
 	},
 	{
 		"chinese": "更喜欢",
-		"english": "to prefer",
-		"soundmark": "/tə/ /prɪˈfɝ/"
+		"pinyin": "geng xi huan",
+		"soundmark": "gèng xǐ huan",
+		"englishGloss": "to prefer"
 	},
 	{
 		"chinese": "茶",
-		"english": "tea",
-		"soundmark": "/ti/"
+		"pinyin": "cha",
+		"soundmark": "chá",
+		"englishGloss": "tea"
 	},
 	{
 		"chinese": "更喜欢茶",
-		"english": "to prefer tea",
-		"soundmark": "/tə/ /prɪˈfɝ/ /ti/"
+		"pinyin": "geng xi huan cha",
+		"soundmark": "gèng xǐ huan chá",
+		"englishGloss": "to prefer tea"
 	},
 	{
 		"chinese": "我更喜欢茶",
-		"english": "I prefer tea",
-		"soundmark": "/aɪ/ /prɪˈfɝ/ /ti/"
+		"pinyin": "wo geng xi huan cha",
+		"soundmark": "wǒ gèng xǐ huan chá",
+		"englishGloss": "I prefer tea"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "现在我更喜欢茶",
-		"english": "now I prefer tea",
-		"soundmark": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"pinyin": "xian zai wo geng xi huan cha",
+		"soundmark": "xiàn zài wǒ gèng xǐ huan chá",
+		"englishGloss": "now I prefer tea"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bʌt/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "但是现在我更喜欢茶",
-		"english": "but now I prefer tea",
-		"soundmark": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"pinyin": "dan shi xian zai wo geng xi huan cha",
+		"soundmark": "dàn shì xiàn zài wǒ gèng xǐ huan chá",
+		"englishGloss": "but now I prefer tea"
 	},
 	{
 		"chinese": "我过去每天早上喝咖啡",
-		"english": "I used to drink coffee every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "wo guo qu mei tian zao shang he ka fei",
+		"soundmark": "wǒ guò qù měi tiān zǎo shàng hē kā fēi",
+		"englishGloss": "I used to drink coffee every morning"
 	},
 	{
 		"chinese": "我过去每天早上喝咖啡但是现在我更喜欢茶",
-		"english": "I used to drink coffee every morning but now I prefer tea",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"pinyin": "wo guo qu mei tian zao shang he ka fei dan shi xian zai wo geng xi huan cha",
+		"soundmark": "wǒ guò qù měi tiān zǎo shàng hē kā fēi dàn shì xiàn zài wǒ gèng xǐ huan chá",
+		"englishGloss": "I used to drink coffee every morning but now I prefer tea"
 	},
 	{
 		"chinese": "老师",
-		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"pinyin": "lao shi",
+		"soundmark": "lǎo shī",
+		"englishGloss": "teacher"
 	},
 	{
 		"chinese": "她是一名老师",
-		"english": "she is a teacher",
-		"soundmark": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/"
+		"pinyin": "ta shi yi ming lao shi",
+		"soundmark": "tā shì yì míng lǎo shī",
+		"englishGloss": "she is a teacher"
 	},
 	{
 		"chinese": "她(过去)是一名老师",
-		"english": "she was a teacher",
-		"soundmark": "/ʃi/ /wəz/ /ə/ /'titʃɚ/"
+		"pinyin": "ta ( guo qu ) shi yi ming lao shi",
+		"soundmark": "tā ( guò qù ) shì yì míng lǎo shī",
+		"englishGloss": "she was a teacher"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "曾经是......",
-		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"pinyin": "ceng jing shi . . . . . .",
+		"soundmark": "céng jīng shì . . . . . .",
+		"englishGloss": "used to be"
 	},
 	{
 		"chinese": "她曾经是一名老师",
-		"english": "she used to be a teacher",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"pinyin": "ta ceng jing shi yi ming lao shi",
+		"soundmark": "tā céng jīng shì yì míng lǎo shī",
+		"englishGloss": "she used to be a teacher"
 	},
 	{
 		"chinese": "退出",
-		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"pinyin": "tui chu",
+		"soundmark": "tuì chū",
+		"englishGloss": "to quit"
 	},
 	{
 		"chinese": "工作",
-		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "job"
 	},
 	{
 		"chinese": "她的工作",
-		"english": "her job",
-		"soundmark": "/hɚ/ /dʒɑb/"
+		"pinyin": "ta de gong zuo",
+		"soundmark": "tā de gōng zuò",
+		"englishGloss": "her job"
 	},
 	{
 		"chinese": "辞去她的工作",
-		"english": "to quit her job",
-		"soundmark": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"pinyin": "ci qu ta de gong zuo",
+		"soundmark": "cí qù tā de gōng zuò",
+		"englishGloss": "to quit her job"
 	},
 	{
 		"chinese": "她辞去她的工作",
-		"english": "she quit her job",
-		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"pinyin": "ta ci qu ta de gong zuo",
+		"soundmark": "tā cí qù tā de gōng zuò",
+		"englishGloss": "she quit her job"
 	},
 	{
 		"chinese": "她辞去了她的工作",
-		"english": "she quit her job",
-		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"pinyin": "ta ci qu le ta de gong zuo",
+		"soundmark": "tā cí qù le tā de gōng zuò",
+		"englishGloss": "she quit her job"
 	},
 	{
 		"chinese": "但是她辞去了她的工作",
-		"english": "but she quit her job",
-		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"pinyin": "dan shi ta ci qu le ta de gong zuo",
+		"soundmark": "dàn shì tā cí qù le tā de gōng zuò",
+		"englishGloss": "but she quit her job"
 	},
 	{
 		"chinese": "上一个",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "shang yi ge",
+		"soundmark": "shàng yí gè",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "年",
-		"english": "year",
-		"soundmark": "/jɪr/"
+		"pinyin": "nian",
+		"soundmark": "nián",
+		"englishGloss": "year"
 	},
 	{
 		"chinese": "去年",
-		"english": "last year",
-		"soundmark": "/læst/ /jɪr/"
+		"pinyin": "qu nian",
+		"soundmark": "qù nián",
+		"englishGloss": "last year"
 	},
 	{
 		"chinese": "但是去年她辞去了她的工作",
-		"english": "but she quit her job last year",
-		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+		"pinyin": "dan shi qu nian ta ci qu le ta de gong zuo",
+		"soundmark": "dàn shì qù nián tā cí qù le tā de gōng zuò",
+		"englishGloss": "but she quit her job last year"
 	},
 	{
 		"chinese": "她曾经是一名老师",
-		"english": "she used to be a teacher",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"pinyin": "ta ceng jing shi yi ming lao shi",
+		"soundmark": "tā céng jīng shì yì míng lǎo shī",
+		"englishGloss": "she used to be a teacher"
 	},
 	{
 		"chinese": "她曾经是一名老师但是她去年辞去了她的工作",
-		"english": "she used to be a teacher but she quit her job last year",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+		"pinyin": "ta ceng jing shi yi ming lao shi dan shi ta qu nian ci qu le ta de gong zuo",
+		"soundmark": "tā céng jīng shì yì míng lǎo shī dàn shì tā qù nián cí qù le tā de gōng zuò",
+		"englishGloss": "she used to be a teacher but she quit her job last year"
 	},
 	{
 		"chinese": "曾经是......",
-		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"pinyin": "ceng jing shi . . . . . .",
+		"soundmark": "céng jīng shì . . . . . .",
+		"englishGloss": "used to be"
 	},
 	{
 		"chinese": "抽烟",
-		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"pinyin": "chou yan",
+		"soundmark": "chōu yān",
+		"englishGloss": "to smoke"
 	},
 	{
 		"chinese": "烟民",
-		"english": "smoker",
-		"soundmark": "/'smokɚ/"
+		"pinyin": "yan min",
+		"soundmark": "yān mín",
+		"englishGloss": "smoker"
 	},
 	{
 		"chinese": "曾经是一个烟民",
-		"english": "used to be a smoker",
-		"soundmark": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"pinyin": "ceng jing shi yi ge yan min",
+		"soundmark": "céng jīng shì yí gè yān mín",
+		"englishGloss": "used to be a smoker"
 	},
 	{
 		"chinese": "你曾经是一个烟民",
-		"english": "you used to be a smoker",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"pinyin": "ni ceng jing shi yi ge yan min",
+		"soundmark": "nǐ céng jīng shì yí gè yān mín",
+		"englishGloss": "you used to be a smoker"
 	},
 	{
 		"chinese": "退出",
-		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"pinyin": "tui chu",
+		"soundmark": "tuì chū",
+		"englishGloss": "to quit"
 	},
 	{
 		"chinese": "你退出",
-		"english": "you quit",
-		"soundmark": "/ju/ /kwɪt/"
+		"pinyin": "ni tui chu",
+		"soundmark": "nǐ tuì chū",
+		"englishGloss": "you quit"
 	},
 	{
 		"chinese": "你戒了",
-		"english": "you quit",
-		"soundmark": "/ju/ /kwɪt/"
+		"pinyin": "ni jie le",
+		"soundmark": "nǐ jiè le",
+		"englishGloss": "you quit"
 	},
 	{
 		"chinese": "但是现在",
-		"english": "but now",
-		"soundmark": "/bʌt/ /naʊ/"
+		"pinyin": "dan shi xian zai",
+		"soundmark": "dàn shì xiàn zài",
+		"englishGloss": "but now"
 	},
 	{
 		"chinese": "但是现在你戒了",
-		"english": "but now you quit",
-		"soundmark": "/bʌt/ /naʊ/ /ju/ /kwɪt/"
+		"pinyin": "dan shi xian zai ni jie le",
+		"soundmark": "dàn shì xiàn zài nǐ jiè le",
+		"englishGloss": "but now you quit"
 	},
 	{
 		"chinese": "你曾经是一个烟民",
-		"english": "you used to be a smoker",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"pinyin": "ni ceng jing shi yi ge yan min",
+		"soundmark": "nǐ céng jīng shì yí gè yān mín",
+		"englishGloss": "you used to be a smoker"
 	},
 	{
 		"chinese": "你曾经是一个烟民但是现在你戒了",
-		"english": "you used to be a smoker, but now you quit",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/"
+		"pinyin": "ni ceng jing shi yi ge yan min dan shi xian zai ni jie le",
+		"soundmark": "nǐ céng jīng shì yí gè yān mín dàn shì xiàn zài nǐ jiè le",
+		"englishGloss": "you used to be a smoker, but now you quit"
 	},
 	{
 		"chinese": "陌生的",
-		"english": "strange",
-		"soundmark": "/strendʒ/"
+		"pinyin": "mo sheng de",
+		"soundmark": "mò shēng de",
+		"englishGloss": "strange"
 	},
 	{
 		"chinese": "陌生人",
-		"english": "stranger",
-		"soundmark": "/'strendʒɚ/"
+		"pinyin": "mo sheng ren",
+		"soundmark": "mò shēng rén",
+		"englishGloss": "stranger"
 	},
 	{
 		"chinese": "我们是陌生人",
-		"english": "we are strangers",
-		"soundmark": "/wi/ /ɚ/ /'strendʒɚz/"
+		"pinyin": "wo men shi mo sheng ren",
+		"soundmark": "wǒ men shì mò shēng rén",
+		"englishGloss": "we are strangers"
 	},
 	{
 		"chinese": "曾经是......",
-		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"pinyin": "ceng jing shi . . . . . .",
+		"soundmark": "céng jīng shì . . . . . .",
+		"englishGloss": "used to be"
 	},
 	{
 		"chinese": "我们曾经是陌生人",
-		"english": "we used to be strangers",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+		"pinyin": "wo men ceng jing shi mo sheng ren",
+		"soundmark": "wǒ men céng jīng shì mò shēng rén",
+		"englishGloss": "we used to be strangers"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "我们是朋友",
-		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"pinyin": "wo men shi peng you",
+		"soundmark": "wǒ men shì péng yǒu",
+		"englishGloss": "we are friends"
 	},
 	{
 		"chinese": "但是现在",
-		"english": "but now",
-		"soundmark": "/bʌt/ /naʊ/"
+		"pinyin": "dan shi xian zai",
+		"soundmark": "dàn shì xiàn zài",
+		"englishGloss": "but now"
 	},
 	{
 		"chinese": "但是现在我们是朋友",
-		"english": "but now we are friends",
-		"soundmark": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+		"pinyin": "dan shi xian zai wo men shi peng you",
+		"soundmark": "dàn shì xiàn zài wǒ men shì péng yǒu",
+		"englishGloss": "but now we are friends"
 	},
 	{
 		"chinese": "我们曾经是陌生人",
-		"english": "we used to be strangers",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+		"pinyin": "wo men ceng jing shi mo sheng ren",
+		"soundmark": "wǒ men céng jīng shì mò shēng rén",
+		"englishGloss": "we used to be strangers"
 	},
 	{
 		"chinese": "我们曾经是陌生人但是现在我们是朋友",
-		"english": "we used to be strangers but now we are friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+		"pinyin": "wo men ceng jing shi mo sheng ren dan shi xian zai wo men shi peng you",
+		"soundmark": "wǒ men céng jīng shì mò shēng rén dàn shì xiàn zài wǒ men shì péng yǒu",
+		"englishGloss": "we used to be strangers but now we are friends"
 	},
 	{
 		"chinese": "我们是朋友",
-		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"pinyin": "wo men shi peng you",
+		"soundmark": "wǒ men shì péng yǒu",
+		"englishGloss": "we are friends"
 	},
 	{
 		"chinese": "曾经是......",
-		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"pinyin": "ceng jing shi . . . . . .",
+		"soundmark": "céng jīng shì . . . . . .",
+		"englishGloss": "used to be"
 	},
 	{
 		"chinese": "我们曾经是朋友",
-		"english": "we used to be friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/"
+		"pinyin": "wo men ceng jing shi peng you",
+		"soundmark": "wǒ men céng jīng shì péng yǒu",
+		"englishGloss": "we used to be friends"
 	},
 	{
 		"chinese": "亲密的",
-		"english": "close",
-		"soundmark": "/klos/"
+		"pinyin": "qin mi de",
+		"soundmark": "qīn mì de",
+		"englishGloss": "close"
 	},
 	{
 		"chinese": "我们曾经是亲密的朋友",
-		"english": "we used to be close friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/"
+		"pinyin": "wo men ceng jing shi qin mi de peng you",
+		"soundmark": "wǒ men céng jīng shì qīn mì de péng yǒu",
+		"englishGloss": "we used to be close friends"
 	},
 	{
 		"chinese": "更多",
-		"english": "more",
-		"soundmark": "/mɔr/"
+		"pinyin": "geng duo",
+		"soundmark": "gèng duō",
+		"englishGloss": "more"
 	},
 	{
 		"chinese": "任何",
-		"english": "any",
-		"soundmark": "/'ɛni/"
+		"pinyin": "ren he",
+		"soundmark": "rèn hé",
+		"englishGloss": "any"
 	},
 	{
 		"chinese": "任何更多",
-		"english": "anymore",
-		"soundmark": "/ɛniˈmɔr/"
+		"pinyin": "ren he geng duo",
+		"soundmark": "rèn hé gèng duō",
+		"englishGloss": "anymore"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "我们曾经是亲密的朋友但是再也不是了",
-		"english": "we used to be close friends, but not anymore",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"pinyin": "wo men ceng jing shi qin mi de peng you dan shi zai ye bu shi le",
+		"soundmark": "wǒ men céng jīng shì qīn mì de péng yǒu dàn shì zài yě bú shì le",
+		"englishGloss": "we used to be close friends, but not anymore"
 	},
 	{
 		"chinese": "爱",
-		"english": "to love",
-		"soundmark": "/tə/ /lʌv/"
+		"pinyin": "ai",
+		"soundmark": "ài",
+		"englishGloss": "to love"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "爱他",
-		"english": "to love him",
-		"soundmark": "/tə/ /lʌv/ /hɪm/"
+		"pinyin": "ai ta",
+		"soundmark": "ài tā",
+		"englishGloss": "to love him"
 	},
 	{
 		"chinese": "她爱他",
-		"english": "she loves him",
-		"soundmark": "/ʃi/ /lʌvz/ /hɪm/"
+		"pinyin": "ta ai ta",
+		"soundmark": "tā ài tā",
+		"englishGloss": "she loves him"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "她过去爱他",
-		"english": "she used to love him",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/"
+		"pinyin": "ta guo qu ai ta",
+		"soundmark": "tā guò qù ài tā",
+		"englishGloss": "she used to love him"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "她过去爱他但是再也不会了",
-		"english": "she used to love him but not anymore",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"pinyin": "ta guo qu ai ta dan shi zai ye bu hui le",
+		"soundmark": "tā guò qù ài tā dàn shì zài yě bú huì le",
+		"englishGloss": "she used to love him but not anymore"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "to drive"
 	},
 	{
 		"chinese": "汽车",
-		"english": "car",
-		"soundmark": "/kɑr/"
+		"pinyin": "qi che",
+		"soundmark": "qì chē",
+		"englishGloss": "car"
 	},
 	{
 		"chinese": "开车",
-		"english": "to drive a car",
-		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/"
+		"pinyin": "kai che",
+		"soundmark": "kāi chē",
+		"englishGloss": "to drive a car"
 	},
 	{
 		"chinese": "去工作",
-		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"pinyin": "qu gong zuo",
+		"soundmark": "qù gōng zuò",
+		"englishGloss": "to work"
 	},
 	{
 		"chinese": "开车去工作",
-		"english": "to drive a car to work",
-		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"pinyin": "kai che qu gong zuo",
+		"soundmark": "kāi chē qù gōng zuò",
+		"englishGloss": "to drive a car to work"
 	},
 	{
 		"chinese": "他开车去工作",
-		"english": "he drives a car to work",
-		"soundmark": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"pinyin": "ta kai che qu gong zuo",
+		"soundmark": "tā kāi chē qù gōng zuò",
+		"englishGloss": "he drives a car to work"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "他过去常常开车去工作",
-		"english": "he used to drive a car to work",
-		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"pinyin": "ta guo qu chang chang kai che qu gong zuo",
+		"soundmark": "tā guò qù cháng cháng kāi chē qù gōng zuò",
+		"englishGloss": "he used to drive a car to work"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "他过去常常开车去工作但是再也不会了",
-		"english": "he used to drive a car to work but not anymore",
-		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"pinyin": "ta guo qu chang chang kai che qu gong zuo dan shi zai ye bu hui le",
+		"soundmark": "tā guò qù cháng cháng kāi chē qù gōng zuò dàn shì zài yě bú huì le",
+		"englishGloss": "he used to drive a car to work but not anymore"
 	},
 	{
 		"chinese": "工作",
-		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "to work"
 	},
 	{
 		"chinese": "公司",
-		"english": "company",
-		"soundmark": "/ˈkʌmpəni/"
+		"pinyin": "gong si",
+		"soundmark": "gōng sī",
+		"englishGloss": "company"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "那个公司",
-		"english": "that company",
-		"soundmark": "/ðæt/ /ˈkʌmpəni/"
+		"pinyin": "na ge gong si",
+		"soundmark": "nà ge gōng sī",
+		"englishGloss": "that company"
 	},
 	{
 		"chinese": "在那个公司",
-		"english": "at that company",
-		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/"
+		"pinyin": "zai na ge gong si",
+		"soundmark": "zài nà ge gōng sī",
+		"englishGloss": "at that company"
 	},
 	{
 		"chinese": "在那个公司工作",
-		"english": "to work at that company",
-		"soundmark": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"pinyin": "zai na ge gong si gong zuo",
+		"soundmark": "zài nà ge gōng sī gōng zuò",
+		"englishGloss": "to work at that company"
 	},
 	{
 		"chinese": "他在那个公司工作",
-		"english": "he works at that company",
-		"soundmark": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"pinyin": "ta zai na ge gong si gong zuo",
+		"soundmark": "tā zài nà ge gōng sī gōng zuò",
+		"englishGloss": "he works at that company"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "他曾经在那个公司工作",
-		"english": "he used to work at that company",
-		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"pinyin": "ta ceng jing zai na ge gong si gong zuo",
+		"soundmark": "tā céng jīng zài nà ge gōng sī gōng zuò",
+		"englishGloss": "he used to work at that company"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "他曾经在那个公司工作但是再也不会了",
-		"english": "he used to work at that company but not anymore",
-		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"pinyin": "ta ceng jing zai na ge gong si gong zuo dan shi zai ye bu hui le",
+		"soundmark": "tā céng jīng zài nà ge gōng sī gōng zuò dàn shì zài yě bú huì le",
+		"englishGloss": "he used to work at that company but not anymore"
 	},
 	{
 		"chinese": "餐厅",
-		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"pinyin": "can ting",
+		"soundmark": "cān tīng",
+		"englishGloss": "restaurant"
 	},
 	{
 		"chinese": "那个餐厅",
-		"english": "that restaurant",
-		"soundmark": "/ðæt/ /'rɛstrɑnt/"
+		"pinyin": "na ge can ting",
+		"soundmark": "nà ge cān tīng",
+		"englishGloss": "that restaurant"
 	},
 	{
 		"chinese": "去",
-		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "to go"
 	},
 	{
 		"chinese": "去那个餐厅",
-		"english": "to go to that restaurant",
-		"soundmark": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"pinyin": "qu na ge can ting",
+		"soundmark": "qù nà ge cān tīng",
+		"englishGloss": "to go to that restaurant"
 	},
 	{
 		"chinese": "我们去那个餐厅",
-		"english": "we go to that restaurant",
-		"soundmark": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"pinyin": "wo men qu na ge can ting",
+		"soundmark": "wǒ men qù nà ge cān tīng",
+		"englishGloss": "we go to that restaurant"
 	},
 	{
 		"chinese": "过去常常做......",
-		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"pinyin": "guo qu chang chang zuo . . . . . .",
+		"soundmark": "guò qù cháng cháng zuò . . . . . .",
+		"englishGloss": "used to do"
 	},
 	{
 		"chinese": "我们过去常常去那个餐厅",
-		"english": "we used to go to that restaurant",
-		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"pinyin": "wo men guo qu chang chang qu na ge can ting",
+		"soundmark": "wǒ men guò qù cháng cháng qù nà ge cān tīng",
+		"englishGloss": "we used to go to that restaurant"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "我们过去常常去那个餐厅但是再也不会了",
-		"english": "we used to go to that restaurant but not anymore",
-		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"pinyin": "wo men guo qu chang chang qu na ge can ting dan shi zai ye bu hui le",
+		"soundmark": "wǒ men guò qù cháng cháng qù nà ge cān tīng dàn shì zài yě bú huì le",
+		"englishGloss": "we used to go to that restaurant but not anymore"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "我们是朋友",
-		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"pinyin": "wo men shi peng you",
+		"soundmark": "wǒ men shì péng yǒu",
+		"englishGloss": "we are friends"
 	},
 	{
 		"chinese": "我们不是朋友",
-		"english": "we are not friends",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/"
+		"pinyin": "wo men bu shi peng you",
+		"soundmark": "wǒ men bú shì péng yǒu",
+		"englishGloss": "we are not friends"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "我们再也不是朋友",
-		"english": "we are not friends anymore",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/"
+		"pinyin": "wo men zai ye bu shi peng you",
+		"soundmark": "wǒ men zài yě bú shì péng yǒu",
+		"englishGloss": "we are not friends anymore"
 	},
 	{
 		"chinese": "有名的",
-		"english": "famous",
-		"soundmark": "/'feməs/"
+		"pinyin": "you ming de",
+		"soundmark": "yǒu míng de",
+		"englishGloss": "famous"
 	},
 	{
 		"chinese": "她是有名的",
-		"english": "she is famous",
-		"soundmark": "/ʃi/ /ɪz/ /'feməs/"
+		"pinyin": "ta shi you ming de",
+		"soundmark": "tā shì yǒu míng de",
+		"englishGloss": "she is famous"
 	},
 	{
 		"chinese": "她不是有名的",
-		"english": "she is not famous",
-		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/"
+		"pinyin": "ta bu shi you ming de",
+		"soundmark": "tā bú shì yǒu míng de",
+		"englishGloss": "she is not famous"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "她再也不是有名的",
-		"english": "she is not famous anymore",
-		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/"
+		"pinyin": "ta zai ye bu shi you ming de",
+		"soundmark": "tā zài yě bú shì yǒu míng de",
+		"englishGloss": "she is not famous anymore"
 	},
 	{
 		"chinese": "老板",
-		"english": "boss",
-		"soundmark": "/bɔs/"
+		"pinyin": "lao ban",
+		"soundmark": "lǎo bǎn",
+		"englishGloss": "boss"
 	},
 	{
 		"chinese": "我的老板",
-		"english": "my boss",
-		"soundmark": "/maɪ/ /bɔs/"
+		"pinyin": "wo de lao ban",
+		"soundmark": "wǒ de lǎo bǎn",
+		"englishGloss": "my boss"
 	},
 	{
 		"chinese": "你是我的老板",
-		"english": "you are my boss",
-		"soundmark": "/ju/ /ɚ/ /maɪ/ /bɔs/"
+		"pinyin": "ni shi wo de lao ban",
+		"soundmark": "nǐ shì wǒ de lǎo bǎn",
+		"englishGloss": "you are my boss"
 	},
 	{
 		"chinese": "你不是我的老板",
-		"english": "you are not my boss",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/"
+		"pinyin": "ni bu shi wo de lao ban",
+		"soundmark": "nǐ bú shì wǒ de lǎo bǎn",
+		"englishGloss": "you are not my boss"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "你再也不是我的老板",
-		"english": "you are not my boss anymore",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/"
+		"pinyin": "ni zai ye bu shi wo de lao ban",
+		"soundmark": "nǐ zài yě bú shì wǒ de lǎo bǎn",
+		"englishGloss": "you are not my boss anymore"
 	},
 	{
 		"chinese": "退出",
-		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"pinyin": "tui chu",
+		"soundmark": "tuì chū",
+		"englishGloss": "to quit"
 	},
 	{
 		"chinese": "我辞职",
-		"english": "I quit",
-		"soundmark": "/aɪ/ /kwɪt/"
+		"pinyin": "wo ci zhi",
+		"soundmark": "wǒ cí zhí",
+		"englishGloss": "I quit"
 	},
 	{
 		"chinese": "你再也不是我的老板。我辞职。",
-		"english": "you are not my boss anymore I quit",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/"
+		"pinyin": "ni zai ye bu shi wo de lao ban 。 wo ci zhi 。",
+		"soundmark": "nǐ zài yě bú shì wǒ de lǎo bǎn 。 wǒ cí zhí 。",
+		"englishGloss": "you are not my boss anymore I quit"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "它不是重要的",
-		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta bu shi zhong yao de",
+		"soundmark": "tā bú shì zhòng yào de",
+		"englishGloss": "it is not important"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "它再也不是重要的",
-		"english": "it is not important anymore",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/"
+		"pinyin": "ta zai ye bu shi zhong yao de",
+		"soundmark": "tā zài yě bú shì zhòng yào de",
+		"englishGloss": "it is not important anymore"
 	},
 	{
 		"chinese": "喝",
-		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "to drink"
 	},
 	{
 		"chinese": "咖啡",
-		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"pinyin": "ka fei",
+		"soundmark": "kā fēi",
+		"englishGloss": "coffee"
 	},
 	{
 		"chinese": "喝咖啡",
-		"english": "to drink coffee",
-		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/"
+		"pinyin": "he ka fei",
+		"soundmark": "hē kā fēi",
+		"englishGloss": "to drink coffee"
 	},
 	{
 		"chinese": "我喝咖啡",
-		"english": "I drink coffee",
-		"soundmark": "/aɪ/ /drɪŋk/ /'kɔfi/"
+		"pinyin": "wo he ka fei",
+		"soundmark": "wǒ hē kā fēi",
+		"englishGloss": "I drink coffee"
 	},
 	{
 		"chinese": "我不喝咖啡",
-		"english": "I don't drink coffee",
-		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/"
+		"pinyin": "wo bu he ka fei",
+		"soundmark": "wǒ bù hē kā fēi",
+		"englishGloss": "I don't drink coffee"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "我再也不喝咖啡了",
-		"english": "I don't drink coffee anymore",
-		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/"
+		"pinyin": "wo zai ye bu he ka fei le",
+		"soundmark": "wǒ zài yě bù hē kā fēi le",
+		"englishGloss": "I don't drink coffee anymore"
 	},
 	{
 		"chinese": "玩",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "wan",
+		"soundmark": "wán",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "游戏",
-		"english": "games",
-		"soundmark": "/ɡemz/"
+		"pinyin": "you xi",
+		"soundmark": "yóu xì",
+		"englishGloss": "games"
 	},
 	{
 		"chinese": "玩游戏",
-		"english": "to play games",
-		"soundmark": "/tə/ /ple/ /ɡemz/"
+		"pinyin": "wan you xi",
+		"soundmark": "wán yóu xì",
+		"englishGloss": "to play games"
 	},
 	{
 		"chinese": "视频",
-		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"pinyin": "shi pin",
+		"soundmark": "shì pín",
+		"englishGloss": "video"
 	},
 	{
 		"chinese": "电子游戏",
-		"english": "video games",
-		"soundmark": "/'vɪdɪo/ /ɡemz/"
+		"pinyin": "dian zi you xi",
+		"soundmark": "diàn zǐ yóu xì",
+		"englishGloss": "video games"
 	},
 	{
 		"chinese": "玩电子游戏",
-		"english": "to play video games",
-		"soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "wan dian zi you xi",
+		"soundmark": "wán diàn zǐ yóu xì",
+		"englishGloss": "to play video games"
 	},
 	{
 		"chinese": "他玩电子游戏",
-		"english": "he plays video games",
-		"soundmark": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "ta wan dian zi you xi",
+		"soundmark": "tā wán diàn zǐ yóu xì",
+		"englishGloss": "he plays video games"
 	},
 	{
 		"chinese": "他不玩电子游戏",
-		"english": "he doesn't play video games",
-		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "ta bu wan dian zi you xi",
+		"soundmark": "tā bù wán diàn zǐ yóu xì",
+		"englishGloss": "he doesn't play video games"
 	},
 	{
 		"chinese": "再也不",
-		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"pinyin": "zai ye bu",
+		"soundmark": "zài yě bù",
+		"englishGloss": "not anymore"
 	},
 	{
 		"chinese": "他再也不玩电子游戏",
-		"english": "he doesn't play video games anymore",
-		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+		"pinyin": "ta zai ye bu wan dian zi you xi",
+		"soundmark": "tā zài yě bù wán diàn zǐ yóu xì",
+		"englishGloss": "he doesn't play video games anymore"
 	},
 	{
 		"chinese": "我们玩电子游戏",
-		"english": "we play video games",
-		"soundmark": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "wo men wan dian zi you xi",
+		"soundmark": "wǒ men wán diàn zǐ yóu xì",
+		"englishGloss": "we play video games"
 	},
 	{
 		"chinese": "我们不玩电子游戏",
-		"english": "we don't play video games",
-		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "wo men bu wan dian zi you xi",
+		"soundmark": "wǒ men bù wán diàn zǐ yóu xì",
+		"englishGloss": "we don't play video games"
 	},
 	{
 		"chinese": "我们再也不玩电子游戏",
-		"english": "we don't play video games anymore",
-		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+		"pinyin": "wo men zai ye bu wan dian zi you xi",
+		"soundmark": "wǒ men zài yě bù wán diàn zǐ yóu xì",
+		"englishGloss": "we don't play video games anymore"
 	}
 ]

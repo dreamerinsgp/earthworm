@@ -1,872 +1,1046 @@
 [
 	{
 		"chinese": "惊喜",
-		"english": "surprise",
-		"soundmark": "/sɚ'praɪz/"
+		"pinyin": "jing xi",
+		"soundmark": "jīng xǐ",
+		"englishGloss": "surprise"
 	},
 	{
 		"chinese": "一个惊喜",
-		"english": "a surprise",
-		"soundmark": "/ə/ /sɚ'praɪz/"
+		"pinyin": "yi ge jing xi",
+		"soundmark": "yí gè jīng xǐ",
+		"englishGloss": "a surprise"
 	},
 	{
 		"chinese": "大的",
-		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"pinyin": "da de",
+		"soundmark": "dà de",
+		"englishGloss": "big"
 	},
 	{
 		"chinese": "一个大惊喜",
-		"english": "a big surprise",
-		"soundmark": "/ə/ /bɪɡ/ /sɚ'praɪz/"
+		"pinyin": "yi ge da jing xi",
+		"soundmark": "yí gè dà jīng xǐ",
+		"englishGloss": "a big surprise"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "给她",
-		"english": "to give her",
-		"soundmark": "/tə/ /ɡɪv/ /hɚ/"
+		"pinyin": "gei ta",
+		"soundmark": "gěi tā",
+		"englishGloss": "to give her"
 	},
 	{
 		"chinese": "给她一个大惊喜",
-		"english": "to give her a big surprise",
-		"soundmark": "/tə/ /ɡɪv/ /hɚ/ /ə/ /bɪɡ/ /sɚ'praɪz/"
+		"pinyin": "gei ta yi ge da jing xi",
+		"soundmark": "gěi tā yí gè dà jīng xǐ",
+		"englishGloss": "to give her a big surprise"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要给她一个大惊喜",
-		"english": "I want to give her a big surprise",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /hɚ/ /ə/ /bɪɡ/ /sɚ'praɪz/"
+		"pinyin": "wo xiang yao gei ta yi ge da jing xi",
+		"soundmark": "wǒ xiǎng yào gěi tā yí gè dà jīng xǐ",
+		"englishGloss": "I want to give her a big surprise"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "建议",
-		"english": "advice",
-		"soundmark": "/əd'vaɪs/"
+		"pinyin": "jian yi",
+		"soundmark": "jiàn yì",
+		"englishGloss": "advice"
 	},
 	{
 		"chinese": "一些",
-		"english": "some",
-		"soundmark": "/səm/"
+		"pinyin": "yi xie",
+		"soundmark": "yì xiē",
+		"englishGloss": "some"
 	},
 	{
 		"chinese": "一些建议",
-		"english": "some advice",
-		"soundmark": "/səm/ /əd'vaɪs/"
+		"pinyin": "yi xie jian yi",
+		"soundmark": "yì xiē jiàn yì",
+		"englishGloss": "some advice"
 	},
 	{
 		"chinese": "给一些建议",
-		"english": "to give some advice",
-		"soundmark": "/tə/ /ɡɪv/ /səm/ /əd'vaɪs/"
+		"pinyin": "gei yi xie jian yi",
+		"soundmark": "gěi yì xiē jiàn yì",
+		"englishGloss": "to give some advice"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "给我",
-		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"pinyin": "gei wo",
+		"soundmark": "gěi wǒ",
+		"englishGloss": "to give me"
 	},
 	{
 		"chinese": "给我一些建议",
-		"english": "to give me some advice",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "gei wo yi xie jian yi",
+		"soundmark": "gěi wǒ yì xiē jiàn yì",
+		"englishGloss": "to give me some advice"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以给我一些建议",
-		"english": "you can give me some advice",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "ni ke yi gei wo yi xie jian yi",
+		"soundmark": "nǐ kě yǐ gěi wǒ yì xiē jiàn yì",
+		"englishGloss": "you can give me some advice"
 	},
 	{
 		"chinese": "你可以给我一些建议吗？",
-		"english": "can you give me some advice?",
-		"soundmark": "/kæn/ /ju/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "ni ke yi gei wo yi xie jian yi ma ？",
+		"soundmark": "nǐ kě yǐ gěi wǒ yì xiē jiàn yì ma ？",
+		"englishGloss": "can you give me some advice?"
 	},
 	{
 		"chinese": "希望",
-		"english": "to hope",
-		"soundmark": "/tə/ /hop/"
+		"pinyin": "xi wang",
+		"soundmark": "xī wàng",
+		"englishGloss": "to hope"
 	},
 	{
 		"chinese": "我希望",
-		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"pinyin": "wo xi wang",
+		"soundmark": "wǒ xī wàng",
+		"englishGloss": "I hope"
 	},
 	{
 		"chinese": "我希望你可以给我一些建议",
-		"english": "I hope you can give me some advice",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "wo xi wang ni ke yi gei wo yi xie jian yi",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ yì xiē jiàn yì",
+		"englishGloss": "I hope you can give me some advice"
 	},
 	{
 		"chinese": "希望",
-		"english": "hope",
-		"soundmark": "/hop/"
+		"pinyin": "xi wang",
+		"soundmark": "xī wàng",
+		"englishGloss": "hope"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "给希望",
-		"english": "to give hope",
-		"soundmark": "/tə/ /ɡɪv/ /hop/"
+		"pinyin": "gei xi wang",
+		"soundmark": "gěi xī wàng",
+		"englishGloss": "to give hope"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "给我希望",
-		"english": "to give me hope",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /hop/"
+		"pinyin": "gei wo xi wang",
+		"soundmark": "gěi wǒ xī wàng",
+		"englishGloss": "to give me hope"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你给我希望",
-		"english": "you give me hope",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /hop/"
+		"pinyin": "ni gei wo xi wang",
+		"soundmark": "nǐ gěi wǒ xī wàng",
+		"englishGloss": "you give me hope"
 	},
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "你的手",
-		"english": "your hand",
-		"soundmark": "/jʊr/ /hænd/"
+		"pinyin": "ni de shou",
+		"soundmark": "nǐ de shǒu",
+		"englishGloss": "your hand"
 	},
 	{
 		"chinese": "给我",
-		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"pinyin": "gei wo",
+		"soundmark": "gěi wǒ",
+		"englishGloss": "to give me"
 	},
 	{
 		"chinese": "给我你的手",
-		"english": "to give me your hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /jʊr/ /hænd/"
+		"pinyin": "gei wo ni de shou",
+		"soundmark": "gěi wǒ nǐ de shǒu",
+		"englishGloss": "to give me your hand"
 	},
 	{
 		"chinese": "给我帮把手",
-		"english": "to give me a hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "gei wo bang ba shou",
+		"soundmark": "gěi wǒ bāng bǎ shǒu",
+		"englishGloss": "to give me a hand"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以给我帮把手",
-		"english": "you can give me a hand",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "ni ke yi gei wo bang ba shou",
+		"soundmark": "nǐ kě yǐ gěi wǒ bāng bǎ shǒu",
+		"englishGloss": "you can give me a hand"
 	},
 	{
 		"chinese": "你可以给我帮把手?",
-		"english": "can you give me a hand?",
-		"soundmark": "/kæn/ /ju/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "ni ke yi gei wo bang ba shou ?",
+		"soundmark": "nǐ kě yǐ gěi wǒ bāng bǎ shǒu ?",
+		"englishGloss": "can you give me a hand?"
 	},
 	{
 		"chinese": "希望",
-		"english": "to hope",
-		"soundmark": "/tə/ /hop/"
+		"pinyin": "xi wang",
+		"soundmark": "xī wàng",
+		"englishGloss": "to hope"
 	},
 	{
 		"chinese": "我希望",
-		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"pinyin": "wo xi wang",
+		"soundmark": "wǒ xī wàng",
+		"englishGloss": "I hope"
 	},
 	{
 		"chinese": "我希望你可以给我帮把手",
-		"english": "I hope you can give me a hand",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "wo xi wang ni ke yi gei wo bang ba shou",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ bāng bǎ shǒu",
+		"englishGloss": "I hope you can give me a hand"
 	},
 	{
 		"chinese": "递",
-		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"pinyin": "di",
+		"soundmark": "dì",
+		"englishGloss": "to hand"
 	},
 	{
 		"chinese": "刀",
-		"english": "knife",
-		"soundmark": "/naɪf/"
+		"pinyin": "dao",
+		"soundmark": "dāo",
+		"englishGloss": "knife"
 	},
 	{
 		"chinese": "那把刀",
-		"english": "the knife",
-		"soundmark": "/ðə/ /naɪf/"
+		"pinyin": "na ba dao",
+		"soundmark": "nà bǎ dāo",
+		"englishGloss": "the knife"
 	},
 	{
 		"chinese": "递那把刀",
-		"english": "to hand the knife",
-		"soundmark": "/tə/ /hænd/ /ðə/ /naɪf/"
+		"pinyin": "di na ba dao",
+		"soundmark": "dì nà bǎ dāo",
+		"englishGloss": "to hand the knife"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "递给我",
-		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"pinyin": "di gei wo",
+		"soundmark": "dì gěi wǒ",
+		"englishGloss": "to hand me"
 	},
 	{
 		"chinese": "那把刀",
-		"english": "the knife",
-		"soundmark": "/ðə/ /naɪf/"
+		"pinyin": "na ba dao",
+		"soundmark": "nà bǎ dāo",
+		"englishGloss": "the knife"
 	},
 	{
 		"chinese": "递给我那把刀",
-		"english": "to hand me the knife",
-		"soundmark": "/tə/ /hænd/ /mi/ /ðə/ /naɪf/"
+		"pinyin": "di gei wo na ba dao",
+		"soundmark": "dì gěi wǒ nà bǎ dāo",
+		"englishGloss": "to hand me the knife"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以递给我那把刀",
-		"english": "you can hand me the knife",
-		"soundmark": "/ju/ /kæn/ /hænd/ /mi/ /ðə/ /naɪf/"
+		"pinyin": "ni ke yi di gei wo na ba dao",
+		"soundmark": "nǐ kě yǐ dì gěi wǒ nà bǎ dāo",
+		"englishGloss": "you can hand me the knife"
 	},
 	{
 		"chinese": "你可以递给我那把刀吗?",
-		"english": "can you hand me the knife",
-		"soundmark": "/kæn/ /ju/ /hænd/ /mi/ /ðə/ /naɪf/"
+		"pinyin": "ni ke yi di gei wo na ba dao ma ?",
+		"soundmark": "nǐ kě yǐ dì gěi wǒ nà bǎ dāo ma ?",
+		"englishGloss": "can you hand me the knife"
 	},
 	{
 		"chinese": "可以（礼貌版）",
-		"english": "could",
-		"soundmark": "/kʊd/"
+		"pinyin": "ke yi （ li mao ban ）",
+		"soundmark": "kě yǐ （ lǐ mào bǎn ）",
+		"englishGloss": "could"
 	},
 	{
 		"chinese": "你可以（礼貌版）递给我那把刀吗？",
-		"english": "could you hand me the knife",
-		"soundmark": "/kʊd/ /ju/ /hænd/ /mi/ /ðə/ /naɪf/"
+		"pinyin": "ni ke yi （ li mao ban ） di gei wo na ba dao ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） dì gěi wǒ nà bǎ dāo ma ？",
+		"englishGloss": "could you hand me the knife"
 	},
 	{
 		"chinese": "读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "du",
+		"soundmark": "dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "故事",
-		"english": "story",
-		"soundmark": "/'stɔri/"
+		"pinyin": "gu shi",
+		"soundmark": "gù shì",
+		"englishGloss": "story"
 	},
 	{
 		"chinese": "读一个故事",
-		"english": "to read a story",
-		"soundmark": "/tə/ /rid/ /ə/ /'stɔri/"
+		"pinyin": "du yi ge gu shi",
+		"soundmark": "dú yí gè gù shì",
+		"englishGloss": "to read a story"
 	},
 	{
 		"chinese": "床",
-		"english": "bed",
-		"soundmark": "/bɛd/"
+		"pinyin": "chuang",
+		"soundmark": "chuáng",
+		"englishGloss": "bed"
 	},
 	{
 		"chinese": "时间",
-		"english": "time",
-		"soundmark": "/taɪm/"
+		"pinyin": "shi jian",
+		"soundmark": "shí jiān",
+		"englishGloss": "time"
 	},
 	{
 		"chinese": "就寝时间",
-		"english": "bedtime",
-		"soundmark": "/'bɛdtaɪm/"
+		"pinyin": "jiu qin shi jian",
+		"soundmark": "jiù qǐn shí jiān",
+		"englishGloss": "bedtime"
 	},
 	{
 		"chinese": "故事",
-		"english": "story",
-		"soundmark": "/'stɔri/"
+		"pinyin": "gu shi",
+		"soundmark": "gù shì",
+		"englishGloss": "story"
 	},
 	{
 		"chinese": "睡前故事",
-		"english": "a bedtime story",
-		"soundmark": "/ə/ /'bɛdtaɪm/ /'stɔri/"
+		"pinyin": "shui qian gu shi",
+		"soundmark": "shuì qián gù shì",
+		"englishGloss": "a bedtime story"
 	},
 	{
 		"chinese": "读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "du",
+		"soundmark": "dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "读一个睡前故事",
-		"english": "to read a bedtime story",
-		"soundmark": "/tə/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/"
+		"pinyin": "du yi ge shui qian gu shi",
+		"soundmark": "dú yí gè shuì qián gù shì",
+		"englishGloss": "to read a bedtime story"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "读给她",
-		"english": "to read her",
-		"soundmark": "/tə/ /rid/ /hɚ/"
+		"pinyin": "du gei ta",
+		"soundmark": "dú gěi tā",
+		"englishGloss": "to read her"
 	},
 	{
 		"chinese": "读给她一个睡前故事",
-		"english": "to read her a bedtime story",
-		"soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/"
+		"pinyin": "du gei ta yi ge shui qian gu shi",
+		"soundmark": "dú gěi tā yí gè shuì qián gù shì",
+		"englishGloss": "to read her a bedtime story"
 	},
 	{
 		"chinese": "我的女儿",
-		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"pinyin": "wo de nü er",
+		"soundmark": "wǒ de nǚ ér",
+		"englishGloss": "my daughter"
 	},
 	{
 		"chinese": "想要",
-		"english": "wants",
-		"soundmark": "/wɑnts/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "wants"
 	},
 	{
 		"chinese": "我的女儿想要我",
-		"english": "my daughter wants me",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wɑnts/ /mi/"
+		"pinyin": "wo de nü er xiang yao wo",
+		"soundmark": "wǒ de nǚ ér xiǎng yào wǒ",
+		"englishGloss": "my daughter wants me"
 	},
 	{
 		"chinese": "我的女儿想要我读给她一个睡前故事",
-		"english": "my daughter wants me to read her a bedtime story",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wɑnts/ /mi/ /tə/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/"
+		"pinyin": "wo de nü er xiang yao wo du gei ta yi ge shui qian gu shi",
+		"soundmark": "wǒ de nǚ ér xiǎng yào wǒ dú gěi tā yí gè shuì qián gù shì",
+		"englishGloss": "my daughter wants me to read her a bedtime story"
 	},
 	{
 		"chinese": "打电话",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "打电话给我",
-		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"pinyin": "da dian hua gei wo",
+		"soundmark": "dǎ diàn huà gěi wǒ",
+		"englishGloss": "to call me"
 	},
 	{
 		"chinese": "忘记",
-		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "to forget"
 	},
 	{
 		"chinese": "忘记打电话给我",
-		"english": "to forget to call me",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+		"pinyin": "wang ji da dian hua gei wo",
+		"soundmark": "wàng jì dǎ diàn huà gěi wǒ",
+		"englishGloss": "to forget to call me"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你忘记打电话给我",
-		"english": "you forget to call me",
-		"soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+		"pinyin": "ni wang ji da dian hua gei wo",
+		"soundmark": "nǐ wàng jì dǎ diàn huà gěi wǒ",
+		"englishGloss": "you forget to call me"
 	},
 	{
 		"chinese": "不要",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu yao",
+		"soundmark": "bú yào",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你不要忘记打电话给我",
-		"english": "you don't forget to call me",
-		"soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+		"pinyin": "ni bu yao wang ji da dian hua gei wo",
+		"soundmark": "nǐ bú yào wàng jì dǎ diàn huà gěi wǒ",
+		"englishGloss": "you don't forget to call me"
 	},
 	{
 		"chinese": "不要忘记打电话给我",
-		"english": "don't forget to call me",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+		"pinyin": "bu yao wang ji da dian hua gei wo",
+		"soundmark": "bú yào wàng jì dǎ diàn huà gěi wǒ",
+		"englishGloss": "don't forget to call me"
 	},
 	{
 		"chinese": "到达",
-		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"pinyin": "dao da",
+		"soundmark": "dào dá",
+		"englishGloss": "to get"
 	},
 	{
 		"chinese": "那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
+		"pinyin": "na li",
+		"soundmark": "nà lǐ",
+		"englishGloss": "there"
 	},
 	{
 		"chinese": "到达那里",
-		"english": "to get there",
-		"soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "dao da na li",
+		"soundmark": "dào dá nà lǐ",
+		"englishGloss": "to get there"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你到达那里",
-		"english": "you get there",
-		"soundmark": "/ju/ /ɡɛt/ /ðɛr/"
+		"pinyin": "ni dao da na li",
+		"soundmark": "nǐ dào dá nà lǐ",
+		"englishGloss": "you get there"
 	},
 	{
 		"chinese": "当......时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . shi hou",
+		"soundmark": "dāng . . . . . . shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你达到那里的时候",
-		"english": "when you get there",
-		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /ðɛr/"
+		"pinyin": "dang ni da dao na li de shi hou",
+		"soundmark": "dāng nǐ dá dào nà lǐ de shí hòu",
+		"englishGloss": "when you get there"
 	},
 	{
 		"chinese": "不要忘记打电话给我当你到达那里的时候",
-		"english": "don't forget to call me when you get there",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /ðɛr/"
+		"pinyin": "bu yao wang ji da dian hua gei wo dang ni dao da na li de shi hou",
+		"soundmark": "bú yào wàng jì dǎ diàn huà gěi wǒ dāng nǐ dào dá nà lǐ de shí hòu",
+		"englishGloss": "don't forget to call me when you get there"
 	},
 	{
 		"chinese": "买",
-		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "to buy"
 	},
 	{
 		"chinese": "裙子",
-		"english": "dress",
-		"soundmark": "/drɛs/"
+		"pinyin": "qun zi",
+		"soundmark": "qún zǐ",
+		"englishGloss": "dress"
 	},
 	{
 		"chinese": "新的",
-		"english": "new",
-		"soundmark": "/nu/"
+		"pinyin": "xin de",
+		"soundmark": "xīn de",
+		"englishGloss": "new"
 	},
 	{
 		"chinese": "一件新裙子",
-		"english": "a new dress",
-		"soundmark": "/ə/ /nu/ /drɛs/"
+		"pinyin": "yi jian xin qun zi",
+		"soundmark": "yí jiàn xīn qún zǐ",
+		"englishGloss": "a new dress"
 	},
 	{
 		"chinese": "买一件新裙子",
-		"english": "to buy a new dress",
-		"soundmark": "/tə/ /baɪ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "mai yi jian xin qun zi",
+		"soundmark": "mǎi yí jiàn xīn qún zǐ",
+		"englishGloss": "to buy a new dress"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "买给她",
-		"english": "to buy her",
-		"soundmark": "/tə/ /baɪ/ /hɚ/"
+		"pinyin": "mai gei ta",
+		"soundmark": "mǎi gěi tā",
+		"englishGloss": "to buy her"
 	},
 	{
 		"chinese": "买给她一件新裙子",
-		"english": "to buy her a new dress",
-		"soundmark": "/tə/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "mai gei ta yi jian xin qun zi",
+		"soundmark": "mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "to buy her a new dress"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我买给她一件新裙子",
-		"english": "I buy her a new dress",
-		"soundmark": "/aɪ/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/ /（过去）买 bought/ /bɔt/"
+		"pinyin": "wo mai gei ta yi jian xin qun zi",
+		"soundmark": "wǒ mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "I buy her a new dress"
 	},
 	{
 		"chinese": "我（过去）买给她一件新裙子",
-		"english": "I bought her a new dress",
-		"soundmark": "/aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "wo （ guo qu ） mai gei ta yi jian xin qun zi",
+		"soundmark": "wǒ （ guò qù ） mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "I bought her a new dress"
 	},
 	{
 		"chinese": "女儿",
-		"english": "daughter",
-		"soundmark": "/'dɔtɚ/"
+		"pinyin": "nü er",
+		"soundmark": "nǚ ér",
+		"englishGloss": "daughter"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的女儿",
-		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"pinyin": "wo de nü er",
+		"soundmark": "wǒ de nǚ ér",
+		"englishGloss": "my daughter"
 	},
 	{
 		"chinese": "我（过去）买给我的女儿一件新裙子",
-		"english": "I bought my daughter a new dress",
-		"soundmark": "/aɪ/ /bɔt/ /maɪ/ /'dɔtɚ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "wo （ guo qu ） mai gei wo de nü er yi jian xin qun zi",
+		"soundmark": "wǒ （ guò qù ） mǎi gěi wǒ de nǚ ér yí jiàn xīn qún zǐ",
+		"englishGloss": "I bought my daughter a new dress"
 	},
 	{
 		"chinese": "周",
-		"english": "week",
-		"soundmark": "/wik/"
+		"pinyin": "zhou",
+		"soundmark": "zhōu",
+		"englishGloss": "week"
 	},
 	{
 		"chinese": "上一个",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "shang yi ge",
+		"soundmark": "shàng yí gè",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "上周",
-		"english": "last week",
-		"soundmark": "/læst/ /wik/"
+		"pinyin": "shang zhou",
+		"soundmark": "shàng zhōu",
+		"englishGloss": "last week"
 	},
 	{
 		"chinese": "我上周买给我女儿一件新裙子",
-		"english": "I bought my daughter a new dress last week",
-		"soundmark": "/aɪ/ /bɔt/ /maɪ/ /'dɔtɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+		"pinyin": "wo shang zhou mai gei wo nü er yi jian xin qun zi",
+		"soundmark": "wǒ shàng zhōu mǎi gěi wǒ nǚ ér yí jiàn xīn qún zǐ",
+		"englishGloss": "I bought my daughter a new dress last week"
 	},
 	{
 		"chinese": "出生",
-		"english": "birth",
-		"soundmark": "/bɝθ/"
+		"pinyin": "chu sheng",
+		"soundmark": "chū shēng",
+		"englishGloss": "birth"
 	},
 	{
 		"chinese": "日",
-		"english": "day",
-		"soundmark": "/de/"
+		"pinyin": "ri",
+		"soundmark": "rì",
+		"englishGloss": "day"
 	},
 	{
 		"chinese": "生日",
-		"english": "birthday",
-		"soundmark": "/'bɝθde/"
+		"pinyin": "sheng ri",
+		"soundmark": "shēng rì",
+		"englishGloss": "birthday"
 	},
 	{
 		"chinese": "礼物",
-		"english": "gift",
-		"soundmark": "/ɡɪft/"
+		"pinyin": "li wu",
+		"soundmark": "lǐ wù",
+		"englishGloss": "gift"
 	},
 	{
 		"chinese": "生日礼物",
-		"english": "birthday gift",
-		"soundmark": "/'bɝθde/ /ɡɪft/"
+		"pinyin": "sheng ri li wu",
+		"soundmark": "shēng rì lǐ wù",
+		"englishGloss": "birthday gift"
 	},
 	{
 		"chinese": "一个生日礼物",
-		"english": "a birthday gift",
-		"soundmark": "/ə/ /'bɝθde/ /ɡɪft/"
+		"pinyin": "yi ge sheng ri li wu",
+		"soundmark": "yí gè shēng rì lǐ wù",
+		"englishGloss": "a birthday gift"
 	},
 	{
 		"chinese": "买",
-		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "to buy"
 	},
 	{
 		"chinese": "买一个生日礼物",
-		"english": "to buy a birthday gift",
-		"soundmark": "/tə/ /baɪ/ /ə/ /'bɝθde/ /ɡɪft/"
+		"pinyin": "mai yi ge sheng ri li wu",
+		"soundmark": "mǎi yí gè shēng rì lǐ wù",
+		"englishGloss": "to buy a birthday gift"
 	},
 	{
 		"chinese": "我的女儿",
-		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"pinyin": "wo de nü er",
+		"soundmark": "wǒ de nǚ ér",
+		"englishGloss": "my daughter"
 	},
 	{
 		"chinese": "买给我的女儿",
-		"english": "to buy my daughter",
-		"soundmark": "/tə/ /baɪ/ /maɪ/ /'dɔtɚ/"
+		"pinyin": "mai gei wo de nü er",
+		"soundmark": "mǎi gěi wǒ de nǚ ér",
+		"englishGloss": "to buy my daughter"
 	},
 	{
 		"chinese": "买给我的女儿一个生日礼物",
-		"english": "to buy my daughter a birthday gift",
-		"soundmark": "/tə/ /baɪ/ /maɪ/ /'dɔtɚ/ /ə/ /'bɝθde/ /ɡɪft/"
+		"pinyin": "mai gei wo de nü er yi ge sheng ri li wu",
+		"soundmark": "mǎi gěi wǒ de nǚ ér yí gè shēng rì lǐ wù",
+		"englishGloss": "to buy my daughter a birthday gift"
 	},
 	{
 		"chinese": "我将会",
-		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"pinyin": "wo jiang hui",
+		"soundmark": "wǒ jiāng huì",
+		"englishGloss": "I will"
 	},
 	{
 		"chinese": "我将会买给我的女儿一个生日礼物",
-		"english": "I will buy my daughter a birthday gift",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /maɪ/ /'dɔtɚ/ /ə/ /'bɝθde/ /ɡɪft/"
+		"pinyin": "wo jiang hui mai gei wo de nü er yi ge sheng ri li wu",
+		"soundmark": "wǒ jiāng huì mǎi gěi wǒ de nǚ ér yí gè shēng rì lǐ wù",
+		"englishGloss": "I will buy my daughter a birthday gift"
 	},
 	{
 		"chinese": "月",
-		"english": "month",
-		"soundmark": "/mʌnθ/"
+		"pinyin": "yue",
+		"soundmark": "yuè",
+		"englishGloss": "month"
 	},
 	{
 		"chinese": "下一个",
-		"english": "next",
-		"soundmark": "/nɛkst/"
+		"pinyin": "xia yi ge",
+		"soundmark": "xià yí gè",
+		"englishGloss": "next"
 	},
 	{
 		"chinese": "下个月",
-		"english": "next month",
-		"soundmark": "/nɛkst/ /mʌnθ/"
+		"pinyin": "xia ge yue",
+		"soundmark": "xià gè yuè",
+		"englishGloss": "next month"
 	},
 	{
 		"chinese": "下个月我将会买给我女儿一个生日礼物",
-		"english": "I will buy my daughter a birthday gift next month",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /maɪ/ /'dɔtɚ/ /ə/ /'bɝθde/ /ɡɪft/ /nɛkst/ /mʌnθ/"
+		"pinyin": "xia ge yue wo jiang hui mai gei wo nü er yi ge sheng ri li wu",
+		"soundmark": "xià gè yuè wǒ jiāng huì mǎi gěi wǒ nǚ ér yí gè shēng rì lǐ wù",
+		"englishGloss": "I will buy my daughter a birthday gift next month"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "杯",
-		"english": "cup",
-		"soundmark": "/kʌp/"
+		"pinyin": "bei",
+		"soundmark": "bēi",
+		"englishGloss": "cup"
 	},
 	{
 		"chinese": "一杯",
-		"english": "a cup",
-		"soundmark": "/ə/ /kʌp/"
+		"pinyin": "yi bei",
+		"soundmark": "yì bēi",
+		"englishGloss": "a cup"
 	},
 	{
 		"chinese": "咖啡",
-		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"pinyin": "ka fei",
+		"soundmark": "kā fēi",
+		"englishGloss": "coffee"
 	},
 	{
 		"chinese": "一杯咖啡",
-		"english": "a cup of coffee",
-		"soundmark": "/ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "yi bei ka fei",
+		"soundmark": "yì bēi kā fēi",
+		"englishGloss": "a cup of coffee"
 	},
 	{
 		"chinese": "做一杯咖啡",
-		"english": "to make a cup of coffee",
-		"soundmark": "/tə/ /mek/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "zuo yi bei ka fei",
+		"soundmark": "zuò yì bēi kā fēi",
+		"englishGloss": "to make a cup of coffee"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我做一杯咖啡",
-		"english": "I make a cup of coffee",
-		"soundmark": "/aɪ/ /mek/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "wo zuo yi bei ka fei",
+		"soundmark": "wǒ zuò yì bēi kā fēi",
+		"englishGloss": "I make a cup of coffee"
 	},
 	{
 		"chinese": "我自己",
-		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"pinyin": "wo zi ji",
+		"soundmark": "wǒ zì jǐ",
+		"englishGloss": "myself"
 	},
 	{
 		"chinese": "我做给我自己一杯咖啡",
-		"english": "I make myself a cup of coffee",
-		"soundmark": "/aɪ/ /mek/ /maɪ'sɛlf/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "wo zuo gei wo zi ji yi bei ka fei",
+		"soundmark": "wǒ zuò gěi wǒ zì jǐ yì bēi kā fēi",
+		"englishGloss": "I make myself a cup of coffee"
 	},
 	{
 		"chinese": "早晨",
-		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"pinyin": "zao chen",
+		"soundmark": "zǎo chén",
+		"englishGloss": "morning"
 	},
 	{
 		"chinese": "每个",
-		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"pinyin": "mei ge",
+		"soundmark": "měi gè",
+		"englishGloss": "every"
 	},
 	{
 		"chinese": "每天早晨",
-		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "mei tian zao chen",
+		"soundmark": "měi tiān zǎo chén",
+		"englishGloss": "every morning"
 	},
 	{
 		"chinese": "每天早晨我做给自己一杯咖啡",
-		"english": "I make myself a cup of coffee every morning",
-		"soundmark": "/aɪ/ /mek/ /maɪ'sɛlf/ /ə/ /kʌp/ /əv/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "mei tian zao chen wo zuo gei zi ji yi bei ka fei",
+		"soundmark": "měi tiān zǎo chén wǒ zuò gěi zì jǐ yì bēi kā fēi",
+		"englishGloss": "I make myself a cup of coffee every morning"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "做给我",
-		"english": "to make me",
-		"soundmark": "/tə/ /mek/ /mi/"
+		"pinyin": "zuo gei wo",
+		"soundmark": "zuò gěi wǒ",
+		"englishGloss": "to make me"
 	},
 	{
 		"chinese": "做给我一杯咖啡",
-		"english": "to make me a cup of coffee",
-		"soundmark": "/tə/ /mek/ /mi/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "zuo gei wo yi bei ka fei",
+		"soundmark": "zuò gěi wǒ yì bēi kā fēi",
+		"englishGloss": "to make me a cup of coffee"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以做给我一杯咖啡",
-		"english": "you can make me a cup of coffee",
-		"soundmark": "/ju/ /kæn/ /mek/ /mi/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "ni ke yi zuo gei wo yi bei ka fei",
+		"soundmark": "nǐ kě yǐ zuò gěi wǒ yì bēi kā fēi",
+		"englishGloss": "you can make me a cup of coffee"
 	},
 	{
 		"chinese": "你可以做给我一杯咖啡吗？",
-		"english": "can you make me a cup of coffee?",
-		"soundmark": "/kæn/ /ju/ /mek/ /mi/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "ni ke yi zuo gei wo yi bei ka fei ma ？",
+		"soundmark": "nǐ kě yǐ zuò gěi wǒ yì bēi kā fēi ma ？",
+		"englishGloss": "can you make me a cup of coffee?"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "做给她",
-		"english": "to make her",
-		"soundmark": "/tə/ /mek/ /hɚ/"
+		"pinyin": "zuo gei ta",
+		"soundmark": "zuò gěi tā",
+		"englishGloss": "to make her"
 	},
 	{
 		"chinese": "你可以做给她一杯咖啡吗？",
-		"english": "can you make her a cup of coffee?",
-		"soundmark": "/kæn/ /ju/ /mek/ /hɚ/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+		"pinyin": "ni ke yi zuo gei ta yi bei ka fei ma ？",
+		"soundmark": "nǐ kě yǐ zuò gěi tā yì bēi kā fēi ma ？",
+		"englishGloss": "can you make her a cup of coffee?"
 	},
 	{
 		"chinese": "开心",
-		"english": "happy",
-		"soundmark": "/'hæpi/"
+		"pinyin": "kai xin",
+		"soundmark": "kāi xīn",
+		"englishGloss": "happy"
 	},
 	{
 		"chinese": "你可以让她开心吗？",
-		"english": "can you make her happy?",
-		"soundmark": "/kæn/ /ju/ /mek/ /hɚ/ /'hæpi/"
+		"pinyin": "ni ke yi rang ta kai xin ma ？",
+		"soundmark": "nǐ kě yǐ ràng tā kāi xīn ma ？",
+		"englishGloss": "can you make her happy?"
 	},
 	{
 		"chinese": "让她开心",
-		"english": "to make her happy",
-		"soundmark": "/tə/ /mek/ /hɚ/ /'hæpi/"
+		"pinyin": "rang ta kai xin",
+		"soundmark": "ràng tā kāi xīn",
+		"englishGloss": "to make her happy"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要让她开心",
-		"english": "I want to make her happy",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /hɚ/ /'hæpi/"
+		"pinyin": "wo xiang yao rang ta kai xin",
+		"soundmark": "wǒ xiǎng yào ràng tā kāi xīn",
+		"englishGloss": "I want to make her happy"
 	},
 	{
 		"chinese": "生日",
-		"english": "birthday",
-		"soundmark": "/'bɝθde/"
+		"pinyin": "sheng ri",
+		"soundmark": "shēng rì",
+		"englishGloss": "birthday"
 	},
 	{
 		"chinese": "小月亮的生日",
-		"english": "Xiaoyueliang's birthday",
-		"soundmark": "/'bɝθde/"
+		"pinyin": "xiao yue liang de sheng ri",
+		"soundmark": "xiǎo yuè liàng de shēng rì",
+		"englishGloss": "Xiaoyueliang's birthday"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "明天是小月亮的生日",
-		"english": "tomorrow is Xiaoyueliang's birthday",
-		"soundmark": "/tə'mɔro/ /ɪz/ /'bɝθde/"
+		"pinyin": "ming tian shi xiao yue liang de sheng ri",
+		"soundmark": "míng tiān shì xiǎo yuè liàng de shēng rì",
+		"englishGloss": "tomorrow is Xiaoyueliang's birthday"
 	},
 	{
 		"chinese": "明天是小月亮的生日而且我想要让她开心",
-		"english": "tomorrow is Xiaoyueliang's birthday and I want to make her happy",
-		"soundmark": "/tə'mɔro/ /ɪz/ /'bɝθde/ /ənd/ /aɪ/ /wɑnt/ /tə/ /mek/ /hɚ/ /'hæpi/"
+		"pinyin": "ming tian shi xiao yue liang de sheng ri er qie wo xiang yao rang ta kai xin",
+		"soundmark": "míng tiān shì xiǎo yuè liàng de shēng rì ér qiě wǒ xiǎng yào ràng tā kāi xīn",
+		"englishGloss": "tomorrow is Xiaoyueliang's birthday and I want to make her happy"
 	},
 	{
 		"chinese": "买",
-		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "to buy"
 	},
 	{
 		"chinese": "一件新裙子",
-		"english": "a new dress",
-		"soundmark": "/ə/ /nu/ /drɛs/"
+		"pinyin": "yi jian xin qun zi",
+		"soundmark": "yí jiàn xīn qún zǐ",
+		"englishGloss": "a new dress"
 	},
 	{
 		"chinese": "买一件新裙子",
-		"english": "to buy a new dress",
-		"soundmark": "/tə/ /baɪ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "mai yi jian xin qun zi",
+		"soundmark": "mǎi yí jiàn xīn qún zǐ",
+		"englishGloss": "to buy a new dress"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "买给她",
-		"english": "to buy her",
-		"soundmark": "/tə/ /baɪ/ /hɚ/"
+		"pinyin": "mai gei ta",
+		"soundmark": "mǎi gěi tā",
+		"englishGloss": "to buy her"
 	},
 	{
 		"chinese": "买给她一件新裙子",
-		"english": "to buy her a new dress",
-		"soundmark": "/tə/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "mai gei ta yi jian xin qun zi",
+		"soundmark": "mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "to buy her a new dress"
 	},
 	{
 		"chinese": "我买给她一件新裙子",
-		"english": "I buy her a new dress",
-		"soundmark": "/aɪ/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/ /（过去）买 bought/ /bɔt/"
+		"pinyin": "wo mai gei ta yi jian xin qun zi",
+		"soundmark": "wǒ mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "I buy her a new dress"
 	},
 	{
 		"chinese": "我（过去）买给她一件新裙子",
-		"english": "I bought her a new dress",
-		"soundmark": "/aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/"
+		"pinyin": "wo （ guo qu ） mai gei ta yi jian xin qun zi",
+		"soundmark": "wǒ （ guò qù ） mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "I bought her a new dress"
 	},
 	{
 		"chinese": "上周",
-		"english": "last week",
-		"soundmark": "/læst/ /wik/"
+		"pinyin": "shang zhou",
+		"soundmark": "shàng zhōu",
+		"englishGloss": "last week"
 	},
 	{
 		"chinese": "我上周买给她一件新裙子",
-		"english": "I bought her a new dress last week",
-		"soundmark": "/aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+		"pinyin": "wo shang zhou mai gei ta yi jian xin qun zi",
+		"soundmark": "wǒ shàng zhōu mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "I bought her a new dress last week"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "所以我上周买给她一件新裙子",
-		"english": "so I bought her a new dress last week",
-		"soundmark": "/so/ /aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+		"pinyin": "suo yi wo shang zhou mai gei ta yi jian xin qun zi",
+		"soundmark": "suǒ yǐ wǒ shàng zhōu mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "so I bought her a new dress last week"
 	},
 	{
 		"chinese": "明天是小月亮的生日而且我想要让她开心所以我上周买给她一件新裙子",
-		"english": "tomorrow is Xiaoyueliang's birthday and I want to make her happy so I bought her a new dress last week",
-		"soundmark": "/tə'mɔro/ /ɪz/ /'bɝθde/ /ənd/ /aɪ/ /wɑnt/ /tə/ /mek/ /hɚ/ /'hæpi/ /so/ /aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+		"pinyin": "ming tian shi xiao yue liang de sheng ri er qie wo xiang yao rang ta kai xin suo yi wo shang zhou mai gei ta yi jian xin qun zi",
+		"soundmark": "míng tiān shì xiǎo yuè liàng de shēng rì ér qiě wǒ xiǎng yào ràng tā kāi xīn suǒ yǐ wǒ shàng zhōu mǎi gěi tā yí jiàn xīn qún zǐ",
+		"englishGloss": "tomorrow is Xiaoyueliang's birthday and I want to make her happy so I bought her a new dress last week"
 	}
 ]

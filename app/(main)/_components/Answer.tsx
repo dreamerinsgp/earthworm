@@ -7,8 +7,12 @@ import { useUserStore } from "../../../store/user";
 
 export function Answer() {
   const { currentStatement, toNextStatement, currentCourse } = useCourse();
-  const { english: word = "", soundmark = "" } = currentStatement || {};
-  const { playSound, audio } = usePlaySound();
+  const {
+    chinese: hanzi = "",
+    soundmark = "",
+    englishGloss,
+  } = currentStatement || {};
+  const { playSound } = usePlaySound();
   const { session } = useUserStore();
 
   async function handleToNextStatement() {
@@ -22,10 +26,12 @@ export function Answer() {
   }
 
   useEffect(() => {
-    if (session.isLogin) {
+    if (session.isLogin && currentStatement?.id != null) {
       playSound();
     }
-  }, [session.isLogin]);
+    // Intentionally omit playSound: replay when the statement (card) changes, not when the callback identity changes.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [session.isLogin, currentStatement?.id]);
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -46,13 +52,15 @@ export function Answer() {
   return (
     <div className="text-center mb-20 mt-10">
       <div className="text-5xl mb-3 text-fuchsia-500 dark:text-gray-50">
-        {word}
+        {hanzi}
         <svg
           className="w-7 h-7 inline-block ml-1 cursor-pointer"
-          onClick={() => {}}
+          onClick={() => playSound()}
           viewBox="0 0 1024 1024"
           version="1.1"
           xmlns="http://www.w3.org/2000/svg"
+          role="button"
+          aria-label="Play pronunciation"
         >
           {" "}
           <path
@@ -61,14 +69,20 @@ export function Answer() {
           ></path>
         </svg>{" "}
       </div>
-      <div className="text-2xl text-slate-600">{soundmark}</div>{" "}
+      <div className="text-2xl text-slate-600 dark:text-slate-300">
+        {soundmark}
+      </div>
+      {englishGloss ? (
+        <div className="text-lg text-slate-500 dark:text-slate-400 mt-2">
+          {englishGloss}
+        </div>
+      ) : null}{" "}
       <button
         className="border-solid border-2 border-slate-400 bg-slate-100 dark:bg-fuchsia-500 rounded-lg mt-8 mb-11 indent-1 h-10 text-2xl pl-10 pr-10 hover:bg-slate-200"
         onClick={handleToNextStatement}
       >
         next
       </button>
-      {audio}
     </div>
   );
 }

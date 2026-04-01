@@ -1,16 +1,14 @@
 import { useCourse } from "@/store/course";
-import { useAudio } from "react-use";
+import { playChinesePronunciation } from "@/lib/chineseTts";
+import { useCallback } from "react";
 
 export function usePlaySound() {
   const { currentStatement } = useCourse();
-  const content = currentStatement?.english || ""
-  const [audio, state, controls, ref] = useAudio({
-    src: `https://dict.youdao.com/dictvoice?audio=${content}&type=1`,
-    autoPlay: false,
-  });
+  const chinese = currentStatement?.chinese?.trim() ?? "";
 
-  return {
-    audio,
-    playSound: () => controls.play(),
-  };
+  const playSound = useCallback(() => {
+    void playChinesePronunciation(chinese);
+  }, [chinese]);
+
+  return { playSound };
 }

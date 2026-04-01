@@ -32,12 +32,13 @@ dotenv.config({ path: path.resolve(__dirname, "../.env") });
     const courseData = JSON.parse(courseDataText);
 
     const promiseAll = courseData.map((statement, index) => {
-      const { chinese, english, soundmark } = statement;
+      const { chinese, pinyin, soundmark, englishGloss } = statement;
       const result = createStatement(
         orderIndex,
         chinese,
-        english,
+        pinyin,
         soundmark,
+        englishGloss ?? null,
         cId
       );
       orderIndex++;
@@ -49,13 +50,21 @@ dotenv.config({ path: path.resolve(__dirname, "../.env") });
     console.log(`courseName: ${fileName} 全部上传成功`);
   }
 
-  async function createStatement(order, chinese, english, soundmark, courseId) {
+  async function createStatement(
+    order,
+    chinese,
+    pinyin,
+    soundmark,
+    englishGloss,
+    courseId
+  ) {
     await prisma.statement.create({
       data: {
         order,
         chinese,
-        english,
+        pinyin,
         soundmark,
+        englishGloss,
         courseId,
       },
     });

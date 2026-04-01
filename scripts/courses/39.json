@@ -1,887 +1,1064 @@
 [
 	{
 		"chinese": "问",
-		"english": "to ask",
-		"soundmark": "/tə/ /æsk/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "to ask"
 	},
 	{
 		"chinese": "问题",
-		"english": "questions",
-		"soundmark": "/'kwɛstʃənz/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "questions"
 	},
 	{
 		"chinese": "问问题",
-		"english": "to ask questions",
-		"soundmark": "/tə/ /æsk/ /'kwɛstʃənz/"
+		"pinyin": "wen wen ti",
+		"soundmark": "wèn wèn tí",
+		"englishGloss": "to ask questions"
 	},
 	{
 		"chinese": "时间",
-		"english": "time",
-		"soundmark": "/taɪm/"
+		"pinyin": "shi jian",
+		"soundmark": "shí jiān",
+		"englishGloss": "time"
 	},
 	{
 		"chinese": "任何",
-		"english": "any",
-		"soundmark": "/'ɛni/"
+		"pinyin": "ren he",
+		"soundmark": "rèn hé",
+		"englishGloss": "any"
 	},
 	{
 		"chinese": "任何时间",
-		"english": "any time",
-		"soundmark": "/'ɛni/ /taɪm/"
+		"pinyin": "ren he shi jian",
+		"soundmark": "rèn hé shí jiān",
+		"englishGloss": "any time"
 	},
 	{
 		"chinese": "在任何时间",
-		"english": "at any time",
-		"soundmark": "/ət/ /'ɛni/ /taɪm/"
+		"pinyin": "zai ren he shi jian",
+		"soundmark": "zài rèn hé shí jiān",
+		"englishGloss": "at any time"
 	},
 	{
 		"chinese": "随时提问",
-		"english": "to ask questions at any time",
-		"soundmark": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+		"pinyin": "sui shi ti wen",
+		"soundmark": "suí shí tí wèn",
+		"englishGloss": "to ask questions at any time"
 	},
 	{
 		"chinese": "随时提问(ing形式)",
-		"english": "asking questions at any time",
-		"soundmark": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+		"pinyin": "sui shi ti wen ( i n g xing shi )",
+		"soundmark": "suí shí tí wèn ( i n g xíng shì )",
+		"englishGloss": "asking questions at any time"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "老师",
-		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"pinyin": "lao shi",
+		"soundmark": "lǎo shī",
+		"englishGloss": "the teacher"
 	},
 	{
 		"chinese": "老师允许",
-		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"pinyin": "lao shi yun xu",
+		"soundmark": "lǎo shī yǔn xǔ",
+		"englishGloss": "the teacher permits"
 	},
 	{
 		"chinese": "老师允许随时提问",
-		"english": "the teacher permits asking questions at any time",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+		"pinyin": "lao shi yun xu sui shi ti wen",
+		"soundmark": "lǎo shī yǔn xǔ suí shí tí wèn",
+		"englishGloss": "the teacher permits asking questions at any time"
 	},
 	{
 		"chinese": "家",
-		"english": "home",
-		"soundmark": "/hom/"
+		"pinyin": "jia",
+		"soundmark": "jiā",
+		"englishGloss": "home"
 	},
 	{
 		"chinese": "从",
-		"english": "from",
-		"soundmark": "/frʌm/"
+		"pinyin": "cong",
+		"soundmark": "cóng",
+		"englishGloss": "from"
 	},
 	{
 		"chinese": "从家里",
-		"english": "from home",
-		"soundmark": "/frʌm/ /hom/"
+		"pinyin": "cong jia li",
+		"soundmark": "cóng jiā lǐ",
+		"englishGloss": "from home"
 	},
 	{
 		"chinese": "工作",
-		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "to work"
 	},
 	{
 		"chinese": "从家里工作",
-		"english": "to work from home",
-		"soundmark": "/tə/ /wɝk/ /frʌm/ /hom/"
+		"pinyin": "cong jia li gong zuo",
+		"soundmark": "cóng jiā lǐ gōng zuò",
+		"englishGloss": "to work from home"
 	},
 	{
 		"chinese": "周五",
-		"english": "Friday",
-		"soundmark": "/ˈfraɪde/"
+		"pinyin": "zhou wu",
+		"soundmark": "zhōu wǔ",
+		"englishGloss": "Friday"
 	},
 	{
 		"chinese": "在周五",
-		"english": "on Friday",
-		"soundmark": "/ɑn/ /ˈfraɪde/"
+		"pinyin": "zai zhou wu",
+		"soundmark": "zài zhōu wǔ",
+		"englishGloss": "on Friday"
 	},
 	{
 		"chinese": "在周五居家办公",
-		"english": "to work from home on Fridays",
-		"soundmark": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+		"pinyin": "zai zhou wu ju jia ban gong",
+		"soundmark": "zài zhōu wǔ jū jiā bàn gōng",
+		"englishGloss": "to work from home on Fridays"
 	},
 	{
 		"chinese": "在周五居家办公(ing形式)",
-		"english": "working from home on Fridays",
-		"soundmark": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+		"pinyin": "zai zhou wu ju jia ban gong ( i n g xing shi )",
+		"soundmark": "zài zhōu wǔ jū jiā bàn gōng ( i n g xíng shì )",
+		"englishGloss": "working from home on Fridays"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "公司",
-		"english": "the company",
-		"soundmark": "/ðə/ /ˈkʌmpəni/"
+		"pinyin": "gong si",
+		"soundmark": "gōng sī",
+		"englishGloss": "the company"
 	},
 	{
 		"chinese": "公司允许",
-		"english": "the company permits",
-		"soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/"
+		"pinyin": "gong si yun xu",
+		"soundmark": "gōng sī yǔn xǔ",
+		"englishGloss": "the company permits"
 	},
 	{
 		"chinese": "公司允许在周五居家办公",
-		"english": "the company permits working from home on Fridays",
-		"soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+		"pinyin": "gong si yun xu zai zhou wu ju jia ban gong",
+		"soundmark": "gōng sī yǔn xǔ zài zhōu wǔ jū jiā bàn gōng",
+		"englishGloss": "the company permits working from home on Fridays"
 	},
 	{
 		"chinese": "音乐",
-		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"pinyin": "yin yue",
+		"soundmark": "yīn yuè",
+		"englishGloss": "music"
 	},
 	{
 		"chinese": "听",
-		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"pinyin": "ting",
+		"soundmark": "tīng",
+		"englishGloss": "to listen"
 	},
 	{
 		"chinese": "听音乐",
-		"english": "to listen to music",
-		"soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/"
+		"pinyin": "ting yin yue",
+		"soundmark": "tīng yīn yuè",
+		"englishGloss": "to listen to music"
 	},
 	{
 		"chinese": "打破",
-		"english": "to break",
-		"soundmark": "/tə/ /brek/"
+		"pinyin": "da po",
+		"soundmark": "dǎ pò",
+		"englishGloss": "to break"
 	},
 	{
 		"chinese": "休息",
-		"english": "break",
-		"soundmark": "/brek/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "break"
 	},
 	{
 		"chinese": "在......期间",
-		"english": "during",
-		"soundmark": "/'dʊrɪŋ/"
+		"pinyin": "zai . . . . . . qi jian",
+		"soundmark": "zài . . . . . . qī jiān",
+		"englishGloss": "during"
 	},
 	{
 		"chinese": "在休息期间",
-		"english": "during the break",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /brek/"
+		"pinyin": "zai xiu xi qi jian",
+		"soundmark": "zài xiū xi qī jiān",
+		"englishGloss": "during the break"
 	},
 	{
 		"chinese": "在休息期间听音乐",
-		"english": "to listen to music during the break",
-		"soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"pinyin": "zai xiu xi qi jian ting yin yue",
+		"soundmark": "zài xiū xi qī jiān tīng yīn yuè",
+		"englishGloss": "to listen to music during the break"
 	},
 	{
 		"chinese": "在休息期间听音乐(ing形式)",
-		"english": "listening to music during the break",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"pinyin": "zai xiu xi qi jian ting yin yue ( i n g xing shi )",
+		"soundmark": "zài xiū xi qī jiān tīng yīn yuè ( i n g xíng shì )",
+		"englishGloss": "listening to music during the break"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "老师",
-		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"pinyin": "lao shi",
+		"soundmark": "lǎo shī",
+		"englishGloss": "the teacher"
 	},
 	{
 		"chinese": "老师允许",
-		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"pinyin": "lao shi yun xu",
+		"soundmark": "lǎo shī yǔn xǔ",
+		"englishGloss": "the teacher permits"
 	},
 	{
 		"chinese": "老师允许在休息期间听音乐",
-		"english": "the teacher permits listening to music during the break",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"pinyin": "lao shi yun xu zai xiu xi qi jian ting yin yue",
+		"soundmark": "lǎo shī yǔn xǔ zài xiū xi qī jiān tīng yīn yuè",
+		"englishGloss": "the teacher permits listening to music during the break"
 	},
 	{
 		"chinese": "玩",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "wan",
+		"soundmark": "wán",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "游戏",
-		"english": "games",
-		"soundmark": "/ɡemz/"
+		"pinyin": "you xi",
+		"soundmark": "yóu xì",
+		"englishGloss": "games"
 	},
 	{
 		"chinese": "玩游戏",
-		"english": "to play games",
-		"soundmark": "/tə/ /ple/ /ɡemz/"
+		"pinyin": "wan you xi",
+		"soundmark": "wán yóu xì",
+		"englishGloss": "to play games"
 	},
 	{
 		"chinese": "玩游戏(ing形式)",
-		"english": "playing games",
-		"soundmark": "/ˈpleɪŋ/ /ɡemz/"
+		"pinyin": "wan you xi ( i n g xing shi )",
+		"soundmark": "wán yóu xì ( i n g xíng shì )",
+		"englishGloss": "playing games"
 	},
 	{
 		"chinese": "听音乐(ing形式)",
-		"english": "listening to music",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"pinyin": "ting yin yue ( i n g xing shi )",
+		"soundmark": "tīng yīn yuè ( i n g xíng shì )",
+		"englishGloss": "listening to music"
 	},
 	{
 		"chinese": "或者",
-		"english": "or",
-		"soundmark": "/ɔr/"
+		"pinyin": "huo zhe",
+		"soundmark": "huò zhě",
+		"englishGloss": "or"
 	},
 	{
 		"chinese": "听音乐或者玩游戏(ing形式)",
-		"english": "listening to music or playing games",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/"
+		"pinyin": "ting yin yue huo zhe wan you xi ( i n g xing shi )",
+		"soundmark": "tīng yīn yuè huò zhě wán yóu xì ( i n g xíng shì )",
+		"englishGloss": "listening to music or playing games"
 	},
 	{
 		"chinese": "老师允许在休息期间听音乐或者玩游戏",
-		"english": "the teacher permits listening to music or playing games during the break",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"pinyin": "lao shi yun xu zai xiu xi qi jian ting yin yue huo zhe wan you xi",
+		"soundmark": "lǎo shī yǔn xǔ zài xiū xi qī jiān tīng yīn yuè huò zhě wán yóu xì",
+		"englishGloss": "the teacher permits listening to music or playing games during the break"
 	},
 	{
 		"chinese": "在......期间",
-		"english": "during",
-		"soundmark": "/'dʊrɪŋ/"
+		"pinyin": "zai . . . . . . qi jian",
+		"soundmark": "zài . . . . . . qī jiān",
+		"englishGloss": "during"
 	},
 	{
 		"chinese": "测验",
-		"english": "test",
-		"soundmark": "/tɛst/"
+		"pinyin": "ce yan",
+		"soundmark": "cè yàn",
+		"englishGloss": "test"
 	},
 	{
 		"chinese": "在这个测验期间",
-		"english": "during the test",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+		"pinyin": "zai zhe ge ce yan qi jian",
+		"soundmark": "zài zhè ge cè yàn qī jiān",
+		"englishGloss": "during the test"
 	},
 	{
 		"chinese": "使用",
-		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"pinyin": "shi yong",
+		"soundmark": "shǐ yòng",
+		"englishGloss": "to use"
 	},
 	{
 		"chinese": "计算器",
-		"english": "calculator",
-		"soundmark": "/ˈkælkjuletɚ/"
+		"pinyin": "ji suan qi",
+		"soundmark": "jì suàn qì",
+		"englishGloss": "calculator"
 	},
 	{
 		"chinese": "使用计算器",
-		"english": "to use calculators",
-		"soundmark": "/tə/ /juz/ /ˈkælkjuletɚz/"
+		"pinyin": "shi yong ji suan qi",
+		"soundmark": "shǐ yòng jì suàn qì",
+		"englishGloss": "to use calculators"
 	},
 	{
 		"chinese": "使用计算器(ing形式)",
-		"english": "using calculators",
-		"soundmark": "/'juzɪŋ/ /ˈkælkjuletɚz/"
+		"pinyin": "shi yong ji suan qi ( i n g xing shi )",
+		"soundmark": "shǐ yòng jì suàn qì ( i n g xíng shì )",
+		"englishGloss": "using calculators"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "老师允许",
-		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"pinyin": "lao shi yun xu",
+		"soundmark": "lǎo shī yǔn xǔ",
+		"englishGloss": "the teacher permits"
 	},
 	{
 		"chinese": "老师允许使用计算器",
-		"english": "the teacher permits using calculators",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/"
+		"pinyin": "lao shi yun xu shi yong ji suan qi",
+		"soundmark": "lǎo shī yǔn xǔ shǐ yòng jì suàn qì",
+		"englishGloss": "the teacher permits using calculators"
 	},
 	{
 		"chinese": "在这个测验期间",
-		"english": "during the test",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+		"pinyin": "zai zhe ge ce yan qi jian",
+		"soundmark": "zài zhè ge cè yàn qī jiān",
+		"englishGloss": "during the test"
 	},
 	{
 		"chinese": "老师允许在这个测验期间使用计算器",
-		"english": "the teacher permits using calculators during the test",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+		"pinyin": "lao shi yun xu zai zhe ge ce yan qi jian shi yong ji suan qi",
+		"soundmark": "lǎo shī yǔn xǔ zài zhè ge cè yàn qī jiān shǐ yòng jì suàn qì",
+		"englishGloss": "the teacher permits using calculators during the test"
 	},
 	{
 		"chinese": "喝",
-		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "to drink"
 	},
 	{
 		"chinese": "水",
-		"english": "water",
-		"soundmark": "/'wɔtɚ/"
+		"pinyin": "shui",
+		"soundmark": "shuǐ",
+		"englishGloss": "water"
 	},
 	{
 		"chinese": "喝水",
-		"english": "to drink water",
-		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/"
+		"pinyin": "he shui",
+		"soundmark": "hē shuǐ",
+		"englishGloss": "to drink water"
 	},
 	{
 		"chinese": "测试",
-		"english": "test",
-		"soundmark": "/tɛst/"
+		"pinyin": "ce shi",
+		"soundmark": "cè shì",
+		"englishGloss": "test"
 	},
 	{
 		"chinese": "血液",
-		"english": "blood",
-		"soundmark": "/blʌd/"
+		"pinyin": "xue ye",
+		"soundmark": "xuè yè",
+		"englishGloss": "blood"
 	},
 	{
 		"chinese": "血液测试",
-		"english": "the blood test",
-		"soundmark": "/ðə/ /blʌd/ /tɛst/"
+		"pinyin": "xue ye ce shi",
+		"soundmark": "xuè yè cè shì",
+		"englishGloss": "the blood test"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在血液测试之前",
-		"english": "before the blood test",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"pinyin": "zai xue ye ce shi zhi qian",
+		"soundmark": "zài xuè yè cè shì zhī qián",
+		"englishGloss": "before the blood test"
 	},
 	{
 		"chinese": "在血液测试之前喝水",
-		"english": "to drink water before the blood test",
-		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"pinyin": "zai xue ye ce shi zhi qian he shui",
+		"soundmark": "zài xuè yè cè shì zhī qián hē shuǐ",
+		"englishGloss": "to drink water before the blood test"
 	},
 	{
 		"chinese": "在血液测试之前喝水(ing形式)",
-		"english": "drinking water before the blood test",
-		"soundmark": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"pinyin": "zai xue ye ce shi zhi qian he shui ( i n g xing shi )",
+		"soundmark": "zài xuè yè cè shì zhī qián hē shuǐ ( i n g xíng shì )",
+		"englishGloss": "drinking water before the blood test"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "医生",
-		"english": "the doctor",
-		"soundmark": "/ðə/ /'dɑktɚ/"
+		"pinyin": "yi sheng",
+		"soundmark": "yī shēng",
+		"englishGloss": "the doctor"
 	},
 	{
 		"chinese": "医生允许",
-		"english": "the doctor permits",
-		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/"
+		"pinyin": "yi sheng yun xu",
+		"soundmark": "yī shēng yǔn xǔ",
+		"englishGloss": "the doctor permits"
 	},
 	{
 		"chinese": "医生允许喝水",
-		"english": "the doctor permits drinking water",
-		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/"
+		"pinyin": "yi sheng yun xu he shui",
+		"soundmark": "yī shēng yǔn xǔ hē shuǐ",
+		"englishGloss": "the doctor permits drinking water"
 	},
 	{
 		"chinese": "医生允许在血液测试之前喝水",
-		"english": "the doctor permits drinking water before the blood test",
-		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"pinyin": "yi sheng yun xu zai xue ye ce shi zhi qian he shui",
+		"soundmark": "yī shēng yǔn xǔ zài xuè yè cè shì zhī qián hē shuǐ",
+		"englishGloss": "the doctor permits drinking water before the blood test"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "to drive",
-		"soundmark": "/draɪv/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "to drive"
 	},
 	{
 		"chinese": "驾驶(ing形式)",
-		"english": "driving",
-		"soundmark": "/'draɪvɪŋ/"
+		"pinyin": "jia shi ( i n g xing shi )",
+		"soundmark": "jià shǐ ( i n g xíng shì )",
+		"englishGloss": "driving"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "政策",
-		"english": "policy",
-		"soundmark": "/ˈpɑləsi/"
+		"pinyin": "zheng ce",
+		"soundmark": "zhèng cè",
+		"englishGloss": "policy"
 	},
 	{
 		"chinese": "政策允许",
-		"english": "the policy permits",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+		"pinyin": "zheng ce yun xu",
+		"soundmark": "zhèng cè yǔn xǔ",
+		"englishGloss": "the policy permits"
 	},
 	{
 		"chinese": "政策允许驾驶",
-		"english": "the policy permits driving",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+		"pinyin": "zheng ce yun xu jia shi",
+		"soundmark": "zhèng cè yǔn xǔ jià shǐ",
+		"englishGloss": "the policy permits driving"
 	},
 	{
 		"chinese": "执照",
-		"english": "license",
-		"soundmark": "/ˈlaɪsns/"
+		"pinyin": "zhi zhao",
+		"soundmark": "zhí zhào",
+		"englishGloss": "license"
 	},
 	{
 		"chinese": "有效的",
-		"english": "valid",
-		"soundmark": "/ˈvælɪd/"
+		"pinyin": "you xiao de",
+		"soundmark": "yǒu xiào de",
+		"englishGloss": "valid"
 	},
 	{
 		"chinese": "一个有效的执照",
-		"english": "a valid license",
-		"soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "yi ge you xiao de zhi zhao",
+		"soundmark": "yí gè yǒu xiào de zhí zhào",
+		"englishGloss": "a valid license"
 	},
 	{
 		"chinese": "拥有",
-		"english": "have",
-		"soundmark": "/hæv/"
+		"pinyin": "yong you",
+		"soundmark": "yōng yǒu",
+		"englishGloss": "have"
 	},
 	{
 		"chinese": "你拥有",
-		"english": "you have",
-		"soundmark": "/ju/ /hæv/"
+		"pinyin": "ni yong you",
+		"soundmark": "nǐ yōng yǒu",
+		"englishGloss": "you have"
 	},
 	{
 		"chinese": "你拥有一个有效的执照",
-		"english": "you have a valid license",
-		"soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "ni yong you yi ge you xiao de zhi zhao",
+		"soundmark": "nǐ yōng yǒu yí gè yǒu xiào de zhí zhào",
+		"englishGloss": "you have a valid license"
 	},
 	{
 		"chinese": "如果",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "ru guo",
+		"soundmark": "rú guǒ",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "如果你拥有一个有效的执照",
-		"english": "if you have a valid license",
-		"soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "ru guo ni yong you yi ge you xiao de zhi zhao",
+		"soundmark": "rú guǒ nǐ yōng yǒu yí gè yǒu xiào de zhí zhào",
+		"englishGloss": "if you have a valid license"
 	},
 	{
 		"chinese": "政策允许驾驶",
-		"english": "the policy permits driving",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+		"pinyin": "zheng ce yun xu jia shi",
+		"soundmark": "zhèng cè yǔn xǔ jià shǐ",
+		"englishGloss": "the policy permits driving"
 	},
 	{
 		"chinese": "政策允许开车如果你拥有一个有效的执照",
-		"english": "the policy permits driving if you have a valid license",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "zheng ce yun xu kai che ru guo ni yong you yi ge you xiao de zhi zhao",
+		"soundmark": "zhèng cè yǔn xǔ kāi chē rú guǒ nǐ yōng yǒu yí gè yǒu xiào de zhí zhào",
+		"englishGloss": "the policy permits driving if you have a valid license"
 	},
 	{
 		"chinese": "旅行",
-		"english": "to travel",
-		"soundmark": "/tə/ /'trævl/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "to travel"
 	},
 	{
 		"chinese": "出国",
-		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"pinyin": "chu guo",
+		"soundmark": "chū guó",
+		"englishGloss": "abroad"
 	},
 	{
 		"chinese": "出国旅行",
-		"english": "to travel abroad",
-		"soundmark": "/tə/ /'trævl/ /ə'brɔd/"
+		"pinyin": "chu guo lü xing",
+		"soundmark": "chū guó lǚ xíng",
+		"englishGloss": "to travel abroad"
 	},
 	{
 		"chinese": "出国旅行(ing形式)",
-		"english": "traveling abroad",
-		"soundmark": "/'trævlɪŋ/ /ə'brɔd/"
+		"pinyin": "chu guo lü xing ( i n g xing shi )",
+		"soundmark": "chū guó lǚ xíng ( i n g xíng shì )",
+		"englishGloss": "traveling abroad"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "政策",
-		"english": "policy",
-		"soundmark": "/ˈpɑləsi/"
+		"pinyin": "zheng ce",
+		"soundmark": "zhèng cè",
+		"englishGloss": "policy"
 	},
 	{
 		"chinese": "政策允许",
-		"english": "the policy permits",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+		"pinyin": "zheng ce yun xu",
+		"soundmark": "zhèng cè yǔn xǔ",
+		"englishGloss": "the policy permits"
 	},
 	{
 		"chinese": "政策允许出国旅行",
-		"english": "the policy permits traveling abroad",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+		"pinyin": "zheng ce yun xu chu guo lü xing",
+		"soundmark": "zhèng cè yǔn xǔ chū guó lǚ xíng",
+		"englishGloss": "the policy permits traveling abroad"
 	},
 	{
 		"chinese": "护照",
-		"english": "passport",
-		"soundmark": "/'pæspɔrt/"
+		"pinyin": "hu zhao",
+		"soundmark": "hù zhào",
+		"englishGloss": "passport"
 	},
 	{
 		"chinese": "有效的",
-		"english": "valid",
-		"soundmark": "/ˈvælɪd/"
+		"pinyin": "you xiao de",
+		"soundmark": "yǒu xiào de",
+		"englishGloss": "valid"
 	},
 	{
 		"chinese": "一个有效的护照",
-		"english": "a valid passport",
-		"soundmark": "/ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"pinyin": "yi ge you xiao de hu zhao",
+		"soundmark": "yí gè yǒu xiào de hù zhào",
+		"englishGloss": "a valid passport"
 	},
 	{
 		"chinese": "你拥有",
-		"english": "you have",
-		"soundmark": "/ju/ /hæv/"
+		"pinyin": "ni yong you",
+		"soundmark": "nǐ yōng yǒu",
+		"englishGloss": "you have"
 	},
 	{
 		"chinese": "你拥有一个有效的护照",
-		"english": "you have a valid passport",
-		"soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"pinyin": "ni yong you yi ge you xiao de hu zhao",
+		"soundmark": "nǐ yōng yǒu yí gè yǒu xiào de hù zhào",
+		"englishGloss": "you have a valid passport"
 	},
 	{
 		"chinese": "如果你拥有一个有效的护照",
-		"english": "if you have a valid passport",
-		"soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"pinyin": "ru guo ni yong you yi ge you xiao de hu zhao",
+		"soundmark": "rú guǒ nǐ yōng yǒu yí gè yǒu xiào de hù zhào",
+		"englishGloss": "if you have a valid passport"
 	},
 	{
 		"chinese": "政策允许出国旅行",
-		"english": "the policy permits traveling abroad",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+		"pinyin": "zheng ce yun xu chu guo lü xing",
+		"soundmark": "zhèng cè yǔn xǔ chū guó lǚ xíng",
+		"englishGloss": "the policy permits traveling abroad"
 	},
 	{
 		"chinese": "政策允许出国旅行如果你拥有一个有效的护照",
-		"english": "the policy permits traveling abroad if you have a valid passport",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"pinyin": "zheng ce yun xu chu guo lü xing ru guo ni yong you yi ge you xiao de hu zhao",
+		"soundmark": "zhèng cè yǔn xǔ chū guó lǚ xíng rú guǒ nǐ yōng yǒu yí gè yǒu xiào de hù zhào",
+		"englishGloss": "the policy permits traveling abroad if you have a valid passport"
 	},
 	{
 		"chinese": "抽烟",
-		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"pinyin": "chou yan",
+		"soundmark": "chōu yān",
+		"englishGloss": "to smoke"
 	},
 	{
 		"chinese": "抽烟(ing形式)",
-		"english": "smoking",
-		"soundmark": "/ˈsmokɪŋ/"
+		"pinyin": "chou yan ( i n g xing shi )",
+		"soundmark": "chōu yān ( i n g xíng shì )",
+		"englishGloss": "smoking"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "我们允许",
-		"english": "we permit",
-		"soundmark": "/wi/ /pɚˈmɪt/"
+		"pinyin": "wo men yun xu",
+		"soundmark": "wǒ men yǔn xǔ",
+		"englishGloss": "we permit"
 	},
 	{
 		"chinese": "我们允许抽烟",
-		"english": "we permit smoking",
-		"soundmark": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+		"pinyin": "wo men yun xu chou yan",
+		"soundmark": "wǒ men yǔn xǔ chōu yān",
+		"englishGloss": "we permit smoking"
 	},
 	{
 		"chinese": "我们不允许抽烟",
-		"english": "we don't permit smoking",
-		"soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+		"pinyin": "wo men bu yun xu chou yan",
+		"soundmark": "wǒ men bù yǔn xǔ chōu yān",
+		"englishGloss": "we don't permit smoking"
 	},
 	{
 		"chinese": "办公室",
-		"english": "office",
-		"soundmark": "/'ɑfɪs/"
+		"pinyin": "ban gong shi",
+		"soundmark": "bàn gōng shì",
+		"englishGloss": "office"
 	},
 	{
 		"chinese": "在办公室里",
-		"english": "in the office",
-		"soundmark": "/ɪn/ /ði/ /'ɑfɪs/"
+		"pinyin": "zai ban gong shi li",
+		"soundmark": "zài bàn gōng shì lǐ",
+		"englishGloss": "in the office"
 	},
 	{
 		"chinese": "我们不允许在办公室里抽烟",
-		"english": "we don't permit smoking in the office",
-		"soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+		"pinyin": "wo men bu yun xu zai ban gong shi li chou yan",
+		"soundmark": "wǒ men bù yǔn xǔ zài bàn gōng shì lǐ chōu yān",
+		"englishGloss": "we don't permit smoking in the office"
 	},
 	{
 		"chinese": "禁止",
-		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"pinyin": "jin zhi",
+		"soundmark": "jìn zhǐ",
+		"englishGloss": "to prohibit"
 	},
 	{
 		"chinese": "我们禁止",
-		"english": "we prohibit",
-		"soundmark": "/wi/ /prəˈhɪbɪt/"
+		"pinyin": "wo men jin zhi",
+		"soundmark": "wǒ men jìn zhǐ",
+		"englishGloss": "we prohibit"
 	},
 	{
 		"chinese": "在办公室里抽烟(ing形式)",
-		"english": "smoking in the office",
-		"soundmark": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+		"pinyin": "zai ban gong shi li chou yan ( i n g xing shi )",
+		"soundmark": "zài bàn gōng shì lǐ chōu yān ( i n g xíng shì )",
+		"englishGloss": "smoking in the office"
 	},
 	{
 		"chinese": "我们禁止在办公室里抽烟",
-		"english": "we prohibit smoking in the office",
-		"soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+		"pinyin": "wo men jin zhi zai ban gong shi li chou yan",
+		"soundmark": "wǒ men jìn zhǐ zài bàn gōng shì lǐ chōu yān",
+		"englishGloss": "we prohibit smoking in the office"
 	},
 	{
 		"chinese": "公共场所",
-		"english": "public",
-		"soundmark": "/ˈpʌblɪk/"
+		"pinyin": "gong gong chang suo",
+		"soundmark": "gōng gòng chǎng suǒ",
+		"englishGloss": "public"
 	},
 	{
 		"chinese": "在公共场所",
-		"english": "in public",
-		"soundmark": "/ɪn/ /ˈpʌblɪk/"
+		"pinyin": "zai gong gong chang suo",
+		"soundmark": "zài gōng gòng chǎng suǒ",
+		"englishGloss": "in public"
 	},
 	{
 		"chinese": "我们禁止在公共场所抽烟",
-		"english": "we prohibit smoking in public",
-		"soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/"
+		"pinyin": "wo men jin zhi zai gong gong chang suo chou yan",
+		"soundmark": "wǒ men jìn zhǐ zài gōng gòng chǎng suǒ chōu yān",
+		"englishGloss": "we prohibit smoking in public"
 	},
 	{
 		"chinese": "禁止",
-		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"pinyin": "jin zhi",
+		"soundmark": "jìn zhǐ",
+		"englishGloss": "to prohibit"
 	},
 	{
 		"chinese": "法律",
-		"english": "the law",
-		"soundmark": "/ðə/ /lɔ/"
+		"pinyin": "fa lü",
+		"soundmark": "fǎ lǜ",
+		"englishGloss": "the law"
 	},
 	{
 		"chinese": "法律禁止",
-		"english": "the law prohibits",
-		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+		"pinyin": "fa lü jin zhi",
+		"soundmark": "fǎ lǜ jìn zhǐ",
+		"englishGloss": "the law prohibits"
 	},
 	{
 		"chinese": "执照",
-		"english": "license",
-		"soundmark": "/ˈlaɪsns/"
+		"pinyin": "zhi zhao",
+		"soundmark": "zhí zhào",
+		"englishGloss": "license"
 	},
 	{
 		"chinese": "有效的",
-		"english": "valid",
-		"soundmark": "/ˈvælɪd/"
+		"pinyin": "you xiao de",
+		"soundmark": "yǒu xiào de",
+		"englishGloss": "valid"
 	},
 	{
 		"chinese": "一个有效的执照",
-		"english": "a valid license",
-		"soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "yi ge you xiao de zhi zhao",
+		"soundmark": "yí gè yǒu xiào de zhí zhào",
+		"englishGloss": "a valid license"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "to drive"
 	},
 	{
 		"chinese": "和......一起",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he . . . . . . yi qi",
+		"soundmark": "hé . . . . . . yì qǐ",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "和一个有效的执照一起驾驶",
-		"english": "to drive with a valid license",
-		"soundmark": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "he yi ge you xiao de zhi zhao yi qi jia shi",
+		"soundmark": "hé yí gè yǒu xiào de zhí zhào yì qǐ jià shǐ",
+		"englishGloss": "to drive with a valid license"
 	},
 	{
 		"chinese": "不和......一起",
-		"english": "without",
-		"soundmark": "/wɪð'aʊt/"
+		"pinyin": "bu he . . . . . . yi qi",
+		"soundmark": "bù hé . . . . . . yì qǐ",
+		"englishGloss": "without"
 	},
 	{
 		"chinese": "无证驾驶",
-		"english": "to drive without a valid license",
-		"soundmark": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "wu zheng jia shi",
+		"soundmark": "wú zhèng jià shǐ",
+		"englishGloss": "to drive without a valid license"
 	},
 	{
 		"chinese": "无证驾驶(ing形式)",
-		"english": "driving without a valid license",
-		"soundmark": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "wu zheng jia shi ( i n g xing shi )",
+		"soundmark": "wú zhèng jià shǐ ( i n g xíng shì )",
+		"englishGloss": "driving without a valid license"
 	},
 	{
 		"chinese": "禁止",
-		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"pinyin": "jin zhi",
+		"soundmark": "jìn zhǐ",
+		"englishGloss": "to prohibit"
 	},
 	{
 		"chinese": "法律",
-		"english": "the law",
-		"soundmark": "/ðə/ /lɔ/"
+		"pinyin": "fa lü",
+		"soundmark": "fǎ lǜ",
+		"englishGloss": "the law"
 	},
 	{
 		"chinese": "法律禁止",
-		"english": "the law prohibits",
-		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+		"pinyin": "fa lü jin zhi",
+		"soundmark": "fǎ lǜ jìn zhǐ",
+		"englishGloss": "the law prohibits"
 	},
 	{
 		"chinese": "法律禁止无证驾驶",
-		"english": "the law prohibits driving without a valid license",
-		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"pinyin": "fa lü jin zhi wu zheng jia shi",
+		"soundmark": "fǎ lǜ jìn zhǐ wú zhèng jià shǐ",
+		"englishGloss": "the law prohibits driving without a valid license"
 	},
 	{
 		"chinese": "禁止",
-		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"pinyin": "jin zhi",
+		"soundmark": "jìn zhǐ",
+		"englishGloss": "to prohibit"
 	},
 	{
 		"chinese": "老师",
-		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"pinyin": "lao shi",
+		"soundmark": "lǎo shī",
+		"englishGloss": "the teacher"
 	},
 	{
 		"chinese": "老师禁止",
-		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"pinyin": "lao shi jin zhi",
+		"soundmark": "lǎo shī jìn zhǐ",
+		"englishGloss": "the teacher prohibits"
 	},
 	{
 		"chinese": "家庭作业",
-		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"pinyin": "jia ting zuo ye",
+		"soundmark": "jiā tíng zuò yè",
+		"englishGloss": "homework"
 	},
 	{
 		"chinese": "复制",
-		"english": "to copy",
-		"soundmark": "/tə/ /ˈkɑpɪ/"
+		"pinyin": "fu zhi",
+		"soundmark": "fù zhì",
+		"englishGloss": "to copy"
 	},
 	{
 		"chinese": "抄作业",
-		"english": "to copy homework",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/"
+		"pinyin": "chao zuo ye",
+		"soundmark": "chāo zuò yè",
+		"englishGloss": "to copy homework"
 	},
 	{
 		"chinese": "其他人",
-		"english": "others",
-		"soundmark": "/'ʌðɚz/"
+		"pinyin": "qi ta ren",
+		"soundmark": "qí tā rén",
+		"englishGloss": "others"
 	},
 	{
 		"chinese": "从......那里",
-		"english": "from",
-		"soundmark": "/frʌm/"
+		"pinyin": "cong . . . . . . na li",
+		"soundmark": "cóng . . . . . . nà lǐ",
+		"englishGloss": "from"
 	},
 	{
 		"chinese": "从其他人那里",
-		"english": "from others",
-		"soundmark": "/frʌm/ /'ʌðɚz/"
+		"pinyin": "cong qi ta ren na li",
+		"soundmark": "cóng qí tā rén nà lǐ",
+		"englishGloss": "from others"
 	},
 	{
 		"chinese": "从其他人那里抄作业",
-		"english": "to copy homework from others",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+		"pinyin": "cong qi ta ren na li chao zuo ye",
+		"soundmark": "cóng qí tā rén nà lǐ chāo zuò yè",
+		"englishGloss": "to copy homework from others"
 	},
 	{
 		"chinese": "从其他人那里抄作业(ing形式)",
-		"english": "copying homework from others",
-		"soundmark": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+		"pinyin": "cong qi ta ren na li chao zuo ye ( i n g xing shi )",
+		"soundmark": "cóng qí tā rén nà lǐ chāo zuò yè ( i n g xíng shì )",
+		"englishGloss": "copying homework from others"
 	},
 	{
 		"chinese": "老师禁止",
-		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"pinyin": "lao shi jin zhi",
+		"soundmark": "lǎo shī jìn zhǐ",
+		"englishGloss": "the teacher prohibits"
 	},
 	{
 		"chinese": "老师禁止从其他人那里抄作业",
-		"english": "the teacher prohibits copying homework from others",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+		"pinyin": "lao shi jin zhi cong qi ta ren na li chao zuo ye",
+		"soundmark": "lǎo shī jìn zhǐ cóng qí tā rén nà lǐ chāo zuò yè",
+		"englishGloss": "the teacher prohibits copying homework from others"
 	},
 	{
 		"chinese": "老师禁止",
-		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"pinyin": "lao shi jin zhi",
+		"soundmark": "lǎo shī jìn zhǐ",
+		"englishGloss": "the teacher prohibits"
 	},
 	{
 		"chinese": "说话",
-		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to talk"
 	},
 	{
 		"chinese": "笑",
-		"english": "to laugh",
-		"soundmark": "/tə/ /læf/"
+		"pinyin": "xiao",
+		"soundmark": "xiào",
+		"englishGloss": "to laugh"
 	},
 	{
 		"chinese": "或者",
-		"english": "or",
-		"soundmark": "/ɔr/"
+		"pinyin": "huo zhe",
+		"soundmark": "huò zhě",
+		"englishGloss": "or"
 	},
 	{
 		"chinese": "说话或者笑",
-		"english": "to talk or to laugh",
-		"soundmark": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/"
+		"pinyin": "shuo hua huo zhe xiao",
+		"soundmark": "shuō huà huò zhě xiào",
+		"englishGloss": "to talk or to laugh"
 	},
 	{
 		"chinese": "说笑(ing形式)",
-		"english": "talking or laughing",
-		"soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/"
+		"pinyin": "shuo xiao ( i n g xing shi )",
+		"soundmark": "shuō xiào ( i n g xíng shì )",
+		"englishGloss": "talking or laughing"
 	},
 	{
 		"chinese": "测验",
-		"english": "test",
-		"soundmark": "/tɛst/"
+		"pinyin": "ce yan",
+		"soundmark": "cè yàn",
+		"englishGloss": "test"
 	},
 	{
 		"chinese": "在......期间",
-		"english": "during",
-		"soundmark": "/'dʊrɪŋ/"
+		"pinyin": "zai . . . . . . qi jian",
+		"soundmark": "zài . . . . . . qī jiān",
+		"englishGloss": "during"
 	},
 	{
 		"chinese": "在这个测验期间",
-		"english": "during the test",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+		"pinyin": "zai zhe ge ce yan qi jian",
+		"soundmark": "zài zhè ge cè yàn qī jiān",
+		"englishGloss": "during the test"
 	},
 	{
 		"chinese": "在这个测验期间说笑(ing形式)",
-		"english": "talking or laughing during the test",
-		"soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+		"pinyin": "zai zhe ge ce yan qi jian shuo xiao ( i n g xing shi )",
+		"soundmark": "zài zhè ge cè yàn qī jiān shuō xiào ( i n g xíng shì )",
+		"englishGloss": "talking or laughing during the test"
 	},
 	{
 		"chinese": "老师禁止",
-		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"pinyin": "lao shi jin zhi",
+		"soundmark": "lǎo shī jìn zhǐ",
+		"englishGloss": "the teacher prohibits"
 	},
 	{
 		"chinese": "老师禁止在这个测验期间说笑",
-		"english": "the teacher prohibits talking or laughing during the test",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+		"pinyin": "lao shi jin zhi zai zhe ge ce yan qi jian shuo xiao",
+		"soundmark": "lǎo shī jìn zhǐ zài zhè ge cè yàn qī jiān shuō xiào",
+		"englishGloss": "the teacher prohibits talking or laughing during the test"
 	},
 	{
 		"chinese": "禁止",
-		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"pinyin": "jin zhi",
+		"soundmark": "jìn zhǐ",
+		"englishGloss": "to prohibit"
 	},
 	{
 		"chinese": "学校",
-		"english": "the school",
-		"soundmark": "/ðə/ /skul/"
+		"pinyin": "xue xiao",
+		"soundmark": "xué xiào",
+		"englishGloss": "the school"
 	},
 	{
 		"chinese": "学校禁止",
-		"english": "the school prohibits",
-		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/"
+		"pinyin": "xue xiao jin zhi",
+		"soundmark": "xué xiào jìn zhǐ",
+		"englishGloss": "the school prohibits"
 	},
 	{
 		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "to eat"
 	},
 	{
 		"chinese": "喝",
-		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "to drink"
 	},
 	{
 		"chinese": "吃或者喝",
-		"english": "to eat or to drink",
-		"soundmark": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/"
+		"pinyin": "chi huo zhe he",
+		"soundmark": "chī huò zhě hē",
+		"englishGloss": "to eat or to drink"
 	},
 	{
 		"chinese": "吃喝(ing形式)",
-		"english": "eating or drinking",
-		"soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/"
+		"pinyin": "chi he ( i n g xing shi )",
+		"soundmark": "chī hē ( i n g xíng shì )",
+		"englishGloss": "eating or drinking"
 	},
 	{
 		"chinese": "课程",
-		"english": "class",
-		"soundmark": "/klæs/"
+		"pinyin": "ke cheng",
+		"soundmark": "kè chéng",
+		"englishGloss": "class"
 	},
 	{
 		"chinese": "房间",
-		"english": "room",
-		"soundmark": "/rum/"
+		"pinyin": "fang jian",
+		"soundmark": "fáng jiān",
+		"englishGloss": "room"
 	},
 	{
 		"chinese": "教室",
-		"english": "classroom",
-		"soundmark": "/'klæsrum/"
+		"pinyin": "jiao shi",
+		"soundmark": "jiào shì",
+		"englishGloss": "classroom"
 	},
 	{
 		"chinese": "在教室里",
-		"english": "in the classroom",
-		"soundmark": "/ɪn/ /ðə/ /'klæsrum/"
+		"pinyin": "zai jiao shi li",
+		"soundmark": "zài jiào shì lǐ",
+		"englishGloss": "in the classroom"
 	},
 	{
 		"chinese": "在教室里吃喝(ing形式)",
-		"english": "eating or drinking in the classroom",
-		"soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+		"pinyin": "zai jiao shi li chi he ( i n g xing shi )",
+		"soundmark": "zài jiào shì lǐ chī hē ( i n g xíng shì )",
+		"englishGloss": "eating or drinking in the classroom"
 	},
 	{
 		"chinese": "学校禁止",
-		"english": "the school prohibits",
-		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/"
+		"pinyin": "xue xiao jin zhi",
+		"soundmark": "xué xiào jìn zhǐ",
+		"englishGloss": "the school prohibits"
 	},
 	{
 		"chinese": "学校禁止在教室里吃喝",
-		"english": "the school prohibits eating or drinking in the classroom",
-		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+		"pinyin": "xue xiao jin zhi zai jiao shi li chi he",
+		"soundmark": "xué xiào jìn zhǐ zài jiào shì lǐ chī hē",
+		"englishGloss": "the school prohibits eating or drinking in the classroom"
 	}
 ]

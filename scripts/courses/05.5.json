@@ -1,1067 +1,1280 @@
 [
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我需要做这件事",
-		"english": "I need to do it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo xu yao zuo zhe jian shi",
+		"soundmark": "wǒ xū yào zuò zhè jiàn shì",
+		"englishGloss": "I need to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我需要现在做这件事",
-		"english": "I need to do it now",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo xu yao xian zai zuo zhe jian shi",
+		"soundmark": "wǒ xū yào xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "I need to do it now"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "它是非常重要的",
-		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi fei chang zhong yao de",
+		"soundmark": "tā shì fēi cháng zhòng yào de",
+		"englishGloss": "it is very important"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为它是非常重要的",
-		"english": "because it is very important",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "yin wei ta shi fei chang zhong yao de",
+		"soundmark": "yīn wèi tā shì fēi cháng zhòng yào de",
+		"englishGloss": "because it is very important"
 	},
 	{
 		"chinese": "我需要现在做这件事因为它是非常重要的",
-		"english": "I need to do it now because it is very important",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/ /naʊ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "wo xu yao xian zai zuo zhe jian shi yin wei ta shi fei chang zhong yao de",
+		"soundmark": "wǒ xū yào xiàn zài zuò zhè jiàn shì yīn wèi tā shì fēi cháng zhòng yào de",
+		"englishGloss": "I need to do it now because it is very important"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "它是非常重要的对我来说",
-		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is very important for me"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我必须做这件事",
-		"english": "I have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bi xu zuo zhe jian shi",
+		"soundmark": "wǒ bì xū zuò zhè jiàn shì",
+		"englishGloss": "I have to do it"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "我必须每天做这件事",
-		"english": "I have to do it every day",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+		"pinyin": "wo bi xu mei tian zuo zhe jian shi",
+		"soundmark": "wǒ bì xū měi tiān zuò zhè jiàn shì",
+		"englishGloss": "I have to do it every day"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是非常重要的对我来说所以我必须每天做这件事",
-		"english": "It is very important for me so I have to do it every day",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo suo yi wo bi xu mei tian zuo zhe jian shi",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō suǒ yǐ wǒ bì xū měi tiān zuò zhè jiàn shì",
+		"englishGloss": "It is very important for me so I have to do it every day"
 	},
 	{
 		"chinese": "不",
-		"english": "not",
-		"soundmark": "/nɑt/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "not"
 	},
 	{
 		"chinese": "它是不重要的",
-		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi bu zhong yao de",
+		"soundmark": "tā shì bú zhòng yào de",
+		"englishGloss": "it is not important"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "它是不重要的对我来说",
-		"english": "it is not important for me",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi bu zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì bú zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is not important for me"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我必须做这件事",
-		"english": "I have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bi xu zuo zhe jian shi",
+		"soundmark": "wǒ bì xū zuò zhè jiàn shì",
+		"englishGloss": "I have to do it"
 	},
 	{
 		"chinese": "我不必做这件事",
-		"english": "I don't have to do it",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bu bi zuo zhe jian shi",
+		"soundmark": "wǒ bú bì zuò zhè jiàn shì",
+		"englishGloss": "I don't have to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我不必现在做这件事",
-		"english": "I don't have to do it now",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo bu bi xian zai zuo zhe jian shi",
+		"soundmark": "wǒ bú bì xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "I don't have to do it now"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是不重要的对我来说所以我不必现在做这件事",
-		"english": "It is not important for me so I don't have to do it now",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ta shi bu zhong yao de dui wo lai shuo suo yi wo bu bi xian zai zuo zhe jian shi",
+		"soundmark": "tā shì bú zhòng yào de duì wǒ lái shuō suǒ yǐ wǒ bú bì xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "It is not important for me so I don't have to do it now"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我想要知道",
-		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo xiang yao zhi dao",
+		"soundmark": "wǒ xiǎng yào zhī dào",
+		"englishGloss": "I want to know"
 	},
 	{
 		"chinese": "可能的",
-		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"pinyin": "ke neng de",
+		"soundmark": "kě néng de",
+		"englishGloss": "possible"
 	},
 	{
 		"chinese": "它是可能的",
-		"english": "it is possible",
-		"soundmark": "/ɪt/ /ɪz/ /'pɑsəbl/"
+		"pinyin": "ta shi ke neng de",
+		"soundmark": "tā shì kě néng de",
+		"englishGloss": "it is possible"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "做这件事（它）是可能的",
-		"english": "it is possible to do it",
-		"soundmark": "/ɪt/ /ɪz/ /'pɑsəbl/ /tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi （ ta ） shi ke neng de",
+		"soundmark": "zuò zhè jiàn shì （ tā ） shì kě néng de",
+		"englishGloss": "it is possible to do it"
 	},
 	{
 		"chinese": "今天",
-		"english": "today",
-		"soundmark": "/tə'de/"
+		"pinyin": "jin tian",
+		"soundmark": "jīn tiān",
+		"englishGloss": "today"
 	},
 	{
 		"chinese": "今天做这件事（它）是可能的",
-		"english": "it is possible to do it today",
-		"soundmark": "/ɪt/ /ɪz/ /'pɑsəbl/ /tə/ /du/ /ɪt/ /tə'de/"
+		"pinyin": "jin tian zuo zhe jian shi （ ta ） shi ke neng de",
+		"soundmark": "jīn tiān zuò zhè jiàn shì （ tā ） shì kě néng de",
+		"englishGloss": "it is possible to do it today"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我想要知道今天做这件事是否",
-		"english": "I want to know if it is possible to do it today",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/ /tə/ /du/ /ɪt/ /tə'de/"
+		"pinyin": "wo xiang yao zhi dao jin tian zuo zhe jian shi shi fou",
+		"soundmark": "wǒ xiǎng yào zhī dào jīn tiān zuò zhè jiàn shì shì fǒu",
+		"englishGloss": "I want to know if it is possible to do it today"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "说话",
-		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to talk"
 	},
 	{
 		"chinese": "和我",
-		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"pinyin": "he wo",
+		"soundmark": "hé wǒ",
+		"englishGloss": "with me"
 	},
 	{
 		"chinese": "和我说话",
-		"english": "to talk with me",
-		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "he wo shuo hua",
+		"soundmark": "hé wǒ shuō huà",
+		"englishGloss": "to talk with me"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以和我说话",
-		"english": "you can talk with me",
-		"soundmark": "/ju/ /kæn/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "ni ke yi he wo shuo hua",
+		"soundmark": "nǐ kě yǐ hé wǒ shuō huà",
+		"englishGloss": "you can talk with me"
 	},
 	{
 		"chinese": "我想要知道",
-		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo xiang yao zhi dao",
+		"soundmark": "wǒ xiǎng yào zhī dào",
+		"englishGloss": "I want to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我想要知道是否你可以和我说话",
-		"english": "I want to know if you can talk with me",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "wo xiang yao zhi dao shi fou ni ke yi he wo shuo hua",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu nǐ kě yǐ hé wǒ shuō huà",
+		"englishGloss": "I want to know if you can talk with me"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "我想要知道是否你今晚可以和我说话",
-		"english": "I want to know if you can talk with me tonight",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "wo xiang yao zhi dao shi fou ni jin wan ke yi he wo shuo hua",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu nǐ jīn wǎn kě yǐ hé wǒ shuō huà",
+		"englishGloss": "I want to know if you can talk with me tonight"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "它是非常重要的对我来说",
-		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is very important for me"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "我想要知道是否你今晚可以和我说话因为它是非常重要的对我来说",
-		"english": "I want to know if you can talk with me tonight because it is very important for me",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "wo xiang yao zhi dao shi fou ni jin wan ke yi he wo shuo hua yin wei ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu nǐ jīn wǎn kě yǐ hé wǒ shuō huà yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "I want to know if you can talk with me tonight because it is very important for me"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "告诉你",
-		"english": "to tell you",
-		"soundmark": "/tə/ /tɛl/ /ju/"
+		"pinyin": "gao su ni",
+		"soundmark": "gào sù nǐ",
+		"englishGloss": "to tell you"
 	},
 	{
 		"chinese": "我必须告诉你",
-		"english": "I have to tell you",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/"
+		"pinyin": "wo bi xu gao su ni",
+		"soundmark": "wǒ bì xū gào sù nǐ",
+		"englishGloss": "I have to tell you"
 	},
 	{
 		"chinese": "某件事情",
-		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"pinyin": "mou jian shi qing",
+		"soundmark": "mǒu jiàn shì qíng",
+		"englishGloss": "something"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "重要的某件事情",
-		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de mou jian shi qing",
+		"soundmark": "zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "something important"
 	},
 	{
 		"chinese": "我必须告诉你重要的某件事情",
-		"english": "I have to tell you something important",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "wo bi xu gao su ni zhong yao de mou jian shi qing",
+		"soundmark": "wǒ bì xū gào sù nǐ zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "I have to tell you something important"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我必须现在告诉你重要的某件事情",
-		"english": "I have to tell you something important now",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /naʊ/"
+		"pinyin": "wo bi xu xian zai gao su ni zhong yao de mou jian shi qing",
+		"soundmark": "wǒ bì xū xiàn zài gào sù nǐ zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "I have to tell you something important now"
 	},
 	{
 		"chinese": "紧急的",
-		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"pinyin": "jin ji de",
+		"soundmark": "jǐn jí de",
+		"englishGloss": "urgent"
 	},
 	{
 		"chinese": "它是紧急的",
-		"english": "it is urgent",
-		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/"
+		"pinyin": "ta shi jin ji de",
+		"soundmark": "tā shì jǐn jí de",
+		"englishGloss": "it is urgent"
 	},
 	{
 		"chinese": "它是非常紧急的",
-		"english": "it is very urgent",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'ɝdʒənt/"
+		"pinyin": "ta shi fei chang jin ji de",
+		"soundmark": "tā shì fēi cháng jǐn jí de",
+		"englishGloss": "it is very urgent"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "我必须告诉你某件事情",
-		"english": "I have to tell you something",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "wo bi xu gao su ni mou jian shi qing",
+		"soundmark": "wǒ bì xū gào sù nǐ mǒu jiàn shì qíng",
+		"englishGloss": "I have to tell you something"
 	},
 	{
 		"chinese": "事情因为它是非常紧急的",
-		"english": "important now because it is very urgent",
-		"soundmark": "/naʊ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'ɝdʒənt/"
+		"pinyin": "shi qing yin wei ta shi fei chang jin ji de",
+		"soundmark": "shì qíng yīn wèi tā shì fēi cháng jǐn jí de",
+		"englishGloss": "important now because it is very urgent"
 	},
 	{
 		"chinese": "这个食物",
-		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"pinyin": "zhe ge shi wu",
+		"soundmark": "zhè ge shí wù",
+		"englishGloss": "the food"
 	},
 	{
 		"chinese": "我喜欢",
-		"english": "I like",
-		"soundmark": "/aɪ/ /laɪk/"
+		"pinyin": "wo xi huan",
+		"soundmark": "wǒ xǐ huan",
+		"englishGloss": "I like"
 	},
 	{
 		"chinese": "我喜欢这个食物",
-		"english": "I like the food",
-		"soundmark": "/aɪ/ /laɪk/ /ðə/ /fud/"
+		"pinyin": "wo xi huan zhe ge shi wu",
+		"soundmark": "wǒ xǐ huan zhè ge shí wù",
+		"englishGloss": "I like the food"
 	},
 	{
 		"chinese": "我不喜欢这个食物",
-		"english": "I don't like the food",
-		"soundmark": "/aɪ/ /dont/ /laɪk/ /ðə/ /fud/"
+		"pinyin": "wo bu xi huan zhe ge shi wu",
+		"soundmark": "wǒ bù xǐ huan zhè ge shí wù",
+		"englishGloss": "I don't like the food"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "在这里",
-		"english": "to be here",
-		"soundmark": "/tə/ /bi/ /hɪr/"
+		"pinyin": "zai zhe li",
+		"soundmark": "zài zhè lǐ",
+		"englishGloss": "to be here"
 	},
 	{
 		"chinese": "我想要在这里",
-		"english": "I want to be here",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"pinyin": "wo xiang yao zai zhe li",
+		"soundmark": "wǒ xiǎng yào zài zhè lǐ",
+		"englishGloss": "I want to be here"
 	},
 	{
 		"chinese": "我不想在这里",
-		"english": "I don't want to be here",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"pinyin": "wo bu xiang zai zhe li",
+		"soundmark": "wǒ bù xiǎng zài zhè lǐ",
+		"englishGloss": "I don't want to be here"
 	},
 	{
 		"chinese": "一整天",
-		"english": "all the day",
-		"soundmark": "/ɔl/ /ðə/ /de/"
+		"pinyin": "yi zheng tian",
+		"soundmark": "yì zhěng tiān",
+		"englishGloss": "all the day"
 	},
 	{
 		"chinese": "我不想一整天在这里",
-		"english": "I don't want to be here all the day",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /ɔl/ /ðə/ /de/"
+		"pinyin": "wo bu xiang yi zheng tian zai zhe li",
+		"soundmark": "wǒ bù xiǎng yì zhěng tiān zài zhè lǐ",
+		"englishGloss": "I don't want to be here all the day"
 	},
 	{
 		"chinese": "而且",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "er qie",
+		"soundmark": "ér qiě",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "我不喜欢这个食物而且我不想一整天在这里",
-		"english": "I don't like the food and I don't want to be here all the day",
-		"soundmark": "/aɪ/ /dont/ /laɪk/ /ðə/ /fud/ /ənd/ /aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /ɔl/ /ðə/ /de/"
+		"pinyin": "wo bu xi huan zhe ge shi wu er qie wo bu xiang yi zheng tian zai zhe li",
+		"soundmark": "wǒ bù xǐ huan zhè ge shí wù ér qiě wǒ bù xiǎng yì zhěng tiān zài zhè lǐ",
+		"englishGloss": "I don't like the food and I don't want to be here all the day"
 	},
 	{
 		"chinese": "帮助",
-		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "to help"
 	},
 	{
 		"chinese": "帮助我",
-		"english": "to help me",
-		"soundmark": "/tə/ /hɛlp/ /mi/"
+		"pinyin": "bang zhu wo",
+		"soundmark": "bāng zhù wǒ",
+		"englishGloss": "to help me"
 	},
 	{
 		"chinese": "你必须帮助我",
-		"english": "you have to help me",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+		"pinyin": "ni bi xu bang zhu wo",
+		"soundmark": "nǐ bì xū bāng zhù wǒ",
+		"englishGloss": "you have to help me"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "你必须现在帮助我",
-		"english": "you have to help me now",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"pinyin": "ni bi xu xian zai bang zhu wo",
+		"soundmark": "nǐ bì xū xiàn zài bāng zhù wǒ",
+		"englishGloss": "you have to help me now"
 	},
 	{
 		"chinese": "非常重要",
-		"english": "very important",
-		"soundmark": "/ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "fei chang zhong yao",
+		"soundmark": "fēi cháng zhòng yào",
+		"englishGloss": "very important"
 	},
 	{
 		"chinese": "它是非常重要的",
-		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi fei chang zhong yao de",
+		"soundmark": "tā shì fēi cháng zhòng yào de",
+		"englishGloss": "it is very important"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "它是非常重要的对我来说",
-		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is very important for me"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是非常重要的对我来说所以你必须现在帮助我",
-		"english": "It is very important for me so you have to help me now",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /ju/ /hæv/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo suo yi ni bi xu xian zai bang zhu wo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō suǒ yǐ nǐ bì xū xiàn zài bāng zhù wǒ",
+		"englishGloss": "It is very important for me so you have to help me now"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我必须做这件事",
-		"english": "I have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bi xu zuo zhe jian shi",
+		"soundmark": "wǒ bì xū zuò zhè jiàn shì",
+		"englishGloss": "I have to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我必须现在做这件事",
-		"english": "I have to do it now",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo bi xu xian zai zuo zhe jian shi",
+		"soundmark": "wǒ bì xū xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "I have to do it now"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是非常重要的对我来说所以我必须现在做这件事",
-		"english": "It is very important for me so I have to do it now",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo suo yi wo bi xu xian zai zuo zhe jian shi",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō suǒ yǐ wǒ bì xū xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "It is very important for me so I have to do it now"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "to tell me"
 	},
 	{
 		"chinese": "你需要告诉我",
-		"english": "you need to tell me",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/"
+		"pinyin": "ni xu yao gao su wo",
+		"soundmark": "nǐ xū yào gào sù wǒ",
+		"englishGloss": "you need to tell me"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "你需要告诉我事实",
-		"english": "you need to tell me the truth",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ni xu yao gao su wo shi shi",
+		"soundmark": "nǐ xū yào gào sù wǒ shì shí",
+		"englishGloss": "you need to tell me the truth"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "你需要告诉我事实因为它是非常重要的对我来说",
-		"english": "You need to tell me the truth because it is very important for me",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ni xu yao gao su wo shi shi yin wei ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "nǐ xū yào gào sù wǒ shì shí yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "You need to tell me the truth because it is very important for me"
 	},
 	{
 		"chinese": "解释",
-		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "to explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "to explain the reason"
 	},
 	{
 		"chinese": "她想要",
-		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "she wants"
 	},
 	{
 		"chinese": "她想要解释原因",
-		"english": "she wants to explain the reason",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta xiang yao jie shi yuan yin",
+		"soundmark": "tā xiǎng yào jiě shì yuán yīn",
+		"englishGloss": "she wants to explain the reason"
 	},
 	{
 		"chinese": "吃这个食物",
-		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"pinyin": "chi zhe ge shi wu",
+		"soundmark": "chī zhè ge shí wù",
+		"englishGloss": "to eat the food"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "现在吃这个食物",
-		"english": "to eat the food now",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "xian zai chi zhe ge shi wu",
+		"soundmark": "xiàn zài chī zhè ge shí wù",
+		"englishGloss": "to eat the food now"
 	},
 	{
 		"chinese": "她需要",
-		"english": "she needs",
-		"soundmark": "/ʃi/ /nidz/"
+		"pinyin": "ta xu yao",
+		"soundmark": "tā xū yào",
+		"englishGloss": "she needs"
 	},
 	{
 		"chinese": "她需要现在吃这个食物",
-		"english": "she needs to eat the food now",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "ta xu yao xian zai chi zhe ge shi wu",
+		"soundmark": "tā xū yào xiàn zài chī zhè ge shí wù",
+		"englishGloss": "she needs to eat the food now"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "她想要解释原因为什么她需要现在吃这个食物",
-		"english": "She wants to explain the reason why she needs to eat the food now",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "ta xiang yao jie shi yuan yin wei shen me ta xu yao xian zai chi zhe ge shi wu",
+		"soundmark": "tā xiǎng yào jiě shì yuán yīn wèi shén me tā xū yào xiàn zài chī zhè ge shí wù",
+		"englishGloss": "She wants to explain the reason why she needs to eat the food now"
 	},
 	{
 		"chinese": "飞翔",
-		"english": "to fly",
-		"soundmark": "/tə/ /flaɪ/"
+		"pinyin": "fei xiang",
+		"soundmark": "fēi xiáng",
+		"englishGloss": "to fly"
 	},
 	{
 		"chinese": "天空",
-		"english": "sky",
-		"soundmark": "/skaɪ/"
+		"pinyin": "tian kong",
+		"soundmark": "tiān kōng",
+		"englishGloss": "sky"
 	},
 	{
 		"chinese": "在天空中",
-		"english": "in the sky",
-		"soundmark": "/ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zai tian kong zhong",
+		"soundmark": "zài tiān kōng zhōng",
+		"englishGloss": "in the sky"
 	},
 	{
 		"chinese": "在天空中飞翔",
-		"english": "to fly in the sky",
-		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zai tian kong zhong fei xiang",
+		"soundmark": "zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "to fly in the sky"
 	},
 	{
 		"chinese": "这个小鸟",
-		"english": "the bird",
-		"soundmark": "/ðə/ /bɝd/"
+		"pinyin": "zhe ge xiao niao",
+		"soundmark": "zhè ge xiǎo niǎo",
+		"englishGloss": "the bird"
 	},
 	{
 		"chinese": "这个小鸟想要",
-		"english": "the bird wants",
-		"soundmark": "/ðə/ /bɝd/ /wɑnts/"
+		"pinyin": "zhe ge xiao niao xiang yao",
+		"soundmark": "zhè ge xiǎo niǎo xiǎng yào",
+		"englishGloss": "the bird wants"
 	},
 	{
 		"chinese": "这个小鸟想要在天空中飞翔",
-		"english": "the bird wants to fly in the sky",
-		"soundmark": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zhe ge xiao niao xiang yao zai tian kong zhong fei xiang",
+		"soundmark": "zhè ge xiǎo niǎo xiǎng yào zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "the bird wants to fly in the sky"
 	},
 	{
 		"chinese": "星荣想要",
-		"english": "Xingrong wants",
-		"soundmark": "/wɑnts/"
+		"pinyin": "xing rong xiang yao",
+		"soundmark": "xīng róng xiǎng yào",
+		"englishGloss": "Xingrong wants"
 	},
 	{
 		"chinese": "星荣想要在天空中飞翔",
-		"english": "Xingrong wants to fly in the sky",
-		"soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "xing rong xiang yao zai tian kong zhong fei xiang",
+		"soundmark": "xīng róng xiǎng yào zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "Xingrong wants to fly in the sky"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bət/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "不可能的",
-		"english": "impossible",
-		"soundmark": "/ɪm'pɑsəbl/"
+		"pinyin": "bu ke neng de",
+		"soundmark": "bù kě néng de",
+		"englishGloss": "impossible"
 	},
 	{
 		"chinese": "它是不可能的",
-		"english": "it is impossible",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"pinyin": "ta shi bu ke neng de",
+		"soundmark": "tā shì bù kě néng de",
+		"englishGloss": "it is impossible"
 	},
 	{
 		"chinese": "星荣想要在天空中飞翔但是这件事是不可能的",
-		"english": "Xingrong wants to fly in the sky but it is impossible",
-		"soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"pinyin": "xing rong xiang yao zai tian kong zhong fei xiang dan shi zhe jian shi shi bu ke neng de",
+		"soundmark": "xīng róng xiǎng yào zài tiān kōng zhōng fēi xiáng dàn shì zhè jiàn shì shì bù kě néng de",
+		"englishGloss": "Xingrong wants to fly in the sky but it is impossible"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉我事实",
-		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "gao su wo shi shi",
+		"soundmark": "gào sù wǒ shì shí",
+		"englishGloss": "to tell me the truth"
 	},
 	{
 		"chinese": "他必须告诉我事实",
-		"english": "he has to tell me the truth",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ta bi xu gao su wo shi shi",
+		"soundmark": "tā bì xū gào sù wǒ shì shí",
+		"englishGloss": "he has to tell me the truth"
 	},
 	{
 		"chinese": "它是非常重要的对我来说",
-		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is very important for me"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "他必须告诉我事实因为它是非常重要的对我来说",
-		"english": "he has to tell me the truth because it is very important for me",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta bi xu gao su wo shi shi yin wei ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā bì xū gào sù wǒ shì shí yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "he has to tell me the truth because it is very important for me"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "知道这件事",
-		"english": "to know it",
-		"soundmark": "/tə/ /no/ /ɪt/"
+		"pinyin": "zhi dao zhe jian shi",
+		"soundmark": "zhī dào zhè jiàn shì",
+		"englishGloss": "to know it"
 	},
 	{
 		"chinese": "我需要知道这件事",
-		"english": "I need to know it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"pinyin": "wo xu yao zhi dao zhe jian shi",
+		"soundmark": "wǒ xū yào zhī dào zhè jiàn shì",
+		"englishGloss": "I need to know it"
 	},
 	{
 		"chinese": "而且",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "er qie",
+		"soundmark": "ér qiě",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "他必须告诉我事实因为它是非常重要的对我来说而且我需要知道这件事",
-		"english": "He has to tell me the truth because it is very important for me and I need to know it",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"pinyin": "ta bi xu gao su wo shi shi yin wei ta shi fei chang zhong yao de dui wo lai shuo er qie wo xu yao zhi dao zhe jian shi",
+		"soundmark": "tā bì xū gào sù wǒ shì shí yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō ér qiě wǒ xū yào zhī dào zhè jiàn shì",
+		"englishGloss": "He has to tell me the truth because it is very important for me and I need to know it"
 	},
 	{
 		"chinese": "她想要",
-		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "she wants"
 	},
 	{
 		"chinese": "见到",
-		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"pinyin": "jian dao",
+		"soundmark": "jiàn dào",
+		"englishGloss": "to see"
 	},
 	{
 		"chinese": "她想要见到我",
-		"english": "she wants to see me",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/"
+		"pinyin": "ta xiang yao jian dao wo",
+		"soundmark": "tā xiǎng yào jiàn dào wǒ",
+		"englishGloss": "she wants to see me"
 	},
 	{
 		"chinese": "在这里",
-		"english": "to be here",
-		"soundmark": "/tə/ /bi/ /hɪr/"
+		"pinyin": "zai zhe li",
+		"soundmark": "zài zhè lǐ",
+		"englishGloss": "to be here"
 	},
 	{
 		"chinese": "我必须在这里",
-		"english": "I have to be here",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/"
+		"pinyin": "wo bi xu zai zhe li",
+		"soundmark": "wǒ bì xū zài zhè lǐ",
+		"englishGloss": "I have to be here"
 	},
 	{
 		"chinese": "我今天必须在这里",
-		"english": "I have to be here today",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/"
+		"pinyin": "wo jin tian bi xu zai zhe li",
+		"soundmark": "wǒ jīn tiān bì xū zài zhè lǐ",
+		"englishGloss": "I have to be here today"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "她想要见到我所以我今天必须在这里",
-		"english": "She wants to see me so I have to be here today",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/"
+		"pinyin": "ta xiang yao jian dao wo suo yi wo jin tian bi xu zai zhe li",
+		"soundmark": "tā xiǎng yào jiàn dào wǒ suǒ yǐ wǒ jīn tiān bì xū zài zhè lǐ",
+		"englishGloss": "She wants to see me so I have to be here today"
 	},
 	{
 		"chinese": "解释",
-		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "to explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "to explain the reason"
 	},
 	{
 		"chinese": "她必须解释原因",
-		"english": "she has to explain the reason",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bi xu jie shi yuan yin",
+		"soundmark": "tā bì xū jiě shì yuán yīn",
+		"englishGloss": "she has to explain the reason"
 	},
 	{
 		"chinese": "在家里阅读",
-		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"pinyin": "zai jia li yue du",
+		"soundmark": "zài jiā lǐ yuè dú",
+		"englishGloss": "to read at home"
 	},
 	{
 		"chinese": "她喜欢",
-		"english": "she likes",
-		"soundmark": "/ʃi/ /laɪks/"
+		"pinyin": "ta xi huan",
+		"soundmark": "tā xǐ huan",
+		"englishGloss": "she likes"
 	},
 	{
 		"chinese": "她喜欢在家里阅读",
-		"english": "she likes to read at home",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"pinyin": "ta xi huan zai jia li yue du",
+		"soundmark": "tā xǐ huan zài jiā lǐ yuè dú",
+		"englishGloss": "she likes to read at home"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "她必须解释原因为什么她喜欢在家里阅读",
-		"english": "she has to explain the reason why she likes to read at home",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"pinyin": "ta bi xu jie shi yuan yin wei shen me ta xi huan zai jia li yue du",
+		"soundmark": "tā bì xū jiě shì yuán yīn wèi shén me tā xǐ huan zài jiā lǐ yuè dú",
+		"englishGloss": "she has to explain the reason why she likes to read at home"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "它是非常重要的",
-		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi fei chang zhong yao de",
+		"soundmark": "tā shì fēi cháng zhòng yào de",
+		"englishGloss": "it is very important"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "她必须解释原因为什么她喜欢在家里阅读因为这件事是非常重要的",
-		"english": "She has to explain the reason why she likes to read at home because it is very important",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ta bi xu jie shi yuan yin wei shen me ta xi huan zai jia li yue du yin wei zhe jian shi shi fei chang zhong yao de",
+		"soundmark": "tā bì xū jiě shì yuán yīn wèi shén me tā xǐ huan zài jiā lǐ yuè dú yīn wèi zhè jiàn shì shì fēi cháng zhòng yào de",
+		"englishGloss": "She has to explain the reason why she likes to read at home because it is very important"
 	},
 	{
 		"chinese": "他想要",
-		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "he wants"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "他想要做这件事",
-		"english": "he wants to do it",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta xiang yao zuo zhe jian shi",
+		"soundmark": "tā xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "he wants to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "他想要现在做这件事",
-		"english": "he wants to do it now",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ta xiang yao xian zai zuo zhe jian shi",
+		"soundmark": "tā xiǎng yào xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "he wants to do it now"
 	},
 	{
 		"chinese": "他不想现在做这件事",
-		"english": "he doesn't want to do it now",
-		"soundmark": "/ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ta bu xiang xian zai zuo zhe jian shi",
+		"soundmark": "tā bù xiǎng xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "he doesn't want to do it now"
 	},
 	{
 		"chinese": "紧急的",
-		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"pinyin": "jin ji de",
+		"soundmark": "jǐn jí de",
+		"englishGloss": "urgent"
 	},
 	{
 		"chinese": "它是紧急的",
-		"english": "it is urgent",
-		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/"
+		"pinyin": "ta shi jin ji de",
+		"soundmark": "tā shì jǐn jí de",
+		"englishGloss": "it is urgent"
 	},
 	{
 		"chinese": "它是不紧急的",
-		"english": "it is not urgent",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/"
+		"pinyin": "ta shi bu jin ji de",
+		"soundmark": "tā shì bù jǐn jí de",
+		"englishGloss": "it is not urgent"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "他不想现在做这件事因为它是不紧急的",
-		"english": "He doesn't want to do it now because it is not urgent",
-		"soundmark": "/ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/ /naʊ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/"
+		"pinyin": "ta bu xiang xian zai zuo zhe jian shi yin wei ta shi bu jin ji de",
+		"soundmark": "tā bù xiǎng xiàn zài zuò zhè jiàn shì yīn wèi tā shì bù jǐn jí de",
+		"englishGloss": "He doesn't want to do it now because it is not urgent"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我可以",
-		"english": "I can",
-		"soundmark": "/aɪ/ /kæn/"
+		"pinyin": "wo ke yi",
+		"soundmark": "wǒ kě yǐ",
+		"englishGloss": "I can"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我可以做这件事",
-		"english": "I can do it",
-		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/"
+		"pinyin": "wo ke yi zuo zhe jian shi",
+		"soundmark": "wǒ kě yǐ zuò zhè jiàn shì",
+		"englishGloss": "I can do it"
 	},
 	{
 		"chinese": "单独地",
-		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"pinyin": "dan du di",
+		"soundmark": "dān dú dì",
+		"englishGloss": "alone"
 	},
 	{
 		"chinese": "我可以单独做这件事",
-		"english": "I can do it alone",
-		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/"
+		"pinyin": "wo ke yi dan du zuo zhe jian shi",
+		"soundmark": "wǒ kě yǐ dān dú zuò zhè jiàn shì",
+		"englishGloss": "I can do it alone"
 	},
 	{
 		"chinese": "我不可以单独做这件事",
-		"english": "I can not do it alone",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+		"pinyin": "wo bu ke yi dan du zuo zhe jian shi",
+		"soundmark": "wǒ bù kě yǐ dān dú zuò zhè jiàn shì",
+		"englishGloss": "I can not do it alone"
 	},
 	{
 		"chinese": "你必须帮助我",
-		"english": "you have to help me",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+		"pinyin": "ni bi xu bang zhu wo",
+		"soundmark": "nǐ bì xū bāng zhù wǒ",
+		"englishGloss": "you have to help me"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "你必须帮助我因为我不可以单独做这件事",
-		"english": "You have to help me because I can not do it alone",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+		"pinyin": "ni bi xu bang zhu wo yin wei wo bu ke yi dan du zuo zhe jian shi",
+		"soundmark": "nǐ bì xū bāng zhù wǒ yīn wèi wǒ bù kě yǐ dān dú zuò zhè jiàn shì",
+		"englishGloss": "You have to help me because I can not do it alone"
 	},
 	{
 		"chinese": "告诉你",
-		"english": "tell you",
-		"soundmark": "/tɛl/ /ju/"
+		"pinyin": "gao su ni",
+		"soundmark": "gào sù nǐ",
+		"englishGloss": "tell you"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉你事实",
-		"english": "tell you the truth",
-		"soundmark": "/tɛl/ /ju/ /ðə/ /trʊθ/"
+		"pinyin": "gao su ni shi shi",
+		"soundmark": "gào sù nǐ shì shí",
+		"englishGloss": "tell you the truth"
 	},
 	{
 		"chinese": "我将会告诉你事实",
-		"english": "I will tell you the truth",
-		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"pinyin": "wo jiang hui gao su ni shi shi",
+		"soundmark": "wǒ jiāng huì gào sù nǐ shì shí",
+		"englishGloss": "I will tell you the truth"
 	},
 	{
 		"chinese": "我将不会告诉你事实",
-		"english": "I will not tell you the truth",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"pinyin": "wo jiang bu hui gao su ni shi shi",
+		"soundmark": "wǒ jiāng bú huì gào sù nǐ shì shí",
+		"englishGloss": "I will not tell you the truth"
 	},
 	{
 		"chinese": "未来",
-		"english": "the future",
-		"soundmark": "/ðə/ /'fjʊtʃɚ/"
+		"pinyin": "wei lai",
+		"soundmark": "wèi lái",
+		"englishGloss": "the future"
 	},
 	{
 		"chinese": "在未来",
-		"english": "in the future",
-		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "zai wei lai",
+		"soundmark": "zài wèi lái",
+		"englishGloss": "in the future"
 	},
 	{
 		"chinese": "我将会在未来告诉你事实",
-		"english": "I will tell you the truth in the future",
-		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "wo jiang hui zai wei lai gao su ni shi shi",
+		"soundmark": "wǒ jiāng huì zài wèi lái gào sù nǐ shì shí",
+		"englishGloss": "I will tell you the truth in the future"
 	},
 	{
 		"chinese": "我将不会在未来告诉你事实",
-		"english": "I will not tell you the truth in the future",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "wo jiang bu hui zai wei lai gao su ni shi shi",
+		"soundmark": "wǒ jiāng bú huì zài wèi lái gào sù nǐ shì shí",
+		"englishGloss": "I will not tell you the truth in the future"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它是不重要的",
-		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi bu zhong yao de",
+		"soundmark": "tā shì bú zhòng yào de",
+		"englishGloss": "it is not important"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是不重要的所以我将会在未来告诉你事实",
-		"english": "it is not important so I will tell you the truth in the future",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "ta shi bu zhong yao de suo yi wo jiang hui zai wei lai gao su ni shi shi",
+		"soundmark": "tā shì bú zhòng yào de suǒ yǐ wǒ jiāng huì zài wèi lái gào sù nǐ shì shí",
+		"englishGloss": "it is not important so I will tell you the truth in the future"
 	},
 	{
 		"chinese": "她可以",
-		"english": "she can",
-		"soundmark": "/ʃi/ /kæn/"
+		"pinyin": "ta ke yi",
+		"soundmark": "tā kě yǐ",
+		"englishGloss": "she can"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "explain the reason",
-		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "explain the reason"
 	},
 	{
 		"chinese": "她可以解释原因",
-		"english": "she can explain the reason",
-		"soundmark": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta ke yi jie shi yuan yin",
+		"soundmark": "tā kě yǐ jiě shì yuán yīn",
+		"englishGloss": "she can explain the reason"
 	},
 	{
 		"chinese": "她不可以解释原因",
-		"english": "she can not explain the reason",
-		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bu ke yi jie shi yuan yin",
+		"soundmark": "tā bù kě yǐ jiě shì yuán yīn",
+		"englishGloss": "she can not explain the reason"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "他今晚不可以和我说话",
-		"english": "he can not talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "ta jin wan bu ke yi he wo shuo hua",
+		"soundmark": "tā jīn wǎn bù kě yǐ hé wǒ shuō huà",
+		"englishGloss": "he can not talk with me tonight"
 	},
 	{
 		"chinese": "她可以解释原因为什么他今晚不可以和我说话",
-		"english": "She can explain the reason why he can not talk with me tonight",
-		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "ta ke yi jie shi yuan yin wei shen me ta jin wan bu ke yi he wo shuo hua",
+		"soundmark": "tā kě yǐ jiě shì yuán yīn wèi shén me tā jīn wǎn bù kě yǐ hé wǒ shuō huà",
+		"englishGloss": "She can explain the reason why he can not talk with me tonight"
 	}
 ]

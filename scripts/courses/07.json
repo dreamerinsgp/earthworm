@@ -1,1102 +1,1322 @@
 [
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "待着；留下",
-		"english": "to stay",
-		"soundmark": "/tə/ /ste/"
+		"pinyin": "dai zhe ； liu xia",
+		"soundmark": "dài zhe ； liú xià",
+		"englishGloss": "to stay"
 	},
 	{
 		"chinese": "我想要待着",
-		"english": "I want to stay",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/"
+		"pinyin": "wo xiang yao dai zhe",
+		"soundmark": "wǒ xiǎng yào dài zhe",
+		"englishGloss": "I want to stay"
 	},
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "我想要待在这里",
-		"english": "I want to stay here",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/"
+		"pinyin": "wo xiang yao dai zai zhe li",
+		"soundmark": "wǒ xiǎng yào dài zài zhè lǐ",
+		"englishGloss": "I want to stay here"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "我想要和你一起待在这里",
-		"english": "I want to stay here with you",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo xiang yao he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ xiǎng yào hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I want to stay here with you"
 	},
 	{
 		"chinese": "我不想和你一起待在这里",
-		"english": "I don't want to stay here with you",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo bu xiang he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ bù xiǎng hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I don't want to stay here with you"
 	},
 	{
 		"chinese": "计划；打算",
-		"english": "plan",
-		"soundmark": "/plæn/"
+		"pinyin": "ji hua ； da suan",
+		"soundmark": "jì huà ； dǎ suàn",
+		"englishGloss": "plan"
 	},
 	{
 		"chinese": "我打算",
-		"english": "I plan",
-		"soundmark": "/aɪ/ /plæn/"
+		"pinyin": "wo da suan",
+		"soundmark": "wǒ dǎ suàn",
+		"englishGloss": "I plan"
 	},
 	{
 		"chinese": "我打算待在这里",
-		"english": "I plan to stay here",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+		"pinyin": "wo da suan dai zai zhe li",
+		"soundmark": "wǒ dǎ suàn dài zài zhè lǐ",
+		"englishGloss": "I plan to stay here"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "我打算和你一起待在这里",
-		"english": "I plan to stay here with you",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo da suan he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I plan to stay here with you"
 	},
 	{
 		"chinese": "我不打算和你一起待在这里",
-		"english": "I don't plan to stay here with you",
-		"soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo bu da suan he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ bù dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I don't plan to stay here with you"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "想要知道",
-		"english": "want to know",
-		"soundmark": "/wɑnt/ /tə/ /no/"
+		"pinyin": "xiang yao zhi dao",
+		"soundmark": "xiǎng yào zhī dào",
+		"englishGloss": "want to know"
 	},
 	{
 		"chinese": "他们想要知道",
-		"english": "they want to know",
-		"soundmark": "/ðe/ /wɑnt/ /tə/ /no/"
+		"pinyin": "ta men xiang yao zhi dao",
+		"soundmark": "tā men xiǎng yào zhī dào",
+		"englishGloss": "they want to know"
 	},
 	{
 		"chinese": "只是；仅仅",
-		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"pinyin": "zhi shi ； jin jin",
+		"soundmark": "zhǐ shì ； jǐn jǐn",
+		"englishGloss": "just"
 	},
 	{
 		"chinese": "他们只是想要知道",
-		"english": "they just want to know",
-		"soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+		"pinyin": "ta men zhi shi xiang yao zhi dao",
+		"soundmark": "tā men zhǐ shì xiǎng yào zhī dào",
+		"englishGloss": "they just want to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "他们只是想要知道是否我打算和你一起待在这里",
-		"english": "they just want to know if I plan to stay here with you",
-		"soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "ta men zhi shi xiang yao zhi dao shi fou wo da suan he ni yi qi dai zai zhe li",
+		"soundmark": "tā men zhǐ shì xiǎng yào zhī dào shì fǒu wǒ dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they just want to know if I plan to stay here with you"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "他们只是想要知道原因",
-		"english": "they just want to know the reason",
-		"soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/"
+		"pinyin": "ta men zhi shi xiang yao zhi dao yuan yin",
+		"soundmark": "tā men zhǐ shì xiǎng yào zhī dào yuán yīn",
+		"englishGloss": "they just want to know the reason"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "他们只是想要知道原因为什么我不打算和你一起待在这里",
-		"english": "they just want to know the reason why I don't plan to stay here with you",
-		"soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "ta men zhi shi xiang yao zhi dao yuan yin wei shen me wo bu da suan he ni yi qi dai zai zhe li",
+		"soundmark": "tā men zhǐ shì xiǎng yào zhī dào yuán yīn wèi shén me wǒ bù dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they just want to know the reason why I don't plan to stay here with you"
 	},
 	{
 		"chinese": "你打算",
-		"english": "you plan",
-		"soundmark": "/ju/ /plæn/"
+		"pinyin": "ni da suan",
+		"soundmark": "nǐ dǎ suàn",
+		"englishGloss": "you plan"
 	},
 	{
 		"chinese": "你打算待在这里",
-		"english": "you plan to stay here",
-		"soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/"
+		"pinyin": "ni da suan dai zai zhe li",
+		"soundmark": "nǐ dǎ suàn dài zài zhè lǐ",
+		"englishGloss": "you plan to stay here"
 	},
 	{
 		"chinese": "和我一起",
-		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"pinyin": "he wo yi qi",
+		"soundmark": "hé wǒ yì qǐ",
+		"englishGloss": "with me"
 	},
 	{
 		"chinese": "你打算和我一起待在这里",
-		"english": "you plan to stay here with me",
-		"soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+		"pinyin": "ni da suan he wo yi qi dai zai zhe li",
+		"soundmark": "nǐ dǎ suàn hé wǒ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you plan to stay here with me"
 	},
 	{
 		"chinese": "你不打算和我一起待在这里",
-		"english": "you don't plan to stay here with me",
-		"soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+		"pinyin": "ni bu da suan he wo yi qi dai zai zhe li",
+		"soundmark": "nǐ bù dǎ suàn hé wǒ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you don't plan to stay here with me"
 	},
 	{
 		"chinese": "和他一起",
-		"english": "with him",
-		"soundmark": "/wɪð/ /hɪm/"
+		"pinyin": "he ta yi qi",
+		"soundmark": "hé tā yì qǐ",
+		"englishGloss": "with him"
 	},
 	{
 		"chinese": "你打算和他一起待在这里",
-		"english": "you plan to stay here with him",
-		"soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "ni da suan he ta yi qi dai zai zhe li",
+		"soundmark": "nǐ dǎ suàn hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you plan to stay here with him"
 	},
 	{
 		"chinese": "你不打算和他一起待在这里",
-		"english": "you don't plan to stay here with him",
-		"soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "ni bu da suan he ta yi qi dai zai zhe li",
+		"soundmark": "nǐ bù dǎ suàn hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you don't plan to stay here with him"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们打算和他一起待在这里",
-		"english": "we plan to stay here with him",
-		"soundmark": "/wi/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "wo men da suan he ta yi qi dai zai zhe li",
+		"soundmark": "wǒ men dǎ suàn hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we plan to stay here with him"
 	},
 	{
 		"chinese": "我们不打算和他一起待在这里",
-		"english": "we don't plan to stay here with him",
-		"soundmark": "/wi/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "wo men bu da suan he ta yi qi dai zai zhe li",
+		"soundmark": "wǒ men bù dǎ suàn hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we don't plan to stay here with him"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们打算和他一起待在这里",
-		"english": "they plan to stay here with him",
-		"soundmark": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "ta men da suan he ta yi qi dai zai zhe li",
+		"soundmark": "tā men dǎ suàn hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they plan to stay here with him"
 	},
 	{
 		"chinese": "他们不打算和他一起待在这里",
-		"english": "they don't plan to stay here with him",
-		"soundmark": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/ /him/"
+		"pinyin": "ta men bu da suan he ta yi qi dai zai zhe li",
+		"soundmark": "tā men bù dǎ suàn hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they don't plan to stay here with him"
 	},
 	{
 		"chinese": "和我们一起",
-		"english": "with us",
-		"soundmark": "/wɪð/ /ʌs/"
+		"pinyin": "he wo men yi qi",
+		"soundmark": "hé wǒ men yì qǐ",
+		"englishGloss": "with us"
 	},
 	{
 		"chinese": "他们打算和我们一起待在这里",
-		"english": "they plan to stay here with us",
-		"soundmark": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+		"pinyin": "ta men da suan he wo men yi qi dai zai zhe li",
+		"soundmark": "tā men dǎ suàn hé wǒ men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they plan to stay here with us"
 	},
 	{
 		"chinese": "他们不打算和我们一起待在这里",
-		"english": "they don't plan to stay here with us",
-		"soundmark": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+		"pinyin": "ta men bu da suan he wo men yi qi dai zai zhe li",
+		"soundmark": "tā men bù dǎ suàn hé wǒ men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they don't plan to stay here with us"
 	},
 	{
 		"chinese": "他打算",
-		"english": "he plans",
-		"soundmark": "/hi/ /plænz/"
+		"pinyin": "ta da suan",
+		"soundmark": "tā dǎ suàn",
+		"englishGloss": "he plans"
 	},
 	{
 		"chinese": "他打算和我们一起待在这里",
-		"english": "he plans to stay here with us",
-		"soundmark": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+		"pinyin": "ta da suan he wo men yi qi dai zai zhe li",
+		"soundmark": "tā dǎ suàn hé wǒ men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "he plans to stay here with us"
 	},
 	{
 		"chinese": "他不打算和我们一起待在这里",
-		"english": "he doesn't plan to stay here with us",
-		"soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+		"pinyin": "ta bu da suan he wo men yi qi dai zai zhe li",
+		"soundmark": "tā bù dǎ suàn hé wǒ men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "he doesn't plan to stay here with us"
 	},
 	{
 		"chinese": "和他们一起",
-		"english": "with them",
-		"soundmark": "/wɪð/ /ðəm/"
+		"pinyin": "he ta men yi qi",
+		"soundmark": "hé tā men yì qǐ",
+		"englishGloss": "with them"
 	},
 	{
 		"chinese": "他打算和他们一起待在这里",
-		"english": "he plans to stay here with them",
-		"soundmark": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+		"pinyin": "ta da suan he ta men yi qi dai zai zhe li",
+		"soundmark": "tā dǎ suàn hé tā men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "he plans to stay here with them"
 	},
 	{
 		"chinese": "他不打算和他们一起待在这里",
-		"english": "he doesn't plan to stay here with them",
-		"soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+		"pinyin": "ta bu da suan he ta men yi qi dai zai zhe li",
+		"soundmark": "tā bù dǎ suàn hé tā men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "he doesn't plan to stay here with them"
 	},
 	{
 		"chinese": "她打算",
-		"english": "she plans",
-		"soundmark": "/ʃi/ /plænz/"
+		"pinyin": "ta da suan",
+		"soundmark": "tā dǎ suàn",
+		"englishGloss": "she plans"
 	},
 	{
 		"chinese": "她打算和他们一起待在这里",
-		"english": "she plans to stay here with them",
-		"soundmark": "/ʃi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+		"pinyin": "ta da suan he ta men yi qi dai zai zhe li",
+		"soundmark": "tā dǎ suàn hé tā men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "she plans to stay here with them"
 	},
 	{
 		"chinese": "她不打算和他们一起待在这里",
-		"english": "she doesn't plan to stay here with them",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+		"pinyin": "ta bu da suan he ta men yi qi dai zai zhe li",
+		"soundmark": "tā bù dǎ suàn hé tā men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "she doesn't plan to stay here with them"
 	},
 	{
 		"chinese": "星荣打算",
-		"english": "Xingrong plans",
-		"soundmark": "/plænz/"
+		"pinyin": "xing rong da suan",
+		"soundmark": "xīng róng dǎ suàn",
+		"englishGloss": "Xingrong plans"
 	},
 	{
 		"chinese": "星荣打算和小月亮待在这里",
-		"english": "Xingrong plans to stay here with Xiaoyueliang",
-		"soundmark": "/plænz/ /tə/ /ste/ /hɪr/ /wɪð/"
+		"pinyin": "xing rong da suan he xiao yue liang dai zai zhe li",
+		"soundmark": "xīng róng dǎ suàn hé xiǎo yuè liàng dài zài zhè lǐ",
+		"englishGloss": "Xingrong plans to stay here with Xiaoyueliang"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要离开",
-		"english": "I want to leave",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /liv/"
+		"pinyin": "wo xiang yao li kai",
+		"soundmark": "wǒ xiǎng yào lí kāi",
+		"englishGloss": "I want to leave"
 	},
 	{
 		"chinese": "我不想离开",
-		"english": "I don't want to leave",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /liv/"
+		"pinyin": "wo bu xiang li kai",
+		"soundmark": "wǒ bù xiǎng lí kāi",
+		"englishGloss": "I don't want to leave"
 	},
 	{
 		"chinese": "打算；计划",
-		"english": "plan",
-		"soundmark": "/plæn/"
+		"pinyin": "da suan ； ji hua",
+		"soundmark": "dǎ suàn ； jì huà",
+		"englishGloss": "plan"
 	},
 	{
 		"chinese": "我打算离开",
-		"english": "I plan to leave",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /liv/"
+		"pinyin": "wo da suan li kai",
+		"soundmark": "wǒ dǎ suàn lí kāi",
+		"englishGloss": "I plan to leave"
 	},
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "我打算离开这里",
-		"english": "I plan to leave here",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/"
+		"pinyin": "wo da suan li kai zhe li",
+		"soundmark": "wǒ dǎ suàn lí kāi zhè lǐ",
+		"englishGloss": "I plan to leave here"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "我打算明天离开这里",
-		"english": "I plan to leave here tomorrow",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/"
+		"pinyin": "wo da suan ming tian li kai zhe li",
+		"soundmark": "wǒ dǎ suàn míng tiān lí kāi zhè lǐ",
+		"englishGloss": "I plan to leave here tomorrow"
 	},
 	{
 		"chinese": "晚上",
-		"english": "night",
-		"soundmark": "/naɪt/"
+		"pinyin": "wan shang",
+		"soundmark": "wǎn shàng",
+		"englishGloss": "night"
 	},
 	{
 		"chinese": "我打算明天晚上离开这里",
-		"english": "I plan to leave here tomorrow night",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/"
+		"pinyin": "wo da suan ming tian wan shang li kai zhe li",
+		"soundmark": "wǒ dǎ suàn míng tiān wǎn shàng lí kāi zhè lǐ",
+		"englishGloss": "I plan to leave here tomorrow night"
 	},
 	{
 		"chinese": "我不打算明天晚上离开这里",
-		"english": "I don't plan to leave here tomorrow night",
-		"soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/"
+		"pinyin": "wo bu da suan ming tian wan shang li kai zhe li",
+		"soundmark": "wǒ bù dǎ suàn míng tiān wǎn shàng lí kāi zhè lǐ",
+		"englishGloss": "I don't plan to leave here tomorrow night"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "这座城市",
-		"english": "the city",
-		"soundmark": "/ðə/ /'sɪti/"
+		"pinyin": "zhe zuo cheng shi",
+		"soundmark": "zhè zuò chéng shì",
+		"englishGloss": "the city"
 	},
 	{
 		"chinese": "离开这座城市",
-		"english": "to leave the city",
-		"soundmark": "/tə/ /liv/ /ðə/ /'sɪti/"
+		"pinyin": "li kai zhe zuo cheng shi",
+		"soundmark": "lí kāi zhè zuò chéng shì",
+		"englishGloss": "to leave the city"
 	},
 	{
 		"chinese": "你打算",
-		"english": "you plan",
-		"soundmark": "/ju/ /plæn/"
+		"pinyin": "ni da suan",
+		"soundmark": "nǐ dǎ suàn",
+		"englishGloss": "you plan"
 	},
 	{
 		"chinese": "你打算离开这座城市",
-		"english": "you plan to leave the city",
-		"soundmark": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/"
+		"pinyin": "ni da suan li kai zhe zuo cheng shi",
+		"soundmark": "nǐ dǎ suàn lí kāi zhè zuò chéng shì",
+		"englishGloss": "you plan to leave the city"
 	},
 	{
 		"chinese": "下一个",
-		"english": "next",
-		"soundmark": "/nɛkst/"
+		"pinyin": "xia yi ge",
+		"soundmark": "xià yí gè",
+		"englishGloss": "next"
 	},
 	{
 		"chinese": "周；星期",
-		"english": "week",
-		"soundmark": "/wik/"
+		"pinyin": "zhou ； xing qi",
+		"soundmark": "zhōu ； xīng qī",
+		"englishGloss": "week"
 	},
 	{
 		"chinese": "下周",
-		"english": "next week",
-		"soundmark": "/nɛkst/ /wik/"
+		"pinyin": "xia zhou",
+		"soundmark": "xià zhōu",
+		"englishGloss": "next week"
 	},
 	{
 		"chinese": "你打算下周离开这座城市",
-		"english": "you plan to leave the city next week",
-		"soundmark": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/"
+		"pinyin": "ni da suan xia zhou li kai zhe zuo cheng shi",
+		"soundmark": "nǐ dǎ suàn xià zhōu lí kāi zhè zuò chéng shì",
+		"englishGloss": "you plan to leave the city next week"
 	},
 	{
 		"chinese": "你不打算下周离开这座城市",
-		"english": "you don't plan to leave the city next week",
-		"soundmark": "/ju/ /dont/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/"
+		"pinyin": "ni bu da suan xia zhou li kai zhe zuo cheng shi",
+		"soundmark": "nǐ bù dǎ suàn xià zhōu lí kāi zhè zuò chéng shì",
+		"englishGloss": "you don't plan to leave the city next week"
 	},
 	{
 		"chinese": "她打算",
-		"english": "she plans",
-		"soundmark": "/ʃi/ /plænz/"
+		"pinyin": "ta da suan",
+		"soundmark": "tā dǎ suàn",
+		"englishGloss": "she plans"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "这个国家",
-		"english": "the country",
-		"soundmark": "/ðə/ /'kʌntri/"
+		"pinyin": "zhe ge guo jia",
+		"soundmark": "zhè ge guó jiā",
+		"englishGloss": "the country"
 	},
 	{
 		"chinese": "离开这个国家",
-		"english": "to leave the country",
-		"soundmark": "/tə/ /liv/ /ðə/ /'kʌntri/"
+		"pinyin": "li kai zhe ge guo jia",
+		"soundmark": "lí kāi zhè ge guó jiā",
+		"englishGloss": "to leave the country"
 	},
 	{
 		"chinese": "她打算离开这个国家",
-		"english": "she plans to leave the country",
-		"soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/"
+		"pinyin": "ta da suan li kai zhe ge guo jia",
+		"soundmark": "tā dǎ suàn lí kāi zhè ge guó jiā",
+		"englishGloss": "she plans to leave the country"
 	},
 	{
 		"chinese": "下一个",
-		"english": "next",
-		"soundmark": "/nɛkst/"
+		"pinyin": "xia yi ge",
+		"soundmark": "xià yí gè",
+		"englishGloss": "next"
 	},
 	{
 		"chinese": "月",
-		"english": "month",
-		"soundmark": "/mʌnθ/"
+		"pinyin": "yue",
+		"soundmark": "yuè",
+		"englishGloss": "month"
 	},
 	{
 		"chinese": "下个月",
-		"english": "next month",
-		"soundmark": "/nɛkst/ /mʌnθ/"
+		"pinyin": "xia ge yue",
+		"soundmark": "xià gè yuè",
+		"englishGloss": "next month"
 	},
 	{
 		"chinese": "她打算下个月离开这个国家",
-		"english": "she plans to leave the country next month",
-		"soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+		"pinyin": "ta da suan xia ge yue li kai zhe ge guo jia",
+		"soundmark": "tā dǎ suàn xià gè yuè lí kāi zhè ge guó jiā",
+		"englishGloss": "she plans to leave the country next month"
 	},
 	{
 		"chinese": "她不打算下个月离开这个国家",
-		"english": "she doesn't plan to leave the country next month",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+		"pinyin": "ta bu da suan xia ge yue li kai zhe ge guo jia",
+		"soundmark": "tā bù dǎ suàn xià gè yuè lí kāi zhè ge guó jiā",
+		"englishGloss": "she doesn't plan to leave the country next month"
 	},
 	{
 		"chinese": "我们打算",
-		"english": "we plan",
-		"soundmark": "/wi/ /plæn/"
+		"pinyin": "wo men da suan",
+		"soundmark": "wǒ men dǎ suàn",
+		"englishGloss": "we plan"
 	},
 	{
 		"chinese": "离开这里",
-		"english": "to leave here",
-		"soundmark": "/tə/ /liv/ /hɪr/"
+		"pinyin": "li kai zhe li",
+		"soundmark": "lí kāi zhè lǐ",
+		"englishGloss": "to leave here"
 	},
 	{
 		"chinese": "我们打算离开这里",
-		"english": "we plan to leave here",
-		"soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/"
+		"pinyin": "wo men da suan li kai zhe li",
+		"soundmark": "wǒ men dǎ suàn lí kāi zhè lǐ",
+		"englishGloss": "we plan to leave here"
 	},
 	{
 		"chinese": "我们不打算离开这里",
-		"english": "we don't plan to leave here",
-		"soundmark": "/wi/ /dont/ /plæn/ /tə/ /liv/ /hɪr/"
+		"pinyin": "wo men bu da suan li kai zhe li",
+		"soundmark": "wǒ men bù dǎ suàn lí kāi zhè lǐ",
+		"englishGloss": "we don't plan to leave here"
 	},
 	{
 		"chinese": "早点",
-		"english": "early",
-		"soundmark": "/ˈɚli/"
+		"pinyin": "zao dian",
+		"soundmark": "zǎo diǎn",
+		"englishGloss": "early"
 	},
 	{
 		"chinese": "我们打算早点离开这里",
-		"english": "we plan to leave here early",
-		"soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /ˈɚli/"
+		"pinyin": "wo men da suan zao dian li kai zhe li",
+		"soundmark": "wǒ men dǎ suàn zǎo diǎn lí kāi zhè lǐ",
+		"englishGloss": "we plan to leave here early"
 	},
 	{
 		"chinese": "可能",
-		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"pinyin": "ke neng",
+		"soundmark": "kě néng",
+		"englishGloss": "possible"
 	},
 	{
 		"chinese": "尽早；尽可能地早",
-		"english": "as early as possible",
-		"soundmark": "/əz/ /ˈɚli/ /əz/ /'pɑsəbl/"
+		"pinyin": "jin zao ； jin ke neng di zao",
+		"soundmark": "jǐn zǎo ； jǐn kě néng dì zǎo",
+		"englishGloss": "as early as possible"
 	},
 	{
 		"chinese": "我们打算尽早离开这里",
-		"english": "we plan to leave here as early as possible",
-		"soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /əz/ /ˈɚli/ /əz/ /'pɑsəbl/"
+		"pinyin": "wo men da suan jin zao li kai zhe li",
+		"soundmark": "wǒ men dǎ suàn jǐn zǎo lí kāi zhè lǐ",
+		"englishGloss": "we plan to leave here as early as possible"
 	},
 	{
 		"chinese": "支付",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "账单",
-		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"pinyin": "zhang dan",
+		"soundmark": "zhàng dān",
+		"englishGloss": "the bill"
 	},
 	{
 		"chinese": "支付账单",
-		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "zhi fu zhang dan",
+		"soundmark": "zhī fù zhàng dān",
+		"englishGloss": "to pay the bill"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要支付账单",
-		"english": "I need to pay the bill",
-		"soundmark": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "wo xu yao zhi fu zhang dan",
+		"soundmark": "wǒ xū yào zhī fù zhàng dān",
+		"englishGloss": "I need to pay the bill"
 	},
 	{
 		"chinese": "我不需要支付账单",
-		"english": "I don't need to pay the bill",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "wo bu xu yao zhi fu zhang dan",
+		"soundmark": "wǒ bù xū yào zhī fù zhàng dān",
+		"englishGloss": "I don't need to pay the bill"
 	},
 	{
 		"chinese": "我打算",
-		"english": "I plan",
-		"soundmark": "/aɪ/ /plæn/"
+		"pinyin": "wo da suan",
+		"soundmark": "wǒ dǎ suàn",
+		"englishGloss": "I plan"
 	},
 	{
 		"chinese": "我打算支付账单",
-		"english": "I plan to pay the bill",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "wo da suan zhi fu zhang dan",
+		"soundmark": "wǒ dǎ suàn zhī fù zhàng dān",
+		"englishGloss": "I plan to pay the bill"
 	},
 	{
 		"chinese": "为你",
-		"english": "for you",
-		"soundmark": "/fɝ/ /ju/"
+		"pinyin": "wei ni",
+		"soundmark": "wèi nǐ",
+		"englishGloss": "for you"
 	},
 	{
 		"chinese": "我打算为你支付账单",
-		"english": "I plan to pay the bill for you",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+		"pinyin": "wo da suan wei ni zhi fu zhang dan",
+		"soundmark": "wǒ dǎ suàn wèi nǐ zhī fù zhàng dān",
+		"englishGloss": "I plan to pay the bill for you"
 	},
 	{
 		"chinese": "我不打算为你支付账单",
-		"english": "I don't plan to pay the bill for you",
-		"soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+		"pinyin": "wo bu da suan wei ni zhi fu zhang dan",
+		"soundmark": "wǒ bù dǎ suàn wèi nǐ zhī fù zhàng dān",
+		"englishGloss": "I don't plan to pay the bill for you"
 	},
 	{
 		"chinese": "你打算支付账单",
-		"english": "you plan to pay the bill",
-		"soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "ni da suan zhi fu zhang dan",
+		"soundmark": "nǐ dǎ suàn zhī fù zhàng dān",
+		"englishGloss": "you plan to pay the bill"
 	},
 	{
 		"chinese": "为我",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "wei wo",
+		"soundmark": "wèi wǒ",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "你打算为我支付账单",
-		"english": "you plan to pay the bill for me",
-		"soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+		"pinyin": "ni da suan wei wo zhi fu zhang dan",
+		"soundmark": "nǐ dǎ suàn wèi wǒ zhī fù zhàng dān",
+		"englishGloss": "you plan to pay the bill for me"
 	},
 	{
 		"chinese": "你不打算为我支付账单",
-		"english": "you don't plan to pay the bill for me",
-		"soundmark": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+		"pinyin": "ni bu da suan wei wo zhi fu zhang dan",
+		"soundmark": "nǐ bù dǎ suàn wèi wǒ zhī fù zhàng dān",
+		"englishGloss": "you don't plan to pay the bill for me"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我想要知道",
-		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo xiang yao zhi dao",
+		"soundmark": "wǒ xiǎng yào zhī dào",
+		"englishGloss": "I want to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我想要知道是否你打算为我支付账单",
-		"english": "I want to know if you plan to pay the bill for me",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+		"pinyin": "wo xiang yao zhi dao shi fou ni da suan wei wo zhi fu zhang dan",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu nǐ dǎ suàn wèi wǒ zhī fù zhàng dān",
+		"englishGloss": "I want to know if you plan to pay the bill for me"
 	},
 	{
 		"chinese": "他打算",
-		"english": "he plans",
-		"soundmark": "/hi/ /plænz/"
+		"pinyin": "ta da suan",
+		"soundmark": "tā dǎ suàn",
+		"englishGloss": "he plans"
 	},
 	{
 		"chinese": "他打算为我支付账单",
-		"english": "he plans to pay the bill for me",
-		"soundmark": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+		"pinyin": "ta da suan wei wo zhi fu zhang dan",
+		"soundmark": "tā dǎ suàn wèi wǒ zhī fù zhàng dān",
+		"englishGloss": "he plans to pay the bill for me"
 	},
 	{
 		"chinese": "他不打算为我支付账单",
-		"english": "he doesn't plan to pay the bill for me",
-		"soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+		"pinyin": "ta bu da suan wei wo zhi fu zhang dan",
+		"soundmark": "tā bù dǎ suàn wèi wǒ zhī fù zhàng dān",
+		"englishGloss": "he doesn't plan to pay the bill for me"
 	},
 	{
 		"chinese": "为他",
-		"english": "for him",
-		"soundmark": "/fɝ/ /hɪm/"
+		"pinyin": "wei ta",
+		"soundmark": "wèi tā",
+		"englishGloss": "for him"
 	},
 	{
 		"chinese": "我打算为他支付账单",
-		"english": "I plan to pay the bill for him",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+		"pinyin": "wo da suan wei ta zhi fu zhang dan",
+		"soundmark": "wǒ dǎ suàn wèi tā zhī fù zhàng dān",
+		"englishGloss": "I plan to pay the bill for him"
 	},
 	{
 		"chinese": "我不打算为他支付账单",
-		"english": "I don't plan to pay the bill for him",
-		"soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+		"pinyin": "wo bu da suan wei ta zhi fu zhang dan",
+		"soundmark": "wǒ bù dǎ suàn wèi tā zhī fù zhàng dān",
+		"englishGloss": "I don't plan to pay the bill for him"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "这件事是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "zhe jian shi shi zhong yao de",
+		"soundmark": "zhè jiàn shì shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "这件事是非常重要的",
-		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "zhe jian shi shi fei chang zhong yao de",
+		"soundmark": "zhè jiàn shì shì fēi cháng zhòng yào de",
+		"englishGloss": "it is very important"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为这件事是非常重要的",
-		"english": "because it is very important",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "yin wei zhe jian shi shi fei chang zhong yao de",
+		"soundmark": "yīn wèi zhè jiàn shì shì fēi cháng zhòng yào de",
+		"englishGloss": "because it is very important"
 	},
 	{
 		"chinese": "我打算为他支付账单因为这件事是非常重要的",
-		"english": "I plan to pay the bill for him because it is very important",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "wo da suan wei ta zhi fu zhang dan yin wei zhe jian shi shi fei chang zhong yao de",
+		"soundmark": "wǒ dǎ suàn wèi tā zhī fù zhàng dān yīn wèi zhè jiàn shì shì fēi cháng zhòng yào de",
+		"englishGloss": "I plan to pay the bill for him because it is very important"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我需要做这件事",
-		"english": "I need to do it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo xu yao zuo zhe jian shi",
+		"soundmark": "wǒ xū yào zuò zhè jiàn shì",
+		"englishGloss": "I need to do it"
 	},
 	{
 		"chinese": "而且",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "er qie",
+		"soundmark": "ér qiě",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "而且我需要做这件事",
-		"english": "and I need to do it",
-		"soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "er qie wo xu yao zuo zhe jian shi",
+		"soundmark": "ér qiě wǒ xū yào zuò zhè jiàn shì",
+		"englishGloss": "and I need to do it"
 	},
 	{
 		"chinese": "我打算为他支付账单因为这件事是非常重要的而且我需要做这件事",
-		"english": "I plan to pay the bill for him because it is very important and I need to do it",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo da suan wei ta zhi fu zhang dan yin wei zhe jian shi shi fei chang zhong yao de er qie wo xu yao zuo zhe jian shi",
+		"soundmark": "wǒ dǎ suàn wèi tā zhī fù zhàng dān yīn wèi zhè jiàn shì shì fēi cháng zhòng yào de ér qiě wǒ xū yào zuò zhè jiàn shì",
+		"englishGloss": "I plan to pay the bill for him because it is very important and I need to do it"
 	},
 	{
 		"chinese": "为她",
-		"english": "for her",
-		"soundmark": "/fɝ/ /hɚ/"
+		"pinyin": "wei ta",
+		"soundmark": "wèi tā",
+		"englishGloss": "for her"
 	},
 	{
 		"chinese": "他打算为她支付账单",
-		"english": "he plans to pay the bill for her",
-		"soundmark": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+		"pinyin": "ta da suan wei ta zhi fu zhang dan",
+		"soundmark": "tā dǎ suàn wèi tā zhī fù zhàng dān",
+		"englishGloss": "he plans to pay the bill for her"
 	},
 	{
 		"chinese": "他不打算为她支付账单",
-		"english": "he doesn't plan to pay the bill for her",
-		"soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+		"pinyin": "ta bu da suan wei ta zhi fu zhang dan",
+		"soundmark": "tā bù dǎ suàn wèi tā zhī fù zhàng dān",
+		"englishGloss": "he doesn't plan to pay the bill for her"
 	},
 	{
 		"chinese": "我们打算",
-		"english": "we plan",
-		"soundmark": "/wi/ /plæn/"
+		"pinyin": "wo men da suan",
+		"soundmark": "wǒ men dǎ suàn",
+		"englishGloss": "we plan"
 	},
 	{
 		"chinese": "我们打算为她支付账单",
-		"english": "we plan to pay the bill for her",
-		"soundmark": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+		"pinyin": "wo men da suan wei ta zhi fu zhang dan",
+		"soundmark": "wǒ men dǎ suàn wèi tā zhī fù zhàng dān",
+		"englishGloss": "we plan to pay the bill for her"
 	},
 	{
 		"chinese": "我们不打算为她支付账单",
-		"english": "we don't plan to pay the bill for her",
-		"soundmark": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+		"pinyin": "wo men bu da suan wei ta zhi fu zhang dan",
+		"soundmark": "wǒ men bù dǎ suàn wèi tā zhī fù zhàng dān",
+		"englishGloss": "we don't plan to pay the bill for her"
 	},
 	{
 		"chinese": "为他们",
-		"english": "for them",
-		"soundmark": "/fɝ/ /ðəm/"
+		"pinyin": "wei ta men",
+		"soundmark": "wèi tā men",
+		"englishGloss": "for them"
 	},
 	{
 		"chinese": "我们打算为他们支付账单",
-		"english": "we plan to pay the bill for them",
-		"soundmark": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+		"pinyin": "wo men da suan wei ta men zhi fu zhang dan",
+		"soundmark": "wǒ men dǎ suàn wèi tā men zhī fù zhàng dān",
+		"englishGloss": "we plan to pay the bill for them"
 	},
 	{
 		"chinese": "我们不打算为他们支付账单",
-		"english": "we don't plan to pay the bill for them",
-		"soundmark": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+		"pinyin": "wo men bu da suan wei ta men zhi fu zhang dan",
+		"soundmark": "wǒ men bù dǎ suàn wèi tā men zhī fù zhàng dān",
+		"englishGloss": "we don't plan to pay the bill for them"
 	},
 	{
 		"chinese": "旅行",
-		"english": "to travel",
-		"soundmark": "/tə/ /'trævl/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "to travel"
 	},
 	{
 		"chinese": "世界",
-		"english": "the world",
-		"soundmark": "/ðə/ /wɝld/"
+		"pinyin": "shi jie",
+		"soundmark": "shì jiè",
+		"englishGloss": "the world"
 	},
 	{
 		"chinese": "周游世界",
-		"english": "to travel the world",
-		"soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/"
+		"pinyin": "zhou you shi jie",
+		"soundmark": "zhōu yóu shì jiè",
+		"englishGloss": "to travel the world"
 	},
 	{
 		"chinese": "我打算",
-		"english": "I plan",
-		"soundmark": "/aɪ/ /plæn/"
+		"pinyin": "wo da suan",
+		"soundmark": "wǒ dǎ suàn",
+		"englishGloss": "I plan"
 	},
 	{
 		"chinese": "我打算周游世界",
-		"english": "I plan to travel the world",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/"
+		"pinyin": "wo da suan zhou you shi jie",
+		"soundmark": "wǒ dǎ suàn zhōu yóu shì jiè",
+		"englishGloss": "I plan to travel the world"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "我打算和你一起周游世界",
-		"english": "I plan to travel the world with you",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/"
+		"pinyin": "wo da suan he ni yi qi zhou you shi jie",
+		"soundmark": "wǒ dǎ suàn hé nǐ yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "I plan to travel the world with you"
 	},
 	{
 		"chinese": "下一个",
-		"english": "next",
-		"soundmark": "/nɛkst/"
+		"pinyin": "xia yi ge",
+		"soundmark": "xià yí gè",
+		"englishGloss": "next"
 	},
 	{
 		"chinese": "年",
-		"english": "year",
-		"soundmark": "/jɪr/"
+		"pinyin": "nian",
+		"soundmark": "nián",
+		"englishGloss": "year"
 	},
 	{
 		"chinese": "明年",
-		"english": "next year",
-		"soundmark": "/nɛkst/ /jɪr/"
+		"pinyin": "ming nian",
+		"soundmark": "míng nián",
+		"englishGloss": "next year"
 	},
 	{
 		"chinese": "我打算明年和你一起周游世界",
-		"english": "I plan to travel the world with you next year",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/"
+		"pinyin": "wo da suan ming nian he ni yi qi zhou you shi jie",
+		"soundmark": "wǒ dǎ suàn míng nián hé nǐ yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "I plan to travel the world with you next year"
 	},
 	{
 		"chinese": "我不打算明年和你一起周游世界",
-		"english": "I don't plan to travel the world with you next year",
-		"soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/"
+		"pinyin": "wo bu da suan ming nian he ni yi qi zhou you shi jie",
+		"soundmark": "wǒ bù dǎ suàn míng nián hé nǐ yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "I don't plan to travel the world with you next year"
 	},
 	{
 		"chinese": "和我一起",
-		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"pinyin": "he wo yi qi",
+		"soundmark": "hé wǒ yì qǐ",
+		"englishGloss": "with me"
 	},
 	{
 		"chinese": "你打算明年和我一起周游世界",
-		"english": "you plan to travel the world with me next year",
-		"soundmark": "/ju/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/"
+		"pinyin": "ni da suan ming nian he wo yi qi zhou you shi jie",
+		"soundmark": "nǐ dǎ suàn míng nián hé wǒ yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "you plan to travel the world with me next year"
 	},
 	{
 		"chinese": "你不打算明年和我一起周游世界",
-		"english": "you don't plan to travel the world with me next year",
-		"soundmark": "/ju/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/"
+		"pinyin": "ni bu da suan ming nian he wo yi qi zhou you shi jie",
+		"soundmark": "nǐ bù dǎ suàn míng nián hé wǒ yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "you don't plan to travel the world with me next year"
 	},
 	{
 		"chinese": "他打算",
-		"english": "he plans",
-		"soundmark": "/hi/ /plænz/"
+		"pinyin": "ta da suan",
+		"soundmark": "tā dǎ suàn",
+		"englishGloss": "he plans"
 	},
 	{
 		"chinese": "和她一起",
-		"english": "with her",
-		"soundmark": "/wɪð/ /hɚ/"
+		"pinyin": "he ta yi qi",
+		"soundmark": "hé tā yì qǐ",
+		"englishGloss": "with her"
 	},
 	{
 		"chinese": "他打算明年和她一起周游世界",
-		"english": "he plans to travel the world with her next year",
-		"soundmark": "/hi/ /plænz/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/"
+		"pinyin": "ta da suan ming nian he ta yi qi zhou you shi jie",
+		"soundmark": "tā dǎ suàn míng nián hé tā yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "he plans to travel the world with her next year"
 	},
 	{
 		"chinese": "他不打算明年和她一起周游世界",
-		"english": "he doesn't plan to travel the world with her next year",
-		"soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/"
+		"pinyin": "ta bu da suan ming nian he ta yi qi zhou you shi jie",
+		"soundmark": "tā bù dǎ suàn míng nián hé tā yì qǐ zhōu yóu shì jiè",
+		"englishGloss": "he doesn't plan to travel the world with her next year"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "愿意；委婉地想要",
-		"english": "would like",
-		"soundmark": "/wʊd/ /laɪk/"
+		"pinyin": "yuan yi ； wei wan di xiang yao",
+		"soundmark": "yuàn yì ； wěi wǎn dì xiǎng yào",
+		"englishGloss": "would like"
 	},
 	{
 		"chinese": "待着；留下",
-		"english": "to stay",
-		"soundmark": "/tə/ /ste/"
+		"pinyin": "dai zhe ； liu xia",
+		"soundmark": "dài zhe ； liú xià",
+		"englishGloss": "to stay"
 	},
 	{
 		"chinese": "待在这里",
-		"english": "to stay here",
-		"soundmark": "/tə/ /ste/ /hɪr/"
+		"pinyin": "dai zai zhe li",
+		"soundmark": "dài zài zhè lǐ",
+		"englishGloss": "to stay here"
 	},
 	{
 		"chinese": "我愿意待在这里",
-		"english": "I would like to stay here",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/"
+		"pinyin": "wo yuan yi dai zai zhe li",
+		"soundmark": "wǒ yuàn yì dài zài zhè lǐ",
+		"englishGloss": "I would like to stay here"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "我愿意和你一起待在这里",
-		"english": "I would like to stay here with you",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo yuan yi he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ yuàn yì hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I would like to stay here with you"
 	},
 	{
 		"chinese": "我不愿意和你一起待在这里",
-		"english": "I would not like to stay here with you",
-		"soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo bu yuan yi he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ bú yuàn yì hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I would not like to stay here with you"
 	},
 	{
 		"chinese": "和我一起",
-		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"pinyin": "he wo yi qi",
+		"soundmark": "hé wǒ yì qǐ",
+		"englishGloss": "with me"
 	},
 	{
 		"chinese": "你愿意和我一起待在这里",
-		"english": "you would like to stay here with me",
-		"soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+		"pinyin": "ni yuan yi he wo yi qi dai zai zhe li",
+		"soundmark": "nǐ yuàn yì hé wǒ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you would like to stay here with me"
 	},
 	{
 		"chinese": "你不愿意和我一起待在这里",
-		"english": "you would not like to stay here with me",
-		"soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+		"pinyin": "ni bu yuan yi he wo yi qi dai zai zhe li",
+		"soundmark": "nǐ bú yuàn yì hé wǒ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you would not like to stay here with me"
 	},
 	{
 		"chinese": "和他一起",
-		"english": "with him",
-		"soundmark": "/wɪð/ /hɪm/"
+		"pinyin": "he ta yi qi",
+		"soundmark": "hé tā yì qǐ",
+		"englishGloss": "with him"
 	},
 	{
 		"chinese": "你愿意和他一起待在这里",
-		"english": "you would like to stay here with him",
-		"soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "ni yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "nǐ yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you would like to stay here with him"
 	},
 	{
 		"chinese": "你不愿意和他一起待在这里",
-		"english": "you would not like to stay here with him",
-		"soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "ni bu yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "nǐ bú yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "you would not like to stay here with him"
 	},
 	{
 		"chinese": "我们愿意和他一起待在这里",
-		"english": "we would like to stay here with him",
-		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "wo men yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "wǒ men yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we would like to stay here with him"
 	},
 	{
 		"chinese": "我们不愿意和他一起待在这里",
-		"english": "we would not like to stay here with him",
-		"soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+		"pinyin": "wo men bu yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "wǒ men bú yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we would not like to stay here with him"
 	},
 	{
 		"chinese": "和她一起",
-		"english": "with her",
-		"soundmark": "/wɪð/ /hɚ/"
+		"pinyin": "he ta yi qi",
+		"soundmark": "hé tā yì qǐ",
+		"englishGloss": "with her"
 	},
 	{
 		"chinese": "我们愿意和她一起待在这里",
-		"english": "we would like to stay here with her",
-		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+		"pinyin": "wo men yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "wǒ men yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we would like to stay here with her"
 	},
 	{
 		"chinese": "我们不愿意和她一起待在这里",
-		"english": "we would not like to stay here with her",
-		"soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+		"pinyin": "wo men bu yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "wǒ men bú yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we would not like to stay here with her"
 	},
 	{
 		"chinese": "和他们一起",
-		"english": "with them",
-		"soundmark": "/wɪð/ /ðəm/"
+		"pinyin": "he ta men yi qi",
+		"soundmark": "hé tā men yì qǐ",
+		"englishGloss": "with them"
 	},
 	{
 		"chinese": "我们愿意和他们一起待在这里",
-		"english": "we would like to stay here with them",
-		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+		"pinyin": "wo men yuan yi he ta men yi qi dai zai zhe li",
+		"soundmark": "wǒ men yuàn yì hé tā men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we would like to stay here with them"
 	},
 	{
 		"chinese": "我们不愿意和他们一起待在这里",
-		"english": "we would not like to stay here with them",
-		"soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+		"pinyin": "wo men bu yuan yi he ta men yi qi dai zai zhe li",
+		"soundmark": "wǒ men bú yuàn yì hé tā men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "we would not like to stay here with them"
 	},
 	{
 		"chinese": "他们愿意和她一起待在这里",
-		"english": "they would like to stay here with her",
-		"soundmark": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+		"pinyin": "ta men yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "tā men yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they would like to stay here with her"
 	},
 	{
 		"chinese": "他们不愿意和她一起待在这里",
-		"english": "they would not like to stay here with her",
-		"soundmark": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+		"pinyin": "ta men bu yuan yi he ta yi qi dai zai zhe li",
+		"soundmark": "tā men bú yuàn yì hé tā yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they would not like to stay here with her"
 	},
 	{
 		"chinese": "和我们一起",
-		"english": "with us",
-		"soundmark": "/wɪð/ /ʌs/"
+		"pinyin": "he wo men yi qi",
+		"soundmark": "hé wǒ men yì qǐ",
+		"englishGloss": "with us"
 	},
 	{
 		"chinese": "他们愿意和我们一起待在这里",
-		"english": "they would like to stay here with us",
-		"soundmark": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+		"pinyin": "ta men yuan yi he wo men yi qi dai zai zhe li",
+		"soundmark": "tā men yuàn yì hé wǒ men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they would like to stay here with us"
 	},
 	{
 		"chinese": "他们不愿意和我们一起待在这里",
-		"english": "they would not like to stay here with us",
-		"soundmark": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+		"pinyin": "ta men bu yuan yi he wo men yi qi dai zai zhe li",
+		"soundmark": "tā men bú yuàn yì hé wǒ men yì qǐ dài zài zhè lǐ",
+		"englishGloss": "they would not like to stay here with us"
 	},
 	{
 		"chinese": "旅行",
-		"english": "to travel",
-		"soundmark": "/tə/ /'trævl/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "to travel"
 	},
 	{
 		"chinese": "世界",
-		"english": "the world",
-		"soundmark": "/ðə/ /wɝld/"
+		"pinyin": "shi jie",
+		"soundmark": "shì jiè",
+		"englishGloss": "the world"
 	},
 	{
 		"chinese": "环游世界",
-		"english": "to travel the world",
-		"soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/"
+		"pinyin": "huan you shi jie",
+		"soundmark": "huán yóu shì jiè",
+		"englishGloss": "to travel the world"
 	},
 	{
 		"chinese": "我愿意环游世界",
-		"english": "I would like to travel the world",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+		"pinyin": "wo yuan yi huan you shi jie",
+		"soundmark": "wǒ yuàn yì huán yóu shì jiè",
+		"englishGloss": "I would like to travel the world"
 	},
 	{
 		"chinese": "和她一起",
-		"english": "with her",
-		"soundmark": "/wɪð/ /hɚ/"
+		"pinyin": "he ta yi qi",
+		"soundmark": "hé tā yì qǐ",
+		"englishGloss": "with her"
 	},
 	{
 		"chinese": "我愿意和她一起环游世界",
-		"english": "I would like to travel the world with her",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+		"pinyin": "wo yuan yi he ta yi qi huan you shi jie",
+		"soundmark": "wǒ yuàn yì hé tā yì qǐ huán yóu shì jiè",
+		"englishGloss": "I would like to travel the world with her"
 	},
 	{
 		"chinese": "我不愿意和她一起环游世界",
-		"english": "I would not like to travel the world with her",
-		"soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+		"pinyin": "wo bu yuan yi he ta yi qi huan you shi jie",
+		"soundmark": "wǒ bú yuàn yì hé tā yì qǐ huán yóu shì jiè",
+		"englishGloss": "I would not like to travel the world with her"
 	},
 	{
 		"chinese": "我打算",
-		"english": "I plan",
-		"soundmark": "/aɪ/ /plæn/"
+		"pinyin": "wo da suan",
+		"soundmark": "wǒ dǎ suàn",
+		"englishGloss": "I plan"
 	},
 	{
 		"chinese": "我打算待在这里",
-		"english": "I plan to stay here",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+		"pinyin": "wo da suan dai zai zhe li",
+		"soundmark": "wǒ dǎ suàn dài zài zhè lǐ",
+		"englishGloss": "I plan to stay here"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "我打算和你一起待在这里",
-		"english": "I plan to stay here with you",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo da suan he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I plan to stay here with you"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为我打算和你一起待在这里",
-		"english": "because I plan to stay here with you",
-		"soundmark": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "yin wei wo da suan he ni yi qi dai zai zhe li",
+		"soundmark": "yīn wèi wǒ dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "because I plan to stay here with you"
 	},
 	{
 		"chinese": "我不愿意和她一起环游世界因为我打算和你一起待在这里",
-		"english": "I would not like to travel the world with her because I plan to stay here with you",
-		"soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+		"pinyin": "wo bu yuan yi he ta yi qi huan you shi jie yin wei wo da suan he ni yi qi dai zai zhe li",
+		"soundmark": "wǒ bú yuàn yì hé tā yì qǐ huán yóu shì jiè yīn wèi wǒ dǎ suàn hé nǐ yì qǐ dài zài zhè lǐ",
+		"englishGloss": "I would not like to travel the world with her because I plan to stay here with you"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "她愿意环游世界",
-		"english": "she would like to travel the world",
-		"soundmark": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+		"pinyin": "ta yuan yi huan you shi jie",
+		"soundmark": "tā yuàn yì huán yóu shì jiè",
+		"englishGloss": "she would like to travel the world"
 	},
 	{
 		"chinese": "和他一起",
-		"english": "with him",
-		"soundmark": "/wɪð/ /hɪm/"
+		"pinyin": "he ta yi qi",
+		"soundmark": "hé tā yì qǐ",
+		"englishGloss": "with him"
 	},
 	{
 		"chinese": "她愿意和他一起环游世界",
-		"english": "she would like to travel the world with him",
-		"soundmark": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/"
+		"pinyin": "ta yuan yi he ta yi qi huan you shi jie",
+		"soundmark": "tā yuàn yì hé tā yì qǐ huán yóu shì jiè",
+		"englishGloss": "she would like to travel the world with him"
 	},
 	{
 		"chinese": "她不愿意和他一起环游世界",
-		"english": "she would not like to travel the world with him",
-		"soundmark": "/ʃi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/"
+		"pinyin": "ta bu yuan yi he ta yi qi huan you shi jie",
+		"soundmark": "tā bú yuàn yì hé tā yì qǐ huán yóu shì jiè",
+		"englishGloss": "she would not like to travel the world with him"
 	},
 	{
 		"chinese": "支付",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "账单",
-		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"pinyin": "zhang dan",
+		"soundmark": "zhàng dān",
+		"englishGloss": "the bill"
 	},
 	{
 		"chinese": "支付账单",
-		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "zhi fu zhang dan",
+		"soundmark": "zhī fù zhàng dān",
+		"englishGloss": "to pay the bill"
 	},
 	{
 		"chinese": "我愿意支付账单",
-		"english": "I would like to pay the bill",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "wo yuan yi zhi fu zhang dan",
+		"soundmark": "wǒ yuàn yì zhī fù zhàng dān",
+		"englishGloss": "I would like to pay the bill"
 	},
 	{
 		"chinese": "为他们",
-		"english": "for them",
-		"soundmark": "/fɝ/ /ðəm/"
+		"pinyin": "wei ta men",
+		"soundmark": "wèi tā men",
+		"englishGloss": "for them"
 	},
 	{
 		"chinese": "我愿意为他们支付账单",
-		"english": "I would like to pay the bill for them",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+		"pinyin": "wo yuan yi wei ta men zhi fu zhang dan",
+		"soundmark": "wǒ yuàn yì wèi tā men zhī fù zhàng dān",
+		"englishGloss": "I would like to pay the bill for them"
 	},
 	{
 		"chinese": "我不愿意为他们支付账单",
-		"english": "I would not like to pay the bill for them",
-		"soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+		"pinyin": "wo bu yuan yi wei ta men zhi fu zhang dan",
+		"soundmark": "wǒ bú yuàn yì wèi tā men zhī fù zhàng dān",
+		"englishGloss": "I would not like to pay the bill for them"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他愿意支付账单",
-		"english": "he would like to pay the bill",
-		"soundmark": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "ta yuan yi zhi fu zhang dan",
+		"soundmark": "tā yuàn yì zhī fù zhàng dān",
+		"englishGloss": "he would like to pay the bill"
 	},
 	{
 		"chinese": "为我们",
-		"english": "for us",
-		"soundmark": "/fɝ/ /ʌs/"
+		"pinyin": "wei wo men",
+		"soundmark": "wèi wǒ men",
+		"englishGloss": "for us"
 	},
 	{
 		"chinese": "他愿意为我们支付账单",
-		"english": "he would like to pay the bill for us",
-		"soundmark": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/"
+		"pinyin": "ta yuan yi wei wo men zhi fu zhang dan",
+		"soundmark": "tā yuàn yì wèi wǒ men zhī fù zhàng dān",
+		"englishGloss": "he would like to pay the bill for us"
 	},
 	{
 		"chinese": "他不愿意为我们支付账单",
-		"english": "he would not like to pay the bill for us",
-		"soundmark": "/hi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/"
+		"pinyin": "ta bu yuan yi wei wo men zhi fu zhang dan",
+		"soundmark": "tā bú yuàn yì wèi wǒ men zhī fù zhàng dān",
+		"englishGloss": "he would not like to pay the bill for us"
 	}
 ]

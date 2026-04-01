@@ -1,642 +1,770 @@
 [
 	{
 		"chinese": "掌握",
-		"english": "to master",
-		"soundmark": "/tə/ /'mæstɚ/"
+		"pinyin": "zhang wo",
+		"soundmark": "zhǎng wò",
+		"englishGloss": "to master"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "掌握英语",
-		"english": "to master English",
-		"soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "zhang wo ying yu",
+		"soundmark": "zhǎng wò yīng yǔ",
+		"englishGloss": "to master English"
 	},
 	{
 		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "to try"
 	},
 	{
 		"chinese": "尝试掌握英语",
-		"english": "to try to master English",
-		"soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "chang shi zhang wo ying yu",
+		"soundmark": "cháng shì zhǎng wò yīng yǔ",
+		"englishGloss": "to try to master English"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "她(过去)决定",
-		"english": "she decided",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/"
+		"pinyin": "ta ( guo qu ) jue ding",
+		"soundmark": "tā ( guò qù ) jué dìng",
+		"englishGloss": "she decided"
 	},
 	{
 		"chinese": "尝试掌握英语",
-		"english": "to try to master English",
-		"soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "chang shi zhang wo ying yu",
+		"soundmark": "cháng shì zhǎng wò yīng yǔ",
+		"englishGloss": "to try to master English"
 	},
 	{
 		"chinese": "她(过去)决定尝试掌握英语",
-		"english": "she decided to try to master English",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ta ( guo qu ) jue ding chang shi zhang wo ying yu",
+		"soundmark": "tā ( guò qù ) jué dìng cháng shì zhǎng wò yīng yǔ",
+		"englishGloss": "she decided to try to master English"
 	},
 	{
 		"chinese": "餐厅",
-		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"pinyin": "can ting",
+		"soundmark": "cān tīng",
+		"englishGloss": "restaurant"
 	},
 	{
 		"chinese": "新的",
-		"english": "new",
-		"soundmark": "/nu/"
+		"pinyin": "xin de",
+		"soundmark": "xīn de",
+		"englishGloss": "new"
 	},
 	{
 		"chinese": "新餐厅",
-		"english": "new restaurant",
-		"soundmark": "/nu/ /'rɛstrɑnt/"
+		"pinyin": "xin can ting",
+		"soundmark": "xīn cān tīng",
+		"englishGloss": "new restaurant"
 	},
 	{
 		"chinese": "那个新餐厅",
-		"english": "the new restaurant",
-		"soundmark": "/ðə/ /nu/ /'rɛstrɑnt/"
+		"pinyin": "na ge xin can ting",
+		"soundmark": "nà ge xīn cān tīng",
+		"englishGloss": "the new restaurant"
 	},
 	{
 		"chinese": "她(过去)决定尝试",
-		"english": "she decided to try",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+		"pinyin": "ta ( guo qu ) jue ding chang shi",
+		"soundmark": "tā ( guò qù ) jué dìng cháng shì",
+		"englishGloss": "she decided to try"
 	},
 	{
 		"chinese": "她(过去)决定尝试那个新餐厅",
-		"english": "she decided to try the new restaurant",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+		"pinyin": "ta ( guo qu ) jue ding chang shi na ge xin can ting",
+		"soundmark": "tā ( guò qù ) jué dìng cháng shì nà ge xīn cān tīng",
+		"englishGloss": "she decided to try the new restaurant"
 	},
 	{
 		"chinese": "阅读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "书",
-		"english": "books",
-		"soundmark": "/bʊks/"
+		"pinyin": "shu",
+		"soundmark": "shū",
+		"englishGloss": "books"
 	},
 	{
 		"chinese": "读书",
-		"english": "to read books",
-		"soundmark": "/tə/ /rid/ /bʊks/"
+		"pinyin": "du shu",
+		"soundmark": "dú shū",
+		"englishGloss": "to read books"
 	},
 	{
 		"chinese": "英文",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying wen",
+		"soundmark": "yīng wén",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "读英文书",
-		"english": "to read English books",
-		"soundmark": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/"
+		"pinyin": "du ying wen shu",
+		"soundmark": "dú yīng wén shū",
+		"englishGloss": "to read English books"
 	},
 	{
 		"chinese": "读英文书(ing形式)",
-		"english": "reading English books",
-		"soundmark": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+		"pinyin": "du ying wen shu ( i n g xing shi )",
+		"soundmark": "dú yīng wén shū ( i n g xíng shì )",
+		"englishGloss": "reading English books"
 	},
 	{
 		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/ /(过去)尝试 tried/ /traɪd/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "to try"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试读英文书",
-		"english": "she tried reading English books",
-		"soundmark": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+		"pinyin": "ta ( guo qu ) chang shi du ying wen shu",
+		"soundmark": "tā ( guò qù ) cháng shì dú yīng wén shū",
+		"englishGloss": "she tried reading English books"
 	},
 	{
 		"chinese": "线",
-		"english": "line",
-		"soundmark": "/laɪn/"
+		"pinyin": "xian",
+		"soundmark": "xiàn",
+		"englishGloss": "line"
 	},
 	{
 		"chinese": "在线",
-		"english": "online",
-		"soundmark": "/ɑnˈlaɪn/"
+		"pinyin": "zai xian",
+		"soundmark": "zài xiàn",
+		"englishGloss": "online"
 	},
 	{
 		"chinese": "课程",
-		"english": "course",
-		"soundmark": "/kɔrsɪz/"
+		"pinyin": "ke cheng",
+		"soundmark": "kè chéng",
+		"englishGloss": "course"
 	},
 	{
 		"chinese": "在线课程",
-		"english": "online courses",
-		"soundmark": "/ɑnˈlaɪn/ /kɔrsɪz/"
+		"pinyin": "zai xian ke cheng",
+		"soundmark": "zài xiàn kè chéng",
+		"englishGloss": "online courses"
 	},
 	{
 		"chinese": "使用",
-		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"pinyin": "shi yong",
+		"soundmark": "shǐ yòng",
+		"englishGloss": "to use"
 	},
 	{
 		"chinese": "使用在线课程",
-		"english": "to use online courses",
-		"soundmark": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/"
+		"pinyin": "shi yong zai xian ke cheng",
+		"soundmark": "shǐ yòng zài xiàn kè chéng",
+		"englishGloss": "to use online courses"
 	},
 	{
 		"chinese": "使用在线课程(ing形式)",
-		"english": "using online courses",
-		"soundmark": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+		"pinyin": "shi yong zai xian ke cheng ( i n g xing shi )",
+		"soundmark": "shǐ yòng zài xiàn kè chéng ( i n g xíng shì )",
+		"englishGloss": "using online courses"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试使用在线课程",
-		"english": "she tried using online courses",
-		"soundmark": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+		"pinyin": "ta ( guo qu ) chang shi shi yong zai xian ke cheng",
+		"soundmark": "tā ( guò qù ) cháng shì shǐ yòng zài xiàn kè chéng",
+		"englishGloss": "she tried using online courses"
 	},
 	{
 		"chinese": "歌曲",
-		"english": "song",
-		"soundmark": "/sɔŋ/"
+		"pinyin": "ge qu",
+		"soundmark": "gē qǔ",
+		"englishGloss": "song"
 	},
 	{
 		"chinese": "英文歌曲",
-		"english": "English songs",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"pinyin": "ying wen ge qu",
+		"soundmark": "yīng wén gē qǔ",
+		"englishGloss": "English songs"
 	},
 	{
 		"chinese": "听",
-		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"pinyin": "ting",
+		"soundmark": "tīng",
+		"englishGloss": "to listen"
 	},
 	{
 		"chinese": "听英文歌曲",
-		"english": "to listen to English songs",
-		"soundmark": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"pinyin": "ting ying wen ge qu",
+		"soundmark": "tīng yīng wén gē qǔ",
+		"englishGloss": "to listen to English songs"
 	},
 	{
 		"chinese": "听英文歌曲(ing形式)",
-		"english": "listening to English songs",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"pinyin": "ting ying wen ge qu ( i n g xing shi )",
+		"soundmark": "tīng yīng wén gē qǔ ( i n g xíng shì )",
+		"englishGloss": "listening to English songs"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试听英文歌曲",
-		"english": "she tried listening to English songs",
-		"soundmark": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"pinyin": "ta ( guo qu ) chang shi ting ying wen ge qu",
+		"soundmark": "tā ( guò qù ) cháng shì tīng yīng wén gē qǔ",
+		"englishGloss": "she tried listening to English songs"
 	},
 	{
 		"chinese": "说话",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "说话的人",
-		"english": "speaker",
-		"soundmark": "/'spikɚ/"
+		"pinyin": "shuo hua de ren",
+		"soundmark": "shuō huà de rén",
+		"englishGloss": "speaker"
 	},
 	{
 		"chinese": "当地的",
-		"english": "native",
-		"soundmark": "/ˈnetɪv/"
+		"pinyin": "dang di de",
+		"soundmark": "dāng dì de",
+		"englishGloss": "native"
 	},
 	{
 		"chinese": "母语使用者",
-		"english": "native speakers",
-		"soundmark": "/ˈnetɪv/ /'spikɚz/"
+		"pinyin": "mu yu shi yong zhe",
+		"soundmark": "mǔ yǔ shǐ yòng zhě",
+		"englishGloss": "native speakers"
 	},
 	{
 		"chinese": "说话",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "和",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he",
+		"soundmark": "hé",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "和母语使用者说话",
-		"english": "to speak with native speakers",
-		"soundmark": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "he mu yu shi yong zhe shuo hua",
+		"soundmark": "hé mǔ yǔ shǐ yòng zhě shuō huà",
+		"englishGloss": "to speak with native speakers"
 	},
 	{
 		"chinese": "和母语使用者说话(ing形式)",
-		"english": "speaking with native speakers",
-		"soundmark": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "he mu yu shi yong zhe shuo hua ( i n g xing shi )",
+		"soundmark": "hé mǔ yǔ shǐ yòng zhě shuō huà ( i n g xíng shì )",
+		"englishGloss": "speaking with native speakers"
 	},
 	{
 		"chinese": "练习",
-		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"pinyin": "lian xi",
+		"soundmark": "liàn xí",
+		"englishGloss": "to practice"
 	},
 	{
 		"chinese": "练习和母语使用者说话",
-		"english": "to practice speaking with native speakers",
-		"soundmark": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "lian xi he mu yu shi yong zhe shuo hua",
+		"soundmark": "liàn xí hé mǔ yǔ shǐ yòng zhě shuō huà",
+		"englishGloss": "to practice speaking with native speakers"
 	},
 	{
 		"chinese": "练习和母语使用者说话(ing形式)",
-		"english": "practicing speaking with native speakers",
-		"soundmark": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "lian xi he mu yu shi yong zhe shuo hua ( i n g xing shi )",
+		"soundmark": "liàn xí hé mǔ yǔ shǐ yòng zhě shuō huà ( i n g xíng shì )",
+		"englishGloss": "practicing speaking with native speakers"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试练习和母语使用者说话",
-		"english": "she tried practicing speaking with native speakers",
-		"soundmark": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "ta ( guo qu ) chang shi lian xi he mu yu shi yong zhe shuo hua",
+		"soundmark": "tā ( guò qù ) cháng shì liàn xí hé mǔ yǔ shǐ yòng zhě shuō huà",
+		"englishGloss": "she tried practicing speaking with native speakers"
 	},
 	{
 		"chinese": "说话(ing形式)",
-		"english": "speaking",
-		"soundmark": "/'spikɪŋ/"
+		"pinyin": "shuo hua ( i n g xing shi )",
+		"soundmark": "shuō huà ( i n g xíng shì )",
+		"englishGloss": "speaking"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "说英语的",
-		"english": "English-speaking",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/"
+		"pinyin": "shuo ying yu de",
+		"soundmark": "shuō yīng yǔ de",
+		"englishGloss": "English-speaking"
 	},
 	{
 		"chinese": "环境",
-		"english": "environment",
-		"soundmark": "/ɪnˈvaɪrənmənt/"
+		"pinyin": "huan jing",
+		"soundmark": "huán jìng",
+		"englishGloss": "environment"
 	},
 	{
 		"chinese": "说英语的环境",
-		"english": "English-speaking environment",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"pinyin": "shuo ying yu de huan jing",
+		"soundmark": "shuō yīng yǔ de huán jìng",
+		"englishGloss": "English-speaking environment"
 	},
 	{
 		"chinese": "一个说英语的环境",
-		"english": "an English-speaking environment",
-		"soundmark": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"pinyin": "yi ge shuo ying yu de huan jing",
+		"soundmark": "yí gè shuō yīng yǔ de huán jìng",
+		"englishGloss": "an English-speaking environment"
 	},
 	{
 		"chinese": "在......里",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"pinyin": "zai . . . . . . li",
+		"soundmark": "zài . . . . . . lǐ",
+		"englishGloss": "in"
 	},
 	{
 		"chinese": "在一个说英语的环境里",
-		"english": "in an English-speaking environment",
-		"soundmark": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"pinyin": "zai yi ge shuo ying yu de huan jing li",
+		"soundmark": "zài yí gè shuō yīng yǔ de huán jìng lǐ",
+		"englishGloss": "in an English-speaking environment"
 	},
 	{
 		"chinese": "沉浸",
-		"english": "to immerse",
-		"soundmark": "/tə/ /ɪˈmɝs/"
+		"pinyin": "chen jin",
+		"soundmark": "chén jìn",
+		"englishGloss": "to immerse"
 	},
 	{
 		"chinese": "她自己",
-		"english": "herself",
-		"soundmark": "/hɝ'sɛlf/"
+		"pinyin": "ta zi ji",
+		"soundmark": "tā zì jǐ",
+		"englishGloss": "herself"
 	},
 	{
 		"chinese": "沉浸她自己",
-		"english": "to immerse herself",
-		"soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/"
+		"pinyin": "chen jin ta zi ji",
+		"soundmark": "chén jìn tā zì jǐ",
+		"englishGloss": "to immerse herself"
 	},
 	{
 		"chinese": "沉浸她自己在一个说英语的环境里",
-		"english": "to immerse herself in an English-speaking environment",
-		"soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"pinyin": "chen jin ta zi ji zai yi ge shuo ying yu de huan jing li",
+		"soundmark": "chén jìn tā zì jǐ zài yí gè shuō yīng yǔ de huán jìng lǐ",
+		"englishGloss": "to immerse herself in an English-speaking environment"
 	},
 	{
 		"chinese": "沉浸(ing形式)",
-		"english": "immersing",
-		"soundmark": "/ɪˈmɝsɪŋ/"
+		"pinyin": "chen jin ( i n g xing shi )",
+		"soundmark": "chén jìn ( i n g xíng shì )",
+		"englishGloss": "immersing"
 	},
 	{
 		"chinese": "沉浸她自己在一个说英语的环境里(ing形式)",
-		"english": "immersing herself in an English- speaking environment",
-		"soundmark": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"pinyin": "chen jin ta zi ji zai yi ge shuo ying yu de huan jing li ( i n g xing shi )",
+		"soundmark": "chén jìn tā zì jǐ zài yí gè shuō yīng yǔ de huán jìng lǐ ( i n g xíng shì )",
+		"englishGloss": "immersing herself in an English- speaking environment"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试沉浸她自己在一个说英语的环境里",
-		"english": "she tried immersing herself in an English-speaking environment",
-		"soundmark": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"pinyin": "ta ( guo qu ) chang shi chen jin ta zi ji zai yi ge shuo ying yu de huan jing li",
+		"soundmark": "tā ( guò qù ) cháng shì chén jìn tā zì jǐ zài yí gè shuō yīng yǔ de huán jìng lǐ",
+		"englishGloss": "she tried immersing herself in an English-speaking environment"
 	},
 	{
 		"chinese": "健康",
-		"english": "fitness",
-		"soundmark": "/'fɪtnəs/"
+		"pinyin": "jian kang",
+		"soundmark": "jiàn kāng",
+		"englishGloss": "fitness"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "她的健康",
-		"english": "her fitness",
-		"soundmark": "/hɚ/ /'fɪtnəs/"
+		"pinyin": "ta de jian kang",
+		"soundmark": "tā de jiàn kāng",
+		"englishGloss": "her fitness"
 	},
 	{
 		"chinese": "改善",
-		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"pinyin": "gai shan",
+		"soundmark": "gǎi shàn",
+		"englishGloss": "to improve"
 	},
 	{
 		"chinese": "改善她的健康",
-		"english": "to improve her fitness",
-		"soundmark": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+		"pinyin": "gai shan ta de jian kang",
+		"soundmark": "gǎi shàn tā de jiàn kāng",
+		"englishGloss": "to improve her fitness"
 	},
 	{
 		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "to try"
 	},
 	{
 		"chinese": "尝试改善她的健康",
-		"english": "to try to improve her fitness",
-		"soundmark": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+		"pinyin": "chang shi gai shan ta de jian kang",
+		"soundmark": "cháng shì gǎi shàn tā de jiàn kāng",
+		"englishGloss": "to try to improve her fitness"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "她(过去)决定",
-		"english": "she decided",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/"
+		"pinyin": "ta ( guo qu ) jue ding",
+		"soundmark": "tā ( guò qù ) jué dìng",
+		"englishGloss": "she decided"
 	},
 	{
 		"chinese": "她(过去)决定尝试改善她的健康",
-		"english": "she decided to try to improve her fitness",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+		"pinyin": "ta ( guo qu ) jue ding chang shi gai shan ta de jian kang",
+		"soundmark": "tā ( guò qù ) jué dìng cháng shì gǎi shàn tā de jiàn kāng",
+		"englishGloss": "she decided to try to improve her fitness"
 	},
 	{
 		"chinese": "她(过去)决定尝试那个新餐厅",
-		"english": "she decided to try the new restaurant",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+		"pinyin": "ta ( guo qu ) jue ding chang shi na ge xin can ting",
+		"soundmark": "tā ( guò qù ) jué dìng cháng shì nà ge xīn cān tīng",
+		"englishGloss": "she decided to try the new restaurant"
 	},
 	{
 		"chinese": "早上",
-		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"pinyin": "zao shang",
+		"soundmark": "zǎo shàng",
+		"englishGloss": "morning"
 	},
 	{
 		"chinese": "在早上",
-		"english": "in the mornings",
-		"soundmark": "/ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"pinyin": "zai zao shang",
+		"soundmark": "zài zǎo shàng",
+		"englishGloss": "in the mornings"
 	},
 	{
 		"chinese": "跑步",
-		"english": "to run",
-		"soundmark": "/tə/ /rʌn/"
+		"pinyin": "pao bu",
+		"soundmark": "pǎo bù",
+		"englishGloss": "to run"
 	},
 	{
 		"chinese": "在早上跑步",
-		"english": "to run in the mornings",
-		"soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"pinyin": "zai zao shang pao bu",
+		"soundmark": "zài zǎo shàng pǎo bù",
+		"englishGloss": "to run in the mornings"
 	},
 	{
 		"chinese": "在早上跑步(ing形式)",
-		"english": "running in the mornings",
-		"soundmark": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"pinyin": "zai zao shang pao bu ( i n g xing shi )",
+		"soundmark": "zài zǎo shàng pǎo bù ( i n g xíng shì )",
+		"englishGloss": "running in the mornings"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried running in the mornings",
-		"soundmark": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried running in the mornings"
 	},
 	{
 		"chinese": "在......之后",
-		"english": "after",
-		"soundmark": "/'æftɚ/"
+		"pinyin": "zai . . . . . . zhi hou",
+		"soundmark": "zài . . . . . . zhī hòu",
+		"englishGloss": "after"
 	},
 	{
 		"chinese": "中午",
-		"english": "noon",
-		"soundmark": "/nun/"
+		"pinyin": "zhong wu",
+		"soundmark": "zhōng wǔ",
+		"englishGloss": "noon"
 	},
 	{
 		"chinese": "下午",
-		"english": "afternoon",
-		"soundmark": "/æftɚ'nun/"
+		"pinyin": "xia wu",
+		"soundmark": "xià wǔ",
+		"englishGloss": "afternoon"
 	},
 	{
 		"chinese": "在下午",
-		"english": "in the afternoons",
-		"soundmark": "/ɪn/ /ði/ /æftɚ'nunz/"
+		"pinyin": "zai xia wu",
+		"soundmark": "zài xià wǔ",
+		"englishGloss": "in the afternoons"
 	},
 	{
 		"chinese": "骑自行车",
-		"english": "to cycle",
-		"soundmark": "/tə/ /ˈsaɪkl/"
+		"pinyin": "qi zi xing che",
+		"soundmark": "qí zì xíng chē",
+		"englishGloss": "to cycle"
 	},
 	{
 		"chinese": "在下午骑自行车",
-		"english": "to cycle in the afternoons",
-		"soundmark": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/"
+		"pinyin": "zai xia wu qi zi xing che",
+		"soundmark": "zài xià wǔ qí zì xíng chē",
+		"englishGloss": "to cycle in the afternoons"
 	},
 	{
 		"chinese": "在下午骑自行车(ing形式)",
-		"english": "cycling in the afternoons",
-		"soundmark": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+		"pinyin": "zai xia wu qi zi xing che ( i n g xing shi )",
+		"soundmark": "zài xià wǔ qí zì xíng chē ( i n g xíng shì )",
+		"englishGloss": "cycling in the afternoons"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试在下午骑自行车",
-		"english": "she tried cycling in the afternoons",
-		"soundmark": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+		"pinyin": "ta ( guo qu ) chang shi zai xia wu qi zi xing che",
+		"soundmark": "tā ( guò qù ) cháng shì zài xià wǔ qí zì xíng chē",
+		"englishGloss": "she tried cycling in the afternoons"
 	},
 	{
 		"chinese": "晚上",
-		"english": "night",
-		"soundmark": "/naɪt/"
+		"pinyin": "wan shang",
+		"soundmark": "wǎn shàng",
+		"englishGloss": "night"
 	},
 	{
 		"chinese": "在晚上",
-		"english": "in the nights",
-		"soundmark": "/ɪn/ /ðə/ /naɪts/"
+		"pinyin": "zai wan shang",
+		"soundmark": "zài wǎn shàng",
+		"englishGloss": "in the nights"
 	},
 	{
 		"chinese": "瑜伽",
-		"english": "yoga",
-		"soundmark": "/ˈjoɡə/"
+		"pinyin": "yu jia",
+		"soundmark": "yú jiā",
+		"englishGloss": "yoga"
 	},
 	{
 		"chinese": "课程",
-		"english": "classes",
-		"soundmark": "/klæsɪz/"
+		"pinyin": "ke cheng",
+		"soundmark": "kè chéng",
+		"englishGloss": "classes"
 	},
 	{
 		"chinese": "瑜伽课程",
-		"english": "yoga classes",
-		"soundmark": "/ˈjoɡə/ /klæsɪz/"
+		"pinyin": "yu jia ke cheng",
+		"soundmark": "yú jiā kè chéng",
+		"englishGloss": "yoga classes"
 	},
 	{
 		"chinese": "参加",
-		"english": "to attend",
-		"soundmark": "/tə/ /əˈtɛnd/"
+		"pinyin": "can jia",
+		"soundmark": "cān jiā",
+		"englishGloss": "to attend"
 	},
 	{
 		"chinese": "参加瑜伽课程",
-		"english": "to attend yoga classes",
-		"soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/"
+		"pinyin": "can jia yu jia ke cheng",
+		"soundmark": "cān jiā yú jiā kè chéng",
+		"englishGloss": "to attend yoga classes"
 	},
 	{
 		"chinese": "在晚上",
-		"english": "in the nights",
-		"soundmark": "/ɪn/ /ðə/ /naɪts/"
+		"pinyin": "zai wan shang",
+		"soundmark": "zài wǎn shàng",
+		"englishGloss": "in the nights"
 	},
 	{
 		"chinese": "在晚上参加瑜伽课程",
-		"english": "to attend yoga classes in the nights",
-		"soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+		"pinyin": "zai wan shang can jia yu jia ke cheng",
+		"soundmark": "zài wǎn shàng cān jiā yú jiā kè chéng",
+		"englishGloss": "to attend yoga classes in the nights"
 	},
 	{
 		"chinese": "参加(ing形式)",
-		"english": "attending",
-		"soundmark": "/əˈtɛndɪŋ/"
+		"pinyin": "can jia ( i n g xing shi )",
+		"soundmark": "cān jiā ( i n g xíng shì )",
+		"englishGloss": "attending"
 	},
 	{
 		"chinese": "在晚上参加瑜伽课程(ing形式)",
-		"english": "attending yoga classes in the nights",
-		"soundmark": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+		"pinyin": "zai wan shang can jia yu jia ke cheng ( i n g xing shi )",
+		"soundmark": "zài wǎn shàng cān jiā yú jiā kè chéng ( i n g xíng shì )",
+		"englishGloss": "attending yoga classes in the nights"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试在晚上参加瑜伽课程",
-		"english": "she tried attending yoga classes in the nights",
-		"soundmark": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+		"pinyin": "ta ( guo qu ) chang shi zai wan shang can jia yu jia ke cheng",
+		"soundmark": "tā ( guò qù ) cháng shì zài wǎn shàng cān jiā yú jiā kè chéng",
+		"englishGloss": "she tried attending yoga classes in the nights"
 	},
 	{
 		"chinese": "健身房",
-		"english": "gym",
-		"soundmark": "/dʒɪm/"
+		"pinyin": "jian shen fang",
+		"soundmark": "jiàn shēn fáng",
+		"englishGloss": "gym"
 	},
 	{
 		"chinese": "在健身房里",
-		"english": "in the gym",
-		"soundmark": "/ɪn/ /ðə/ /dʒɪm/"
+		"pinyin": "zai jian shen fang li",
+		"soundmark": "zài jiàn shēn fáng lǐ",
+		"englishGloss": "in the gym"
 	},
 	{
 		"chinese": "重量",
-		"english": "weights",
-		"soundmark": "/wets/"
+		"pinyin": "zhong liang",
+		"soundmark": "zhòng liàng",
+		"englishGloss": "weights"
 	},
 	{
 		"chinese": "举起",
-		"english": "to lift",
-		"soundmark": "/tə/ /lɪft/"
+		"pinyin": "ju qi",
+		"soundmark": "jǔ qǐ",
+		"englishGloss": "to lift"
 	},
 	{
 		"chinese": "举哑铃",
-		"english": "to lift weights",
-		"soundmark": "/tə/ /lɪft/ /wets/"
+		"pinyin": "ju ya ling",
+		"soundmark": "jǔ yǎ líng",
+		"englishGloss": "to lift weights"
 	},
 	{
 		"chinese": "在健身房里",
-		"english": "in the gym",
-		"soundmark": "/ɪn/ /ðə/ /dʒɪm/"
+		"pinyin": "zai jian shen fang li",
+		"soundmark": "zài jiàn shēn fáng lǐ",
+		"englishGloss": "in the gym"
 	},
 	{
 		"chinese": "在健身房里举哑铃",
-		"english": "to lift weights in the gym",
-		"soundmark": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+		"pinyin": "zai jian shen fang li ju ya ling",
+		"soundmark": "zài jiàn shēn fáng lǐ jǔ yǎ líng",
+		"englishGloss": "to lift weights in the gym"
 	},
 	{
 		"chinese": "在健身房里举哑铃(ing形式)",
-		"english": "lifting weights in the gym",
-		"soundmark": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+		"pinyin": "zai jian shen fang li ju ya ling ( i n g xing shi )",
+		"soundmark": "zài jiàn shēn fáng lǐ jǔ yǎ líng ( i n g xíng shì )",
+		"englishGloss": "lifting weights in the gym"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试在健身房里举哑铃",
-		"english": "she tried lifting weights in the gym",
-		"soundmark": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+		"pinyin": "ta ( guo qu ) chang shi zai jian shen fang li ju ya ling",
+		"soundmark": "tā ( guò qù ) cháng shì zài jiàn shēn fáng lǐ jǔ yǎ líng",
+		"englishGloss": "she tried lifting weights in the gym"
 	},
 	{
 		"chinese": "周",
-		"english": "week",
-		"soundmark": "/wik/"
+		"pinyin": "zhou",
+		"soundmark": "zhōu",
+		"englishGloss": "week"
 	},
 	{
 		"chinese": "末",
-		"english": "end",
-		"soundmark": "/ɛnd/"
+		"pinyin": "mo",
+		"soundmark": "mò",
+		"englishGloss": "end"
 	},
 	{
 		"chinese": "周末",
-		"english": "weekend",
-		"soundmark": "/'wikɛnd/"
+		"pinyin": "zhou mo",
+		"soundmark": "zhōu mò",
+		"englishGloss": "weekend"
 	},
 	{
 		"chinese": "在周末",
-		"english": "on the weekends",
-		"soundmark": "/ɑn/ /ðə/ /'wikɛndz/"
+		"pinyin": "zai zhou mo",
+		"soundmark": "zài zhōu mò",
+		"englishGloss": "on the weekends"
 	},
 	{
 		"chinese": "游泳",
-		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "to swim"
 	},
 	{
 		"chinese": "在周末游泳",
-		"english": "to swim on the weekends",
-		"soundmark": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/"
+		"pinyin": "zai zhou mo you yong",
+		"soundmark": "zài zhōu mò yóu yǒng",
+		"englishGloss": "to swim on the weekends"
 	},
 	{
 		"chinese": "在周末游泳(ing形式)",
-		"english": "swimming on the weekends",
-		"soundmark": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+		"pinyin": "zai zhou mo you yong ( i n g xing shi )",
+		"soundmark": "zài zhōu mò yóu yǒng ( i n g xíng shì )",
+		"englishGloss": "swimming on the weekends"
 	},
 	{
 		"chinese": "她(过去)尝试",
-		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"pinyin": "ta ( guo qu ) chang shi",
+		"soundmark": "tā ( guò qù ) cháng shì",
+		"englishGloss": "she tried"
 	},
 	{
 		"chinese": "她(过去)尝试在周末游泳",
-		"english": "she tried swimming on the weekends",
-		"soundmark": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+		"pinyin": "ta ( guo qu ) chang shi zai zhou mo you yong",
+		"soundmark": "tā ( guò qù ) cháng shì zài zhōu mò yóu yǒng",
+		"englishGloss": "she tried swimming on the weekends"
 	}
 ]

@@ -1,687 +1,824 @@
 [
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "这件事情",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "zhe jian shi qing",
+		"soundmark": "zhè jiàn shì qíng",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "做这件事情",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi qing",
+		"soundmark": "zuò zhè jiàn shì qíng",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要做这件事情",
-		"english": "I want to do it",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo xiang yao zuo zhe jian shi qing",
+		"soundmark": "wǒ xiǎng yào zuò zhè jiàn shì qíng",
+		"englishGloss": "I want to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我现在想要做这件事情",
-		"english": "I want to do it now",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo xian zai xiang yao zuo zhe jian shi qing",
+		"soundmark": "wǒ xiàn zài xiǎng yào zuò zhè jiàn shì qíng",
+		"englishGloss": "I want to do it now"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我现在不想做这件事情",
-		"english": "I don't want to do it now",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo xian zai bu xiang zuo zhe jian shi qing",
+		"soundmark": "wǒ xiàn zài bù xiǎng zuò zhè jiàn shì qíng",
+		"englishGloss": "I don't want to do it now"
 	},
 	{
 		"chinese": "她现在想要做这件事",
-		"english": "she wants to do it now",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /du/ /ɪt/ /naʊ/ /（第三人称单数）不 doesn't/ /ˈdʌznt/"
+		"pinyin": "ta xian zai xiang yao zuo zhe jian shi",
+		"soundmark": "tā xiàn zài xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "she wants to do it now"
 	},
 	{
 		"chinese": "她现在不想做这件事",
-		"english": "she doesn't want to do it now",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/ /naʊ/ /（过去）想要 wanted/ /wɑntɪd/"
+		"pinyin": "ta xian zai bu xiang zuo zhe jian shi",
+		"soundmark": "tā xiàn zài bù xiǎng zuò zhè jiàn shì",
+		"englishGloss": "she doesn't want to do it now"
 	},
 	{
 		"chinese": "我（过去）想要做这件事情",
-		"english": "I wanted to do it",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo （ guo qu ） xiang yao zuo zhe jian shi qing",
+		"soundmark": "wǒ （ guò qù ） xiǎng yào zuò zhè jiàn shì qíng",
+		"englishGloss": "I wanted to do it"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "我昨天想要做这件事情",
-		"english": "I wanted to do it yesterday",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /du/ /ɪt/ /'jɛstɚde/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "wo zuo tian xiang yao zuo zhe jian shi qing",
+		"soundmark": "wǒ zuó tiān xiǎng yào zuò zhè jiàn shì qíng",
+		"englishGloss": "I wanted to do it yesterday"
 	},
 	{
 		"chinese": "我昨天不想做这件事情",
-		"english": "I didn't want to do it yesterday",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo zuo tian bu xiang zuo zhe jian shi qing",
+		"soundmark": "wǒ zuó tiān bù xiǎng zuò zhè jiàn shì qíng",
+		"englishGloss": "I didn't want to do it yesterday"
 	},
 	{
 		"chinese": "留；待在",
-		"english": "to stay",
-		"soundmark": "/tə/ /ste/"
+		"pinyin": "liu ； dai zai",
+		"soundmark": "liú ； dài zài",
+		"englishGloss": "to stay"
 	},
 	{
 		"chinese": "那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
+		"pinyin": "na li",
+		"soundmark": "nà lǐ",
+		"englishGloss": "there"
 	},
 	{
 		"chinese": "待在那里",
-		"english": "to stay there",
-		"soundmark": "/tə/ /ste/ /ðɛr/"
+		"pinyin": "dai zai na li",
+		"soundmark": "dài zài nà lǐ",
+		"englishGloss": "to stay there"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like",
-		"soundmark": "/laɪk/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like"
 	},
 	{
 		"chinese": "我喜欢待在那里",
-		"english": "I like to stay there",
-		"soundmark": "/aɪ/ /laɪk/ /tə/ /ste/ /ðɛr/"
+		"pinyin": "wo xi huan dai zai na li",
+		"soundmark": "wǒ xǐ huan dài zài nà lǐ",
+		"englishGloss": "I like to stay there"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "我喜欢每天待在那里",
-		"english": "I like to stay there every day",
-		"soundmark": "/aɪ/ /laɪk/ /tə/ /ste/ /ðɛr/ /'ɛvri/ /de/"
+		"pinyin": "wo xi huan mei tian dai zai na li",
+		"soundmark": "wǒ xǐ huan měi tiān dài zài nà lǐ",
+		"englishGloss": "I like to stay there every day"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不喜欢每天待在那里",
-		"english": "I don't like to stay there every day",
-		"soundmark": "/aɪ/ /dont/ /laɪk/ /tə/ /ste/ /ðɛr/ /'ɛvri/ /de/ /（过去）喜欢 liked/ /laikt/"
+		"pinyin": "wo bu xi huan mei tian dai zai na li",
+		"soundmark": "wǒ bù xǐ huan měi tiān dài zài nà lǐ",
+		"englishGloss": "I don't like to stay there every day"
 	},
 	{
 		"chinese": "我（过去）喜欢待在那里",
-		"english": "I liked to stay there",
-		"soundmark": "/aɪ/ /laikt/ /tə/ /ste/ /ðɛr/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "wo （ guo qu ） xi huan dai zai na li",
+		"soundmark": "wǒ （ guò qù ） xǐ huan dài zài nà lǐ",
+		"englishGloss": "I liked to stay there"
 	},
 	{
 		"chinese": "我（过去）不喜欢待在那里",
-		"english": "I didn't like to stay there",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /laɪk/ /tə/ /ste/ /ðɛr/"
+		"pinyin": "wo （ guo qu ） bu xi huan dai zai na li",
+		"soundmark": "wǒ （ guò qù ） bù xǐ huan dài zài nà lǐ",
+		"englishGloss": "I didn't like to stay there"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "这座城市",
-		"english": "the city",
-		"soundmark": "/ðə/ /'sɪti/"
+		"pinyin": "zhe zuo cheng shi",
+		"soundmark": "zhè zuò chéng shì",
+		"englishGloss": "the city"
 	},
 	{
 		"chinese": "我必须离开这座城市",
-		"english": "I have to leave the city",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /liv/ /ðə/ /'sɪti/"
+		"pinyin": "wo bi xu li kai zhe zuo cheng shi",
+		"soundmark": "wǒ bì xū lí kāi zhè zuò chéng shì",
+		"englishGloss": "I have to leave the city"
 	},
 	{
 		"chinese": "今天",
-		"english": "today",
-		"soundmark": "/tə'de/"
+		"pinyin": "jin tian",
+		"soundmark": "jīn tiān",
+		"englishGloss": "today"
 	},
 	{
 		"chinese": "我今天必须离开这座城市",
-		"english": "I have to leave the city today",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /liv/ /ðə/ /'sɪti/ /tə'de/"
+		"pinyin": "wo jin tian bi xu li kai zhe zuo cheng shi",
+		"soundmark": "wǒ jīn tiān bì xū lí kāi zhè zuò chéng shì",
+		"englishGloss": "I have to leave the city today"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我今天不必离开这座城市",
-		"english": "I don't have to leave the city today",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'sɪti/ /tə'de/"
+		"pinyin": "wo jin tian bu bi li kai zhe zuo cheng shi",
+		"soundmark": "wǒ jīn tiān bú bì lí kāi zhè zuò chéng shì",
+		"englishGloss": "I don't have to leave the city today"
 	},
 	{
 		"chinese": "我（过去）必须",
-		"english": "I had to",
-		"soundmark": "/aɪ/ /hæd/ /tə/"
+		"pinyin": "wo （ guo qu ） bi xu",
+		"soundmark": "wǒ （ guò qù ） bì xū",
+		"englishGloss": "I had to"
 	},
 	{
 		"chinese": "我（过去）必须离开这座城市",
-		"english": "I had to leave the city",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /liv/ /ðə/ /'sɪti/"
+		"pinyin": "wo （ guo qu ） bi xu li kai zhe zuo cheng shi",
+		"soundmark": "wǒ （ guò qù ） bì xū lí kāi zhè zuò chéng shì",
+		"englishGloss": "I had to leave the city"
 	},
 	{
 		"chinese": "时间",
-		"english": "time",
-		"soundmark": "/taɪm/"
+		"pinyin": "shi jian",
+		"soundmark": "shí jiān",
+		"englishGloss": "time"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "在那时",
-		"english": "at that time",
-		"soundmark": "/ət/ /ðæt/ /taɪm/"
+		"pinyin": "zai na shi",
+		"soundmark": "zài nà shí",
+		"englishGloss": "at that time"
 	},
 	{
 		"chinese": "我必须在那时离开这座城市",
-		"english": "I had to leave the city at that time",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /liv/ /ðə/ /'sɪti/ /ət/ /ðæt/ /taɪm/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "wo bi xu zai na shi li kai zhe zuo cheng shi",
+		"soundmark": "wǒ bì xū zài nà shí lí kāi zhè zuò chéng shì",
+		"englishGloss": "I had to leave the city at that time"
 	},
 	{
 		"chinese": "我不必在那时离开这座城市",
-		"english": "I didn't have to leave the city at that time",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /liv/ /ðə/ /'sɪti/ /ət/ /ðæt/ /taɪm/"
+		"pinyin": "wo bu bi zai na shi li kai zhe zuo cheng shi",
+		"soundmark": "wǒ bú bì zài nà shí lí kāi zhè zuò chéng shì",
+		"englishGloss": "I didn't have to leave the city at that time"
 	},
 	{
 		"chinese": "计划；打算",
-		"english": "plan",
-		"soundmark": "/plæn/"
+		"pinyin": "ji hua ； da suan",
+		"soundmark": "jì huà ； dǎ suàn",
+		"englishGloss": "plan"
 	},
 	{
 		"chinese": "去；达到",
-		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"pinyin": "qu ； da dao",
+		"soundmark": "qù ； dá dào",
+		"englishGloss": "to get"
 	},
 	{
 		"chinese": "去那里",
-		"english": "to get there",
-		"soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "qu na li",
+		"soundmark": "qù nà lǐ",
+		"englishGloss": "to get there"
 	},
 	{
 		"chinese": "我打算去那里",
-		"english": "I plan to get there",
-		"soundmark": "/aɪ/ /plæn/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo da suan qu na li",
+		"soundmark": "wǒ dǎ suàn qù nà lǐ",
+		"englishGloss": "I plan to get there"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不打算去那里",
-		"english": "I don't plan to get there",
-		"soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /ɡɛt/ /ðɛr/ /（过去）打算 planned/ /plænd/"
+		"pinyin": "wo bu da suan qu na li",
+		"soundmark": "wǒ bù dǎ suàn qù nà lǐ",
+		"englishGloss": "I don't plan to get there"
 	},
 	{
 		"chinese": "我（过去）打算去那里",
-		"english": "I planned to get there",
-		"soundmark": "/aɪ/ /plænd/ /tə/ /ɡɛt/ /ðɛr/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "wo （ guo qu ） da suan qu na li",
+		"soundmark": "wǒ （ guò qù ） dǎ suàn qù nà lǐ",
+		"englishGloss": "I planned to get there"
 	},
 	{
 		"chinese": "我（过去）不打算去那里",
-		"english": "I didn't plan to get there",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /plæn/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo （ guo qu ） bu da suan qu na li",
+		"soundmark": "wǒ （ guò qù ） bù dǎ suàn qù nà lǐ",
+		"englishGloss": "I didn't plan to get there"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "事实；真相",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi ； zhen xiang",
+		"soundmark": "shì shí ； zhēn xiàng",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "我需要知道真相",
-		"english": "I need to know the truth",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "wo xu yao zhi dao zhen xiang",
+		"soundmark": "wǒ xū yào zhī dào zhēn xiàng",
+		"englishGloss": "I need to know the truth"
 	},
 	{
 		"chinese": "尽快；尽可能地快",
-		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "jin kuai ； jin ke neng di kuai",
+		"soundmark": "jǐn kuài ； jǐn kě néng dì kuài",
+		"englishGloss": "as soon as possible"
 	},
 	{
 		"chinese": "我需要尽快知道真相",
-		"english": "I need to know the truth as soon as possible",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ðə/ /trʊθ/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "wo xu yao jin kuai zhi dao zhen xiang",
+		"soundmark": "wǒ xū yào jǐn kuài zhī dào zhēn xiàng",
+		"englishGloss": "I need to know the truth as soon as possible"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不需要知道真相",
-		"english": "I don't need to know the truth",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /no/ /ðə/ /trʊθ/ /（过去）需要 needed/ /nidɪd/"
+		"pinyin": "wo bu xu yao zhi dao zhen xiang",
+		"soundmark": "wǒ bù xū yào zhī dào zhēn xiàng",
+		"englishGloss": "I don't need to know the truth"
 	},
 	{
 		"chinese": "我（过去）需要知道真相",
-		"english": "I needed to know the truth",
-		"soundmark": "/aɪ/ /nidɪd/ /tə/ /no/ /ðə/ /trʊθ/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "wo （ guo qu ） xu yao zhi dao zhen xiang",
+		"soundmark": "wǒ （ guò qù ） xū yào zhī dào zhēn xiàng",
+		"englishGloss": "I needed to know the truth"
 	},
 	{
 		"chinese": "我（过去）不需要知道真相",
-		"english": "I didn't need to know the truth",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /nid/ /tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "wo （ guo qu ） bu xu yao zhi dao zhen xiang",
+		"soundmark": "wǒ （ guò qù ） bù xū yào zhī dào zhēn xiàng",
+		"englishGloss": "I didn't need to know the truth"
 	},
 	{
 		"chinese": "她（过去）需要知道真相",
-		"english": "she needed to know the truth",
-		"soundmark": "/ʃi/ /nidɪd/ /tə/ /no/ /ðə/ /trʊθ/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "ta （ guo qu ） xu yao zhi dao zhen xiang",
+		"soundmark": "tā （ guò qù ） xū yào zhī dào zhēn xiàng",
+		"englishGloss": "she needed to know the truth"
 	},
 	{
 		"chinese": "她（过去）不需要知道真相",
-		"english": "she didn't need to know the truth",
-		"soundmark": "/ʃi/ /ˈdɪdnt/ /nid/ /tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "ta （ guo qu ） bu xu yao zhi dao zhen xiang",
+		"soundmark": "tā （ guò qù ） bù xū yào zhī dào zhēn xiàng",
+		"englishGloss": "she didn't need to know the truth"
 	},
 	{
 		"chinese": "做这件事情",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi qing",
+		"soundmark": "zuò zhè jiàn shì qíng",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "你做这件事情",
-		"english": "you do it",
-		"soundmark": "/ju/ /du/ /ɪt/"
+		"pinyin": "ni zuo zhe jian shi qing",
+		"soundmark": "nǐ zuò zhè jiàn shì qíng",
+		"englishGloss": "you do it"
 	},
 	{
 		"chinese": "你现在做这件事情",
-		"english": "you do it now",
-		"soundmark": "/ju/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ni xian zai zuo zhe jian shi qing",
+		"soundmark": "nǐ xiàn zài zuò zhè jiàn shì qíng",
+		"englishGloss": "you do it now"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你现在不做这件事情",
-		"english": "you don't do it now",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/ /naʊ/ /（过去）做 did/ /dɪd/"
+		"pinyin": "ni xian zai bu zuo zhe jian shi qing",
+		"soundmark": "nǐ xiàn zài bú zuò zhè jiàn shì qíng",
+		"englishGloss": "you don't do it now"
 	},
 	{
 		"chinese": "你（过去）做这件事情",
-		"english": "you did it",
-		"soundmark": "/ju/ /dɪd/ /ɪt/"
+		"pinyin": "ni （ guo qu ） zuo zhe jian shi qing",
+		"soundmark": "nǐ （ guò qù ） zuò zhè jiàn shì qíng",
+		"englishGloss": "you did it"
 	},
 	{
 		"chinese": "年",
-		"english": "year",
-		"soundmark": "/jɪr/"
+		"pinyin": "nian",
+		"soundmark": "nián",
+		"englishGloss": "year"
 	},
 	{
 		"chinese": "上一个",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "shang yi ge",
+		"soundmark": "shàng yí gè",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "去年",
-		"english": "last year",
-		"soundmark": "/læst/ /jɪr/"
+		"pinyin": "qu nian",
+		"soundmark": "qù nián",
+		"englishGloss": "last year"
 	},
 	{
 		"chinese": "你去年做这件事情",
-		"english": "you did it last year",
-		"soundmark": "/ju/ /dɪd/ /ɪt/ /læst/ /jɪr/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "ni qu nian zuo zhe jian shi qing",
+		"soundmark": "nǐ qù nián zuò zhè jiàn shì qíng",
+		"englishGloss": "you did it last year"
 	},
 	{
 		"chinese": "你去年没做这件事情",
-		"english": "you didn't do it last year",
-		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/ /læst/ /jɪr/"
+		"pinyin": "ni qu nian mei zuo zhe jian shi qing",
+		"soundmark": "nǐ qù nián méi zuò zhè jiàn shì qíng",
+		"englishGloss": "you didn't do it last year"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "to tell me"
 	},
 	{
 		"chinese": "你告诉我",
-		"english": "you tell me",
-		"soundmark": "/ju/ /tɛl/ /mi/"
+		"pinyin": "ni gao su wo",
+		"soundmark": "nǐ gào sù wǒ",
+		"englishGloss": "you tell me"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你不告诉我",
-		"english": "you don't tell me",
-		"soundmark": "/ju/ /dont/ /tɛl/ /mi/"
+		"pinyin": "ni bu gao su wo",
+		"soundmark": "nǐ bú gào sù wǒ",
+		"englishGloss": "you don't tell me"
 	},
 	{
 		"chinese": "她告诉我",
-		"english": "she tells me",
-		"soundmark": "/ʃi/ /tɛlz/ /mi/ /（第三人称单数）不 doesn't/ /ˈdʌznt/"
+		"pinyin": "ta gao su wo",
+		"soundmark": "tā gào sù wǒ",
+		"englishGloss": "she tells me"
 	},
 	{
 		"chinese": "她不告诉我",
-		"english": "she doesn't tell me",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /tɛl/ /mi/ /（过去）告诉 told/ /told/ /（过去）告诉我 told me/ /told/ /mi/"
+		"pinyin": "ta bu gao su wo",
+		"soundmark": "tā bú gào sù wǒ",
+		"englishGloss": "she doesn't tell me"
 	},
 	{
 		"chinese": "他（过去）告诉我",
-		"english": "he told me",
-		"soundmark": "/hi/ /told/ /mi/ /（过去）不 didn't/ /ˈdɪdnt/"
+		"pinyin": "ta （ guo qu ） gao su wo",
+		"soundmark": "tā （ guò qù ） gào sù wǒ",
+		"englishGloss": "he told me"
 	},
 	{
 		"chinese": "他（过去）没告诉我",
-		"english": "he didn't tell me",
-		"soundmark": "/hi/ /ˈdɪdnt/ /tɛl/ /mi/"
+		"pinyin": "ta （ guo qu ） mei gao su wo",
+		"soundmark": "tā （ guò qù ） méi gào sù wǒ",
+		"englishGloss": "he didn't tell me"
 	},
 	{
 		"chinese": "事实；真相",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi ； zhen xiang",
+		"soundmark": "shì shí ； zhēn xiàng",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "他（过去）没告诉我真相",
-		"english": "he didn't tell me the truth",
-		"soundmark": "/hi/ /ˈdɪdnt/ /tɛl/ /mi/ /ðə/ /trʊθ/ /（过去）需要 needed/ /nidɪd/"
+		"pinyin": "ta （ guo qu ） mei gao su wo zhen xiang",
+		"soundmark": "tā （ guò qù ） méi gào sù wǒ zhēn xiàng",
+		"englishGloss": "he didn't tell me the truth"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "知道真相",
-		"english": "to know the truth",
-		"soundmark": "/tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "zhi dao zhen xiang",
+		"soundmark": "zhī dào zhēn xiàng",
+		"englishGloss": "to know the truth"
 	},
 	{
 		"chinese": "他（过去）需要知道真相",
-		"english": "he needed to know the truth",
-		"soundmark": "/hi/ /nidɪd/ /tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "ta （ guo qu ） xu yao zhi dao zhen xiang",
+		"soundmark": "tā （ guò qù ） xū yào zhī dào zhēn xiàng",
+		"englishGloss": "he needed to know the truth"
 	},
 	{
 		"chinese": "他（过去）告诉我",
-		"english": "he told me",
-		"soundmark": "/hi/ /told/ /mi/"
+		"pinyin": "ta （ guo qu ） gao su wo",
+		"soundmark": "tā （ guò qù ） gào sù wǒ",
+		"englishGloss": "he told me"
 	},
 	{
 		"chinese": "他（过去）告诉我他（过去）需要知道真相",
-		"english": "he told me he needed to know the truth",
-		"soundmark": "/hi/ /told/ /mi/ /hi/ /nidɪd/ /tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "ta （ guo qu ） gao su wo ta （ guo qu ） xu yao zhi dao zhen xiang",
+		"soundmark": "tā （ guò qù ） gào sù wǒ tā （ guò qù ） xū yào zhī dào zhēn xiàng",
+		"englishGloss": "he told me he needed to know the truth"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "它（过去）是重要的",
-		"english": "it was important",
-		"soundmark": "/ɪt/ /wəz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta （ guo qu ） shi zhong yao de",
+		"soundmark": "tā （ guò qù ） shì zhòng yào de",
+		"englishGloss": "it was important"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为它（过去）是重要的",
-		"english": "because it was important",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /wəz/ /ɪm'pɔrtnt/"
+		"pinyin": "yin wei ta （ guo qu ） shi zhong yao de",
+		"soundmark": "yīn wèi tā （ guò qù ） shì zhòng yào de",
+		"englishGloss": "because it was important"
 	},
 	{
 		"chinese": "他（过去）告诉我他（过去）需要知道真相",
-		"english": "he told me he needed to know the truth",
-		"soundmark": "/hi/ /told/ /mi/ /hi/ /nidɪd/ /tə/ /no/ /ðə/ /trʊθ/"
+		"pinyin": "ta （ guo qu ） gao su wo ta （ guo qu ） xu yao zhi dao zhen xiang",
+		"soundmark": "tā （ guò qù ） gào sù wǒ tā （ guò qù ） xū yào zhī dào zhēn xiàng",
+		"englishGloss": "he told me he needed to know the truth"
 	},
 	{
 		"chinese": "他（过去）告诉我他（过去）需要知道真相因为它（过去）是重要的",
-		"english": "he told me he needed to know the truth because it was important",
-		"soundmark": "/hi/ /told/ /mi/ /hi/ /nidɪd/ /tə/ /no/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /wəz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta （ guo qu ） gao su wo ta （ guo qu ） xu yao zhi dao zhen xiang yin wei ta （ guo qu ） shi zhong yao de",
+		"soundmark": "tā （ guò qù ） gào sù wǒ tā （ guò qù ） xū yào zhī dào zhēn xiàng yīn wèi tā （ guò qù ） shì zhòng yào de",
+		"englishGloss": "he told me he needed to know the truth because it was important"
 	},
 	{
 		"chinese": "存在；成为",
-		"english": "to be",
-		"soundmark": "/tə/ /bi/"
+		"pinyin": "cun zai ； cheng wei",
+		"soundmark": "cún zài ； chéng wéi",
+		"englishGloss": "to be"
 	},
 	{
 		"chinese": "一个老师",
-		"english": "a teacher",
-		"soundmark": "/ə/ /'titʃɚ/"
+		"pinyin": "yi ge lao shi",
+		"soundmark": "yí gè lǎo shī",
+		"englishGloss": "a teacher"
 	},
 	{
 		"chinese": "成为一个老师",
-		"english": "to be a teacher",
-		"soundmark": "/tə/ /bi/ /ə/ /'titʃɚ/ /（过去）想要 wanted/ /wɑntɪd/"
+		"pinyin": "cheng wei yi ge lao shi",
+		"soundmark": "chéng wéi yí gè lǎo shī",
+		"englishGloss": "to be a teacher"
 	},
 	{
 		"chinese": "我（过去）想要成为一个老师",
-		"english": "I wanted to be a teacher",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"pinyin": "wo （ guo qu ） xiang yao cheng wei yi ge lao shi",
+		"soundmark": "wǒ （ guò qù ） xiǎng yào chéng wéi yí gè lǎo shī",
+		"englishGloss": "I wanted to be a teacher"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "我是重要的",
-		"english": "I am important",
-		"soundmark": "/aɪ/ /æm/ /ɪm'pɔrtnt/"
+		"pinyin": "wo shi zhong yao de",
+		"soundmark": "wǒ shì zhòng yào de",
+		"englishGloss": "I am important"
 	},
 	{
 		"chinese": "我（过去）是重要的",
-		"english": "I was important",
-		"soundmark": "/aɪ/ /wəz/ /ɪm'pɔrtnt/"
+		"pinyin": "wo （ guo qu ） shi zhong yao de",
+		"soundmark": "wǒ （ guò qù ） shì zhòng yào de",
+		"englishGloss": "I was important"
 	},
 	{
 		"chinese": "年轻的",
-		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"pinyin": "nian qing de",
+		"soundmark": "nián qīng de",
+		"englishGloss": "young"
 	},
 	{
 		"chinese": "我是年轻的",
-		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"pinyin": "wo shi nian qing de",
+		"soundmark": "wǒ shì nián qīng de",
+		"englishGloss": "I am young"
 	},
 	{
 		"chinese": "我（过去）是年轻的",
-		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "wo （ guo qu ） shi nian qing de",
+		"soundmark": "wǒ （ guò qù ） shì nián qīng de",
+		"englishGloss": "I was young"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我（过去）是年轻的时候",
-		"english": "when I was young",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "dang wo （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "dāng wǒ （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "when I was young"
 	},
 	{
 		"chinese": "我（过去）想要成为一个老师",
-		"english": "I wanted to be a teacher",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"pinyin": "wo （ guo qu ） xiang yao cheng wei yi ge lao shi",
+		"soundmark": "wǒ （ guò qù ） xiǎng yào chéng wéi yí gè lǎo shī",
+		"englishGloss": "I wanted to be a teacher"
 	},
 	{
 		"chinese": "我（过去）想要成为一个老师当我（过去）是年轻的时候",
-		"english": "I wanted to be a teacher when I was young",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /bi/ /ə/ /'titʃɚ/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"pinyin": "wo （ guo qu ） xiang yao cheng wei yi ge lao shi dang wo （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "wǒ （ guò qù ） xiǎng yào chéng wéi yí gè lǎo shī dāng wǒ （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "I wanted to be a teacher when I was young"
 	},
 	{
 		"chinese": "交谈；聊天",
-		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/ /（过去）聊天 talked/ /tɔkt/"
+		"pinyin": "jiao tan ； liao tian",
+		"soundmark": "jiāo tán ； liáo tiān",
+		"englishGloss": "to talk"
 	},
 	{
 		"chinese": "我们（过去）聊天",
-		"english": "we talked",
-		"soundmark": "/wi/ /tɔkt/"
+		"pinyin": "wo men （ guo qu ） liao tian",
+		"soundmark": "wǒ men （ guò qù ） liáo tiān",
+		"englishGloss": "we talked"
 	},
 	{
 		"chinese": "在......之前；以前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian ； yi qian",
+		"soundmark": "zài . . . . . . zhī qián ； yǐ qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "我们以前聊过天",
-		"english": "we talked before",
-		"soundmark": "/wi/ /tɔkt/ /bɪ'fɔr/"
+		"pinyin": "wo men yi qian liao guo tian",
+		"soundmark": "wǒ men yǐ qián liáo guò tiān",
+		"englishGloss": "we talked before"
 	},
 	{
 		"chinese": "和她（过去）聊天",
-		"english": "talked with her",
-		"soundmark": "/tɔkt/ /wɪð/ /hɚ/"
+		"pinyin": "he ta （ guo qu ） liao tian",
+		"soundmark": "hé tā （ guò qù ） liáo tiān",
+		"englishGloss": "talked with her"
 	},
 	{
 		"chinese": "我和她聊过天",
-		"english": "I talked with her",
-		"soundmark": "/aɪ/ /tɔkt/ /wɪð/ /hɚ/"
+		"pinyin": "wo he ta liao guo tian",
+		"soundmark": "wǒ hé tā liáo guò tiān",
+		"englishGloss": "I talked with her"
 	},
 	{
 		"chinese": "我以前和她聊过天",
-		"english": "I talked with her before",
-		"soundmark": "/aɪ/ /tɔkt/ /wɪð/ /hɚ/ /bɪ'fɔr/"
+		"pinyin": "wo yi qian he ta liao guo tian",
+		"soundmark": "wǒ yǐ qián hé tā liáo guò tiān",
+		"englishGloss": "I talked with her before"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "那一天",
-		"english": "the day",
-		"soundmark": "/ðə/ /de/"
+		"pinyin": "na yi tian",
+		"soundmark": "nà yì tiān",
+		"englishGloss": "the day"
 	},
 	{
 		"chinese": "在......之前；以前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/ /（在昨天之前的那一天）前天 the day before yesterday/ /ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+		"pinyin": "zai . . . . . . zhi qian ； yi qian",
+		"soundmark": "zài . . . . . . zhī qián ； yǐ qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "我前天和她聊过天",
-		"english": "I talked with her the day before yesterday",
-		"soundmark": "/aɪ/ /tɔkt/ /wɪð/ /hɚ/ /ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+		"pinyin": "wo qian tian he ta liao guo tian",
+		"soundmark": "wǒ qián tiān hé tā liáo guò tiān",
+		"englishGloss": "I talked with her the day before yesterday"
 	},
 	{
 		"chinese": "上一个",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "shang yi ge",
+		"soundmark": "shàng yí gè",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "星期；周",
-		"english": "week",
-		"soundmark": "/wik/"
+		"pinyin": "xing qi ； zhou",
+		"soundmark": "xīng qī ； zhōu",
+		"englishGloss": "week"
 	},
 	{
 		"chinese": "周末",
-		"english": "weekend",
-		"soundmark": "/'wikɛnd/"
+		"pinyin": "zhou mo",
+		"soundmark": "zhōu mò",
+		"englishGloss": "weekend"
 	},
 	{
 		"chinese": "上周末",
-		"english": "last weekend",
-		"soundmark": "/læst/ /'wikɛnd/"
+		"pinyin": "shang zhou mo",
+		"soundmark": "shàng zhōu mò",
+		"englishGloss": "last weekend"
 	},
 	{
 		"chinese": "我上周末和她聊过天",
-		"english": "I talked with her last weekend",
-		"soundmark": "/aɪ/ /tɔkt/ /wɪð/ /hɚ/ /læst/ /'wikɛnd/"
+		"pinyin": "wo shang zhou mo he ta liao guo tian",
+		"soundmark": "wǒ shàng zhōu mò hé tā liáo guò tiān",
+		"englishGloss": "I talked with her last weekend"
 	},
 	{
 		"chinese": "改变",
-		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "to change"
 	},
 	{
 		"chinese": "世界",
-		"english": "the world",
-		"soundmark": "/ðə/ /wɝld/"
+		"pinyin": "shi jie",
+		"soundmark": "shì jiè",
+		"englishGloss": "the world"
 	},
 	{
 		"chinese": "改变世界",
-		"english": "to change the world",
-		"soundmark": "/tə/ /tʃendʒ/ /ðə/ /wɝld/"
+		"pinyin": "gai bian shi jie",
+		"soundmark": "gǎi biàn shì jiè",
+		"englishGloss": "to change the world"
 	},
 	{
 		"chinese": "她想要改变世界",
-		"english": "she wants to change the world",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /tʃendʒ/ /ðə/ /wɝld/"
+		"pinyin": "ta xiang yao gai bian shi jie",
+		"soundmark": "tā xiǎng yào gǎi biàn shì jiè",
+		"englishGloss": "she wants to change the world"
 	},
 	{
 		"chinese": "她（过去）想要改变世界",
-		"english": "she wanted to change the world",
-		"soundmark": "/ʃi/ /wɑntɪd/ /tə/ /tʃendʒ/ /ðə/ /wɝld/"
+		"pinyin": "ta （ guo qu ） xiang yao gai bian shi jie",
+		"soundmark": "tā （ guò qù ） xiǎng yào gǎi biàn shì jiè",
+		"englishGloss": "she wanted to change the world"
 	},
 	{
 		"chinese": "年轻的",
-		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"pinyin": "nian qing de",
+		"soundmark": "nián qīng de",
+		"englishGloss": "young"
 	},
 	{
 		"chinese": "她（过去）是年轻的",
-		"english": "she was young",
-		"soundmark": "/ʃi/ /wəz/ /jʌŋ/"
+		"pinyin": "ta （ guo qu ） shi nian qing de",
+		"soundmark": "tā （ guò qù ） shì nián qīng de",
+		"englishGloss": "she was young"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当她（过去）是年轻的时候",
-		"english": "when she was young",
-		"soundmark": "/wɛn/ /ʃi/ /wəz/ /jʌŋ/"
+		"pinyin": "dang ta （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "dāng tā （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "when she was young"
 	},
 	{
 		"chinese": "她（过去）想要改变世界当她（过去）是年轻的时候",
-		"english": "she wanted to change the world when she was young",
-		"soundmark": "/ʃi/ /wɑntɪd/ /tə/ /tʃendʒ/ /ðə/ /wɝld/ /wɛn/ /ʃi/ /wəz/ /jʌŋ/"
+		"pinyin": "ta （ guo qu ） xiang yao gai bian shi jie dang ta （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "tā （ guò qù ） xiǎng yào gǎi biàn shì jiè dāng tā （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "she wanted to change the world when she was young"
 	},
 	{
 		"chinese": "她（过去）告诉我",
-		"english": "she told me",
-		"soundmark": "/ʃi/ /told/ /mi/"
+		"pinyin": "ta （ guo qu ） gao su wo",
+		"soundmark": "tā （ guò qù ） gào sù wǒ",
+		"englishGloss": "she told me"
 	},
 	{
 		"chinese": "她（过去）告诉我她（过去）想要改变世界当她（过去）是年轻的时候",
-		"english": "she told me she wanted to change the world when she was young",
-		"soundmark": "/ʃi/ /told/ /mi/ /ʃi/ /wɑntɪd/ /tə/ /tʃendʒ/ /ðə/ /wɝld/ /wɛn/ /ʃi/ /wəz/ /jʌŋ/"
+		"pinyin": "ta （ guo qu ） gao su wo ta （ guo qu ） xiang yao gai bian shi jie dang ta （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "tā （ guò qù ） gào sù wǒ tā （ guò qù ） xiǎng yào gǎi biàn shì jiè dāng tā （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "she told me she wanted to change the world when she was young"
 	},
 	{
 		"chinese": "我上周末和她聊过天而且她告诉我她（想要）改变世界当她（过去）是年轻的时候",
-		"english": "I talked with her last weekend and she told me she wanted to change the world when she was young",
-		"soundmark": "/aɪ/ /tɔkt/ /wɪð/ /hɚ/ /læst/ /'wikɛnd/ /ənd/ /ʃi/ /told/ /mi/ /ʃi/ /wɑntɪd/ /tə/ /tʃendʒ/ /ðə/ /wɝld/ /wɛn/ /ʃi/ /wəz/ /jʌŋ/"
+		"pinyin": "wo shang zhou mo he ta liao guo tian er qie ta gao su wo ta （ xiang yao ） gai bian shi jie dang ta （ guo qu ） shi nian qing de shi hou",
+		"soundmark": "wǒ shàng zhōu mò hé tā liáo guò tiān ér qiě tā gào sù wǒ tā （ xiǎng yào ） gǎi biàn shì jiè dāng tā （ guò qù ） shì nián qīng de shí hòu",
+		"englishGloss": "I talked with her last weekend and she told me she wanted to change the world when she was young"
 	}
 ]

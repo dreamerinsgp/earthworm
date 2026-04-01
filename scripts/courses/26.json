@@ -1,772 +1,926 @@
 [
 	{
 		"chinese": "递",
-		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"pinyin": "di",
+		"soundmark": "dì",
+		"englishGloss": "to hand"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "递给我",
-		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"pinyin": "di gei wo",
+		"soundmark": "dì gěi wǒ",
+		"englishGloss": "to hand me"
 	},
 	{
 		"chinese": "钥匙",
-		"english": "key",
-		"soundmark": "/ki/"
+		"pinyin": "yao shi",
+		"soundmark": "yào shi",
+		"englishGloss": "key"
 	},
 	{
 		"chinese": "那个钥匙",
-		"english": "the key",
-		"soundmark": "/ðə/ /ki/"
+		"pinyin": "na ge yao shi",
+		"soundmark": "nà ge yào shi",
+		"englishGloss": "the key"
 	},
 	{
 		"chinese": "递给我那个钥匙",
-		"english": "to hand me the key",
-		"soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/"
+		"pinyin": "di gei wo na ge yao shi",
+		"soundmark": "dì gěi wǒ nà ge yào shi",
+		"englishGloss": "to hand me the key"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你递给我那个钥匙",
-		"english": "you hand me the key",
-		"soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/"
+		"pinyin": "ni di gei wo na ge yao shi",
+		"soundmark": "nǐ dì gěi wǒ nà ge yào shi",
+		"englishGloss": "you hand me the key"
 	},
 	{
 		"chinese": "你递那个钥匙",
-		"english": "you hand the key",
-		"soundmark": "/ju/ /hænd/ /ðə/ /ki/"
+		"pinyin": "ni di na ge yao shi",
+		"soundmark": "nǐ dì nà ge yào shi",
+		"englishGloss": "you hand the key"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "你递那个钥匙给我",
-		"english": "you hand the key to me",
-		"soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/"
+		"pinyin": "ni di na ge yao shi gei wo",
+		"soundmark": "nǐ dì nà ge yào shi gěi wǒ",
+		"englishGloss": "you hand the key to me"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "你把那个钥匙给我",
-		"english": "you give the key to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+		"pinyin": "ni ba na ge yao shi gei wo",
+		"soundmark": "nǐ bǎ nà ge yào shi gěi wǒ",
+		"englishGloss": "you give the key to me"
 	},
 	{
 		"chinese": "你给我那个钥匙",
-		"english": "you give me the key",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/"
+		"pinyin": "ni gei wo na ge yao shi",
+		"soundmark": "nǐ gěi wǒ nà ge yào shi",
+		"englishGloss": "you give me the key"
 	},
 	{
 		"chinese": "你把那个钥匙给我",
-		"english": "you give the key to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+		"pinyin": "ni ba na ge yao shi gei wo",
+		"soundmark": "nǐ bǎ nà ge yào shi gěi wǒ",
+		"englishGloss": "you give the key to me"
 	},
 	{
 		"chinese": "钱",
-		"english": "the money",
-		"soundmark": "/ðə/ /'mʌni/"
+		"pinyin": "qian",
+		"soundmark": "qián",
+		"englishGloss": "the money"
 	},
 	{
 		"chinese": "你给我钱",
-		"english": "you give me the money",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/"
+		"pinyin": "ni gei wo qian",
+		"soundmark": "nǐ gěi wǒ qián",
+		"englishGloss": "you give me the money"
 	},
 	{
 		"chinese": "你把钱给我",
-		"english": "you give the money to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/"
+		"pinyin": "ni ba qian gei wo",
+		"soundmark": "nǐ bǎ qián gěi wǒ",
+		"englishGloss": "you give the money to me"
 	},
 	{
 		"chinese": "它",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "你把它给我",
-		"english": "you give it to me",
-		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/"
+		"pinyin": "ni ba ta gei wo",
+		"soundmark": "nǐ bǎ tā gěi wǒ",
+		"englishGloss": "you give it to me"
 	},
 	{
 		"chinese": "往回",
-		"english": "back",
-		"soundmark": "/bæk/"
+		"pinyin": "wang hui",
+		"soundmark": "wǎng huí",
+		"englishGloss": "back"
 	},
 	{
 		"chinese": "你把它还给我",
-		"english": "you give it back to me",
-		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+		"pinyin": "ni ba ta hai gei wo",
+		"soundmark": "nǐ bǎ tā hái gěi wǒ",
+		"englishGloss": "you give it back to me"
 	},
 	{
 		"chinese": "把它还给我",
-		"english": "give it back to me",
-		"soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+		"pinyin": "ba ta hai gei wo",
+		"soundmark": "bǎ tā hái gěi wǒ",
+		"englishGloss": "give it back to me"
 	},
 	{
 		"chinese": "读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "du",
+		"soundmark": "dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "读给她",
-		"english": "to read her",
-		"soundmark": "/tə/ /rid/ /hɚ/"
+		"pinyin": "du gei ta",
+		"soundmark": "dú gěi tā",
+		"englishGloss": "to read her"
 	},
 	{
 		"chinese": "一个故事",
-		"english": "a story",
-		"soundmark": "/ə/ /'stɔri/"
+		"pinyin": "yi ge gu shi",
+		"soundmark": "yí gè gù shì",
+		"englishGloss": "a story"
 	},
 	{
 		"chinese": "读给她一个故事",
-		"english": "to read her a story",
-		"soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/"
+		"pinyin": "du gei ta yi ge gu shi",
+		"soundmark": "dú gěi tā yí gè gù shì",
+		"englishGloss": "to read her a story"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我读给她一个故事",
-		"english": "I read her a story",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/"
+		"pinyin": "wo du gei ta yi ge gu shi",
+		"soundmark": "wǒ dú gěi tā yí gè gù shì",
+		"englishGloss": "I read her a story"
 	},
 	{
 		"chinese": "晚上",
-		"english": "night",
-		"soundmark": "/naɪt/"
+		"pinyin": "wan shang",
+		"soundmark": "wǎn shàng",
+		"englishGloss": "night"
 	},
 	{
 		"chinese": "每一个",
-		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"pinyin": "mei yi ge",
+		"soundmark": "měi yí gè",
+		"englishGloss": "every"
 	},
 	{
 		"chinese": "每天晚上",
-		"english": "every night",
-		"soundmark": "/'ɛvri/ /naɪt/"
+		"pinyin": "mei tian wan shang",
+		"soundmark": "měi tiān wǎn shàng",
+		"englishGloss": "every night"
 	},
 	{
 		"chinese": "我每天晚上读给她一个故事",
-		"english": "I read her a story every night",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/"
+		"pinyin": "wo mei tian wan shang du gei ta yi ge gu shi",
+		"soundmark": "wǒ měi tiān wǎn shàng dú gěi tā yí gè gù shì",
+		"englishGloss": "I read her a story every night"
 	},
 	{
 		"chinese": "我读一个故事",
-		"english": "I read a story",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/"
+		"pinyin": "wo du yi ge gu shi",
+		"soundmark": "wǒ dú yí gè gù shì",
+		"englishGloss": "I read a story"
 	},
 	{
 		"chinese": "给她",
-		"english": "to her",
-		"soundmark": "/tə/ /hɚ/"
+		"pinyin": "gei ta",
+		"soundmark": "gěi tā",
+		"englishGloss": "to her"
 	},
 	{
 		"chinese": "我给她读一个故事",
-		"english": "I read a story to her",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/"
+		"pinyin": "wo gei ta du yi ge gu shi",
+		"soundmark": "wǒ gěi tā dú yí gè gù shì",
+		"englishGloss": "I read a story to her"
 	},
 	{
 		"chinese": "每天晚上",
-		"english": "every night",
-		"soundmark": "/'ɛvri/ /naɪt/"
+		"pinyin": "mei tian wan shang",
+		"soundmark": "měi tiān wǎn shàng",
+		"englishGloss": "every night"
 	},
 	{
 		"chinese": "我每天晚上为她读一个故事",
-		"english": "I read a story to her every night",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+		"pinyin": "wo mei tian wan shang wei ta du yi ge gu shi",
+		"soundmark": "wǒ měi tiān wǎn shàng wèi tā dú yí gè gù shì",
+		"englishGloss": "I read a story to her every night"
 	},
 	{
 		"chinese": "就寝时间",
-		"english": "bedtime",
-		"soundmark": "/'bɛdtaɪm/"
+		"pinyin": "jiu qin shi jian",
+		"soundmark": "jiù qǐn shí jiān",
+		"englishGloss": "bedtime"
 	},
 	{
 		"chinese": "睡前故事",
-		"english": "bedtime story",
-		"soundmark": "/'bɛdtaɪm/ /'stɔri/"
+		"pinyin": "shui qian gu shi",
+		"soundmark": "shuì qián gù shì",
+		"englishGloss": "bedtime story"
 	},
 	{
 		"chinese": "我每天晚上给她读一个睡前故事",
-		"english": "I read a bedtime story to her every night",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+		"pinyin": "wo mei tian wan shang gei ta du yi ge shui qian gu shi",
+		"soundmark": "wǒ měi tiān wǎn shàng gěi tā dú yí gè shuì qián gù shì",
+		"englishGloss": "I read a bedtime story to her every night"
 	},
 	{
 		"chinese": "我每天晚上读给她一个睡前故事",
-		"english": "I read her a bedtime story every night",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/"
+		"pinyin": "wo mei tian wan shang du gei ta yi ge shui qian gu shi",
+		"soundmark": "wǒ měi tiān wǎn shàng dú gěi tā yí gè shuì qián gù shì",
+		"englishGloss": "I read her a bedtime story every night"
 	},
 	{
 		"chinese": "买",
-		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "to buy"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "买给他",
-		"english": "to buy him",
-		"soundmark": "/tə/ /baɪ/ /hɪm/"
+		"pinyin": "mai gei ta",
+		"soundmark": "mǎi gěi tā",
+		"englishGloss": "to buy him"
 	},
 	{
 		"chinese": "玩具",
-		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"pinyin": "wan ju",
+		"soundmark": "wán jù",
+		"englishGloss": "toy"
 	},
 	{
 		"chinese": "一个玩具",
-		"english": "a toy",
-		"soundmark": "/ə/ /tɔɪ/"
+		"pinyin": "yi ge wan ju",
+		"soundmark": "yí gè wán jù",
+		"englishGloss": "a toy"
 	},
 	{
 		"chinese": "汽车",
-		"english": "car",
-		"soundmark": "/kɑr/"
+		"pinyin": "qi che",
+		"soundmark": "qì chē",
+		"englishGloss": "car"
 	},
 	{
 		"chinese": "一个玩具车",
-		"english": "a toy car",
-		"soundmark": "/ə/ /tɔɪ/ /kɑr/"
+		"pinyin": "yi ge wan ju che",
+		"soundmark": "yí gè wán jù chē",
+		"englishGloss": "a toy car"
 	},
 	{
 		"chinese": "买给他一个玩具车",
-		"english": "to buy him a toy car",
-		"soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+		"pinyin": "mai gei ta yi ge wan ju che",
+		"soundmark": "mǎi gěi tā yí gè wán jù chē",
+		"englishGloss": "to buy him a toy car"
 	},
 	{
 		"chinese": "我将会",
-		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"pinyin": "wo jiang hui",
+		"soundmark": "wǒ jiāng huì",
+		"englishGloss": "I will"
 	},
 	{
 		"chinese": "我将会买给他一个玩具车",
-		"english": "I will buy him a toy car",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+		"pinyin": "wo jiang hui mai gei ta yi ge wan ju che",
+		"soundmark": "wǒ jiāng huì mǎi gěi tā yí gè wán jù chē",
+		"englishGloss": "I will buy him a toy car"
 	},
 	{
 		"chinese": "我将会买一个玩具车",
-		"english": "I will buy a toy car",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/"
+		"pinyin": "wo jiang hui mai yi ge wan ju che",
+		"soundmark": "wǒ jiāng huì mǎi yí gè wán jù chē",
+		"englishGloss": "I will buy a toy car"
 	},
 	{
 		"chinese": "为他",
-		"english": "for him",
-		"soundmark": "/fɝ/ /hɪm/"
+		"pinyin": "wei ta",
+		"soundmark": "wèi tā",
+		"englishGloss": "for him"
 	},
 	{
 		"chinese": "我将会为他买一个玩具车",
-		"english": "I will buy a toy car for him",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/"
+		"pinyin": "wo jiang hui wei ta mai yi ge wan ju che",
+		"soundmark": "wǒ jiāng huì wèi tā mǎi yí gè wán jù chē",
+		"englishGloss": "I will buy a toy car for him"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "我明天将会为他买一个玩具车",
-		"english": "I will buy a toy car for him tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/"
+		"pinyin": "wo ming tian jiang hui wei ta mai yi ge wan ju che",
+		"soundmark": "wǒ míng tiān jiāng huì wèi tā mǎi yí gè wán jù chē",
+		"englishGloss": "I will buy a toy car for him tomorrow"
 	},
 	{
 		"chinese": "出生",
-		"english": "birth",
-		"soundmark": "/bɝθ/"
+		"pinyin": "chu sheng",
+		"soundmark": "chū shēng",
+		"englishGloss": "birth"
 	},
 	{
 		"chinese": "日",
-		"english": "day",
-		"soundmark": "/de/"
+		"pinyin": "ri",
+		"soundmark": "rì",
+		"englishGloss": "day"
 	},
 	{
 		"chinese": "生日",
-		"english": "birthday",
-		"soundmark": "/'bɝθde/"
+		"pinyin": "sheng ri",
+		"soundmark": "shēng rì",
+		"englishGloss": "birthday"
 	},
 	{
 		"chinese": "蛋糕",
-		"english": "cake",
-		"soundmark": "/kek/"
+		"pinyin": "dan gao",
+		"soundmark": "dàn gāo",
+		"englishGloss": "cake"
 	},
 	{
 		"chinese": "生日蛋糕",
-		"english": "birthday cake",
-		"soundmark": "/'bɝθde/ /kek/"
+		"pinyin": "sheng ri dan gao",
+		"soundmark": "shēng rì dàn gāo",
+		"englishGloss": "birthday cake"
 	},
 	{
 		"chinese": "一个生日蛋糕",
-		"english": "a birthday cake",
-		"soundmark": "/ə/ /'bɝθde/ /kek/"
+		"pinyin": "yi ge sheng ri dan gao",
+		"soundmark": "yí gè shēng rì dàn gāo",
+		"englishGloss": "a birthday cake"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "做一个生日蛋糕",
-		"english": "to make a birthday cake",
-		"soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/"
+		"pinyin": "zuo yi ge sheng ri dan gao",
+		"soundmark": "zuò yí gè shēng rì dàn gāo",
+		"englishGloss": "to make a birthday cake"
 	},
 	{
 		"chinese": "我们将会",
-		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"pinyin": "wo men jiang hui",
+		"soundmark": "wǒ men jiāng huì",
+		"englishGloss": "we will"
 	},
 	{
 		"chinese": "我们将会做一个生日蛋糕",
-		"english": "we will make a birthday cake",
-		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/"
+		"pinyin": "wo men jiang hui zuo yi ge sheng ri dan gao",
+		"soundmark": "wǒ men jiāng huì zuò yí gè shēng rì dàn gāo",
+		"englishGloss": "we will make a birthday cake"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "我们将会做给她一个生日蛋糕",
-		"english": "we will make her a birthday cake",
-		"soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/"
+		"pinyin": "wo men jiang hui zuo gei ta yi ge sheng ri dan gao",
+		"soundmark": "wǒ men jiāng huì zuò gěi tā yí gè shēng rì dàn gāo",
+		"englishGloss": "we will make her a birthday cake"
 	},
 	{
 		"chinese": "为她",
-		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"pinyin": "wei ta",
+		"soundmark": "wèi tā",
+		"englishGloss": "for her"
 	},
 	{
 		"chinese": "我们将会为她做一个生日蛋糕",
-		"english": "we will make a birthday cake for her",
-		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+		"pinyin": "wo men jiang hui wei ta zuo yi ge sheng ri dan gao",
+		"soundmark": "wǒ men jiāng huì wèi tā zuò yí gè shēng rì dàn gāo",
+		"englishGloss": "we will make a birthday cake for her"
 	},
 	{
 		"chinese": "做（ing形式）",
-		"english": "making",
-		"soundmark": "/'mekɪŋ/"
+		"pinyin": "zuo （ i n g xing shi ）",
+		"soundmark": "zuò （ i n g xíng shì ）",
+		"englishGloss": "making"
 	},
 	{
 		"chinese": "是;赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ; fu zhi ( yuan xing )",
+		"soundmark": "shì ; fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在做",
-		"english": "be making",
-		"soundmark": "/bi/ /'mekɪŋ/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "zheng zai zuo",
+		"soundmark": "zhèng zài zuò",
+		"englishGloss": "be making"
 	},
 	{
 		"chinese": "我们正在做",
-		"english": "we are making",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/"
+		"pinyin": "wo men zheng zai zuo",
+		"soundmark": "wǒ men zhèng zài zuò",
+		"englishGloss": "we are making"
 	},
 	{
 		"chinese": "一个生日蛋糕",
-		"english": "a birthday cake",
-		"soundmark": "/ə/ /'bɝθde/ /kek/"
+		"pinyin": "yi ge sheng ri dan gao",
+		"soundmark": "yí gè shēng rì dàn gāo",
+		"englishGloss": "a birthday cake"
 	},
 	{
 		"chinese": "我们正在做一个生日蛋糕",
-		"english": "we are making a birthday cake",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/"
+		"pinyin": "wo men zheng zai zuo yi ge sheng ri dan gao",
+		"soundmark": "wǒ men zhèng zài zuò yí gè shēng rì dàn gāo",
+		"englishGloss": "we are making a birthday cake"
 	},
 	{
 		"chinese": "为她",
-		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"pinyin": "wei ta",
+		"soundmark": "wèi tā",
+		"englishGloss": "for her"
 	},
 	{
 		"chinese": "我们正在为她做一个生日蛋糕",
-		"english": "we are making a birthday cake for her",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+		"pinyin": "wo men zheng zai wei ta zuo yi ge sheng ri dan gao",
+		"soundmark": "wǒ men zhèng zài wèi tā zuò yí gè shēng rì dàn gāo",
+		"englishGloss": "we are making a birthday cake for her"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "钱",
-		"english": "money",
-		"soundmark": "/'mʌni/"
+		"pinyin": "qian",
+		"soundmark": "qián",
+		"englishGloss": "money"
 	},
 	{
 		"chinese": "赚钱",
-		"english": "to make money",
-		"soundmark": "/tə/ /mek/ /'mʌni/"
+		"pinyin": "zhuan qian",
+		"soundmark": "zhuàn qián",
+		"englishGloss": "to make money"
 	},
 	{
 		"chinese": "身体",
-		"english": "body",
-		"soundmark": "/'bɑdi/"
+		"pinyin": "shen ti",
+		"soundmark": "shēn tǐ",
+		"englishGloss": "body"
 	},
 	{
 		"chinese": "每一个",
-		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"pinyin": "mei yi ge",
+		"soundmark": "měi yí gè",
+		"englishGloss": "every"
 	},
 	{
 		"chinese": "每个人",
-		"english": "everybody",
-		"soundmark": "/'ɛvrɪbɑdi/"
+		"pinyin": "mei ge ren",
+		"soundmark": "měi gè rén",
+		"englishGloss": "everybody"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "每个人想要",
-		"english": "everybody wants",
-		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/"
+		"pinyin": "mei ge ren xiang yao",
+		"soundmark": "měi gè rén xiǎng yào",
+		"englishGloss": "everybody wants"
 	},
 	{
 		"chinese": "每个人想要赚钱",
-		"english": "everybody wants to make money",
-		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/"
+		"pinyin": "mei ge ren xiang yao zhuan qian",
+		"soundmark": "měi gè rén xiǎng yào zhuàn qián",
+		"englishGloss": "everybody wants to make money"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "每个人需要赚钱",
-		"english": "everybody needs to make money",
-		"soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/"
+		"pinyin": "mei ge ren xu yao zhuan qian",
+		"soundmark": "měi gè rén xū yào zhuàn qián",
+		"englishGloss": "everybody needs to make money"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "打电话",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "呼叫",
-		"english": "call",
-		"soundmark": "/kɔl/"
+		"pinyin": "hu jiao",
+		"soundmark": "hū jiào",
+		"englishGloss": "call"
 	},
 	{
 		"chinese": "一个呼叫",
-		"english": "a call",
-		"soundmark": "/ə/ /kɔl/"
+		"pinyin": "yi ge hu jiao",
+		"soundmark": "yí gè hū jiào",
+		"englishGloss": "a call"
 	},
 	{
 		"chinese": "打一个电话",
-		"english": "to make a call",
-		"soundmark": "/tə/ /mek/ /ə/ /kɔl/"
+		"pinyin": "da yi ge dian hua",
+		"soundmark": "dǎ yí gè diàn huà",
+		"englishGloss": "to make a call"
 	},
 	{
 		"chinese": "视频",
-		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"pinyin": "shi pin",
+		"soundmark": "shì pín",
+		"englishGloss": "video"
 	},
 	{
 		"chinese": "打一个视频电话",
-		"english": "to make a video call",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"pinyin": "da yi ge shi pin dian hua",
+		"soundmark": "dǎ yí gè shì pín diàn huà",
+		"englishGloss": "to make a video call"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的朋友",
-		"english": "my friend",
-		"soundmark": "/maɪ/ /frɛnd/"
+		"pinyin": "wo de peng you",
+		"soundmark": "wǒ de péng yǒu",
+		"englishGloss": "my friend"
 	},
 	{
 		"chinese": "最好的",
-		"english": "best",
-		"soundmark": "/bɛst/"
+		"pinyin": "zui hao de",
+		"soundmark": "zuì hǎo de",
+		"englishGloss": "best"
 	},
 	{
 		"chinese": "我最好的朋友",
-		"english": "my best friend",
-		"soundmark": "/maɪ/ /bɛst/ /frɛnd/"
+		"pinyin": "wo zui hao de peng you",
+		"soundmark": "wǒ zuì hǎo de péng yǒu",
+		"englishGloss": "my best friend"
 	},
 	{
 		"chinese": "打一个视频电话",
-		"english": "to make a video call",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"pinyin": "da yi ge shi pin dian hua",
+		"soundmark": "dǎ yí gè shì pín diàn huà",
+		"englishGloss": "to make a video call"
 	},
 	{
 		"chinese": "打一个视频电话给我最好的朋友",
-		"english": "to make a video call to my best friend",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+		"pinyin": "da yi ge shi pin dian hua gei wo zui hao de peng you",
+		"soundmark": "dǎ yí gè shì pín diàn huà gěi wǒ zuì hǎo de péng yǒu",
+		"englishGloss": "to make a video call to my best friend"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要打一个视频电话",
-		"english": "I want to make a video call",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"pinyin": "wo xiang yao da yi ge shi pin dian hua",
+		"soundmark": "wǒ xiǎng yào dǎ yí gè shì pín diàn huà",
+		"englishGloss": "I want to make a video call"
 	},
 	{
 		"chinese": "我想要打一个视频电话给我最好的朋友",
-		"english": "I want to make a video call to my best friend",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+		"pinyin": "wo xiang yao da yi ge shi pin dian hua gei wo zui hao de peng you",
+		"soundmark": "wǒ xiǎng yào dǎ yí gè shì pín diàn huà gěi wǒ zuì hǎo de péng yǒu",
+		"englishGloss": "I want to make a video call to my best friend"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "一个视频",
-		"english": "a video",
-		"soundmark": "/ə/ /'vɪdɪo/"
+		"pinyin": "yi ge shi pin",
+		"soundmark": "yí gè shì pín",
+		"englishGloss": "a video"
 	},
 	{
 		"chinese": "做一个视频",
-		"english": "to make a video",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/"
+		"pinyin": "zuo yi ge shi pin",
+		"soundmark": "zuò yí gè shì pín",
+		"englishGloss": "to make a video"
 	},
 	{
 		"chinese": "我想要做一个视频",
-		"english": "I want to make a video",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+		"pinyin": "wo xiang yao zuo yi ge shi pin",
+		"soundmark": "wǒ xiǎng yào zuò yí gè shì pín",
+		"englishGloss": "I want to make a video"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "学习",
-		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "to learn"
 	},
 	{
 		"chinese": "如何学习",
-		"english": "how to learn",
-		"soundmark": "/haʊ/ /tə/ /lɝn/"
+		"pinyin": "ru he xue xi",
+		"soundmark": "rú hé xué xí",
+		"englishGloss": "how to learn"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "如何学习英语",
-		"english": "how to learn English",
-		"soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ru he xue xi ying yu",
+		"soundmark": "rú hé xué xí yīng yǔ",
+		"englishGloss": "how to learn English"
 	},
 	{
 		"chinese": "关于",
-		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"pinyin": "guan yu",
+		"soundmark": "guān yú",
+		"englishGloss": "about"
 	},
 	{
 		"chinese": "关于如何学习英语",
-		"english": "about how to learn English",
-		"soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "guan yu ru he xue xi ying yu",
+		"soundmark": "guān yú rú hé xué xí yīng yǔ",
+		"englishGloss": "about how to learn English"
 	},
 	{
 		"chinese": "我想要做一个视频",
-		"english": "I want to make a video",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+		"pinyin": "wo xiang yao zuo yi ge shi pin",
+		"soundmark": "wǒ xiǎng yào zuò yí gè shì pín",
+		"englishGloss": "I want to make a video"
 	},
 	{
 		"chinese": "我想要做一个关于如何学习英语的视频",
-		"english": "I want to make a video about how to learn English",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "wo xiang yao zuo yi ge guan yu ru he xue xi ying yu de shi pin",
+		"soundmark": "wǒ xiǎng yào zuò yí gè guān yú rú hé xué xí yīng yǔ de shì pín",
+		"englishGloss": "I want to make a video about how to learn English"
 	},
 	{
 		"chinese": "改变",
-		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "to change"
 	},
 	{
 		"chinese": "改变",
-		"english": "change",
-		"soundmark": "/tʃendʒ/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "change"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "做改变",
-		"english": "to make a change",
-		"soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/"
+		"pinyin": "zuo gai bian",
+		"soundmark": "zuò gǎi biàn",
+		"englishGloss": "to make a change"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "决定做改变",
-		"english": "to decide to make a change",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"pinyin": "jue ding zuo gai bian",
+		"soundmark": "jué dìng zuò gǎi biàn",
+		"englishGloss": "to decide to make a change"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们决定做改变",
-		"english": "we decide to make a change",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/ /（过去）决定 decided/ /dɪ'saɪdɪd/"
+		"pinyin": "wo men jue ding zuo gai bian",
+		"soundmark": "wǒ men jué dìng zuò gǎi biàn",
+		"englishGloss": "we decide to make a change"
 	},
 	{
 		"chinese": "我们（过去）决定做改变",
-		"english": "we decided to make a change",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"pinyin": "wo men （ guo qu ） jue ding zuo gai bian",
+		"soundmark": "wǒ men （ guò qù ） jué dìng zuò gǎi biàn",
+		"englishGloss": "we decided to make a change"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "决定",
-		"english": "decision",
-		"soundmark": "/dɪ'sɪʒn/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "decision"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "做决定",
-		"english": "to make a decision",
-		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"pinyin": "zuo jue ding",
+		"soundmark": "zuò jué dìng",
+		"englishGloss": "to make a decision"
 	},
 	{
 		"chinese": "我们需要",
-		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"pinyin": "wo men xu yao",
+		"soundmark": "wǒ men xū yào",
+		"englishGloss": "we need"
 	},
 	{
 		"chinese": "我们需要做决定",
-		"english": "we need to make a decision",
-		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"pinyin": "wo men xu yao zuo jue ding",
+		"soundmark": "wǒ men xū yào zuò jué dìng",
+		"englishGloss": "we need to make a decision"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我们现在需要做决定",
-		"english": "we need to make a decision now",
-		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"pinyin": "wo men xian zai xu yao zuo jue ding",
+		"soundmark": "wǒ men xiàn zài xū yào zuò jué dìng",
+		"englishGloss": "we need to make a decision now"
 	},
 	{
 		"chinese": "我认为",
-		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"pinyin": "wo ren wei",
+		"soundmark": "wǒ rèn wéi",
+		"englishGloss": "I think"
 	},
 	{
 		"chinese": "我认为我们现在需要做决定",
-		"english": "I think we need to make a decision now",
-		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"pinyin": "wo ren wei wo men xian zai xu yao zuo jue ding",
+		"soundmark": "wǒ rèn wéi wǒ men xiàn zài xū yào zuò jué dìng",
+		"englishGloss": "I think we need to make a decision now"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不认为我们现在需要做决定",
-		"english": "I don't think we need to make a decision now",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"pinyin": "wo bu ren wei wo men xian zai xu yao zuo jue ding",
+		"soundmark": "wǒ bú rèn wéi wǒ men xiàn zài xū yào zuò jué dìng",
+		"englishGloss": "I don't think we need to make a decision now"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friends",
-		"soundmark": "/frɛndz/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friends"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "交朋友",
-		"english": "to make friends",
-		"soundmark": "/tə/ /mek/ /frɛndz/"
+		"pinyin": "jiao peng you",
+		"soundmark": "jiāo péng yǒu",
+		"englishGloss": "to make friends"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以交朋友",
-		"english": "you can make friends",
-		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/"
+		"pinyin": "ni ke yi jiao peng you",
+		"soundmark": "nǐ kě yǐ jiāo péng yǒu",
+		"englishGloss": "you can make friends"
 	},
 	{
 		"chinese": "和",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he",
+		"soundmark": "hé",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "他们",
-		"english": "them",
-		"soundmark": "/ðəm/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "them"
 	},
 	{
 		"chinese": "和他们",
-		"english": "with them",
-		"soundmark": "/wɪð/ /ðəm/"
+		"pinyin": "he ta men",
+		"soundmark": "hé tā men",
+		"englishGloss": "with them"
 	},
 	{
 		"chinese": "你可以和他们交朋友",
-		"english": "you can make friends with them",
-		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+		"pinyin": "ni ke yi he ta men jiao peng you",
+		"soundmark": "nǐ kě yǐ hé tā men jiāo péng yǒu",
+		"englishGloss": "you can make friends with them"
 	},
 	{
 		"chinese": "不可以",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu ke yi",
+		"soundmark": "bù kě yǐ",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "你不可以和他们交朋友",
-		"english": "you can't make friends with them",
-		"soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+		"pinyin": "ni bu ke yi he ta men jiao peng you",
+		"soundmark": "nǐ bù kě yǐ hé tā men jiāo péng yǒu",
+		"englishGloss": "you can't make friends with them"
 	}
 ]

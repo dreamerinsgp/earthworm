@@ -1,1027 +1,1232 @@
 [
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我可以",
-		"english": "I can",
-		"soundmark": "/aɪ/ /kæn/"
+		"pinyin": "wo ke yi",
+		"soundmark": "wǒ kě yǐ",
+		"englishGloss": "I can"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我可以做这件事",
-		"english": "I can do it",
-		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/"
+		"pinyin": "wo ke yi zuo zhe jian shi",
+		"soundmark": "wǒ kě yǐ zuò zhè jiàn shì",
+		"englishGloss": "I can do it"
 	},
 	{
 		"chinese": "单独",
-		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"pinyin": "dan du",
+		"soundmark": "dān dú",
+		"englishGloss": "alone"
 	},
 	{
 		"chinese": "我可以单独做这件事",
-		"english": "I can do it alone",
-		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/"
+		"pinyin": "wo ke yi dan du zuo zhe jian shi",
+		"soundmark": "wǒ kě yǐ dān dú zuò zhè jiàn shì",
+		"englishGloss": "I can do it alone"
 	},
 	{
 		"chinese": "我不可以单独做这件事",
-		"english": "I can not do it alone",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+		"pinyin": "wo bu ke yi dan du zuo zhe jian shi",
+		"soundmark": "wǒ bù kě yǐ dān dú zuò zhè jiàn shì",
+		"englishGloss": "I can not do it alone"
 	},
 	{
 		"chinese": "你必须帮助我",
-		"english": "you have to help me",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+		"pinyin": "ni bi xu bang zhu wo",
+		"soundmark": "nǐ bì xū bāng zhù wǒ",
+		"englishGloss": "you have to help me"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "你必须帮助我因为我不可以单独做这件事",
-		"english": "you have to help me because I can not do it alone",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+		"pinyin": "ni bi xu bang zhu wo yin wei wo bu ke yi dan du zuo zhe jian shi",
+		"soundmark": "nǐ bì xū bāng zhù wǒ yīn wèi wǒ bù kě yǐ dān dú zuò zhè jiàn shì",
+		"englishGloss": "you have to help me because I can not do it alone"
 	},
 	{
 		"chinese": "在这里",
-		"english": "be here",
-		"soundmark": "/bi/ /hɪr/"
+		"pinyin": "zai zhe li",
+		"soundmark": "zài zhè lǐ",
+		"englishGloss": "be here"
 	},
 	{
 		"chinese": "我可以在这里",
-		"english": "I can be here",
-		"soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/"
+		"pinyin": "wo ke yi zai zhe li",
+		"soundmark": "wǒ kě yǐ zài zhè lǐ",
+		"englishGloss": "I can be here"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "我可以明天在这里",
-		"english": "I can be here tomorrow",
-		"soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+		"pinyin": "wo ke yi ming tian zai zhe li",
+		"soundmark": "wǒ kě yǐ míng tiān zài zhè lǐ",
+		"englishGloss": "I can be here tomorrow"
 	},
 	{
 		"chinese": "我不可以明天在这里",
-		"english": "I can not be here tomorrow",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/"
+		"pinyin": "wo bu ke yi ming tian zai zhe li",
+		"soundmark": "wǒ bù kě yǐ míng tiān zài zhè lǐ",
+		"englishGloss": "I can not be here tomorrow"
 	},
 	{
 		"chinese": "他需要知道",
-		"english": "he needs to know",
-		"soundmark": "/hi/ /nidz/ /tə/ /no/"
+		"pinyin": "ta xu yao zhi dao",
+		"soundmark": "tā xū yào zhī dào",
+		"englishGloss": "he needs to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "他需要知道是否我可以明天在这里",
-		"english": "he needs to know if I can be here tomorrow",
-		"soundmark": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+		"pinyin": "ta xu yao zhi dao shi fou wo ke yi ming tian zai zhe li",
+		"soundmark": "tā xū yào zhī dào shì fǒu wǒ kě yǐ míng tiān zài zhè lǐ",
+		"englishGloss": "he needs to know if I can be here tomorrow"
 	},
 	{
 		"chinese": "吃这个食物",
-		"english": "eat the food",
-		"soundmark": "/it/ /ðə/ /fud/"
+		"pinyin": "chi zhe ge shi wu",
+		"soundmark": "chī zhè ge shí wù",
+		"englishGloss": "eat the food"
 	},
 	{
 		"chinese": "我可以吃这个食物",
-		"english": "I can eat the food",
-		"soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/"
+		"pinyin": "wo ke yi chi zhe ge shi wu",
+		"soundmark": "wǒ kě yǐ chī zhè ge shí wù",
+		"englishGloss": "I can eat the food"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我可以现在吃这个食物",
-		"english": "I can eat the food now",
-		"soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "wo ke yi xian zai chi zhe ge shi wu",
+		"soundmark": "wǒ kě yǐ xiàn zài chī zhè ge shí wù",
+		"englishGloss": "I can eat the food now"
 	},
 	{
 		"chinese": "我不可以现在吃这个食物",
-		"english": "I can not eat the food now",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "wo bu ke yi xian zai chi zhe ge shi wu",
+		"soundmark": "wǒ bù kě yǐ xiàn zài chī zhè ge shí wù",
+		"englishGloss": "I can not eat the food now"
 	},
 	{
 		"chinese": "我想要知道",
-		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo xiang yao zhi dao",
+		"soundmark": "wǒ xiǎng yào zhī dào",
+		"englishGloss": "I want to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我想要知道是否我可以现在吃这个食物",
-		"english": "I want to know if I can eat the food now",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "wo xiang yao zhi dao shi fou wo ke yi xian zai chi zhe ge shi wu",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu wǒ kě yǐ xiàn zài chī zhè ge shí wù",
+		"englishGloss": "I want to know if I can eat the food now"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "tell me",
-		"soundmark": "/tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "tell me"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉我事实",
-		"english": "tell me the truth",
-		"soundmark": "/tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "gao su wo shi shi",
+		"soundmark": "gào sù wǒ shì shí",
+		"englishGloss": "tell me the truth"
 	},
 	{
 		"chinese": "你可以告诉我事实",
-		"english": "you can tell me the truth",
-		"soundmark": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ni ke yi gao su wo shi shi",
+		"soundmark": "nǐ kě yǐ gào sù wǒ shì shí",
+		"englishGloss": "you can tell me the truth"
 	},
 	{
 		"chinese": "你不可以告诉我事实",
-		"english": "you can not tell me the truth",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ni bu ke yi gao su wo shi shi",
+		"soundmark": "nǐ bù kě yǐ gào sù wǒ shì shí",
+		"englishGloss": "you can not tell me the truth"
 	},
 	{
 		"chinese": "我需要知道",
-		"english": "I need to know",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/"
+		"pinyin": "wo xu yao zhi dao",
+		"soundmark": "wǒ xū yào zhī dào",
+		"englishGloss": "I need to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我需要知道是否你可以告诉我事实",
-		"english": "I need to know if you can tell me the truth",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "wo xu yao zhi dao shi fou ni ke yi gao su wo shi shi",
+		"soundmark": "wǒ xū yào zhī dào shì fǒu nǐ kě yǐ gào sù wǒ shì shí",
+		"englishGloss": "I need to know if you can tell me the truth"
 	},
 	{
 		"chinese": "帮助我",
-		"english": "help me",
-		"soundmark": "/hɛlp/ /mi/"
+		"pinyin": "bang zhu wo",
+		"soundmark": "bāng zhù wǒ",
+		"englishGloss": "help me"
 	},
 	{
 		"chinese": "你可以帮助我",
-		"english": "you can help me",
-		"soundmark": "/ju/ /kæn/ /hɛlp/ /mi/"
+		"pinyin": "ni ke yi bang zhu wo",
+		"soundmark": "nǐ kě yǐ bāng zhù wǒ",
+		"englishGloss": "you can help me"
 	},
 	{
 		"chinese": "你不可以帮助我",
-		"english": "you can not help me",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /hɛlp/ /mi/"
+		"pinyin": "ni bu ke yi bang zhu wo",
+		"soundmark": "nǐ bù kě yǐ bāng zhù wǒ",
+		"englishGloss": "you can not help me"
 	},
 	{
 		"chinese": "我需要知道是否你可以帮助我",
-		"english": "I need to know if you can help me",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɛlp/ /mi/"
+		"pinyin": "wo xu yao zhi dao shi fou ni ke yi bang zhu wo",
+		"soundmark": "wǒ xū yào zhī dào shì fǒu nǐ kě yǐ bāng zhù wǒ",
+		"englishGloss": "I need to know if you can help me"
 	},
 	{
 		"chinese": "在家里",
-		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"pinyin": "zai jia li",
+		"soundmark": "zài jiā lǐ",
+		"englishGloss": "at home"
 	},
 	{
 		"chinese": "在家里阅读",
-		"english": "read at home",
-		"soundmark": "/rid/ /ət/ /hom/"
+		"pinyin": "zai jia li yue du",
+		"soundmark": "zài jiā lǐ yuè dú",
+		"englishGloss": "read at home"
 	},
 	{
 		"chinese": "你可以在家里阅读",
-		"english": "you can read at home",
-		"soundmark": "/ju/ /kæn/ /rid/ /ət/ /hom/"
+		"pinyin": "ni ke yi zai jia li yue du",
+		"soundmark": "nǐ kě yǐ zài jiā lǐ yuè dú",
+		"englishGloss": "you can read at home"
 	},
 	{
 		"chinese": "你不可以在家里阅读",
-		"english": "you can not read at home",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+		"pinyin": "ni bu ke yi zai jia li yue du",
+		"soundmark": "nǐ bù kě yǐ zài jiā lǐ yuè dú",
+		"englishGloss": "you can not read at home"
 	},
 	{
 		"chinese": "你需要告诉我",
-		"english": "you need to tell me",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/"
+		"pinyin": "ni xu yao gao su wo",
+		"soundmark": "nǐ xū yào gào sù wǒ",
+		"englishGloss": "you need to tell me"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "你需要告诉我原因",
-		"english": "you need to tell me the reason",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/"
+		"pinyin": "ni xu yao gao su wo yuan yin",
+		"soundmark": "nǐ xū yào gào sù wǒ yuán yīn",
+		"englishGloss": "you need to tell me the reason"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "你需要告诉我原因为什么你不可以在家里阅读",
-		"english": "you need to tell me the reason why you can not read at home",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+		"pinyin": "ni xu yao gao su wo yuan yin wei shen me ni bu ke yi zai jia li yue du",
+		"soundmark": "nǐ xū yào gào sù wǒ yuán yīn wèi shén me nǐ bù kě yǐ zài jiā lǐ yuè dú",
+		"englishGloss": "you need to tell me the reason why you can not read at home"
 	},
 	{
 		"chinese": "他可以",
-		"english": "he can",
-		"soundmark": "/hi/ /kæn/"
+		"pinyin": "ta ke yi",
+		"soundmark": "tā kě yǐ",
+		"englishGloss": "he can"
 	},
 	{
 		"chinese": "他可以做这件事",
-		"english": "he can do it",
-		"soundmark": "/hi/ /kæn/ /du/ /ɪt/"
+		"pinyin": "ta ke yi zuo zhe jian shi",
+		"soundmark": "tā kě yǐ zuò zhè jiàn shì",
+		"englishGloss": "he can do it"
 	},
 	{
 		"chinese": "以后",
-		"english": "later",
-		"soundmark": "/'letɚ/"
+		"pinyin": "yi hou",
+		"soundmark": "yǐ hòu",
+		"englishGloss": "later"
 	},
 	{
 		"chinese": "他可以以后做这件事",
-		"english": "he can do it later",
-		"soundmark": "/hi/ /kæn/ /du/ /ɪt/ /'letɚ/"
+		"pinyin": "ta ke yi yi hou zuo zhe jian shi",
+		"soundmark": "tā kě yǐ yǐ hòu zuò zhè jiàn shì",
+		"englishGloss": "he can do it later"
 	},
 	{
 		"chinese": "他不可以以后做这件事",
-		"english": "he can not do it later",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /du/ /ɪt/ /'letɚ/"
+		"pinyin": "ta bu ke yi yi hou zuo zhe jian shi",
+		"soundmark": "tā bù kě yǐ yǐ hòu zuò zhè jiàn shì",
+		"englishGloss": "he can not do it later"
 	},
 	{
 		"chinese": "和我说话",
-		"english": "talk with me",
-		"soundmark": "/tɔk/ /wɪð/ /mi/"
+		"pinyin": "he wo shuo hua",
+		"soundmark": "hé wǒ shuō huà",
+		"englishGloss": "talk with me"
 	},
 	{
 		"chinese": "他可以和我说话",
-		"english": "he can talk with me",
-		"soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "ta ke yi he wo shuo hua",
+		"soundmark": "tā kě yǐ hé wǒ shuō huà",
+		"englishGloss": "he can talk with me"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "他今晚可以和我说话",
-		"english": "he can talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "ta jin wan ke yi he wo shuo hua",
+		"soundmark": "tā jīn wǎn kě yǐ hé wǒ shuō huà",
+		"englishGloss": "he can talk with me tonight"
 	},
 	{
 		"chinese": "他今晚不可以和我说话",
-		"english": "he can not talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "ta jin wan bu ke yi he wo shuo hua",
+		"soundmark": "tā jīn wǎn bù kě yǐ hé wǒ shuō huà",
+		"englishGloss": "he can not talk with me tonight"
 	},
 	{
 		"chinese": "我想要知道",
-		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo xiang yao zhi dao",
+		"soundmark": "wǒ xiǎng yào zhī dào",
+		"englishGloss": "I want to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我想要知道是否他今晚可以和我说话",
-		"english": "I want to know if he can talk with me tonight",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "wo xiang yao zhi dao shi fou ta jin wan ke yi he wo shuo hua",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu tā jīn wǎn kě yǐ hé wǒ shuō huà",
+		"englishGloss": "I want to know if he can talk with me tonight"
 	},
 	{
 		"chinese": "她可以",
-		"english": "she can",
-		"soundmark": "/ʃi/ /kæn/"
+		"pinyin": "ta ke yi",
+		"soundmark": "tā kě yǐ",
+		"englishGloss": "she can"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "explain the reason",
-		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "explain the reason"
 	},
 	{
 		"chinese": "她可以解释原因",
-		"english": "she can explain the reason",
-		"soundmark": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta ke yi jie shi yuan yin",
+		"soundmark": "tā kě yǐ jiě shì yuán yīn",
+		"englishGloss": "she can explain the reason"
 	},
 	{
 		"chinese": "她不可以解释原因",
-		"english": "she can not explain the reason",
-		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bu ke yi jie shi yuan yin",
+		"soundmark": "tā bù kě yǐ jiě shì yuán yīn",
+		"englishGloss": "she can not explain the reason"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "他今晚不可以和我说话",
-		"english": "he can not talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "ta jin wan bu ke yi he wo shuo hua",
+		"soundmark": "tā jīn wǎn bù kě yǐ hé wǒ shuō huà",
+		"englishGloss": "he can not talk with me tonight"
 	},
 	{
 		"chinese": "她可以解释原因为什么他今晚不可以和我说话",
-		"english": "she can explain the reason why he can not talk with me tonight",
-		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"pinyin": "ta ke yi jie shi yuan yin wei shen me ta jin wan bu ke yi he wo shuo hua",
+		"soundmark": "tā kě yǐ jiě shì yuán yīn wèi shén me tā jīn wǎn bù kě yǐ hé wǒ shuō huà",
+		"englishGloss": "she can explain the reason why he can not talk with me tonight"
 	},
 	{
 		"chinese": "问我",
-		"english": "ask me",
-		"soundmark": "/æsk/ /mi/"
+		"pinyin": "wen wo",
+		"soundmark": "wèn wǒ",
+		"englishGloss": "ask me"
 	},
 	{
 		"chinese": "一个问题",
-		"english": "a question",
-		"soundmark": "/ə/ /'kwɛstʃən/"
+		"pinyin": "yi ge wen ti",
+		"soundmark": "yí gè wèn tí",
+		"englishGloss": "a question"
 	},
 	{
 		"chinese": "问我一个问题",
-		"english": "ask me a question",
-		"soundmark": "/æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"pinyin": "wen wo yi ge wen ti",
+		"soundmark": "wèn wǒ yí gè wèn tí",
+		"englishGloss": "ask me a question"
 	},
 	{
 		"chinese": "她可以问我一个问题",
-		"english": "she can ask me a question",
-		"soundmark": "/ʃi/ /kæn/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"pinyin": "ta ke yi wen wo yi ge wen ti",
+		"soundmark": "tā kě yǐ wèn wǒ yí gè wèn tí",
+		"englishGloss": "she can ask me a question"
 	},
 	{
 		"chinese": "它可以",
-		"english": "it can",
-		"soundmark": "/ɪt/ /kæn/"
+		"pinyin": "ta ke yi",
+		"soundmark": "tā kě yǐ",
+		"englishGloss": "it can"
 	},
 	{
 		"chinese": "飞翔",
-		"english": "fly",
-		"soundmark": "/flaɪ/"
+		"pinyin": "fei xiang",
+		"soundmark": "fēi xiáng",
+		"englishGloss": "fly"
 	},
 	{
 		"chinese": "它可以飞翔",
-		"english": "it can fly",
-		"soundmark": "/ɪt/ /kæn/ /flaɪ/"
+		"pinyin": "ta ke yi fei xiang",
+		"soundmark": "tā kě yǐ fēi xiáng",
+		"englishGloss": "it can fly"
 	},
 	{
 		"chinese": "在天空中",
-		"english": "in the sky",
-		"soundmark": "/ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zai tian kong zhong",
+		"soundmark": "zài tiān kōng zhōng",
+		"englishGloss": "in the sky"
 	},
 	{
 		"chinese": "它可以在天空中飞翔",
-		"english": "it can fly in the sky",
-		"soundmark": "/ɪt/ /kæn/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "ta ke yi zai tian kong zhong fei xiang",
+		"soundmark": "tā kě yǐ zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "it can fly in the sky"
 	},
 	{
 		"chinese": "它不可以在天空中飞翔",
-		"english": "it can not fly in the sky",
-		"soundmark": "/ɪt/ /kæn/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "ta bu ke yi zai tian kong zhong fei xiang",
+		"soundmark": "tā bù kě yǐ zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "it can not fly in the sky"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain"
 	},
 	{
 		"chinese": "它可以解释",
-		"english": "it can explain",
-		"soundmark": "/ɪt/ /kæn/ /ɪk'splen/"
+		"pinyin": "ta ke yi jie shi",
+		"soundmark": "tā kě yǐ jiě shì",
+		"englishGloss": "it can explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "它可以解释原因",
-		"english": "it can explain the reason",
-		"soundmark": "/ɪt/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta ke yi jie shi yuan yin",
+		"soundmark": "tā kě yǐ jiě shì yuán yīn",
+		"englishGloss": "it can explain the reason"
 	},
 	{
 		"chinese": "它不可以解释原因",
-		"english": "it can not explain the reason",
-		"soundmark": "/ɪt/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bu ke yi jie shi yuan yin",
+		"soundmark": "tā bù kě yǐ jiě shì yuán yīn",
+		"englishGloss": "it can not explain the reason"
 	},
 	{
 		"chinese": "星荣可以",
-		"english": "Xingrong can",
-		"soundmark": "/kæn/"
+		"pinyin": "xing rong ke yi",
+		"soundmark": "xīng róng kě yǐ",
+		"englishGloss": "Xingrong can"
 	},
 	{
 		"chinese": "散步",
-		"english": "walk",
-		"soundmark": "/wɔk/"
+		"pinyin": "san bu",
+		"soundmark": "sàn bù",
+		"englishGloss": "walk"
 	},
 	{
 		"chinese": "在公园里",
-		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li",
+		"soundmark": "zài gōng yuán lǐ",
+		"englishGloss": "in the park"
 	},
 	{
 		"chinese": "在公园里散步",
-		"english": "walk in the park",
-		"soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li san bu",
+		"soundmark": "zài gōng yuán lǐ sàn bù",
+		"englishGloss": "walk in the park"
 	},
 	{
 		"chinese": "星荣可以在公园里散步",
-		"english": "Xingrong can walk in the park",
-		"soundmark": "/kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "xing rong ke yi zai gong yuan li san bu",
+		"soundmark": "xīng róng kě yǐ zài gōng yuán lǐ sàn bù",
+		"englishGloss": "Xingrong can walk in the park"
 	},
 	{
 		"chinese": "星荣不可以在公园里散步",
-		"english": "Xingrong can not walk in the park",
-		"soundmark": "/kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "xing rong bu ke yi zai gong yuan li san bu",
+		"soundmark": "xīng róng bù kě yǐ zài gōng yuán lǐ sàn bù",
+		"englishGloss": "Xingrong can not walk in the park"
 	},
 	{
 		"chinese": "应该",
-		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"pinyin": "ying gai",
+		"soundmark": "yīng gāi",
+		"englishGloss": "should"
 	},
 	{
 		"chinese": "我应该",
-		"english": "I should",
-		"soundmark": "/aɪ/ /ʃʊd/"
+		"pinyin": "wo ying gai",
+		"soundmark": "wǒ yīng gāi",
+		"englishGloss": "I should"
 	},
 	{
 		"chinese": "吃这个食物",
-		"english": "eat the food",
-		"soundmark": "/it/ /ðə/ /fud/"
+		"pinyin": "chi zhe ge shi wu",
+		"soundmark": "chī zhè ge shí wù",
+		"englishGloss": "eat the food"
 	},
 	{
 		"chinese": "我应该吃这个食物",
-		"english": "I should eat the food",
-		"soundmark": "/aɪ/ /ʃʊd/ /it/ /ðə/ /fud/"
+		"pinyin": "wo ying gai chi zhe ge shi wu",
+		"soundmark": "wǒ yīng gāi chī zhè ge shí wù",
+		"englishGloss": "I should eat the food"
 	},
 	{
 		"chinese": "我不应该吃这个食物",
-		"english": "I should not eat the food",
-		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /it/ /ðə/ /fud/"
+		"pinyin": "wo bu ying gai chi zhe ge shi wu",
+		"soundmark": "wǒ bú yīng gāi chī zhè ge shí wù",
+		"englishGloss": "I should not eat the food"
 	},
 	{
 		"chinese": "和你说话",
-		"english": "talk with you",
-		"soundmark": "/tɔk/ /wɪð/ /ju/"
+		"pinyin": "he ni shuo hua",
+		"soundmark": "hé nǐ shuō huà",
+		"englishGloss": "talk with you"
 	},
 	{
 		"chinese": "我应该和你说话",
-		"english": "I should talk with you",
-		"soundmark": "/aɪ/ /ʃʊd/ /tɔk/ /wɪð/ /ju/"
+		"pinyin": "wo ying gai he ni shuo hua",
+		"soundmark": "wǒ yīng gāi hé nǐ shuō huà",
+		"englishGloss": "I should talk with you"
 	},
 	{
 		"chinese": "我不应该和你说话",
-		"english": "I should not talk with you",
-		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /ju/"
+		"pinyin": "wo bu ying gai he ni shuo hua",
+		"soundmark": "wǒ bú yīng gāi hé nǐ shuō huà",
+		"englishGloss": "I should not talk with you"
 	},
 	{
 		"chinese": "相信你",
-		"english": "believe you",
-		"soundmark": "/bɪ'liv/ /ju/"
+		"pinyin": "xiang xin ni",
+		"soundmark": "xiāng xìn nǐ",
+		"englishGloss": "believe you"
 	},
 	{
 		"chinese": "我应该相信你",
-		"english": "I should believe you",
-		"soundmark": "/aɪ/ /ʃʊd/ /bɪ'liv/ /ju/"
+		"pinyin": "wo ying gai xiang xin ni",
+		"soundmark": "wǒ yīng gāi xiāng xìn nǐ",
+		"englishGloss": "I should believe you"
 	},
 	{
 		"chinese": "我不应该相信你",
-		"english": "I should not believe you",
-		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /bɪ'liv/ /ju/"
+		"pinyin": "wo bu ying gai xiang xin ni",
+		"soundmark": "wǒ bú yīng gāi xiāng xìn nǐ",
+		"englishGloss": "I should not believe you"
 	},
 	{
 		"chinese": "你应该",
-		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"pinyin": "ni ying gai",
+		"soundmark": "nǐ yīng gāi",
+		"englishGloss": "you should"
 	},
 	{
 		"chinese": "帮助我",
-		"english": "help me",
-		"soundmark": "/hɛlp/ /mi/"
+		"pinyin": "bang zhu wo",
+		"soundmark": "bāng zhù wǒ",
+		"englishGloss": "help me"
 	},
 	{
 		"chinese": "你应该帮助我",
-		"english": "you should help me",
-		"soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/"
+		"pinyin": "ni ying gai bang zhu wo",
+		"soundmark": "nǐ yīng gāi bāng zhù wǒ",
+		"englishGloss": "you should help me"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "你应该现在帮助我",
-		"english": "you should help me now",
-		"soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/ /naʊ/"
+		"pinyin": "ni ying gai xian zai bang zhu wo",
+		"soundmark": "nǐ yīng gāi xiàn zài bāng zhù wǒ",
+		"englishGloss": "you should help me now"
 	},
 	{
 		"chinese": "你不应该现在帮助我",
-		"english": "you should not help me now",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /hɛlp/ /mi/ /naʊ/"
+		"pinyin": "ni bu ying gai xian zai bang zhu wo",
+		"soundmark": "nǐ bú yīng gāi xiàn zài bāng zhù wǒ",
+		"englishGloss": "you should not help me now"
 	},
 	{
 		"chinese": "在这里",
-		"english": "be here",
-		"soundmark": "/bi/ /hɪr/"
+		"pinyin": "zai zhe li",
+		"soundmark": "zài zhè lǐ",
+		"englishGloss": "be here"
 	},
 	{
 		"chinese": "你应该在这里",
-		"english": "you should be here",
-		"soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/"
+		"pinyin": "ni ying gai zai zhe li",
+		"soundmark": "nǐ yīng gāi zài zhè lǐ",
+		"englishGloss": "you should be here"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "你应该每天在这里",
-		"english": "you should be here every day",
-		"soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/ /'ɛvri/ /de/"
+		"pinyin": "ni ying gai mei tian zai zhe li",
+		"soundmark": "nǐ yīng gāi měi tiān zài zhè lǐ",
+		"englishGloss": "you should be here every day"
 	},
 	{
 		"chinese": "你不应该每天在这里",
-		"english": "you should not be here every day",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /bi/ /hɪr/ /'ɛvri/ /de/"
+		"pinyin": "ni bu ying gai mei tian zai zhe li",
+		"soundmark": "nǐ bú yīng gāi měi tiān zài zhè lǐ",
+		"englishGloss": "you should not be here every day"
 	},
 	{
 		"chinese": "阅读",
-		"english": "read",
-		"soundmark": "/rid/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "read"
 	},
 	{
 		"chinese": "你应该阅读",
-		"english": "you should read",
-		"soundmark": "/ju/ /ʃʊd/ /rid/"
+		"pinyin": "ni ying gai yue du",
+		"soundmark": "nǐ yīng gāi yuè dú",
+		"englishGloss": "you should read"
 	},
 	{
 		"chinese": "在家里",
-		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"pinyin": "zai jia li",
+		"soundmark": "zài jiā lǐ",
+		"englishGloss": "at home"
 	},
 	{
 		"chinese": "你应该在家里阅读",
-		"english": "you should read at home",
-		"soundmark": "/ju/ /ʃʊd/ /rid/ /ət/ /hom/"
+		"pinyin": "ni ying gai zai jia li yue du",
+		"soundmark": "nǐ yīng gāi zài jiā lǐ yuè dú",
+		"englishGloss": "you should read at home"
 	},
 	{
 		"chinese": "你不应该在家里阅读",
-		"english": "you should not read at home",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/"
+		"pinyin": "ni bu ying gai zai jia li yue du",
+		"soundmark": "nǐ bú yīng gāi zài jiā lǐ yuè dú",
+		"englishGloss": "you should not read at home"
 	},
 	{
 		"chinese": "他应该",
-		"english": "he should",
-		"soundmark": "/hi/ /ʃʊd/"
+		"pinyin": "ta ying gai",
+		"soundmark": "tā yīng gāi",
+		"englishGloss": "he should"
 	},
 	{
 		"chinese": "和我说话",
-		"english": "talk with me",
-		"soundmark": "/tɔk/ /wɪð/ /mi/"
+		"pinyin": "he wo shuo hua",
+		"soundmark": "hé wǒ shuō huà",
+		"englishGloss": "talk with me"
 	},
 	{
 		"chinese": "他应该和我说话",
-		"english": "he should talk with me",
-		"soundmark": "/hi/ /ʃʊd/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "ta ying gai he wo shuo hua",
+		"soundmark": "tā yīng gāi hé wǒ shuō huà",
+		"englishGloss": "he should talk with me"
 	},
 	{
 		"chinese": "他不应该和我说话",
-		"english": "he should not talk with me",
-		"soundmark": "/hi/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "ta bu ying gai he wo shuo hua",
+		"soundmark": "tā bú yīng gāi hé wǒ shuō huà",
+		"englishGloss": "he should not talk with me"
 	},
 	{
 		"chinese": "在家里阅读",
-		"english": "read at home",
-		"soundmark": "/rid/ /ət/ /hom/"
+		"pinyin": "zai jia li yue du",
+		"soundmark": "zài jiā lǐ yuè dú",
+		"englishGloss": "read at home"
 	},
 	{
 		"chinese": "他应该在家里阅读",
-		"english": "he should read at home",
-		"soundmark": "/hi/ /ʃʊd/ /rid/ /ət/ /hom/"
+		"pinyin": "ta ying gai zai jia li yue du",
+		"soundmark": "tā yīng gāi zài jiā lǐ yuè dú",
+		"englishGloss": "he should read at home"
 	},
 	{
 		"chinese": "他不应该在家里阅读",
-		"english": "he should not read at home",
-		"soundmark": "/hi/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/"
+		"pinyin": "ta bu ying gai zai jia li yue du",
+		"soundmark": "tā bú yīng gāi zài jiā lǐ yuè dú",
+		"englishGloss": "he should not read at home"
 	},
 	{
 		"chinese": "她应该",
-		"english": "she should",
-		"soundmark": "/ʃi/ /ʃʊd/"
+		"pinyin": "ta ying gai",
+		"soundmark": "tā yīng gāi",
+		"englishGloss": "she should"
 	},
 	{
 		"chinese": "在公园里散步",
-		"english": "walk in the park",
-		"soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li san bu",
+		"soundmark": "zài gōng yuán lǐ sàn bù",
+		"englishGloss": "walk in the park"
 	},
 	{
 		"chinese": "她应该在公园里散步",
-		"english": "she should walk in the park",
-		"soundmark": "/ʃi/ /ʃʊd/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "ta ying gai zai gong yuan li san bu",
+		"soundmark": "tā yīng gāi zài gōng yuán lǐ sàn bù",
+		"englishGloss": "she should walk in the park"
 	},
 	{
 		"chinese": "她不应该在公园里散步",
-		"english": "she should not walk in the park",
-		"soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "ta bu ying gai zai gong yuan li san bu",
+		"soundmark": "tā bú yīng gāi zài gōng yuán lǐ sàn bù",
+		"englishGloss": "she should not walk in the park"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "sleep",
-		"soundmark": "/slip/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "sleep"
 	},
 	{
 		"chinese": "在床上",
-		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang",
+		"soundmark": "zài chuáng shàng",
+		"englishGloss": "on the bed"
 	},
 	{
 		"chinese": "在床上睡觉",
-		"english": "sleep on the bed",
-		"soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang shui jiao",
+		"soundmark": "zài chuáng shàng shuì jiào",
+		"englishGloss": "sleep on the bed"
 	},
 	{
 		"chinese": "她应该在床上睡觉",
-		"english": "she should sleep on the bed",
-		"soundmark": "/ʃi/ /ʃʊd/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ta ying gai zai chuang shang shui jiao",
+		"soundmark": "tā yīng gāi zài chuáng shàng shuì jiào",
+		"englishGloss": "she should sleep on the bed"
 	},
 	{
 		"chinese": "她不应该在床上睡觉",
-		"english": "she should not sleep on the bed",
-		"soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ta bu ying gai zai chuang shang shui jiao",
+		"soundmark": "tā bú yīng gāi zài chuáng shàng shuì jiào",
+		"englishGloss": "she should not sleep on the bed"
 	},
 	{
 		"chinese": "它应该",
-		"english": "it should",
-		"soundmark": "/ɪt/ /ʃʊd/"
+		"pinyin": "ta ying gai",
+		"soundmark": "tā yīng gāi",
+		"englishGloss": "it should"
 	},
 	{
 		"chinese": "在这里",
-		"english": "be here",
-		"soundmark": "/bi/ /hɪr/"
+		"pinyin": "zai zhe li",
+		"soundmark": "zài zhè lǐ",
+		"englishGloss": "be here"
 	},
 	{
 		"chinese": "它应该在这里",
-		"english": "it should be here",
-		"soundmark": "/ɪt/ /ʃʊd/ /bi/ /hɪr/"
+		"pinyin": "ta ying gai zai zhe li",
+		"soundmark": "tā yīng gāi zài zhè lǐ",
+		"englishGloss": "it should be here"
 	},
 	{
 		"chinese": "它不应该在这里",
-		"english": "it should not be here",
-		"soundmark": "/ɪt/ /ʃʊd/ /nɑt/ /bi/ /hɪr/"
+		"pinyin": "ta bu ying gai zai zhe li",
+		"soundmark": "tā bú yīng gāi zài zhè lǐ",
+		"englishGloss": "it should not be here"
 	},
 	{
 		"chinese": "星荣应该在这里",
-		"english": "Xingrong should be here",
-		"soundmark": "/ʃʊd/ /bi/ /hɪr/"
+		"pinyin": "xing rong ying gai zai zhe li",
+		"soundmark": "xīng róng yīng gāi zài zhè lǐ",
+		"englishGloss": "Xingrong should be here"
 	},
 	{
 		"chinese": "星荣不应该在这里",
-		"english": "Xingrong should not be here",
-		"soundmark": "/ʃʊd/ /nɑt/ /bi/ /hɪr/"
+		"pinyin": "xing rong bu ying gai zai zhe li",
+		"soundmark": "xīng róng bú yīng gāi zài zhè lǐ",
+		"englishGloss": "Xingrong should not be here"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我将会",
-		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"pinyin": "wo jiang hui",
+		"soundmark": "wǒ jiāng huì",
+		"englishGloss": "I will"
 	},
 	{
 		"chinese": "见到你",
-		"english": "see you",
-		"soundmark": "/si/ /ju/"
+		"pinyin": "jian dao ni",
+		"soundmark": "jiàn dào nǐ",
+		"englishGloss": "see you"
 	},
 	{
 		"chinese": "我将会见到你",
-		"english": "I will see you",
-		"soundmark": "/aɪ/ /wɪl/ /si/ /ju/"
+		"pinyin": "wo jiang hui jian dao ni",
+		"soundmark": "wǒ jiāng huì jiàn dào nǐ",
+		"englishGloss": "I will see you"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "我明天将会见到你",
-		"english": "I will see you tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /si/ /ju/ /tə'mɔro/"
+		"pinyin": "wo ming tian jiang hui jian dao ni",
+		"soundmark": "wǒ míng tiān jiāng huì jiàn dào nǐ",
+		"englishGloss": "I will see you tomorrow"
 	},
 	{
 		"chinese": "我明天将不会见到你",
-		"english": "I will not see you tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /si/ /ju/ /tə'mɔro/"
+		"pinyin": "wo ming tian jiang bu hui jian dao ni",
+		"soundmark": "wǒ míng tiān jiāng bú huì jiàn dào nǐ",
+		"englishGloss": "I will not see you tomorrow"
 	},
 	{
 		"chinese": "告诉你",
-		"english": "tell you",
-		"soundmark": "/tɛl/ /ju/"
+		"pinyin": "gao su ni",
+		"soundmark": "gào sù nǐ",
+		"englishGloss": "tell you"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉你事实",
-		"english": "tell you the truth",
-		"soundmark": "/tɛl/ /ju/ /ðə/ /trʊθ/"
+		"pinyin": "gao su ni shi shi",
+		"soundmark": "gào sù nǐ shì shí",
+		"englishGloss": "tell you the truth"
 	},
 	{
 		"chinese": "我将会告诉你事实",
-		"english": "I will tell you the truth",
-		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"pinyin": "wo jiang hui gao su ni shi shi",
+		"soundmark": "wǒ jiāng huì gào sù nǐ shì shí",
+		"englishGloss": "I will tell you the truth"
 	},
 	{
 		"chinese": "我将不会告诉你事实",
-		"english": "I will not tell you the truth",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"pinyin": "wo jiang bu hui gao su ni shi shi",
+		"soundmark": "wǒ jiāng bú huì gào sù nǐ shì shí",
+		"englishGloss": "I will not tell you the truth"
 	},
 	{
 		"chinese": "未来",
-		"english": "the future",
-		"soundmark": "/ðə/ /'fjʊtʃɚ/"
+		"pinyin": "wei lai",
+		"soundmark": "wèi lái",
+		"englishGloss": "the future"
 	},
 	{
 		"chinese": "在未来",
-		"english": "in the future",
-		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "zai wei lai",
+		"soundmark": "zài wèi lái",
+		"englishGloss": "in the future"
 	},
 	{
 		"chinese": "我将会在未来告诉你事实",
-		"english": "I will tell you the truth in the future",
-		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "wo jiang hui zai wei lai gao su ni shi shi",
+		"soundmark": "wǒ jiāng huì zài wèi lái gào sù nǐ shì shí",
+		"englishGloss": "I will tell you the truth in the future"
 	},
 	{
 		"chinese": "我将不会在未来告诉你事实",
-		"english": "I will not tell you the truth in the future",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "wo jiang bu hui zai wei lai gao su ni shi shi",
+		"soundmark": "wǒ jiāng bú huì zài wèi lái gào sù nǐ shì shí",
+		"englishGloss": "I will not tell you the truth in the future"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它是不重要的",
-		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi bu zhong yao de",
+		"soundmark": "tā shì bú zhòng yào de",
+		"englishGloss": "it is not important"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是不重要的所以我将会在未来告诉你事实",
-		"english": "it is not important so I will tell you the truth in the future",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "ta shi bu zhong yao de suo yi wo jiang hui zai wei lai gao su ni shi shi",
+		"soundmark": "tā shì bú zhòng yào de suǒ yǐ wǒ jiāng huì zài wèi lái gào sù nǐ shì shí",
+		"englishGloss": "it is not important so I will tell you the truth in the future"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "explain the reason",
-		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "explain the reason"
 	},
 	{
 		"chinese": "我将会解释原因",
-		"english": "I will explain the reason",
-		"soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "wo jiang hui jie shi yuan yin",
+		"soundmark": "wǒ jiāng huì jiě shì yuán yīn",
+		"englishGloss": "I will explain the reason"
 	},
 	{
 		"chinese": "星期",
-		"english": "week",
-		"soundmark": "/wik/"
+		"pinyin": "xing qi",
+		"soundmark": "xīng qī",
+		"englishGloss": "week"
 	},
 	{
 		"chinese": "下周",
-		"english": "next week",
-		"soundmark": "/nekst/ /wik/"
+		"pinyin": "xia zhou",
+		"soundmark": "xià zhōu",
+		"englishGloss": "next week"
 	},
 	{
 		"chinese": "我将会在下周解释原因",
-		"english": "I will explain the reason next week",
-		"soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/"
+		"pinyin": "wo jiang hui zai xia zhou jie shi yuan yin",
+		"soundmark": "wǒ jiāng huì zài xià zhōu jiě shì yuán yīn",
+		"englishGloss": "I will explain the reason next week"
 	},
 	{
 		"chinese": "我将不会在下周解释原因",
-		"english": "I will not explain the reason next week",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/"
+		"pinyin": "wo jiang bu hui zai xia zhou jie shi yuan yin",
+		"soundmark": "wǒ jiāng bú huì zài xià zhōu jiě shì yuán yīn",
+		"englishGloss": "I will not explain the reason next week"
 	},
 	{
 		"chinese": "紧急的",
-		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"pinyin": "jin ji de",
+		"soundmark": "jǐn jí de",
+		"englishGloss": "urgent"
 	},
 	{
 		"chinese": "它是不紧急的",
-		"english": "it is not urgent",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/"
+		"pinyin": "ta shi bu jin ji de",
+		"soundmark": "tā shì bù jǐn jí de",
+		"englishGloss": "it is not urgent"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是不紧急的所以我将会在下周解释原因",
-		"english": "it is not urgent so I will explain the reason next week",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/ /so/ /aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/"
+		"pinyin": "ta shi bu jin ji de suo yi wo jiang hui zai xia zhou jie shi yuan yin",
+		"soundmark": "tā shì bù jǐn jí de suǒ yǐ wǒ jiāng huì zài xià zhōu jiě shì yuán yīn",
+		"englishGloss": "it is not urgent so I will explain the reason next week"
 	},
 	{
 		"chinese": "你将会",
-		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"pinyin": "ni jiang hui",
+		"soundmark": "nǐ jiāng huì",
+		"englishGloss": "you will"
 	},
 	{
 		"chinese": "在家里阅读",
-		"english": "read at home",
-		"soundmark": "/rid/ /ət/ /hom/"
+		"pinyin": "zai jia li yue du",
+		"soundmark": "zài jiā lǐ yuè dú",
+		"englishGloss": "read at home"
 	},
 	{
 		"chinese": "你将会在家里阅读",
-		"english": "you will read at home",
-		"soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/"
+		"pinyin": "ni jiang hui zai jia li yue du",
+		"soundmark": "nǐ jiāng huì zài jiā lǐ yuè dú",
+		"englishGloss": "you will read at home"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "你今晚将会在家里阅读",
-		"english": "you will read at home tonight",
-		"soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/ /tə'naɪt/"
+		"pinyin": "ni jin wan jiang hui zai jia li yue du",
+		"soundmark": "nǐ jīn wǎn jiāng huì zài jiā lǐ yuè dú",
+		"englishGloss": "you will read at home tonight"
 	},
 	{
 		"chinese": "你今晚将不会在家里阅读",
-		"english": "you will not read at home tonight",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /rid/ /ət/ /hom/ /tə'naɪt/"
+		"pinyin": "ni jin wan jiang bu hui zai jia li yue du",
+		"soundmark": "nǐ jīn wǎn jiāng bú huì zài jiā lǐ yuè dú",
+		"englishGloss": "you will not read at home tonight"
 	},
 	{
 		"chinese": "在床上睡觉",
-		"english": "sleep on the bed",
-		"soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang shui jiao",
+		"soundmark": "zài chuáng shàng shuì jiào",
+		"englishGloss": "sleep on the bed"
 	},
 	{
 		"chinese": "你今晚将会在床上睡觉",
-		"english": "you will sleep on the bed tonight",
-		"soundmark": "/ju/ /wɪl/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/"
+		"pinyin": "ni jin wan jiang hui zai chuang shang shui jiao",
+		"soundmark": "nǐ jīn wǎn jiāng huì zài chuáng shàng shuì jiào",
+		"englishGloss": "you will sleep on the bed tonight"
 	},
 	{
 		"chinese": "你今晚将不会在床上睡觉",
-		"english": "you will not sleep on the bed tonight",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/"
+		"pinyin": "ni jin wan jiang bu hui zai chuang shang shui jiao",
+		"soundmark": "nǐ jīn wǎn jiāng bú huì zài chuáng shàng shuì jiào",
+		"englishGloss": "you will not sleep on the bed tonight"
 	},
 	{
 		"chinese": "他将会",
-		"english": "he will",
-		"soundmark": "/hi/ /wɪl/"
+		"pinyin": "ta jiang hui",
+		"soundmark": "tā jiāng huì",
+		"englishGloss": "he will"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "tell me",
-		"soundmark": "/tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "tell me"
 	},
 	{
 		"chinese": "他将会告诉我",
-		"english": "he will tell me",
-		"soundmark": "/hi/ /wɪl/ /tɛl/ /mi/"
+		"pinyin": "ta jiang hui gao su wo",
+		"soundmark": "tā jiāng huì gào sù wǒ",
+		"englishGloss": "he will tell me"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "他将会告诉我事实",
-		"english": "he will tell me the truth",
-		"soundmark": "/hi/ /wɪl/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ta jiang hui gao su wo shi shi",
+		"soundmark": "tā jiāng huì gào sù wǒ shì shí",
+		"englishGloss": "he will tell me the truth"
 	},
 	{
 		"chinese": "他将不会告诉我事实",
-		"english": "he will not tell me the truth",
-		"soundmark": "/hi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ta jiang bu hui gao su wo shi shi",
+		"soundmark": "tā jiāng bú huì gào sù wǒ shì shí",
+		"englishGloss": "he will not tell me the truth"
 	},
 	{
 		"chinese": "相信我",
-		"english": "believe me",
-		"soundmark": "/bɪ'liv/ /mi/"
+		"pinyin": "xiang xin wo",
+		"soundmark": "xiāng xìn wǒ",
+		"englishGloss": "believe me"
 	},
 	{
 		"chinese": "他将会相信我",
-		"english": "he will believe me",
-		"soundmark": "/hi/ /wɪl/ /bɪ'liv/ /mi/"
+		"pinyin": "ta jiang hui xiang xin wo",
+		"soundmark": "tā jiāng huì xiāng xìn wǒ",
+		"englishGloss": "he will believe me"
 	},
 	{
 		"chinese": "他将不会相信我",
-		"english": "he will not believe me",
-		"soundmark": "/hi/ /wɪl/ /nɑt/ /bɪ'liv/ /mi/"
+		"pinyin": "ta jiang bu hui xiang xin wo",
+		"soundmark": "tā jiāng bú huì xiāng xìn wǒ",
+		"englishGloss": "he will not believe me"
 	},
 	{
 		"chinese": "她将会",
-		"english": "she will",
-		"soundmark": "/ʃi/ /wɪl/"
+		"pinyin": "ta jiang hui",
+		"soundmark": "tā jiāng huì",
+		"englishGloss": "she will"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "tell me",
-		"soundmark": "/tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "tell me"
 	},
 	{
 		"chinese": "她将会告诉我",
-		"english": "she will tell me",
-		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/"
+		"pinyin": "ta jiang hui gao su wo",
+		"soundmark": "tā jiāng huì gào sù wǒ",
+		"englishGloss": "she will tell me"
 	},
 	{
 		"chinese": "一个故事",
-		"english": "a story",
-		"soundmark": "/ə/ /'stɔri/"
+		"pinyin": "yi ge gu shi",
+		"soundmark": "yí gè gù shì",
+		"englishGloss": "a story"
 	},
 	{
 		"chinese": "她将会告诉我一个故事",
-		"english": "she will tell me a story",
-		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/"
+		"pinyin": "ta jiang hui gao su wo yi ge gu shi",
+		"soundmark": "tā jiāng huì gào sù wǒ yí gè gù shì",
+		"englishGloss": "she will tell me a story"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "她今晚将会告诉我一个故事",
-		"english": "she will tell me a story tonight",
-		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/"
+		"pinyin": "ta jin wan jiang hui gao su wo yi ge gu shi",
+		"soundmark": "tā jīn wǎn jiāng huì gào sù wǒ yí gè gù shì",
+		"englishGloss": "she will tell me a story tonight"
 	},
 	{
 		"chinese": "她今晚将不会告诉我一个故事",
-		"english": "she will not tell me a story tonight",
-		"soundmark": "/ʃi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/"
+		"pinyin": "ta jin wan jiang bu hui gao su wo yi ge gu shi",
+		"soundmark": "tā jīn wǎn jiāng bú huì gào sù wǒ yí gè gù shì",
+		"englishGloss": "she will not tell me a story tonight"
 	},
 	{
 		"chinese": "帮助我",
-		"english": "help me",
-		"soundmark": "/hɛlp/ /mi/"
+		"pinyin": "bang zhu wo",
+		"soundmark": "bāng zhù wǒ",
+		"englishGloss": "help me"
 	},
 	{
 		"chinese": "她将会帮助我",
-		"english": "she will help me",
-		"soundmark": "/ʃi/ /wɪl/ /hɛlp/ /mi/"
+		"pinyin": "ta jiang hui bang zhu wo",
+		"soundmark": "tā jiāng huì bāng zhù wǒ",
+		"englishGloss": "she will help me"
 	},
 	{
 		"chinese": "她将不会帮助我",
-		"english": "she will not help me",
-		"soundmark": "/ʃi/ /wɪl/ /nɑt/ /hɛlp/ /mi/"
+		"pinyin": "ta jiang bu hui bang zhu wo",
+		"soundmark": "tā jiāng bú huì bāng zhù wǒ",
+		"englishGloss": "she will not help me"
 	},
 	{
 		"chinese": "它将会",
-		"english": "it will",
-		"soundmark": "/ɪt/ /wɪl/"
+		"pinyin": "ta jiang hui",
+		"soundmark": "tā jiāng huì",
+		"englishGloss": "it will"
 	},
 	{
 		"chinese": "在天空中飞翔",
-		"english": "fly in the sky",
-		"soundmark": "/flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zai tian kong zhong fei xiang",
+		"soundmark": "zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "fly in the sky"
 	},
 	{
 		"chinese": "它将会在天空中飞翔",
-		"english": "it will fly in the sky",
-		"soundmark": "/ɪt/ /wɪl/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "ta jiang hui zai tian kong zhong fei xiang",
+		"soundmark": "tā jiāng huì zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "it will fly in the sky"
 	},
 	{
 		"chinese": "它将不会在天空中飞翔",
-		"english": "it will not fly in the sky",
-		"soundmark": "/ɪt/ /wɪl/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "ta jiang bu hui zai tian kong zhong fei xiang",
+		"soundmark": "tā jiāng bú huì zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "it will not fly in the sky"
 	}
 ]

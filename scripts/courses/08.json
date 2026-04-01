@@ -1,1087 +1,1304 @@
 [
 	{
 		"chinese": "某件事；某个东西",
-		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"pinyin": "mou jian shi ； mou ge dong xi",
+		"soundmark": "mǒu jiàn shì ； mǒu gè dōng xī",
+		"englishGloss": "something"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "重要的某件事",
-		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de mou jian shi",
+		"soundmark": "zhòng yào de mǒu jiàn shì",
+		"englishGloss": "something important"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "告诉你",
-		"english": "to tell you",
-		"soundmark": "/tə/ /tɛl/ /ju/"
+		"pinyin": "gao su ni",
+		"soundmark": "gào sù nǐ",
+		"englishGloss": "to tell you"
 	},
 	{
 		"chinese": "告诉你重要的某件事",
-		"english": "to tell you something important",
-		"soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "gao su ni zhong yao de mou jian shi",
+		"soundmark": "gào sù nǐ zhòng yào de mǒu jiàn shì",
+		"englishGloss": "to tell you something important"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要告诉你重要的某件事",
-		"english": "I need to tell you something important",
-		"soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "wo xu yao gao su ni zhong yao de mou jian shi",
+		"soundmark": "wǒ xū yào gào sù nǐ zhòng yào de mǒu jiàn shì",
+		"englishGloss": "I need to tell you something important"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "某个东西",
-		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"pinyin": "mou ge dong xi",
+		"soundmark": "mǒu gè dōng xī",
+		"englishGloss": "something"
 	},
 	{
 		"chinese": "重要的某个东西",
-		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de mou ge dong xi",
+		"soundmark": "zhòng yào de mǒu gè dōng xī",
+		"englishGloss": "something important"
 	},
 	{
 		"chinese": "我需要给你重要的某个东西",
-		"english": "I need to give you something important",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "wo xu yao gei ni zhong yao de mou ge dong xi",
+		"soundmark": "wǒ xū yào gěi nǐ zhòng yào de mǒu gè dōng xī",
+		"englishGloss": "I need to give you something important"
 	},
 	{
 		"chinese": "答案",
-		"english": "the answer",
-		"soundmark": "/ði/ /'ænsɚ/"
+		"pinyin": "da an",
+		"soundmark": "dá àn",
+		"englishGloss": "the answer"
 	},
 	{
 		"chinese": "我需要给你答案",
-		"english": "I need to give you the answer",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/"
+		"pinyin": "wo xu yao gei ni da an",
+		"soundmark": "wǒ xū yào gěi nǐ dá àn",
+		"englishGloss": "I need to give you the answer"
 	},
 	{
 		"chinese": "问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "问题的答案",
-		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti de da an",
+		"soundmark": "wèn tí de dá àn",
+		"englishGloss": "the answer to the question"
 	},
 	{
 		"chinese": "我需要给你问题的答案",
-		"english": "I need to give you the answer to the question",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo xu yao gei ni wen ti de da an",
+		"soundmark": "wǒ xū yào gěi nǐ wèn tí de dá àn",
+		"englishGloss": "I need to give you the answer to the question"
 	},
 	{
 		"chinese": "我不需要给你问题的答案",
-		"english": "I don't need to give you the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo bu xu yao gei ni wen ti de da an",
+		"soundmark": "wǒ bù xū yào gěi nǐ wèn tí de dá àn",
+		"englishGloss": "I don't need to give you the answer to the question"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "给我们",
-		"english": "to give us",
-		"soundmark": "/tə/ /ɡɪv/ /ʌs/"
+		"pinyin": "gei wo men",
+		"soundmark": "gěi wǒ men",
+		"englishGloss": "to give us"
 	},
 	{
 		"chinese": "她需要给我们",
-		"english": "she needs to give us",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/"
+		"pinyin": "ta xu yao gei wo men",
+		"soundmark": "tā xū yào gěi wǒ men",
+		"englishGloss": "she needs to give us"
 	},
 	{
 		"chinese": "问题的答案",
-		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti de da an",
+		"soundmark": "wèn tí de dá àn",
+		"englishGloss": "the answer to the question"
 	},
 	{
 		"chinese": "她需要给我们问题的答案",
-		"english": "she needs to give us the answer to the question",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "ta xu yao gei wo men wen ti de da an",
+		"soundmark": "tā xū yào gěi wǒ men wèn tí de dá àn",
+		"englishGloss": "she needs to give us the answer to the question"
 	},
 	{
 		"chinese": "她不需要给我们问题的答案",
-		"english": "she doesn't need to give us the answer to the question",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "ta bu xu yao gei wo men wen ti de da an",
+		"soundmark": "tā bù xū yào gěi wǒ men wèn tí de dá àn",
+		"englishGloss": "she doesn't need to give us the answer to the question"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要给你问题的答案",
-		"english": "I want to give you the answer to the question",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo xiang yao gei ni wen ti de da an",
+		"soundmark": "wǒ xiǎng yào gěi nǐ wèn tí de dá àn",
+		"englishGloss": "I want to give you the answer to the question"
 	},
 	{
 		"chinese": "我不想给你问题的答案",
-		"english": "I don't want to give you the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo bu xiang gei ni wen ti de da an",
+		"soundmark": "wǒ bù xiǎng gěi nǐ wèn tí de dá àn",
+		"englishGloss": "I don't want to give you the answer to the question"
 	},
 	{
 		"chinese": "我想要你给我问题的答案",
-		"english": "I want you to give me the answer to the question",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo xiang yao ni gei wo wen ti de da an",
+		"soundmark": "wǒ xiǎng yào nǐ gěi wǒ wèn tí de dá àn",
+		"englishGloss": "I want you to give me the answer to the question"
 	},
 	{
 		"chinese": "我不想要你给我问题的答案",
-		"english": "I don't want you to give me the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo bu xiang yao ni gei wo wen ti de da an",
+		"soundmark": "wǒ bù xiǎng yào nǐ gěi wǒ wèn tí de dá àn",
+		"englishGloss": "I don't want you to give me the answer to the question"
 	},
 	{
 		"chinese": "一个理由；一个原因",
-		"english": "a reason",
-		"soundmark": "/ə/ /ˈrizən/"
+		"pinyin": "yi ge li you ； yi ge yuan yin",
+		"soundmark": "yí gè lǐ yóu ； yí gè yuán yīn",
+		"englishGloss": "a reason"
 	},
 	{
 		"chinese": "给我一个理由",
-		"english": "to give me a reason",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+		"pinyin": "gei wo yi ge li you",
+		"soundmark": "gěi wǒ yí gè lǐ yóu",
+		"englishGloss": "to give me a reason"
 	},
 	{
 		"chinese": "我需要你给我一个理由",
-		"english": "I need you to give me a reason",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+		"pinyin": "wo xu yao ni gei wo yi ge li you",
+		"soundmark": "wǒ xū yào nǐ gěi wǒ yí gè lǐ yóu",
+		"englishGloss": "I need you to give me a reason"
 	},
 	{
 		"chinese": "我不需要你给我一个理由",
-		"english": "I don't need you to give me a reason",
-		"soundmark": "/aɪ/ /dont/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+		"pinyin": "wo bu xu yao ni gei wo yi ge li you",
+		"soundmark": "wǒ bù xū yào nǐ gěi wǒ yí gè lǐ yóu",
+		"englishGloss": "I don't need you to give me a reason"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我们应该知道",
-		"english": "we should know",
-		"soundmark": "/wi/ /ʃʊd/ /no/"
+		"pinyin": "wo men ying gai zhi dao",
+		"soundmark": "wǒ men yīng gāi zhī dào",
+		"englishGloss": "we should know"
 	},
 	{
 		"chinese": "问题的答案",
-		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti de da an",
+		"soundmark": "wèn tí de dá àn",
+		"englishGloss": "the answer to the question"
 	},
 	{
 		"chinese": "我们应该知道问题的答案",
-		"english": "we should know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo men ying gai zhi dao wen ti de da an",
+		"soundmark": "wǒ men yīng gāi zhī dào wèn tí de dá àn",
+		"englishGloss": "we should know the answer to the question"
 	},
 	{
 		"chinese": "我们不应该知道问题的答案",
-		"english": "we should not know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo men bu ying gai zhi dao wen ti de da an",
+		"soundmark": "wǒ men bú yīng gāi zhī dào wèn tí de dá àn",
+		"englishGloss": "we should not know the answer to the question"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "我需要你给我一个理由为什么我们应该知道问题的答案",
-		"english": "I need you to give me a reason why we should know the answer to the question",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/ /waɪ/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo xu yao ni gei wo yi ge li you wei shen me wo men ying gai zhi dao wen ti de da an",
+		"soundmark": "wǒ xū yào nǐ gěi wǒ yí gè lǐ yóu wèi shén me wǒ men yīng gāi zhī dào wèn tí de dá àn",
+		"englishGloss": "I need you to give me a reason why we should know the answer to the question"
 	},
 	{
 		"chinese": "电话",
-		"english": "phone",
-		"soundmark": "/fon/"
+		"pinyin": "dian hua",
+		"soundmark": "diàn huà",
+		"englishGloss": "phone"
 	},
 	{
 		"chinese": "号码",
-		"english": "number",
-		"soundmark": "/'nʌmbɚ/"
+		"pinyin": "hao ma",
+		"soundmark": "hào mǎ",
+		"englishGloss": "number"
 	},
 	{
 		"chinese": "电话号码",
-		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"pinyin": "dian hua hao ma",
+		"soundmark": "diàn huà hào mǎ",
+		"englishGloss": "phone number"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的电话号码",
-		"english": "my phone number",
-		"soundmark": "/maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo de dian hua hao ma",
+		"soundmark": "wǒ de diàn huà hào mǎ",
+		"englishGloss": "my phone number"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我可以给你",
-		"english": "I can give you",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/"
+		"pinyin": "wo ke yi gei ni",
+		"soundmark": "wǒ kě yǐ gěi nǐ",
+		"englishGloss": "I can give you"
 	},
 	{
 		"chinese": "我可以给你我的电话号码",
-		"english": "I can give you my phone number",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo ke yi gei ni wo de dian hua hao ma",
+		"soundmark": "wǒ kě yǐ gěi nǐ wǒ de diàn huà hào mǎ",
+		"englishGloss": "I can give you my phone number"
 	},
 	{
 		"chinese": "我不可以给你我的电话号码",
-		"english": "I can not give you my phone number",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo bu ke yi gei ni wo de dian hua hao ma",
+		"soundmark": "wǒ bù kě yǐ gěi nǐ wǒ de diàn huà hào mǎ",
+		"englishGloss": "I can not give you my phone number"
 	},
 	{
 		"chinese": "你想要",
-		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"pinyin": "ni xiang yao",
+		"soundmark": "nǐ xiǎng yào",
+		"englishGloss": "you want"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "它",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "你想要知道它",
-		"english": "you want to know it",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"pinyin": "ni xiang yao zhi dao ta",
+		"soundmark": "nǐ xiǎng yào zhī dào tā",
+		"englishGloss": "you want to know it"
 	},
 	{
 		"chinese": "如果",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "ru guo",
+		"soundmark": "rú guǒ",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我可以给你我的电话号码如果你想要知道它",
-		"english": "I can give you my phone number if you want to know it",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/ /ɪf/ /ju/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"pinyin": "wo ke yi gei ni wo de dian hua hao ma ru guo ni xiang yao zhi dao ta",
+		"soundmark": "wǒ kě yǐ gěi nǐ wǒ de diàn huà hào mǎ rú guǒ nǐ xiǎng yào zhī dào tā",
+		"englishGloss": "I can give you my phone number if you want to know it"
 	},
 	{
 		"chinese": "我将会",
-		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"pinyin": "wo jiang hui",
+		"soundmark": "wǒ jiāng huì",
+		"englishGloss": "I will"
 	},
 	{
 		"chinese": "我将会给你我的电话号码",
-		"english": "I will give you my phone number",
-		"soundmark": "/aɪ/ /wɪl/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo jiang hui gei ni wo de dian hua hao ma",
+		"soundmark": "wǒ jiāng huì gěi nǐ wǒ de diàn huà hào mǎ",
+		"englishGloss": "I will give you my phone number"
 	},
 	{
 		"chinese": "我将不会给你我的电话号码",
-		"english": "I will not give you my phone number",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo jiang bu hui gei ni wo de dian hua hao ma",
+		"soundmark": "wǒ jiāng bú huì gěi nǐ wǒ de diàn huà hào mǎ",
+		"englishGloss": "I will not give you my phone number"
 	},
 	{
 		"chinese": "你不想要",
-		"english": "you don't want",
-		"soundmark": "/ju/ /dont/ /wɑnt/"
+		"pinyin": "ni bu xiang yao",
+		"soundmark": "nǐ bù xiǎng yào",
+		"englishGloss": "you don't want"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "你不想知道它",
-		"english": "you don't want to know it",
-		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"pinyin": "ni bu xiang zhi dao ta",
+		"soundmark": "nǐ bù xiǎng zhī dào tā",
+		"englishGloss": "you don't want to know it"
 	},
 	{
 		"chinese": "我将不会给你我的电话号码如果你不想知道它",
-		"english": "I will not give you my phone number if you don't want to know it",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/ /ɪf/ /ju/ /dont/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"pinyin": "wo jiang bu hui gei ni wo de dian hua hao ma ru guo ni bu xiang zhi dao ta",
+		"soundmark": "wǒ jiāng bú huì gěi nǐ wǒ de diàn huà hào mǎ rú guǒ nǐ bù xiǎng zhī dào tā",
+		"englishGloss": "I will not give you my phone number if you don't want to know it"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "电话号码",
-		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"pinyin": "dian hua hao ma",
+		"soundmark": "diàn huà hào mǎ",
+		"englishGloss": "phone number"
 	},
 	{
 		"chinese": "你的电话号码",
-		"english": "your phone number",
-		"soundmark": "/jʊr/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni de dian hua hao ma",
+		"soundmark": "nǐ de diàn huà hào mǎ",
+		"englishGloss": "your phone number"
 	},
 	{
 		"chinese": "你应该",
-		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"pinyin": "ni ying gai",
+		"soundmark": "nǐ yīng gāi",
+		"englishGloss": "you should"
 	},
 	{
 		"chinese": "你应该给我你的电话号码",
-		"english": "you should give me your phone number",
-		"soundmark": "/ju/ /ʃʊd/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni ying gai gei wo ni de dian hua hao ma",
+		"soundmark": "nǐ yīng gāi gěi wǒ nǐ de diàn huà hào mǎ",
+		"englishGloss": "you should give me your phone number"
 	},
 	{
 		"chinese": "你不应该给我你的电话号码",
-		"english": "you should not give me your phone number",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni bu ying gai gei wo ni de dian hua hao ma",
+		"soundmark": "nǐ bú yīng gāi gěi wǒ nǐ de diàn huà hào mǎ",
+		"englishGloss": "you should not give me your phone number"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要知道它",
-		"english": "I need to know it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"pinyin": "wo xu yao zhi dao ta",
+		"soundmark": "wǒ xū yào zhī dào tā",
+		"englishGloss": "I need to know it"
 	},
 	{
 		"chinese": "你应该给我你的电话号码因为我需要知道它",
-		"english": "you should give me your phone number because I need to know it",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"pinyin": "ni ying gai gei wo ni de dian hua hao ma yin wei wo xu yao zhi dao ta",
+		"soundmark": "nǐ yīng gāi gěi wǒ nǐ de diàn huà hào mǎ yīn wèi wǒ xū yào zhī dào tā",
+		"englishGloss": "you should give me your phone number because I need to know it"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "电话号码",
-		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"pinyin": "dian hua hao ma",
+		"soundmark": "diàn huà hào mǎ",
+		"englishGloss": "phone number"
 	},
 	{
 		"chinese": "他的电话号码",
-		"english": "his phone number",
-		"soundmark": "/hɪz/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ta de dian hua hao ma",
+		"soundmark": "tā de diàn huà hào mǎ",
+		"englishGloss": "his phone number"
 	},
 	{
 		"chinese": "你应该给我他的电话号码",
-		"english": "you should give me his phone number",
-		"soundmark": "/ju/ /ʃʊd/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni ying gai gei wo ta de dian hua hao ma",
+		"soundmark": "nǐ yīng gāi gěi wǒ tā de diàn huà hào mǎ",
+		"englishGloss": "you should give me his phone number"
 	},
 	{
 		"chinese": "你不应该给我他的电话号码",
-		"english": "you should not give me his phone number",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni bu ying gai gei wo ta de dian hua hao ma",
+		"soundmark": "nǐ bú yīng gāi gěi wǒ tā de diàn huà hào mǎ",
+		"englishGloss": "you should not give me his phone number"
 	},
 	{
 		"chinese": "你可以给我他的电话号码",
-		"english": "you can give me his phone number",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni ke yi gei wo ta de dian hua hao ma",
+		"soundmark": "nǐ kě yǐ gěi wǒ tā de diàn huà hào mǎ",
+		"englishGloss": "you can give me his phone number"
 	},
 	{
 		"chinese": "希望",
-		"english": "hope",
-		"soundmark": "/hop/"
+		"pinyin": "xi wang",
+		"soundmark": "xī wàng",
+		"englishGloss": "hope"
 	},
 	{
 		"chinese": "我希望",
-		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"pinyin": "wo xi wang",
+		"soundmark": "wǒ xī wàng",
+		"englishGloss": "I hope"
 	},
 	{
 		"chinese": "我希望你可以给我他的电话号码",
-		"english": "I hope you can give me his phone number",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo xi wang ni ke yi gei wo ta de dian hua hao ma",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ tā de diàn huà hào mǎ",
+		"englishGloss": "I hope you can give me his phone number"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "她的电话号码",
-		"english": "her phone number",
-		"soundmark": "/hɚ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ta de dian hua hao ma",
+		"soundmark": "tā de diàn huà hào mǎ",
+		"englishGloss": "her phone number"
 	},
 	{
 		"chinese": "你可以给我她的电话号码",
-		"english": "you can give me her phone number",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni ke yi gei wo ta de dian hua hao ma",
+		"soundmark": "nǐ kě yǐ gěi wǒ tā de diàn huà hào mǎ",
+		"englishGloss": "you can give me her phone number"
 	},
 	{
 		"chinese": "我希望",
-		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"pinyin": "wo xi wang",
+		"soundmark": "wǒ xī wàng",
+		"englishGloss": "I hope"
 	},
 	{
 		"chinese": "我希望你可以给我她的电话号码",
-		"english": "I hope you can give me her phone number",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo xi wang ni ke yi gei wo ta de dian hua hao ma",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ tā de diàn huà hào mǎ",
+		"englishGloss": "I hope you can give me her phone number"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "它是重要的对我来说",
-		"english": "it is important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is important for me"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "它是非常重要的对我来说",
-		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is very important for me"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为它是非常重要的对我来说",
-		"english": "because it is very important for me",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "yin wei ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "because it is very important for me"
 	},
 	{
 		"chinese": "我希望你可以给我她的电话号码因为这件事是非常重要的对我来说",
-		"english": "I hope you can give me her phone number because it is very important for me",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "wo xi wang ni ke yi gei wo ta de dian hua hao ma yin wei zhe jian shi shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ tā de diàn huà hào mǎ yīn wèi zhè jiàn shì shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "I hope you can give me her phone number because it is very important for me"
 	},
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "一只手",
-		"english": "a hand",
-		"soundmark": "/ə/ /hænd/"
+		"pinyin": "yi zhi shou",
+		"soundmark": "yì zhī shǒu",
+		"englishGloss": "a hand"
 	},
 	{
 		"chinese": "给我一只手（搭把手）",
-		"english": "to give me a hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "gei wo yi zhi shou （ da ba shou ）",
+		"soundmark": "gěi wǒ yì zhī shǒu （ dā bǎ shǒu ）",
+		"englishGloss": "to give me a hand"
 	},
 	{
 		"chinese": "你可以给我搭把手",
-		"english": "you can give me a hand",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "ni ke yi gei wo da ba shou",
+		"soundmark": "nǐ kě yǐ gěi wǒ dā bǎ shǒu",
+		"englishGloss": "you can give me a hand"
 	},
 	{
 		"chinese": "我希望",
-		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"pinyin": "wo xi wang",
+		"soundmark": "wǒ xī wàng",
+		"englishGloss": "I hope"
 	},
 	{
 		"chinese": "我希望你可以给我搭把手",
-		"english": "I hope you can give me a hand",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "wo xi wang ni ke yi gei wo da ba shou",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ dā bǎ shǒu",
+		"englishGloss": "I hope you can give me a hand"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "它是非常重要的对我来说",
-		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "it is very important for me"
 	},
 	{
 		"chinese": "因为它是非常重要的对我来说",
-		"english": "because it is very important for me",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "yin wei ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "because it is very important for me"
 	},
 	{
 		"chinese": "我希望你可以给我搭把手因为它是非常重要的对我来说",
-		"english": "I hope you can give me a hand because it is very important for me",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"pinyin": "wo xi wang ni ke yi gei wo da ba shou yin wei ta shi fei chang zhong yao de dui wo lai shuo",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ dā bǎ shǒu yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō",
+		"englishGloss": "I hope you can give me a hand because it is very important for me"
 	},
 	{
 		"chinese": "而且",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "er qie",
+		"soundmark": "ér qiě",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "帮助",
-		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "to help"
 	},
 	{
 		"chinese": "我需要你帮助我",
-		"english": "I need you to help me",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/"
+		"pinyin": "wo xu yao ni bang zhu wo",
+		"soundmark": "wǒ xū yào nǐ bāng zhù wǒ",
+		"englishGloss": "I need you to help me"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我需要你现在帮助我",
-		"english": "I need you to help me now",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"pinyin": "wo xu yao ni xian zai bang zhu wo",
+		"soundmark": "wǒ xū yào nǐ xiàn zài bāng zhù wǒ",
+		"englishGloss": "I need you to help me now"
 	},
 	{
 		"chinese": "我希望你可以给我搭把手因为它是非常重要的对我来说而且我需要你现在帮助我",
-		"english": "I hope you can give me a hand because it is very important for me and I need you to help me now",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"pinyin": "wo xi wang ni ke yi gei wo da ba shou yin wei ta shi fei chang zhong yao de dui wo lai shuo er qie wo xu yao ni xian zai bang zhu wo",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ dā bǎ shǒu yīn wèi tā shì fēi cháng zhòng yào de duì wǒ lái shuō ér qiě wǒ xū yào nǐ xiàn zài bāng zhù wǒ",
+		"englishGloss": "I hope you can give me a hand because it is very important for me and I need you to help me now"
 	},
 	{
 		"chinese": "建议",
-		"english": "advice",
-		"soundmark": "/əd'vaɪs/"
+		"pinyin": "jian yi",
+		"soundmark": "jiàn yì",
+		"englishGloss": "advice"
 	},
 	{
 		"chinese": "一些",
-		"english": "some",
-		"soundmark": "/səm/"
+		"pinyin": "yi xie",
+		"soundmark": "yì xiē",
+		"englishGloss": "some"
 	},
 	{
 		"chinese": "一些建议",
-		"english": "some advice",
-		"soundmark": "/səm/ /əd'vaɪs/"
+		"pinyin": "yi xie jian yi",
+		"soundmark": "yì xiē jiàn yì",
+		"englishGloss": "some advice"
 	},
 	{
 		"chinese": "你可以给我",
-		"english": "you can give me",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/"
+		"pinyin": "ni ke yi gei wo",
+		"soundmark": "nǐ kě yǐ gěi wǒ",
+		"englishGloss": "you can give me"
 	},
 	{
 		"chinese": "你可以给我一些建议",
-		"english": "you can give me some advice",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "ni ke yi gei wo yi xie jian yi",
+		"soundmark": "nǐ kě yǐ gěi wǒ yì xiē jiàn yì",
+		"englishGloss": "you can give me some advice"
 	},
 	{
 		"chinese": "我希望",
-		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"pinyin": "wo xi wang",
+		"soundmark": "wǒ xī wàng",
+		"englishGloss": "I hope"
 	},
 	{
 		"chinese": "我希望你可以给我一些建议",
-		"english": "I hope you can give me some advice",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "wo xi wang ni ke yi gei wo yi xie jian yi",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ yì xiē jiàn yì",
+		"englishGloss": "I hope you can give me some advice"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的工作",
-		"english": "my work",
-		"soundmark": "/maɪ/ /wɝk/"
+		"pinyin": "wo de gong zuo",
+		"soundmark": "wǒ de gōng zuò",
+		"englishGloss": "my work"
 	},
 	{
 		"chinese": "关于",
-		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"pinyin": "guan yu",
+		"soundmark": "guān yú",
+		"englishGloss": "about"
 	},
 	{
 		"chinese": "关于我的工作",
-		"english": "about my work",
-		"soundmark": "/ə'baʊt/ /maɪ/ /wɝk/"
+		"pinyin": "guan yu wo de gong zuo",
+		"soundmark": "guān yú wǒ de gōng zuò",
+		"englishGloss": "about my work"
 	},
 	{
 		"chinese": "我希望你可以给我关于我的工作的一些建议",
-		"english": "I hope you can give me some advice about my work",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/"
+		"pinyin": "wo xi wang ni ke yi gei wo guan yu wo de gong zuo de yi xie jian yi",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi wǒ guān yú wǒ de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "I hope you can give me some advice about my work"
 	},
 	{
 		"chinese": "我可以给你一些建议",
-		"english": "I can give you some advice",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /səm/ /əd'vaɪs/"
+		"pinyin": "wo ke yi gei ni yi xie jian yi",
+		"soundmark": "wǒ kě yǐ gěi nǐ yì xiē jiàn yì",
+		"englishGloss": "I can give you some advice"
 	},
 	{
 		"chinese": "想要",
-		"english": "want to",
-		"soundmark": "/wɑnt/ /tə/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want to"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "关于",
-		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"pinyin": "guan yu",
+		"soundmark": "guān yú",
+		"englishGloss": "about"
 	},
 	{
 		"chinese": "关于你的工作",
-		"english": "about your work",
-		"soundmark": "/ə'baʊt/ /jʊr/ /wɝk/"
+		"pinyin": "guan yu ni de gong zuo",
+		"soundmark": "guān yú nǐ de gōng zuò",
+		"englishGloss": "about your work"
 	},
 	{
 		"chinese": "我想要给你关于你的工作的一些建议",
-		"english": "I want to give you some advice about your work",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /səm/ /əd'vaɪs/ /ə'baʊt/ /jʊr/ /wɝk/"
+		"pinyin": "wo xiang yao gei ni guan yu ni de gong zuo de yi xie jian yi",
+		"soundmark": "wǒ xiǎng yào gěi nǐ guān yú nǐ de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "I want to give you some advice about your work"
 	},
 	{
 		"chinese": "我想要你给我一些建议",
-		"english": "I want you to give me some advice",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"pinyin": "wo xiang yao ni gei wo yi xie jian yi",
+		"soundmark": "wǒ xiǎng yào nǐ gěi wǒ yì xiē jiàn yì",
+		"englishGloss": "I want you to give me some advice"
 	},
 	{
 		"chinese": "关于我的工作",
-		"english": "about my work",
-		"soundmark": "/ə'baʊt/ /maɪ/ /wɝk/"
+		"pinyin": "guan yu wo de gong zuo",
+		"soundmark": "guān yú wǒ de gōng zuò",
+		"englishGloss": "about my work"
 	},
 	{
 		"chinese": "我想要你给我关于我的工作的一些建议",
-		"english": "I want you to give me some advice about my work",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/"
+		"pinyin": "wo xiang yao ni gei wo guan yu wo de gong zuo de yi xie jian yi",
+		"soundmark": "wǒ xiǎng yào nǐ gěi wǒ guān yú wǒ de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "I want you to give me some advice about my work"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "他的工作",
-		"english": "his work",
-		"soundmark": "/hɪz/ /wɝk/"
+		"pinyin": "ta de gong zuo",
+		"soundmark": "tā de gōng zuò",
+		"englishGloss": "his work"
 	},
 	{
 		"chinese": "给他",
-		"english": "to give him",
-		"soundmark": "/tə/ /ɡɪv/ /hɪm/"
+		"pinyin": "gei ta",
+		"soundmark": "gěi tā",
+		"englishGloss": "to give him"
 	},
 	{
 		"chinese": "你可以给他关于他的工作的一些建议",
-		"english": "you can give him some advice about his work",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɪz/ /wɝk/"
+		"pinyin": "ni ke yi gei ta guan yu ta de gong zuo de yi xie jian yi",
+		"soundmark": "nǐ kě yǐ gěi tā guān yú tā de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "you can give him some advice about his work"
 	},
 	{
 		"chinese": "我希望你可以给他关于他的工作的一些建议",
-		"english": "I hope you can give him some advice about his work",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɪz/ /wɝk/"
+		"pinyin": "wo xi wang ni ke yi gei ta guan yu ta de gong zuo de yi xie jian yi",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi tā guān yú tā de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "I hope you can give him some advice about his work"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "她的工作",
-		"english": "her work",
-		"soundmark": "/hɚ/ /wɝk/"
+		"pinyin": "ta de gong zuo",
+		"soundmark": "tā de gōng zuò",
+		"englishGloss": "her work"
 	},
 	{
 		"chinese": "给她",
-		"english": "to give her",
-		"soundmark": "/tə/ /ɡɪv/ /hɚ/"
+		"pinyin": "gei ta",
+		"soundmark": "gěi tā",
+		"englishGloss": "to give her"
 	},
 	{
 		"chinese": "我希望你可以给她关于她的工作的一些建议",
-		"english": "I hope you can give her some advice about her work",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /hɚ/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɚ/ /wɝk/"
+		"pinyin": "wo xi wang ni ke yi gei ta guan yu ta de gong zuo de yi xie jian yi",
+		"soundmark": "wǒ xī wàng nǐ kě yǐ gěi tā guān yú tā de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "I hope you can give her some advice about her work"
 	},
 	{
 		"chinese": "我希望她可以给我关于我的工作的一些建议",
-		"english": "I hope she can give me some advice about my work",
-		"soundmark": "/aɪ/ /hop/ /ʃi/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/"
+		"pinyin": "wo xi wang ta ke yi gei wo guan yu wo de gong zuo de yi xie jian yi",
+		"soundmark": "wǒ xī wàng tā kě yǐ gěi wǒ guān yú wǒ de gōng zuò de yì xiē jiàn yì",
+		"englishGloss": "I hope she can give me some advice about my work"
 	},
 	{
 		"chinese": "使用",
-		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"pinyin": "shi yong",
+		"soundmark": "shǐ yòng",
+		"englishGloss": "to use"
 	},
 	{
 		"chinese": "字典",
-		"english": "the dictionary",
-		"soundmark": "/ðə/ /'dɪkʃənɛri/"
+		"pinyin": "zi dian",
+		"soundmark": "zì diǎn",
+		"englishGloss": "the dictionary"
 	},
 	{
 		"chinese": "使用字典",
-		"english": "to use the dictionary",
-		"soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "shi yong zi dian",
+		"soundmark": "shǐ yòng zì diǎn",
+		"englishGloss": "to use the dictionary"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要使用字典",
-		"english": "I need to use the dictionary",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo xu yao shi yong zi dian",
+		"soundmark": "wǒ xū yào shǐ yòng zì diǎn",
+		"englishGloss": "I need to use the dictionary"
 	},
 	{
 		"chinese": "我不需要使用字典",
-		"english": "I don't need to use the dictionary",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu xu yao shi yong zi dian",
+		"soundmark": "wǒ bù xū yào shǐ yòng zì diǎn",
+		"englishGloss": "I don't need to use the dictionary"
 	},
 	{
 		"chinese": "我必须使用字典",
-		"english": "I have to use the dictionary",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo bi xu shi yong zi dian",
+		"soundmark": "wǒ bì xū shǐ yòng zì diǎn",
+		"englishGloss": "I have to use the dictionary"
 	},
 	{
 		"chinese": "我不必使用字典",
-		"english": "I don't have to use the dictionary",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu bi shi yong zi dian",
+		"soundmark": "wǒ bú bì shǐ yòng zì diǎn",
+		"englishGloss": "I don't have to use the dictionary"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的字典",
-		"english": "my dictionary",
-		"soundmark": "/maɪ/ /'dɪkʃənɛri/"
+		"pinyin": "wo de zi dian",
+		"soundmark": "wǒ de zì diǎn",
+		"englishGloss": "my dictionary"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要使用我的字典",
-		"english": "I want to use my dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"pinyin": "wo xiang yao shi yong wo de zi dian",
+		"soundmark": "wǒ xiǎng yào shǐ yòng wǒ de zì diǎn",
+		"englishGloss": "I want to use my dictionary"
 	},
 	{
 		"chinese": "我不想使用我的字典",
-		"english": "I don't want to use my dictionary",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu xiang shi yong wo de zi dian",
+		"soundmark": "wǒ bù xiǎng shǐ yòng wǒ de zì diǎn",
+		"englishGloss": "I don't want to use my dictionary"
 	},
 	{
 		"chinese": "我想要你使用我的字典",
-		"english": "I want you to use my dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"pinyin": "wo xiang yao ni shi yong wo de zi dian",
+		"soundmark": "wǒ xiǎng yào nǐ shǐ yòng wǒ de zì diǎn",
+		"englishGloss": "I want you to use my dictionary"
 	},
 	{
 		"chinese": "我不想要你使用我的字典",
-		"english": "I don't want you to use my dictionary",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu xiang yao ni shi yong wo de zi dian",
+		"soundmark": "wǒ bù xiǎng yào nǐ shǐ yòng wǒ de zì diǎn",
+		"englishGloss": "I don't want you to use my dictionary"
 	},
 	{
 		"chinese": "他的字典",
-		"english": "his dictionary",
-		"soundmark": "/hɪz/ /'dɪkʃənɛri/"
+		"pinyin": "ta de zi dian",
+		"soundmark": "tā de zì diǎn",
+		"englishGloss": "his dictionary"
 	},
 	{
 		"chinese": "我想要你使用他的字典",
-		"english": "I want you to use his dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɪz/ /'dɪkʃənɛri/"
+		"pinyin": "wo xiang yao ni shi yong ta de zi dian",
+		"soundmark": "wǒ xiǎng yào nǐ shǐ yòng tā de zì diǎn",
+		"englishGloss": "I want you to use his dictionary"
 	},
 	{
 		"chinese": "我不想要你使用他的字典",
-		"english": "I don't want you to use his dictionary",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /juz/ /hɪz/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu xiang yao ni shi yong ta de zi dian",
+		"soundmark": "wǒ bù xiǎng yào nǐ shǐ yòng tā de zì diǎn",
+		"englishGloss": "I don't want you to use his dictionary"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "她的字典",
-		"english": "her dictionary",
-		"soundmark": "/hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta de zi dian",
+		"soundmark": "tā de zì diǎn",
+		"englishGloss": "her dictionary"
 	},
 	{
 		"chinese": "我想要你使用她的字典",
-		"english": "I want you to use her dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "wo xiang yao ni shi yong ta de zi dian",
+		"soundmark": "wǒ xiǎng yào nǐ shǐ yòng tā de zì diǎn",
+		"englishGloss": "I want you to use her dictionary"
 	},
 	{
 		"chinese": "我不想要你使用她的字典",
-		"english": "I don't want you to use her dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu xiang yao ni shi yong ta de zi dian",
+		"soundmark": "wǒ bù xiǎng yào nǐ shǐ yòng tā de zì diǎn",
+		"englishGloss": "I don't want you to use her dictionary"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你的字典",
-		"english": "your dictionary",
-		"soundmark": "/jʊr/ /'dɪkʃənɛri/"
+		"pinyin": "ni de zi dian",
+		"soundmark": "nǐ de zì diǎn",
+		"englishGloss": "your dictionary"
 	},
 	{
 		"chinese": "我需要使用你的字典",
-		"english": "I need to use your dictionary",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /jʊr/ /'dɪkʃənɛri/"
+		"pinyin": "wo xu yao shi yong ni de zi dian",
+		"soundmark": "wǒ xū yào shǐ yòng nǐ de zì diǎn",
+		"englishGloss": "I need to use your dictionary"
 	},
 	{
 		"chinese": "我不需要使用你的字典",
-		"english": "I don't need to use your dictionary",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /jʊr/ /'dɪkʃənɛri/"
+		"pinyin": "wo bu xu yao shi yong ni de zi dian",
+		"soundmark": "wǒ bù xū yào shǐ yòng nǐ de zì diǎn",
+		"englishGloss": "I don't need to use your dictionary"
 	},
 	{
 		"chinese": "使用",
-		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"pinyin": "shi yong",
+		"soundmark": "shǐ yòng",
+		"englishGloss": "to use"
 	},
 	{
 		"chinese": "她必须使用",
-		"english": "she has to use",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /juz/"
+		"pinyin": "ta bi xu shi yong",
+		"soundmark": "tā bì xū shǐ yòng",
+		"englishGloss": "she has to use"
 	},
 	{
 		"chinese": "她的字典",
-		"english": "her dictionary",
-		"soundmark": "/hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta de zi dian",
+		"soundmark": "tā de zì diǎn",
+		"englishGloss": "her dictionary"
 	},
 	{
 		"chinese": "她必须使用她的字典",
-		"english": "she has to use her dictionary",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta bi xu shi yong ta de zi dian",
+		"soundmark": "tā bì xū shǐ yòng tā de zì diǎn",
+		"englishGloss": "she has to use her dictionary"
 	},
 	{
 		"chinese": "她不必使用她的字典",
-		"english": "she doesn't have to use her dictionary",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta bu bi shi yong ta de zi dian",
+		"soundmark": "tā bú bì shǐ yòng tā de zì diǎn",
+		"englishGloss": "she doesn't have to use her dictionary"
 	},
 	{
 		"chinese": "她想要使用她的字典",
-		"english": "she wants to use her dictionary",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta xiang yao shi yong ta de zi dian",
+		"soundmark": "tā xiǎng yào shǐ yòng tā de zì diǎn",
+		"englishGloss": "she wants to use her dictionary"
 	},
 	{
 		"chinese": "她不想使用她的字典",
-		"english": "she doesn't want to use her dictionary",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta bu xiang shi yong ta de zi dian",
+		"soundmark": "tā bù xiǎng shǐ yòng tā de zì diǎn",
+		"englishGloss": "she doesn't want to use her dictionary"
 	},
 	{
 		"chinese": "她想要我使用她的字典",
-		"english": "she wants me to use her dictionary",
-		"soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta xiang yao wo shi yong ta de zi dian",
+		"soundmark": "tā xiǎng yào wǒ shǐ yòng tā de zì diǎn",
+		"englishGloss": "she wants me to use her dictionary"
 	},
 	{
 		"chinese": "她不想要我使用她的字典",
-		"english": "she doesn't want me to use her dictionary",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /mi/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"pinyin": "ta bu xiang yao wo shi yong ta de zi dian",
+		"soundmark": "tā bù xiǎng yào wǒ shǐ yòng tā de zì diǎn",
+		"englishGloss": "she doesn't want me to use her dictionary"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "如何使用字典",
-		"english": "how to use the dictionary",
-		"soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "ru he shi yong zi dian",
+		"soundmark": "rú hé shǐ yòng zì diǎn",
+		"englishGloss": "how to use the dictionary"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我需要知道如何使用字典",
-		"english": "I need to know how to use the dictionary",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo xu yao zhi dao ru he shi yong zi dian",
+		"soundmark": "wǒ xū yào zhī dào rú hé shǐ yòng zì diǎn",
+		"englishGloss": "I need to know how to use the dictionary"
 	},
 	{
 		"chinese": "我必须知道如何使用字典",
-		"english": "I have to know how to use the dictionary",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo bi xu zhi dao ru he shi yong zi dian",
+		"soundmark": "wǒ bì xū zhī dào rú hé shǐ yòng zì diǎn",
+		"englishGloss": "I have to know how to use the dictionary"
 	},
 	{
 		"chinese": "我想要知道如何使用字典",
-		"english": "I want to know how to use the dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"pinyin": "wo xiang yao zhi dao ru he shi yong zi dian",
+		"soundmark": "wǒ xiǎng yào zhī dào rú hé shǐ yòng zì diǎn",
+		"englishGloss": "I want to know how to use the dictionary"
 	},
 	{
 		"chinese": "电话",
-		"english": "the phone",
-		"soundmark": "/ðə/ /fon/"
+		"pinyin": "dian hua",
+		"soundmark": "diàn huà",
+		"englishGloss": "the phone"
 	},
 	{
 		"chinese": "使用电话",
-		"english": "to use the phone",
-		"soundmark": "/tə/ /juz/ /ðə/ /fon/"
+		"pinyin": "shi yong dian hua",
+		"soundmark": "shǐ yòng diàn huà",
+		"englishGloss": "to use the phone"
 	},
 	{
 		"chinese": "我需要使用电话",
-		"english": "I need to use the phone",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /fon/"
+		"pinyin": "wo xu yao shi yong dian hua",
+		"soundmark": "wǒ xū yào shǐ yòng diàn huà",
+		"englishGloss": "I need to use the phone"
 	},
 	{
 		"chinese": "如何使用电话",
-		"english": "how to use the phone",
-		"soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /fon/"
+		"pinyin": "ru he shi yong dian hua",
+		"soundmark": "rú hé shǐ yòng diàn huà",
+		"englishGloss": "how to use the phone"
 	},
 	{
 		"chinese": "我需要知道如何使用电话",
-		"english": "I need to know how to use the phone",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /fon/"
+		"pinyin": "wo xu yao zhi dao ru he shi yong dian hua",
+		"soundmark": "wǒ xū yào zhī dào rú hé shǐ yòng diàn huà",
+		"englishGloss": "I need to know how to use the phone"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "你的电话",
-		"english": "your phone",
-		"soundmark": "/jʊr/ /fon/"
+		"pinyin": "ni de dian hua",
+		"soundmark": "nǐ de diàn huà",
+		"englishGloss": "your phone"
 	},
 	{
 		"chinese": "我需要使用你的电话",
-		"english": "I need to use your phone",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /jʊr/ /fon/"
+		"pinyin": "wo xu yao shi yong ni de dian hua",
+		"soundmark": "wǒ xū yào shǐ yòng nǐ de diàn huà",
+		"englishGloss": "I need to use your phone"
 	},
 	{
 		"chinese": "我不需要使用你的电话",
-		"english": "I don't need to use your phone",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /jʊr/ /fon/"
+		"pinyin": "wo bu xu yao shi yong ni de dian hua",
+		"soundmark": "wǒ bù xū yào shǐ yòng nǐ de diàn huà",
+		"englishGloss": "I don't need to use your phone"
 	},
 	{
 		"chinese": "他需要",
-		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"pinyin": "ta xu yao",
+		"soundmark": "tā xū yào",
+		"englishGloss": "he needs"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "她的电话",
-		"english": "her phone",
-		"soundmark": "/hɚ/ /fon/"
+		"pinyin": "ta de dian hua",
+		"soundmark": "tā de diàn huà",
+		"englishGloss": "her phone"
 	},
 	{
 		"chinese": "他需要使用她的电话",
-		"english": "he needs to use her phone",
-		"soundmark": "/hi/ /nidz/ /tə/ /juz/ /hɚ/ /fon/"
+		"pinyin": "ta xu yao shi yong ta de dian hua",
+		"soundmark": "tā xū yào shǐ yòng tā de diàn huà",
+		"englishGloss": "he needs to use her phone"
 	},
 	{
 		"chinese": "他不需要使用她的电话",
-		"english": "he doesn't need to use her phone",
-		"soundmark": "/hi/ /ˈdʌznt/ /nid/ /tə/ /juz/ /hɚ/ /fon/"
+		"pinyin": "ta bu xu yao shi yong ta de dian hua",
+		"soundmark": "tā bù xū yào shǐ yòng tā de diàn huà",
+		"englishGloss": "he doesn't need to use her phone"
 	},
 	{
 		"chinese": "洗手间",
-		"english": "the bathroom",
-		"soundmark": "/ðə/ /'bæθrum/"
+		"pinyin": "xi shou jian",
+		"soundmark": "xǐ shǒu jiān",
+		"englishGloss": "the bathroom"
 	},
 	{
 		"chinese": "使用洗手间",
-		"english": "to use the bathroom",
-		"soundmark": "/tə/ /juz/ /ðə/ /'bæθrum/"
+		"pinyin": "shi yong xi shou jian",
+		"soundmark": "shǐ yòng xǐ shǒu jiān",
+		"englishGloss": "to use the bathroom"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要使用洗手间",
-		"english": "I need to use the bathroom",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /'bæθrum/"
+		"pinyin": "wo xu yao shi yong xi shou jian",
+		"soundmark": "wǒ xū yào shǐ yòng xǐ shǒu jiān",
+		"englishGloss": "I need to use the bathroom"
 	},
 	{
 		"chinese": "只是",
-		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"pinyin": "zhi shi",
+		"soundmark": "zhǐ shì",
+		"englishGloss": "just"
 	},
 	{
 		"chinese": "我只是需要使用洗手间",
-		"english": "I just need to use the bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /ðə/ /'bæθrum/"
+		"pinyin": "wo zhi shi xu yao shi yong xi shou jian",
+		"soundmark": "wǒ zhǐ shì xū yào shǐ yòng xǐ shǒu jiān",
+		"englishGloss": "I just need to use the bathroom"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "你的洗手间",
-		"english": "your bathroom",
-		"soundmark": "/jʊr/ /'bæθrum/"
+		"pinyin": "ni de xi shou jian",
+		"soundmark": "nǐ de xǐ shǒu jiān",
+		"englishGloss": "your bathroom"
 	},
 	{
 		"chinese": "我只是需要使用你的洗手间",
-		"english": "I just need to use your bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /jʊr/ /'bæθrum/"
+		"pinyin": "wo zhi shi xu yao shi yong ni de xi shou jian",
+		"soundmark": "wǒ zhǐ shì xū yào shǐ yòng nǐ de xǐ shǒu jiān",
+		"englishGloss": "I just need to use your bathroom"
 	},
 	{
 		"chinese": "他的洗手间",
-		"english": "his bathroom",
-		"soundmark": "/hɪz/ /'bæθrum/"
+		"pinyin": "ta de xi shou jian",
+		"soundmark": "tā de xǐ shǒu jiān",
+		"englishGloss": "his bathroom"
 	},
 	{
 		"chinese": "我只是需要使用他的洗手间",
-		"english": "I just need to use his bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /hɪz/ /'bæθrum/"
+		"pinyin": "wo zhi shi xu yao shi yong ta de xi shou jian",
+		"soundmark": "wǒ zhǐ shì xū yào shǐ yòng tā de xǐ shǒu jiān",
+		"englishGloss": "I just need to use his bathroom"
 	},
 	{
 		"chinese": "她的洗手间",
-		"english": "her bathroom",
-		"soundmark": "/hɚ/ /'bæθrum/"
+		"pinyin": "ta de xi shou jian",
+		"soundmark": "tā de xǐ shǒu jiān",
+		"englishGloss": "her bathroom"
 	},
 	{
 		"chinese": "我只是需要使用她的洗手间",
-		"english": "I just need to use her bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /hɚ/ /'bæθrum/"
+		"pinyin": "wo zhi shi xu yao shi yong ta de xi shou jian",
+		"soundmark": "wǒ zhǐ shì xū yào shǐ yòng tā de xǐ shǒu jiān",
+		"englishGloss": "I just need to use her bathroom"
 	},
 	{
 		"chinese": "他们的",
-		"english": "their",
-		"soundmark": "/ðɛr/"
+		"pinyin": "ta men de",
+		"soundmark": "tā men de",
+		"englishGloss": "their"
 	},
 	{
 		"chinese": "他们的洗手间",
-		"english": "their bathroom",
-		"soundmark": "/ðɛr/ /'bæθrum/"
+		"pinyin": "ta men de xi shou jian",
+		"soundmark": "tā men de xǐ shǒu jiān",
+		"englishGloss": "their bathroom"
 	},
 	{
 		"chinese": "我只是需要使用他们的洗手间",
-		"english": "I just need to use their bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /ðɛr/ /'bæθrum/"
+		"pinyin": "wo zhi shi xu yao shi yong ta men de xi shou jian",
+		"soundmark": "wǒ zhǐ shì xū yào shǐ yòng tā men de xǐ shǒu jiān",
+		"englishGloss": "I just need to use their bathroom"
 	},
 	{
 		"chinese": "我想要使用他们的洗手间",
-		"english": "I want to use their bathroom",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /ðɛr/ /'bæθrum/"
+		"pinyin": "wo xiang yao shi yong ta men de xi shou jian",
+		"soundmark": "wǒ xiǎng yào shǐ yòng tā men de xǐ shǒu jiān",
+		"englishGloss": "I want to use their bathroom"
 	},
 	{
 		"chinese": "我必须使用他们的洗手间",
-		"english": "I have to use their bathroom",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /juz/ /ðɛr/ /'bæθrum/"
+		"pinyin": "wo bi xu shi yong ta men de xi shou jian",
+		"soundmark": "wǒ bì xū shǐ yòng tā men de xǐ shǒu jiān",
+		"englishGloss": "I have to use their bathroom"
 	}
 ]

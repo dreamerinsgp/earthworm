@@ -1,547 +1,656 @@
 [
 	{
 		"chinese": "见到",
-		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"pinyin": "jian dao",
+		"soundmark": "jiàn dào",
+		"englishGloss": "to see"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "见到你",
-		"english": "to see you",
-		"soundmark": "/tə/ /si/ /ju/"
+		"pinyin": "jian dao ni",
+		"soundmark": "jiàn dào nǐ",
+		"englishGloss": "to see you"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要见到你",
-		"english": "I want to see you",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /si/ /ju/ /(有意识地)看 to look/ /tə/ /lʊk/"
+		"pinyin": "wo xiang yao jian dao ni",
+		"soundmark": "wǒ xiǎng yào jiàn dào nǐ",
+		"englishGloss": "I want to see you"
 	},
 	{
 		"chinese": "我想要(有意识地)看你",
-		"english": "I want to look at you",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /lʊk/ /ət/ /ju/"
+		"pinyin": "wo xiang yao ( you yi shi di ) kan ni",
+		"soundmark": "wǒ xiǎng yào ( yǒu yì shí dì ) kàn nǐ",
+		"englishGloss": "I want to look at you"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "看我",
-		"english": "to look at me",
-		"soundmark": "/tə/ /lʊk/ /ət/ /mi/"
+		"pinyin": "kan wo",
+		"soundmark": "kàn wǒ",
+		"englishGloss": "to look at me"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你看我",
-		"english": "I want you to look at me",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /lʊk/ /ət/ /mi/"
+		"pinyin": "wo xiang yao ni kan wo",
+		"soundmark": "wǒ xiǎng yào nǐ kàn wǒ",
+		"englishGloss": "I want you to look at me"
 	},
 	{
 		"chinese": "看我",
-		"english": "to look at me",
-		"soundmark": "/tə/ /lʊk/ /ət/ /mi/"
+		"pinyin": "kan wo",
+		"soundmark": "kàn wǒ",
+		"englishGloss": "to look at me"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "看你",
-		"english": "to look at you",
-		"soundmark": "/tə/ /lʊk/ /ət/ /ju/"
+		"pinyin": "kan ni",
+		"soundmark": "kàn nǐ",
+		"englishGloss": "to look at you"
 	},
 	{
 		"chinese": "我看你",
-		"english": "I look at you",
-		"soundmark": "/aɪ/ /lʊk/ /ət/ /ju/"
+		"pinyin": "wo kan ni",
+		"soundmark": "wǒ kàn nǐ",
+		"englishGloss": "I look at you"
 	},
 	{
 		"chinese": "看(ing形式)",
-		"english": "looking",
-		"soundmark": "/ˈlʊkɪŋ/"
+		"pinyin": "kan ( i n g xing shi )",
+		"soundmark": "kàn ( i n g xíng shì )",
+		"englishGloss": "looking"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在看着",
-		"english": "be looking",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/"
+		"pinyin": "zheng zai kan zhe",
+		"soundmark": "zhèng zài kàn zhe",
+		"englishGloss": "be looking"
 	},
 	{
 		"chinese": "正在看着你",
-		"english": "be looking at you",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /ət/ /ju/ /(I，现在时)be am/ /æm/"
+		"pinyin": "zheng zai kan zhe ni",
+		"soundmark": "zhèng zài kàn zhe nǐ",
+		"englishGloss": "be looking at you"
 	},
 	{
 		"chinese": "我(现在)正在看着你",
-		"english": "I am looking at you",
-		"soundmark": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /ju/ /(I，过去时)be was/ /wəz/"
+		"pinyin": "wo ( xian zai ) zheng zai kan zhe ni",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài kàn zhe nǐ",
+		"englishGloss": "I am looking at you"
 	},
 	{
 		"chinese": "我(过去)正在看着你",
-		"english": "I was looking at you",
-		"soundmark": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /ju/"
+		"pinyin": "wo ( guo qu ) zheng zai kan zhe ni",
+		"soundmark": "wǒ ( guò qù ) zhèng zài kàn zhe nǐ",
+		"englishGloss": "I was looking at you"
 	},
 	{
 		"chinese": "我自己",
-		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"pinyin": "wo zi ji",
+		"soundmark": "wǒ zì jǐ",
+		"englishGloss": "myself"
 	},
 	{
 		"chinese": "我(过去)正在看着我自己",
-		"english": "I was looking at myself",
-		"soundmark": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/"
+		"pinyin": "wo ( guo qu ) zheng zai kan zhe wo zi ji",
+		"soundmark": "wǒ ( guò qù ) zhèng zài kàn zhe wǒ zì jǐ",
+		"englishGloss": "I was looking at myself"
 	},
 	{
 		"chinese": "镜子",
-		"english": "mirror",
-		"soundmark": "/'mɪrɚ/"
+		"pinyin": "jing zi",
+		"soundmark": "jìng zi",
+		"englishGloss": "mirror"
 	},
 	{
 		"chinese": "在镜子里",
-		"english": "in the mirror",
-		"soundmark": "/ɪn/ /ðə/ /'mɪrɚ/"
+		"pinyin": "zai jing zi li",
+		"soundmark": "zài jìng zi lǐ",
+		"englishGloss": "in the mirror"
 	},
 	{
 		"chinese": "我(过去)正在在镜子里看着我自己",
-		"english": "I was looking at myself in the mirror",
-		"soundmark": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo ( guo qu ) zheng zai zai jing zi li kan zhe wo zi ji",
+		"soundmark": "wǒ ( guò qù ) zhèng zài zài jìng zi lǐ kàn zhe wǒ zì jǐ",
+		"englishGloss": "I was looking at myself in the mirror"
 	},
 	{
 		"chinese": "我(现在)正在在镜子里看着我自己",
-		"english": "I am looking at myself in the mirror",
-		"soundmark": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/ /(you，现在时)be are/ /ɚ/"
+		"pinyin": "wo ( xian zai ) zheng zai zai jing zi li kan zhe wo zi ji",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài zài jìng zi lǐ kàn zhe wǒ zì jǐ",
+		"englishGloss": "I am looking at myself in the mirror"
 	},
 	{
 		"chinese": "你(现在)正在看着",
-		"english": "you are looking",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/"
+		"pinyin": "ni ( xian zai ) zheng zai kan zhe",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài kàn zhe",
+		"englishGloss": "you are looking"
 	},
 	{
 		"chinese": "你自己",
-		"english": "yourself",
-		"soundmark": "/jɔr'sɛlf/"
+		"pinyin": "ni zi ji",
+		"soundmark": "nǐ zì jǐ",
+		"englishGloss": "yourself"
 	},
 	{
 		"chinese": "你(现在)正在看着你自己",
-		"english": "you are looking at yourself",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/"
+		"pinyin": "ni ( xian zai ) zheng zai kan zhe ni zi ji",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài kàn zhe nǐ zì jǐ",
+		"englishGloss": "you are looking at yourself"
 	},
 	{
 		"chinese": "镜子",
-		"english": "mirror",
-		"soundmark": "/'mɪrɚ/"
+		"pinyin": "jing zi",
+		"soundmark": "jìng zi",
+		"englishGloss": "mirror"
 	},
 	{
 		"chinese": "在镜子里",
-		"english": "in the mirror",
-		"soundmark": "/ɪn/ /ðə/ /'mɪrɚ/"
+		"pinyin": "zai jing zi li",
+		"soundmark": "zài jìng zi lǐ",
+		"englishGloss": "in the mirror"
 	},
 	{
 		"chinese": "你(现在)正在在镜子里看着你自己",
-		"english": "you are looking at yourself in the mirror",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/ /(you，过去时)be were/ /wɚ/"
+		"pinyin": "ni ( xian zai ) zheng zai zai jing zi li kan zhe ni zi ji",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài zài jìng zi lǐ kàn zhe nǐ zì jǐ",
+		"englishGloss": "you are looking at yourself in the mirror"
 	},
 	{
 		"chinese": "你(过去)正在在镜子里看着你自己",
-		"english": "you were looking at yourself in the mirror",
-		"soundmark": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+		"pinyin": "ni ( guo qu ) zheng zai zai jing zi li kan zhe ni zi ji",
+		"soundmark": "nǐ ( guò qù ) zhèng zài zài jìng zi lǐ kàn zhe nǐ zì jǐ",
+		"englishGloss": "you were looking at yourself in the mirror"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/ /(they，现在时)be are/ /ɚ/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "看(ing形式)",
-		"english": "looking",
-		"soundmark": "/ˈlʊkɪŋ/"
+		"pinyin": "kan ( i n g xing shi )",
+		"soundmark": "kàn ( i n g xíng shì )",
+		"englishGloss": "looking"
 	},
 	{
 		"chinese": "他们(现在)正在看着",
-		"english": "they are looking",
-		"soundmark": "/ðe/ /ɚ/ /ˈlʊkɪŋ/"
+		"pinyin": "ta men ( xian zai ) zheng zai kan zhe",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài kàn zhe",
+		"englishGloss": "they are looking"
 	},
 	{
 		"chinese": "我们",
-		"english": "us",
-		"soundmark": "/ʌs/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "us"
 	},
 	{
 		"chinese": "他们(现在)正在看着我们",
-		"english": "they are looking at us",
-		"soundmark": "/ðe/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /ʌs/"
+		"pinyin": "ta men ( xian zai ) zheng zai kan zhe wo men",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài kàn zhe wǒ men",
+		"englishGloss": "they are looking at us"
 	},
 	{
 		"chinese": "仍然",
-		"english": "still",
-		"soundmark": "/stɪl/"
+		"pinyin": "reng ran",
+		"soundmark": "réng rán",
+		"englishGloss": "still"
 	},
 	{
 		"chinese": "他们(现在)仍然正在看着我们",
-		"english": "they are still looking at us",
-		"soundmark": "/ðe/ /ɚ/ /stɪl/ /ˈlʊkɪŋ/ /ət/ /ʌs/"
+		"pinyin": "ta men ( xian zai ) reng ran zheng zai kan zhe wo men",
+		"soundmark": "tā men ( xiàn zài ) réng rán zhèng zài kàn zhe wǒ men",
+		"englishGloss": "they are still looking at us"
 	},
 	{
 		"chinese": "为了",
-		"english": "for",
-		"soundmark": "/fɝ/"
+		"pinyin": "wei le",
+		"soundmark": "wèi le",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "新的",
-		"english": "new",
-		"soundmark": "/nu/"
+		"pinyin": "xin de",
+		"soundmark": "xīn de",
+		"englishGloss": "new"
 	},
 	{
 		"chinese": "工作",
-		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "job"
 	},
 	{
 		"chinese": "为了一个新的工作",
-		"english": "for a new job",
-		"soundmark": "/fɝ/ /ə/ /nu/ /dʒɑb/ /(有意识地)看 to look/ /tə/ /lʊk/"
+		"pinyin": "wei le yi ge xin de gong zuo",
+		"soundmark": "wèi le yí gè xīn de gōng zuò",
+		"englishGloss": "for a new job"
 	},
 	{
 		"chinese": "为了一个新的工作(有意识地)看",
-		"english": "to look for a new job",
-		"soundmark": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+		"pinyin": "wei le yi ge xin de gong zuo ( you yi shi di ) kan",
+		"soundmark": "wèi le yí gè xīn de gōng zuò ( yǒu yì shí dì ) kàn",
+		"englishGloss": "to look for a new job"
 	},
 	{
 		"chinese": "寻找",
-		"english": "to look for",
-		"soundmark": "/tə/ /lʊk/ /fɝ/"
+		"pinyin": "xun zhao",
+		"soundmark": "xún zhǎo",
+		"englishGloss": "to look for"
 	},
 	{
 		"chinese": "寻找一个新的工作",
-		"english": "to look for a new job",
-		"soundmark": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+		"pinyin": "xun zhao yi ge xin de gong zuo",
+		"soundmark": "xún zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "to look for a new job"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要找一个新的工作",
-		"english": "I need to look for a new job",
-		"soundmark": "/aɪ/ /nid/ /tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+		"pinyin": "wo xu yao zhao yi ge xin de gong zuo",
+		"soundmark": "wǒ xū yào zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "I need to look for a new job"
 	},
 	{
 		"chinese": "我找一个新的工作",
-		"english": "I look for a new job",
-		"soundmark": "/aɪ/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+		"pinyin": "wo zhao yi ge xin de gong zuo",
+		"soundmark": "wǒ zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "I look for a new job"
 	},
 	{
 		"chinese": "寻找(ing形式)",
-		"english": "looking for",
-		"soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "xun zhao ( i n g xing shi )",
+		"soundmark": "xún zhǎo ( i n g xíng shì )",
+		"englishGloss": "looking for"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在寻找",
-		"english": "be looking for",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "zheng zai xun zhao",
+		"soundmark": "zhèng zài xún zhǎo",
+		"englishGloss": "be looking for"
 	},
 	{
 		"chinese": "一个新的工作",
-		"english": "a new job",
-		"soundmark": "/ə/ /nu/ /dʒɑb/"
+		"pinyin": "yi ge xin de gong zuo",
+		"soundmark": "yí gè xīn de gōng zuò",
+		"englishGloss": "a new job"
 	},
 	{
 		"chinese": "正在寻找一个新的工作",
-		"english": "be looking for a new job",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/ /(I，现在时)be am/ /æm/"
+		"pinyin": "zheng zai xun zhao yi ge xin de gong zuo",
+		"soundmark": "zhèng zài xún zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "be looking for a new job"
 	},
 	{
 		"chinese": "我(现在)正在寻找一个新的工作",
-		"english": "I am looking for a new job",
-		"soundmark": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+		"pinyin": "wo ( xian zai ) zheng zai xun zhao yi ge xin de gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài xún zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "I am looking for a new job"
 	},
 	{
 		"chinese": "仍然",
-		"english": "still",
-		"soundmark": "/stɪl/"
+		"pinyin": "reng ran",
+		"soundmark": "réng rán",
+		"englishGloss": "still"
 	},
 	{
 		"chinese": "我(现在)仍然正在寻找一个新的工作",
-		"english": "I am still looking for a new job",
-		"soundmark": "/aɪ/ /æm/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/ /(I，过去时)be was/ /wəz/ /(过去)正在寻找 was looking for/ /wəz/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "wo ( xian zai ) reng ran zheng zai xun zhao yi ge xin de gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) réng rán zhèng zài xún zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "I am still looking for a new job"
 	},
 	{
 		"chinese": "我(过去)正在寻找一个新的工作",
-		"english": "I was looking for a new job",
-		"soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+		"pinyin": "wo ( guo qu ) zheng zai xun zhao yi ge xin de gong zuo",
+		"soundmark": "wǒ ( guò qù ) zhèng zài xún zhǎo yí gè xīn de gōng zuò",
+		"englishGloss": "I was looking for a new job"
 	},
 	{
 		"chinese": "钥匙(复数)",
-		"english": "keys",
-		"soundmark": "/kiz/"
+		"pinyin": "yao shi ( fu shu )",
+		"soundmark": "yào shi ( fù shù )",
+		"englishGloss": "keys"
 	},
 	{
 		"chinese": "我的钥匙",
-		"english": "my keys",
-		"soundmark": "/maɪ/ /kiz/"
+		"pinyin": "wo de yao shi",
+		"soundmark": "wǒ de yào shi",
+		"englishGloss": "my keys"
 	},
 	{
 		"chinese": "我(过去)正在寻找我的钥匙",
-		"english": "I was looking for my keys",
-		"soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/"
+		"pinyin": "wo ( guo qu ) zheng zai xun zhao wo de yao shi",
+		"soundmark": "wǒ ( guò qù ) zhèng zài xún zhǎo wǒ de yào shi",
+		"englishGloss": "I was looking for my keys"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "我的钥匙",
-		"english": "my keys",
-		"soundmark": "/maɪ/ /kiz/"
+		"pinyin": "wo de yao shi",
+		"soundmark": "wǒ de yào shi",
+		"englishGloss": "my keys"
 	},
 	{
 		"chinese": "找到我的钥匙",
-		"english": "to find my keys",
-		"soundmark": "/tə/ /faɪnd/ /maɪ/ /kiz/"
+		"pinyin": "zhao dao wo de yao shi",
+		"soundmark": "zhǎo dào wǒ de yào shi",
+		"englishGloss": "to find my keys"
 	},
 	{
 		"chinese": "能",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "neng",
+		"soundmark": "néng",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我能找到我的钥匙",
-		"english": "I can find my keys",
-		"soundmark": "/aɪ/ /kæn/ /faɪnd/ /maɪ/ /kiz/"
+		"pinyin": "wo neng zhao dao wo de yao shi",
+		"soundmark": "wǒ néng zhǎo dào wǒ de yào shi",
+		"englishGloss": "I can find my keys"
 	},
 	{
 		"chinese": "不能",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu neng",
+		"soundmark": "bù néng",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "我不能找到我的钥匙",
-		"english": "I can't find my keys",
-		"soundmark": "/aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/"
+		"pinyin": "wo bu neng zhao dao wo de yao shi",
+		"soundmark": "wǒ bù néng zhǎo dào wǒ de yào shi",
+		"englishGloss": "I can't find my keys"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bʌt/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "但是我不能找到我的钥匙",
-		"english": "but I can't find my keys",
-		"soundmark": "/bʌt/ /aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/ /(过去)能 could/ /kʊd/ /(过去)不能 couldn't/ /kʊdnt/"
+		"pinyin": "dan shi wo bu neng zhao dao wo de yao shi",
+		"soundmark": "dàn shì wǒ bù néng zhǎo dào wǒ de yào shi",
+		"englishGloss": "but I can't find my keys"
 	},
 	{
 		"chinese": "但是我(过去)不能找到我的钥匙",
-		"english": "but I couldn't find my keys",
-		"soundmark": "/bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/"
+		"pinyin": "dan shi wo ( guo qu ) bu neng zhao dao wo de yao shi",
+		"soundmark": "dàn shì wǒ ( guò qù ) bù néng zhǎo dào wǒ de yào shi",
+		"englishGloss": "but I couldn't find my keys"
 	},
 	{
 		"chinese": "我(过去)正在寻找我的钥匙但是我(过去)不能找到我的钥匙",
-		"english": "I was looking for my keys, but I couldn't find my keys",
-		"soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/"
+		"pinyin": "wo ( guo qu ) zheng zai xun zhao wo de yao shi dan shi wo ( guo qu ) bu neng zhao dao wo de yao shi",
+		"soundmark": "wǒ ( guò qù ) zhèng zài xún zhǎo wǒ de yào shi dàn shì wǒ ( guò qù ) bù néng zhǎo dào wǒ de yào shi",
+		"englishGloss": "I was looking for my keys, but I couldn't find my keys"
 	},
 	{
 		"chinese": "它们",
-		"english": "them",
-		"soundmark": "/ðəm/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "them"
 	},
 	{
 		"chinese": "我(过去)正在寻找我的钥匙但是我(过去)不能找到它们",
-		"english": "I was looking for my keys but I couldn't find them",
-		"soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /ðəm/"
+		"pinyin": "wo ( guo qu ) zheng zai xun zhao wo de yao shi dan shi wo ( guo qu ) bu neng zhao dao ta men",
+		"soundmark": "wǒ ( guò qù ) zhèng zài xún zhǎo wǒ de yào shi dàn shì wǒ ( guò qù ) bù néng zhǎo dào tā men",
+		"englishGloss": "I was looking for my keys but I couldn't find them"
 	},
 	{
 		"chinese": "寻找",
-		"english": "look for",
-		"soundmark": "/lʊk/ /fɝ/"
+		"pinyin": "xun zhao",
+		"soundmark": "xún zhǎo",
+		"englishGloss": "look for"
 	},
 	{
 		"chinese": "寻找(ing形式)",
-		"english": "looking for",
-		"soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "xun zhao ( i n g xing shi )",
+		"soundmark": "xún zhǎo ( i n g xíng shì )",
+		"englishGloss": "looking for"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在寻找",
-		"english": "be looking for",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "zheng zai xun zhao",
+		"soundmark": "zhèng zài xún zhǎo",
+		"englishGloss": "be looking for"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/ /(you，现在时)be are/ /ɚ/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你(现在)正在寻找",
-		"english": "you are looking for",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "ni ( xian zai ) zheng zai xun zhao",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài xún zhǎo",
+		"englishGloss": "you are looking for"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "你(现在)正在寻找我",
-		"english": "you are looking for me",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+		"pinyin": "ni ( xian zai ) zheng zai xun zhao wo",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài xún zhǎo wǒ",
+		"englishGloss": "you are looking for me"
 	},
 	{
 		"chinese": "听见；听说",
-		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"pinyin": "ting jian ； ting shuo",
+		"soundmark": "tīng jiàn ； tīng shuō",
+		"englishGloss": "to hear"
 	},
 	{
 		"chinese": "我听说",
-		"english": "I hear",
-		"soundmark": "/aɪ/ /hɪr/"
+		"pinyin": "wo ting shuo",
+		"soundmark": "wǒ tīng shuō",
+		"englishGloss": "I hear"
 	},
 	{
 		"chinese": "我听说你(现在)正在寻找我",
-		"english": "I hear you are looking for me",
-		"soundmark": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+		"pinyin": "wo ting shuo ni ( xian zai ) zheng zai xun zhao wo",
+		"soundmark": "wǒ tīng shuō nǐ ( xiàn zài ) zhèng zài xún zhǎo wǒ",
+		"englishGloss": "I hear you are looking for me"
 	},
 	{
 		"chinese": "人",
-		"english": "person",
-		"soundmark": "/'pɝsn/"
+		"pinyin": "ren",
+		"soundmark": "rén",
+		"englishGloss": "person"
 	},
 	{
 		"chinese": "那个人",
-		"english": "the person",
-		"soundmark": "/ðə/ /'pɝsn/"
+		"pinyin": "na ge ren",
+		"soundmark": "nà ge rén",
+		"englishGloss": "the person"
 	},
 	{
 		"chinese": "你(现在)正在寻找那个人",
-		"english": "you are looking for the person",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/ /(I，现在时)be am/ /æm/"
+		"pinyin": "ni ( xian zai ) zheng zai xun zhao na ge ren",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài xún zhǎo nà ge rén",
+		"englishGloss": "you are looking for the person"
 	},
 	{
 		"chinese": "我是",
-		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"pinyin": "wo shi",
+		"soundmark": "wǒ shì",
+		"englishGloss": "I am"
 	},
 	{
 		"chinese": "我是那个人",
-		"english": "I am the person",
-		"soundmark": "/aɪ/ /æm/ /ðə/ /'pɝsn/"
+		"pinyin": "wo shi na ge ren",
+		"soundmark": "wǒ shì nà ge rén",
+		"englishGloss": "I am the person"
 	},
 	{
 		"chinese": "我不是那个人",
-		"english": "I am not the person",
-		"soundmark": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/"
+		"pinyin": "wo bu shi na ge ren",
+		"soundmark": "wǒ bú shì nà ge rén",
+		"englishGloss": "I am not the person"
 	},
 	{
 		"chinese": "你(现在)正在寻找",
-		"english": "you are looking for",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "ni ( xian zai ) zheng zai xun zhao",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài xún zhǎo",
+		"englishGloss": "you are looking for"
 	},
 	{
 		"chinese": "那个人",
-		"english": "the person",
-		"soundmark": "/ðə/ /'pɝsn/"
+		"pinyin": "na ge ren",
+		"soundmark": "nà ge rén",
+		"englishGloss": "the person"
 	},
 	{
 		"chinese": "你(现在)正在寻找那个人",
-		"english": "you are looking for the person",
-		"soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/"
+		"pinyin": "ni ( xian zai ) zheng zai xun zhao na ge ren",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài xún zhǎo nà ge rén",
+		"englishGloss": "you are looking for the person"
 	},
 	{
 		"chinese": "你(现在)正在寻找的那个人",
-		"english": "the person you are looking for",
-		"soundmark": "/ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "ni ( xian zai ) zheng zai xun zhao de na ge ren",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "the person you are looking for"
 	},
 	{
 		"chinese": "我是那个人",
-		"english": "I am the person",
-		"soundmark": "/aɪ/ /æm/ /ðə/ /'pɝsn/"
+		"pinyin": "wo shi na ge ren",
+		"soundmark": "wǒ shì nà ge rén",
+		"englishGloss": "I am the person"
 	},
 	{
 		"chinese": "我是你(现在)正在寻找的那个人",
-		"english": "I am the person you are looking for",
-		"soundmark": "/aɪ/ /æm/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "wo shi ni ( xian zai ) zheng zai xun zhao de na ge ren",
+		"soundmark": "wǒ shì nǐ ( xiàn zài ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "I am the person you are looking for"
 	},
 	{
 		"chinese": "我不是你(现在)正在寻找的那个人",
-		"english": "I am not the person you are looking for",
-		"soundmark": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "wo bu shi ni ( xian zai ) zheng zai xun zhao de na ge ren",
+		"soundmark": "wǒ bú shì nǐ ( xiàn zài ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "I am not the person you are looking for"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bʌt/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "但是我不是你(现在)正在寻找的那个人",
-		"english": "but I am not the person you are looking for",
-		"soundmark": "/bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "dan shi wo bu shi ni ( xian zai ) zheng zai xun zhao de na ge ren",
+		"soundmark": "dàn shì wǒ bú shì nǐ ( xiàn zài ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "but I am not the person you are looking for"
 	},
 	{
 		"chinese": "我听说你(现在)正在寻找我",
-		"english": "I hear you are looking for me",
-		"soundmark": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+		"pinyin": "wo ting shuo ni ( xian zai ) zheng zai xun zhao wo",
+		"soundmark": "wǒ tīng shuō nǐ ( xiàn zài ) zhèng zài xún zhǎo wǒ",
+		"englishGloss": "I hear you are looking for me"
 	},
 	{
 		"chinese": "我听说你(现在)正在寻找我但是我不是你(现在)正在寻找的那个人",
-		"english": "I hear you are looking for me but I am not the person you are looking for",
-		"soundmark": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "wo ting shuo ni ( xian zai ) zheng zai xun zhao wo dan shi wo bu shi ni ( xian zai ) zheng zai xun zhao de na ge ren",
+		"soundmark": "wǒ tīng shuō nǐ ( xiàn zài ) zhèng zài xún zhǎo wǒ dàn shì wǒ bú shì nǐ ( xiàn zài ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "I hear you are looking for me but I am not the person you are looking for"
 	},
 	{
 		"chinese": "听见；听说",
-		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/ /(过去)听说 heard/ /hɚd/"
+		"pinyin": "ting jian ； ting shuo",
+		"soundmark": "tīng jiàn ； tīng shuō",
+		"englishGloss": "to hear"
 	},
 	{
 		"chinese": "我(过去)听说",
-		"english": "I heard",
-		"soundmark": "/aɪ/ /hɚd/ /(you，过去时)be were/ /wɚ/"
+		"pinyin": "wo ( guo qu ) ting shuo",
+		"soundmark": "wǒ ( guò qù ) tīng shuō",
+		"englishGloss": "I heard"
 	},
 	{
 		"chinese": "你(过去)正在寻找我",
-		"english": "you were looking for me",
-		"soundmark": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+		"pinyin": "ni ( guo qu ) zheng zai xun zhao wo",
+		"soundmark": "nǐ ( guò qù ) zhèng zài xún zhǎo wǒ",
+		"englishGloss": "you were looking for me"
 	},
 	{
 		"chinese": "我(过去)听说你(过去)正在寻找我",
-		"english": "I heard you were looking for me",
-		"soundmark": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+		"pinyin": "wo ( guo qu ) ting shuo ni ( guo qu ) zheng zai xun zhao wo",
+		"soundmark": "wǒ ( guò qù ) tīng shuō nǐ ( guò qù ) zhèng zài xún zhǎo wǒ",
+		"englishGloss": "I heard you were looking for me"
 	},
 	{
 		"chinese": "但是我(过去)不是你(过去)正在寻找的那个人",
-		"english": "but I was not the person you were looking for",
-		"soundmark": "/bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "dan shi wo ( guo qu ) bu shi ni ( guo qu ) zheng zai xun zhao de na ge ren",
+		"soundmark": "dàn shì wǒ ( guò qù ) bú shì nǐ ( guò qù ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "but I was not the person you were looking for"
 	},
 	{
 		"chinese": "我(过去)听说你(过去)正在寻找我但是我(过去)不是你(过去)正在寻找的那个人",
-		"english": "I heard you were looking for me, but I was not the person you were looking for",
-		"soundmark": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "wo ( guo qu ) ting shuo ni ( guo qu ) zheng zai xun zhao wo dan shi wo ( guo qu ) bu shi ni ( guo qu ) zheng zai xun zhao de na ge ren",
+		"soundmark": "wǒ ( guò qù ) tīng shuō nǐ ( guò qù ) zhèng zài xún zhǎo wǒ dàn shì wǒ ( guò qù ) bú shì nǐ ( guò qù ) zhèng zài xún zhǎo de nà ge rén",
+		"englishGloss": "I heard you were looking for me, but I was not the person you were looking for"
 	}
 ]

@@ -1,647 +1,776 @@
 [
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "手（复数）",
-		"english": "hands",
-		"soundmark": "/hændz/"
+		"pinyin": "shou （ fu shu ）",
+		"soundmark": "shǒu （ fù shù ）",
+		"englishGloss": "hands"
 	},
 	{
 		"chinese": "递给",
-		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"pinyin": "di gei",
+		"soundmark": "dì gěi",
+		"englishGloss": "to hand"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "递给他",
-		"english": "to hand him",
-		"soundmark": "/tə/ /hænd/ /hɪm/"
+		"pinyin": "di gei ta",
+		"soundmark": "dì gěi tā",
+		"englishGloss": "to hand him"
 	},
 	{
 		"chinese": "香蕉",
-		"english": "banana",
-		"soundmark": "/bə'nænə/"
+		"pinyin": "xiang jiao",
+		"soundmark": "xiāng jiāo",
+		"englishGloss": "banana"
 	},
 	{
 		"chinese": "一个香蕉",
-		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"pinyin": "yi ge xiang jiao",
+		"soundmark": "yí gè xiāng jiāo",
+		"englishGloss": "a banana"
 	},
 	{
 		"chinese": "递给他一个香蕉",
-		"english": "to hand him a banana",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"pinyin": "di gei ta yi ge xiang jiao",
+		"soundmark": "dì gěi tā yí gè xiāng jiāo",
+		"englishGloss": "to hand him a banana"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "他想要",
-		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "he wants"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "他想要我",
-		"english": "he wants me",
-		"soundmark": "/hi/ /wɑnts/ /mi/"
+		"pinyin": "ta xiang yao wo",
+		"soundmark": "tā xiǎng yào wǒ",
+		"englishGloss": "he wants me"
 	},
 	{
 		"chinese": "递给他一个香蕉",
-		"english": "to hand him a banana",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"pinyin": "di gei ta yi ge xiang jiao",
+		"soundmark": "dì gěi tā yí gè xiāng jiāo",
+		"englishGloss": "to hand him a banana"
 	},
 	{
 		"chinese": "他想要我递给他一个香蕉",
-		"english": "he wants me to hand him a banana",
-		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"pinyin": "ta xiang yao wo di gei ta yi ge xiang jiao",
+		"soundmark": "tā xiǎng yào wǒ dì gěi tā yí gè xiāng jiāo",
+		"englishGloss": "he wants me to hand him a banana"
 	},
 	{
 		"chinese": "手机",
-		"english": "phone",
-		"soundmark": "/fon/"
+		"pinyin": "shou ji",
+		"soundmark": "shǒu jī",
+		"englishGloss": "phone"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "他的手机",
-		"english": "his phone",
-		"soundmark": "/hɪz/ /fon/"
+		"pinyin": "ta de shou ji",
+		"soundmark": "tā de shǒu jī",
+		"englishGloss": "his phone"
 	},
 	{
 		"chinese": "递给他",
-		"english": "to hand him",
-		"soundmark": "/tə/ /hænd/ /hɪm/"
+		"pinyin": "di gei ta",
+		"soundmark": "dì gěi tā",
+		"englishGloss": "to hand him"
 	},
 	{
 		"chinese": "递给他他的手机",
-		"english": "to hand him his phone",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+		"pinyin": "di gei ta ta de shou ji",
+		"soundmark": "dì gěi tā tā de shǒu jī",
+		"englishGloss": "to hand him his phone"
 	},
 	{
 		"chinese": "他想要我",
-		"english": "he wants me",
-		"soundmark": "/hi/ /wɑnts/ /mi/"
+		"pinyin": "ta xiang yao wo",
+		"soundmark": "tā xiǎng yào wǒ",
+		"englishGloss": "he wants me"
 	},
 	{
 		"chinese": "他想要我递给他他的手机",
-		"english": "he wants me to hand him his phone",
-		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+		"pinyin": "ta xiang yao wo di gei ta ta de shou ji",
+		"soundmark": "tā xiǎng yào wǒ dì gěi tā tā de shǒu jī",
+		"englishGloss": "he wants me to hand him his phone"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "递给我",
-		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"pinyin": "di gei wo",
+		"soundmark": "dì gěi wǒ",
+		"englishGloss": "to hand me"
 	},
 	{
 		"chinese": "包",
-		"english": "bag",
-		"soundmark": "/bæɡ/"
+		"pinyin": "bao",
+		"soundmark": "bāo",
+		"englishGloss": "bag"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "你的包",
-		"english": "your bag",
-		"soundmark": "/jʊr/ /bæɡ/"
+		"pinyin": "ni de bao",
+		"soundmark": "nǐ de bāo",
+		"englishGloss": "your bag"
 	},
 	{
 		"chinese": "递给我你的包",
-		"english": "to hand me your bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+		"pinyin": "di gei wo ni de bao",
+		"soundmark": "dì gěi wǒ nǐ de bāo",
+		"englishGloss": "to hand me your bag"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你递给我你的包",
-		"english": "I want you to hand me your bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+		"pinyin": "wo xiang yao ni di gei wo ni de bao",
+		"soundmark": "wǒ xiǎng yào nǐ dì gěi wǒ nǐ de bāo",
+		"englishGloss": "I want you to hand me your bag"
 	},
 	{
 		"chinese": "学校",
-		"english": "school",
-		"soundmark": "/skul/"
+		"pinyin": "xue xiao",
+		"soundmark": "xué xiào",
+		"englishGloss": "school"
 	},
 	{
 		"chinese": "包",
-		"english": "bag",
-		"soundmark": "/bæɡ/"
+		"pinyin": "bao",
+		"soundmark": "bāo",
+		"englishGloss": "bag"
 	},
 	{
 		"chinese": "书包",
-		"english": "school bag",
-		"soundmark": "/skul/ /bæɡ/"
+		"pinyin": "shu bao",
+		"soundmark": "shū bāo",
+		"englishGloss": "school bag"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "你的书包",
-		"english": "your school bag",
-		"soundmark": "/jʊr/ /skul/ /bæɡ/"
+		"pinyin": "ni de shu bao",
+		"soundmark": "nǐ de shū bāo",
+		"englishGloss": "your school bag"
 	},
 	{
 		"chinese": "递给我",
-		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"pinyin": "di gei wo",
+		"soundmark": "dì gěi wǒ",
+		"englishGloss": "to hand me"
 	},
 	{
 		"chinese": "递给我你的书包",
-		"english": "to hand me your school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+		"pinyin": "di gei wo ni de shu bao",
+		"soundmark": "dì gěi wǒ nǐ de shū bāo",
+		"englishGloss": "to hand me your school bag"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你递给我你的书包",
-		"english": "I want you to hand me your school bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+		"pinyin": "wo xiang yao ni di gei wo ni de shu bao",
+		"soundmark": "wǒ xiǎng yào nǐ dì gěi wǒ nǐ de shū bāo",
+		"englishGloss": "I want you to hand me your school bag"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的包",
-		"english": "my school bag",
-		"soundmark": "/maɪ/ /skul/ /bæɡ/"
+		"pinyin": "wo de bao",
+		"soundmark": "wǒ de bāo",
+		"englishGloss": "my school bag"
 	},
 	{
 		"chinese": "递给我我的书包",
-		"english": "to hand me my school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"pinyin": "di gei wo wo de shu bao",
+		"soundmark": "dì gěi wǒ wǒ de shū bāo",
+		"englishGloss": "to hand me my school bag"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你递给我我的书包",
-		"english": "I want you to hand me my school bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"pinyin": "wo xiang yao ni di gei wo wo de shu bao",
+		"soundmark": "wǒ xiǎng yào nǐ dì gěi wǒ wǒ de shū bāo",
+		"englishGloss": "I want you to hand me my school bag"
 	},
 	{
 		"chinese": "手机",
-		"english": "phone",
-		"soundmark": "/fon/"
+		"pinyin": "shou ji",
+		"soundmark": "shǒu jī",
+		"englishGloss": "phone"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的手机",
-		"english": "my phone",
-		"soundmark": "/maɪ/ /fon/"
+		"pinyin": "wo de shou ji",
+		"soundmark": "wǒ de shǒu jī",
+		"englishGloss": "my phone"
 	},
 	{
 		"chinese": "递给我",
-		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"pinyin": "di gei wo",
+		"soundmark": "dì gěi wǒ",
+		"englishGloss": "to hand me"
 	},
 	{
 		"chinese": "递给我我的手机",
-		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "di gei wo wo de shou ji",
+		"soundmark": "dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "to hand me my phone"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你递给我我的手机",
-		"english": "I want you to hand me my phone",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "wo xiang yao ni di gei wo wo de shou ji",
+		"soundmark": "wǒ xiǎng yào nǐ dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "I want you to hand me my phone"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "递给我我的手机",
-		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "di gei wo wo de shou ji",
+		"soundmark": "dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "to hand me my phone"
 	},
 	{
 		"chinese": "你需要递给我我的手机",
-		"english": "you need to hand me my phone",
-		"soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ni xu yao di gei wo wo de shou ji",
+		"soundmark": "nǐ xū yào dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "you need to hand me my phone"
 	},
 	{
 		"chinese": "你递给我我的手机",
-		"english": "you hand me my phone",
-		"soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ni di gei wo wo de shou ji",
+		"soundmark": "nǐ dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "you hand me my phone"
 	},
 	{
 		"chinese": "递给我我的手机",
-		"english": "hand me my phone",
-		"soundmark": "/hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "di gei wo wo de shou ji",
+		"soundmark": "dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "hand me my phone"
 	},
 	{
 		"chinese": "一个香蕉",
-		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"pinyin": "yi ge xiang jiao",
+		"soundmark": "yí gè xiāng jiāo",
+		"englishGloss": "a banana"
 	},
 	{
 		"chinese": "递给我一个香蕉",
-		"english": "hand me a banana",
-		"soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "di gei wo yi ge xiang jiao",
+		"soundmark": "dì gěi wǒ yí gè xiāng jiāo",
+		"englishGloss": "hand me a banana"
 	},
 	{
 		"chinese": "我的包",
-		"english": "my bag",
-		"soundmark": "/maɪ/ /bæɡ/"
+		"pinyin": "wo de bao",
+		"soundmark": "wǒ de bāo",
+		"englishGloss": "my bag"
 	},
 	{
 		"chinese": "递给我我的包",
-		"english": "hand me my bag",
-		"soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/"
+		"pinyin": "di gei wo wo de bao",
+		"soundmark": "dì gěi wǒ wǒ de bāo",
+		"englishGloss": "hand me my bag"
 	},
 	{
 		"chinese": "请求麻烦一下",
-		"english": "please",
-		"soundmark": "/pliz/"
+		"pinyin": "qing qiu ma fan yi xia",
+		"soundmark": "qǐng qiú má fán yí xià",
+		"englishGloss": "please"
 	},
 	{
 		"chinese": "麻烦一下递给我我的包",
-		"english": "please hand me my bag",
-		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/"
+		"pinyin": "ma fan yi xia di gei wo wo de bao",
+		"soundmark": "má fán yí xià dì gěi wǒ wǒ de bāo",
+		"englishGloss": "please hand me my bag"
 	},
 	{
 		"chinese": "麻烦一下递给我一个香蕉",
-		"english": "please hand me a banana",
-		"soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "ma fan yi xia di gei wo yi ge xiang jiao",
+		"soundmark": "má fán yí xià dì gěi wǒ yí gè xiāng jiāo",
+		"englishGloss": "please hand me a banana"
 	},
 	{
 		"chinese": "麻烦一下递给我我的手机",
-		"english": "please hand me my phone",
-		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ma fan yi xia di gei wo wo de shou ji",
+		"soundmark": "má fán yí xià dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "please hand me my phone"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kən/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kən/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "递给我我的手机",
-		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "di gei wo wo de shou ji",
+		"soundmark": "dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "to hand me my phone"
 	},
 	{
 		"chinese": "你可以递给我我的手机",
-		"english": "you can hand me my phone",
-		"soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ni ke yi di gei wo wo de shou ji",
+		"soundmark": "nǐ kě yǐ dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "you can hand me my phone"
 	},
 	{
 		"chinese": "你可以递给我我的手机吗？",
-		"english": "can you hand me my phone?",
-		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ni ke yi di gei wo wo de shou ji ma ？",
+		"soundmark": "nǐ kě yǐ dì gěi wǒ wǒ de shǒu jī ma ？",
+		"englishGloss": "can you hand me my phone?"
 	},
 	{
 		"chinese": "你可以......吗？",
-		"english": "can you?",
-		"soundmark": "/kən/ /ju/"
+		"pinyin": "ni ke yi . . . . . . ma ？",
+		"soundmark": "nǐ kě yǐ . . . . . . ma ？",
+		"englishGloss": "can you?"
 	},
 	{
 		"chinese": "一个香蕉",
-		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"pinyin": "yi ge xiang jiao",
+		"soundmark": "yí gè xiāng jiāo",
+		"englishGloss": "a banana"
 	},
 	{
 		"chinese": "递给我",
-		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"pinyin": "di gei wo",
+		"soundmark": "dì gěi wǒ",
+		"englishGloss": "to hand me"
 	},
 	{
 		"chinese": "递给我一个香蕉",
-		"english": "to hand me a banana",
-		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "di gei wo yi ge xiang jiao",
+		"soundmark": "dì gěi wǒ yí gè xiāng jiāo",
+		"englishGloss": "to hand me a banana"
 	},
 	{
 		"chinese": "你可以递给我一个香蕉吗？",
-		"english": "can you hand me a banana?",
-		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "ni ke yi di gei wo yi ge xiang jiao ma ？",
+		"soundmark": "nǐ kě yǐ dì gěi wǒ yí gè xiāng jiāo ma ？",
+		"englishGloss": "can you hand me a banana?"
 	},
 	{
 		"chinese": "请求麻烦一下",
-		"english": "please",
-		"soundmark": "/pliz/"
+		"pinyin": "qing qiu ma fan yi xia",
+		"soundmark": "qǐng qiú má fán yí xià",
+		"englishGloss": "please"
 	},
 	{
 		"chinese": "你可以麻烦一下递给我我的手机吗？",
-		"english": "can you please hand me my phone?",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ni ke yi ma fan yi xia di gei wo wo de shou ji ma ？",
+		"soundmark": "nǐ kě yǐ má fán yí xià dì gěi wǒ wǒ de shǒu jī ma ？",
+		"englishGloss": "can you please hand me my phone?"
 	},
 	{
 		"chinese": "你可以麻烦一下......吗？",
-		"english": "can you please?",
-		"soundmark": "/kən/ /ju/ /pliz/"
+		"pinyin": "ni ke yi ma fan yi xia . . . . . . ma ？",
+		"soundmark": "nǐ kě yǐ má fán yí xià . . . . . . ma ？",
+		"englishGloss": "can you please?"
 	},
 	{
 		"chinese": "递给我一个香蕉",
-		"english": "to hand me a banana",
-		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "di gei wo yi ge xiang jiao",
+		"soundmark": "dì gěi wǒ yí gè xiāng jiāo",
+		"englishGloss": "to hand me a banana"
 	},
 	{
 		"chinese": "你可以麻烦一下递给我一个香蕉吗？",
-		"english": "can you please hand me a banana?",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "ni ke yi ma fan yi xia di gei wo yi ge xiang jiao ma ？",
+		"soundmark": "nǐ kě yǐ má fán yí xià dì gěi wǒ yí gè xiāng jiāo ma ？",
+		"englishGloss": "can you please hand me a banana?"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kən/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "可以（礼貌版）",
-		"english": "could",
-		"soundmark": "/kʊd/"
+		"pinyin": "ke yi （ li mao ban ）",
+		"soundmark": "kě yǐ （ lǐ mào bǎn ）",
+		"englishGloss": "could"
 	},
 	{
 		"chinese": "你可以麻烦一下递给我一个香蕉吗？",
-		"english": "can you please hand me a banana?",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "ni ke yi ma fan yi xia di gei wo yi ge xiang jiao ma ？",
+		"soundmark": "nǐ kě yǐ má fán yí xià dì gěi wǒ yí gè xiāng jiāo ma ？",
+		"englishGloss": "can you please hand me a banana?"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下递给我一个香蕉吗？",
-		"english": "could you please hand me a banana?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia di gei wo yi ge xiang jiao ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià dì gěi wǒ yí gè xiāng jiāo ma ？",
+		"englishGloss": "could you please hand me a banana?"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia . . . . . . ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "递给我我的手机",
-		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "di gei wo wo de shou ji",
+		"soundmark": "dì gěi wǒ wǒ de shǒu jī",
+		"englishGloss": "to hand me my phone"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下递给我我的手机吗？",
-		"english": "could you please hand me my phone?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia di gei wo wo de shou ji ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià dì gěi wǒ wǒ de shǒu jī ma ？",
+		"englishGloss": "could you please hand me my phone?"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia . . . . . . ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "递给我我的书包",
-		"english": "to hand me my school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"pinyin": "di gei wo wo de shu bao",
+		"soundmark": "dì gěi wǒ wǒ de shū bāo",
+		"englishGloss": "to hand me my school bag"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下递给我我的书包吗？",
-		"english": "could you please hand me my school bag?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia di gei wo wo de shu bao ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià dì gěi wǒ wǒ de shū bāo ma ？",
+		"englishGloss": "could you please hand me my school bag?"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia . . . . . . ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "帮助",
-		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "to help"
 	},
 	{
 		"chinese": "帮助我",
-		"english": "to help me",
-		"soundmark": "/tə/ /hɛlp/ /mi/"
+		"pinyin": "bang zhu wo",
+		"soundmark": "bāng zhù wǒ",
+		"englishGloss": "to help me"
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下帮助我吗？",
-		"english": "could you please help me?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/"
+		"pinyin": "ni ke yi （ li mao ban ） ma fan yi xia bang zhu wo ma ？",
+		"soundmark": "nǐ kě yǐ （ lǐ mào bǎn ） má fán yí xià bāng zhù wǒ ma ？",
+		"englishGloss": "could you please help me?"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "to tell me"
 	},
 	{
 		"chinese": "事实；真相",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi ； zhen xiang",
+		"soundmark": "shì shí ； zhēn xiàng",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉我真相",
-		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "gao su wo zhen xiang",
+		"soundmark": "gào sù wǒ zhēn xiàng",
+		"englishGloss": "to tell me the truth"
 	},
 	{
 		"chinese": "请问你可以......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "qing wen ni ke yi . . . . . . ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "请问你可以告诉我真相吗？",
-		"english": "could you please tell me the truth?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "qing wen ni ke yi gao su wo zhen xiang ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ gào sù wǒ zhēn xiàng ma ？",
+		"englishGloss": "could you please tell me the truth?"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "离开我",
-		"english": "to leave me",
-		"soundmark": "/tə/ /liv/ /mi/"
+		"pinyin": "li kai wo",
+		"soundmark": "lí kāi wǒ",
+		"englishGloss": "to leave me"
 	},
 	{
 		"chinese": "单独；一个人",
-		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"pinyin": "dan du ； yi ge ren",
+		"soundmark": "dān dú ； yí gè rén",
+		"englishGloss": "alone"
 	},
 	{
 		"chinese": "离开我（让我变成）单独一个人",
-		"english": "to leave me alone",
-		"soundmark": "/tə/ /liv/ /mi/ /ə'lon/"
+		"pinyin": "li kai wo （ rang wo bian cheng ） dan du yi ge ren",
+		"soundmark": "lí kāi wǒ （ ràng wǒ biàn chéng ） dān dú yí gè rén",
+		"englishGloss": "to leave me alone"
 	},
 	{
 		"chinese": "请问你可以......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "qing wen ni ke yi . . . . . . ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "请问你可以走开别烦我吗？",
-		"english": "could you please leave me alone?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/"
+		"pinyin": "qing wen ni ke yi zou kai bie fan wo ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ zǒu kāi bié fán wǒ ma ？",
+		"englishGloss": "could you please leave me alone?"
 	},
 	{
 		"chinese": "打电话",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "打电话给我",
-		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"pinyin": "da dian hua gei wo",
+		"soundmark": "dǎ diàn huà gěi wǒ",
+		"englishGloss": "to call me"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "今晚打电话给我",
-		"english": "to call me tonight",
-		"soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/"
+		"pinyin": "jin wan da dian hua gei wo",
+		"soundmark": "jīn wǎn dǎ diàn huà gěi wǒ",
+		"englishGloss": "to call me tonight"
 	},
 	{
 		"chinese": "请问你可以......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "qing wen ni ke yi . . . . . . ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "请问你可以今晚打电话给我吗？",
-		"english": "could you please call me tonight?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/"
+		"pinyin": "qing wen ni ke yi jin wan da dian hua gei wo ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ jīn wǎn dǎ diàn huà gěi wǒ ma ？",
+		"englishGloss": "could you please call me tonight?"
 	},
 	{
 		"chinese": "给",
-		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "to give"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "给我",
-		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"pinyin": "gei wo",
+		"soundmark": "gěi wǒ",
+		"englishGloss": "to give me"
 	},
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "一只手",
-		"english": "a hand",
-		"soundmark": "/ə/ /hænd/"
+		"pinyin": "yi zhi shou",
+		"soundmark": "yì zhī shǒu",
+		"englishGloss": "a hand"
 	},
 	{
 		"chinese": "给我帮把手",
-		"english": "to give me a hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "gei wo bang ba shou",
+		"soundmark": "gěi wǒ bāng bǎ shǒu",
+		"englishGloss": "to give me a hand"
 	},
 	{
 		"chinese": "请问你可以......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "qing wen ni ke yi . . . . . . ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "请问你可以给我帮把手吗？",
-		"english": "could you please give me a hand?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"pinyin": "qing wen ni ke yi gei wo bang ba shou ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ gěi wǒ bāng bǎ shǒu ma ？",
+		"englishGloss": "could you please give me a hand?"
 	},
 	{
 		"chinese": "打开",
-		"english": "to open",
-		"soundmark": "/tə/ /'opən/"
+		"pinyin": "da kai",
+		"soundmark": "dǎ kāi",
+		"englishGloss": "to open"
 	},
 	{
 		"chinese": "门",
-		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"pinyin": "men",
+		"soundmark": "mén",
+		"englishGloss": "the door"
 	},
 	{
 		"chinese": "打开门",
-		"english": "to open the door",
-		"soundmark": "/tə/ /'opən/ /ðə/ /dɔr/"
+		"pinyin": "da kai men",
+		"soundmark": "dǎ kāi mén",
+		"englishGloss": "to open the door"
 	},
 	{
 		"chinese": "请问你可以......吗？",
-		"english": "could you please?",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"pinyin": "qing wen ni ke yi . . . . . . ma ？",
+		"soundmark": "qǐng wèn nǐ kě yǐ . . . . . . ma ？",
+		"englishGloss": "could you please?"
 	},
 	{
 		"chinese": "请问你可以打开门吗",
-		"english": "could you please open the door?",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/"
+		"pinyin": "qing wen ni ke yi da kai men ma",
+		"soundmark": "qǐng wèn nǐ kě yǐ dǎ kāi mén ma",
+		"englishGloss": "could you please open the door?"
 	}
 ]

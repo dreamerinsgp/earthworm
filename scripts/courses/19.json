@@ -1,702 +1,842 @@
 [
 	{
 		"chinese": "这个问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "回答",
-		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "to answer"
 	},
 	{
 		"chinese": "回答这个问题",
-		"english": "to answer the question",
-		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "hui da zhe ge wen ti",
+		"soundmark": "huí dá zhè ge wèn tí",
+		"englishGloss": "to answer the question"
 	},
 	{
 		"chinese": "这个问题；这个麻烦",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "zhe ge wen ti ； zhe ge ma fan",
+		"soundmark": "zhè ge wèn tí ； zhè ge má fán",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "解决",
-		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"pinyin": "jie jue",
+		"soundmark": "jiě jué",
+		"englishGloss": "to solve"
 	},
 	{
 		"chinese": "解决这个问题",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge wen ti",
+		"soundmark": "jiě jué zhè ge wèn tí",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "我们需要",
-		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"pinyin": "wo men xu yao",
+		"soundmark": "wǒ men xū yào",
+		"englishGloss": "we need"
 	},
 	{
 		"chinese": "解决这个麻烦",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge ma fan",
+		"soundmark": "jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "我们需要解决这个麻烦",
-		"english": "we need to solve the problem",
-		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo men xu yao jie jue zhe ge ma fan",
+		"soundmark": "wǒ men xū yào jiě jué zhè ge má fán",
+		"englishGloss": "we need to solve the problem"
 	},
 	{
 		"chinese": "一起",
-		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"pinyin": "yi qi",
+		"soundmark": "yì qǐ",
+		"englishGloss": "together"
 	},
 	{
 		"chinese": "我们需要一起解决这个麻烦",
-		"english": "we need to solve the problem together",
-		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we need to solve the problem together"
 	},
 	{
 		"chinese": "不需要",
-		"english": "don't need",
-		"soundmark": "/dont/ /nid/"
+		"pinyin": "bu xu yao",
+		"soundmark": "bù xū yào",
+		"englishGloss": "don't need"
 	},
 	{
 		"chinese": "我们不需要一起解决这个麻烦",
-		"english": "we don't need to solve the problem together",
-		"soundmark": "/wi/ /dont/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men bu xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men bù xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we don't need to solve the problem together"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kən/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我们可以一起解决这个麻烦",
-		"english": "we can solve the problem together",
-		"soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we can solve the problem together"
 	},
 	{
 		"chinese": "我们不可以一起解决这个麻烦",
-		"english": "we can not solve the problem together",
-		"soundmark": "/wi/ /kən/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men bu ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men bù kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we can not solve the problem together"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我们将会一起解决这个麻烦",
-		"english": "we will solve the problem together",
-		"soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men jiāng huì yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we will solve the problem together"
 	},
 	{
 		"chinese": "我们将不会一起解决这个麻烦",
-		"english": "we will not solve the problem together",
-		"soundmark": "/wi/ /wɪl/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang bu hui yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men jiāng bú huì yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we will not solve the problem together"
 	},
 	{
 		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "to try"
 	},
 	{
 		"chinese": "解决这个麻烦",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge ma fan",
+		"soundmark": "jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "我们尝试解决这个麻烦",
-		"english": "we try to solve the problem",
-		"soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo men chang shi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men cháng shì jiě jué zhè ge má fán",
+		"englishGloss": "we try to solve the problem"
 	},
 	{
 		"chinese": "一起",
-		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"pinyin": "yi qi",
+		"soundmark": "yì qǐ",
+		"englishGloss": "together"
 	},
 	{
 		"chinese": "我们尝试一起解决这个麻烦",
-		"english": "we try to solve the problem together",
-		"soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men chang shi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men cháng shì yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we try to solve the problem together"
 	},
 	{
 		"chinese": "尝试(ing形式)",
-		"english": "trying",
-		"soundmark": "/'traɪɪŋ/"
+		"pinyin": "chang shi ( i n g xing shi )",
+		"soundmark": "cháng shì ( i n g xíng shì )",
+		"englishGloss": "trying"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在尝试",
-		"english": "be trying",
-		"soundmark": "/bi/ /'traɪɪŋ/"
+		"pinyin": "zheng zai chang shi",
+		"soundmark": "zhèng zài cháng shì",
+		"englishGloss": "be trying"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们(现在)正在尝试",
-		"english": "we are trying",
-		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai chang shi",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài cháng shì",
+		"englishGloss": "we are trying"
 	},
 	{
 		"chinese": "解决这个麻烦",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge ma fan",
+		"soundmark": "jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "我们(现在)正在尝试解决这个麻烦",
-		"english": "we are trying to solve the problem",
-		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo men ( xian zai ) zheng zai chang shi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài cháng shì jiě jué zhè ge má fán",
+		"englishGloss": "we are trying to solve the problem"
 	},
 	{
 		"chinese": "一起",
-		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"pinyin": "yi qi",
+		"soundmark": "yì qǐ",
+		"englishGloss": "together"
 	},
 	{
 		"chinese": "我们(现在)正在尝试一起解决这个麻烦",
-		"english": "we are trying to solve the problem together",
-		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men ( xian zai ) zheng zai chang shi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài cháng shì yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we are trying to solve the problem together"
 	},
 	{
 		"chinese": "脸",
-		"english": "face",
-		"soundmark": "/fes/"
+		"pinyin": "lian",
+		"soundmark": "liǎn",
+		"englishGloss": "face"
 	},
 	{
 		"chinese": "面对",
-		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"pinyin": "mian dui",
+		"soundmark": "miàn duì",
+		"englishGloss": "to face"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "面对我",
-		"english": "to face me",
-		"soundmark": "/tə/ /fes/ /mi/"
+		"pinyin": "mian dui wo",
+		"soundmark": "miàn duì wǒ",
+		"englishGloss": "to face me"
 	},
 	{
 		"chinese": "真相；现实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "zhen xiang ； xian shi",
+		"soundmark": "zhēn xiàng ； xiàn shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "面对现实",
-		"english": "to face the truth",
-		"soundmark": "/tə/ /fes/ /ðə/ /trʊθ/"
+		"pinyin": "mian dui xian shi",
+		"soundmark": "miàn duì xiàn shí",
+		"englishGloss": "to face the truth"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你需要面对现实",
-		"english": "you need to face the truth",
-		"soundmark": "/ju/ /nid/ /tə/ /fes/ /ðə/ /trʊθ/"
+		"pinyin": "ni xu yao mian dui xian shi",
+		"soundmark": "nǐ xū yào miàn duì xiàn shí",
+		"englishGloss": "you need to face the truth"
 	},
 	{
 		"chinese": "这个麻烦",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "zhe ge ma fan",
+		"soundmark": "zhè ge má fán",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "面对这个麻烦",
-		"english": "to face the problem",
-		"soundmark": "/tə/ /fes/ /ðə/ /'prɑbləm/"
+		"pinyin": "mian dui zhe ge ma fan",
+		"soundmark": "miàn duì zhè ge má fán",
+		"englishGloss": "to face the problem"
 	},
 	{
 		"chinese": "我们需要",
-		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"pinyin": "wo men xu yao",
+		"soundmark": "wǒ men xū yào",
+		"englishGloss": "we need"
 	},
 	{
 		"chinese": "我们需要面对这个麻烦",
-		"english": "we need to face the problem",
-		"soundmark": "/wi/ /nid/ /tə/ /fes/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo men xu yao mian dui zhe ge ma fan",
+		"soundmark": "wǒ men xū yào miàn duì zhè ge má fán",
+		"englishGloss": "we need to face the problem"
 	},
 	{
 		"chinese": "我们面对这个麻烦",
-		"english": "we face the problem",
-		"soundmark": "/wi/ /fes/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo men mian dui zhe ge ma fan",
+		"soundmark": "wǒ men miàn duì zhè ge má fán",
+		"englishGloss": "we face the problem"
 	},
 	{
 		"chinese": "面对(ing形式)",
-		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"pinyin": "mian dui ( i n g xing shi )",
+		"soundmark": "miàn duì ( i n g xíng shì )",
+		"englishGloss": "facing"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在面对",
-		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"pinyin": "zheng zai mian dui",
+		"soundmark": "zhèng zài miàn duì",
+		"englishGloss": "be facing"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们(现在)正在面对",
-		"english": "we are facing",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai mian dui",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài miàn duì",
+		"englishGloss": "we are facing"
 	},
 	{
 		"chinese": "一个",
-		"english": "a",
-		"soundmark": "/ə/"
+		"pinyin": "yi ge",
+		"soundmark": "yí gè",
+		"englishGloss": "a"
 	},
 	{
 		"chinese": "一个麻烦",
-		"english": "a problem",
-		"soundmark": "/ə/ /'prɑbləm/"
+		"pinyin": "yi ge ma fan",
+		"soundmark": "yí gè má fán",
+		"englishGloss": "a problem"
 	},
 	{
 		"chinese": "大的",
-		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"pinyin": "da de",
+		"soundmark": "dà de",
+		"englishGloss": "big"
 	},
 	{
 		"chinese": "一个大麻烦",
-		"english": "a big problem",
-		"soundmark": "/ə/ /bɪɡ/ /'prɑbləm/"
+		"pinyin": "yi ge da ma fan",
+		"soundmark": "yí gè dà má fán",
+		"englishGloss": "a big problem"
 	},
 	{
 		"chinese": "我们(现在)正在面对一个大麻烦",
-		"english": "we are facing a big problem",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/ /ə/ /bɪɡ/ /'prɑbləm/"
+		"pinyin": "wo men ( xian zai ) zheng zai mian dui yi ge da ma fan",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài miàn duì yí gè dà má fán",
+		"englishGloss": "we are facing a big problem"
 	},
 	{
 		"chinese": "这个麻烦",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "zhe ge ma fan",
+		"soundmark": "zhè ge má fán",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "解决",
-		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"pinyin": "jie jue",
+		"soundmark": "jiě jué",
+		"englishGloss": "to solve"
 	},
 	{
 		"chinese": "解决这个麻烦",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge ma fan",
+		"soundmark": "jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "to try"
 	},
 	{
 		"chinese": "我尝试解决这个麻烦",
-		"english": "I try to solve the problem",
-		"soundmark": "/aɪ/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo chang shi jie jue zhe ge ma fan",
+		"soundmark": "wǒ cháng shì jiě jué zhè ge má fán",
+		"englishGloss": "I try to solve the problem"
 	},
 	{
 		"chinese": "尝试(ing形式)",
-		"english": "trying",
-		"soundmark": "/'traɪɪŋ/"
+		"pinyin": "chang shi ( i n g xing shi )",
+		"soundmark": "cháng shì ( i n g xíng shì )",
+		"englishGloss": "trying"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在尝试",
-		"english": "be trying",
-		"soundmark": "/bi/ /'traɪɪŋ/"
+		"pinyin": "zheng zai chang shi",
+		"soundmark": "zhèng zài cháng shì",
+		"englishGloss": "be trying"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我(现在)正在尝试",
-		"english": "I am trying",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai chang shi",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cháng shì",
+		"englishGloss": "I am trying"
 	},
 	{
 		"chinese": "解决这个麻烦",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge ma fan",
+		"soundmark": "jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "我(现在)正在尝试解决这个麻烦",
-		"english": "I am trying to solve the problem",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo ( xian zai ) zheng zai chang shi jie jue zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cháng shì jiě jué zhè ge má fán",
+		"englishGloss": "I am trying to solve the problem"
 	},
 	{
 		"chinese": "面对(ing形式)",
-		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"pinyin": "mian dui ( i n g xing shi )",
+		"soundmark": "miàn duì ( i n g xíng shì )",
+		"englishGloss": "facing"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在面对",
-		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"pinyin": "zheng zai mian dui",
+		"soundmark": "zhèng zài miàn duì",
+		"englishGloss": "be facing"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们(现在)正在面对",
-		"english": "we are facing",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai mian dui",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài miàn duì",
+		"englishGloss": "we are facing"
 	},
 	{
 		"chinese": "这个麻烦",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "zhe ge ma fan",
+		"soundmark": "zhè ge má fán",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "我们(现在)正在面对的这个麻烦",
-		"english": "the problem we are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai mian dui de zhe ge ma fan",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài miàn duì de zhè ge má fán",
+		"englishGloss": "the problem we are facing"
 	},
 	{
 		"chinese": "我(现在)正在尝试解决这个麻烦",
-		"english": "I am trying to solve the problem",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo ( xian zai ) zheng zai chang shi jie jue zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cháng shì jiě jué zhè ge má fán",
+		"englishGloss": "I am trying to solve the problem"
 	},
 	{
 		"chinese": "我(现在)正在尝试解决我们面对的这个麻烦",
-		"english": "I am trying to solve the problem we are facing",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai chang shi jie jue wo men mian dui de zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cháng shì jiě jué wǒ men miàn duì de zhè ge má fán",
+		"englishGloss": "I am trying to solve the problem we are facing"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我(现在)正在尝试解决我们现在正在面对的这个麻烦",
-		"english": "I am trying to solve the problem we are facing now",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/"
+		"pinyin": "wo ( xian zai ) zheng zai chang shi jie jue wo men xian zai zheng zai mian dui de zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài cháng shì jiě jué wǒ men xiàn zài zhèng zài miàn duì de zhè ge má fán",
+		"englishGloss": "I am trying to solve the problem we are facing now"
 	},
 	{
 		"chinese": "解决这个麻烦",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue zhe ge ma fan",
+		"soundmark": "jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "我解决这个麻烦",
-		"english": "I solve the problem",
-		"soundmark": "/aɪ/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo jie jue zhe ge ma fan",
+		"soundmark": "wǒ jiě jué zhè ge má fán",
+		"englishGloss": "I solve the problem"
 	},
 	{
 		"chinese": "解决(ing形式)",
-		"english": "solving",
-		"soundmark": "/sɑlvɪŋ/"
+		"pinyin": "jie jue ( i n g xing shi )",
+		"soundmark": "jiě jué ( i n g xíng shì )",
+		"englishGloss": "solving"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在解决",
-		"english": "be solving",
-		"soundmark": "/bi/ /sɑlvɪŋ/"
+		"pinyin": "zheng zai jie jue",
+		"soundmark": "zhèng zài jiě jué",
+		"englishGloss": "be solving"
 	},
 	{
 		"chinese": "我(现在)正在解决",
-		"english": "I am solving",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai jie jue",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài jiě jué",
+		"englishGloss": "I am solving"
 	},
 	{
 		"chinese": "这个麻烦",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "zhe ge ma fan",
+		"soundmark": "zhè ge má fán",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "我(现在)正在解决这个麻烦",
-		"english": "I am solving the problem",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/"
+		"pinyin": "wo ( xian zai ) zheng zai jie jue zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài jiě jué zhè ge má fán",
+		"englishGloss": "I am solving the problem"
 	},
 	{
 		"chinese": "我们(现在)正在面对",
-		"english": "we are facing",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai mian dui",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài miàn duì",
+		"englishGloss": "we are facing"
 	},
 	{
 		"chinese": "我们(现在)正在面对的这个麻烦",
-		"english": "the problem we are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai mian dui de zhe ge ma fan",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài miàn duì de zhè ge má fán",
+		"englishGloss": "the problem we are facing"
 	},
 	{
 		"chinese": "我(现在)正在解决我们(现在)正在面对的这个麻烦",
-		"english": "I am solving the problem we are facing",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai jie jue wo men ( xian zai ) zheng zai mian dui de zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài jiě jué wǒ men ( xiàn zài ) zhèng zài miàn duì de zhè ge má fán",
+		"englishGloss": "I am solving the problem we are facing"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我(现在)正在解决我们现在正在面对的这个麻烦",
-		"english": "I am solving the problem we are facing now",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/"
+		"pinyin": "wo ( xian zai ) zheng zai jie jue wo men xian zai zheng zai mian dui de zhe ge ma fan",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài jiě jué wǒ men xiàn zài zhèng zài miàn duì de zhè ge má fán",
+		"englishGloss": "I am solving the problem we are facing now"
 	},
 	{
 		"chinese": "疑惑",
-		"english": "to wonder",
-		"soundmark": "/tə/ /'wʌndɚ/"
+		"pinyin": "yi huo",
+		"soundmark": "yí huò",
+		"englishGloss": "to wonder"
 	},
 	{
 		"chinese": "我疑惑",
-		"english": "I wonder",
-		"soundmark": "/aɪ/ /'wʌndɚ/"
+		"pinyin": "wo yi huo",
+		"soundmark": "wǒ yí huò",
+		"englishGloss": "I wonder"
 	},
 	{
 		"chinese": "一起解决这个麻烦",
-		"english": "to solve the problem together",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "yi qi jie jue zhe ge ma fan",
+		"soundmark": "yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem together"
 	},
 	{
 		"chinese": "我们可以",
-		"english": "we can",
-		"soundmark": "/wi/ /kən/"
+		"pinyin": "wo men ke yi",
+		"soundmark": "wǒ men kě yǐ",
+		"englishGloss": "we can"
 	},
 	{
 		"chinese": "我们可以一起解决这个麻烦",
-		"english": "we can solve the problem together",
-		"soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we can solve the problem together"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "是否我们可以一起解决这个麻烦",
-		"english": "if we can solve the problem together",
-		"soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "shi fou wo men ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "shì fǒu wǒ men kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "if we can solve the problem together"
 	},
 	{
 		"chinese": "我疑惑",
-		"english": "I wonder",
-		"soundmark": "/aɪ/ /'wʌndɚ/"
+		"pinyin": "wo yi huo",
+		"soundmark": "wǒ yí huò",
+		"englishGloss": "I wonder"
 	},
 	{
 		"chinese": "我疑惑是否我们可以一起解决这个麻烦",
-		"english": "I wonder if we can solve the problem together",
-		"soundmark": "/aɪ/ /'wʌndɚ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo yi huo shi fou wo men ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ yí huò shì fǒu wǒ men kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "I wonder if we can solve the problem together"
 	},
 	{
 		"chinese": "一起解决这个麻烦",
-		"english": "to solve the problem together",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "yi qi jie jue zhe ge ma fan",
+		"soundmark": "yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem together"
 	},
 	{
 		"chinese": "我们需要",
-		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"pinyin": "wo men xu yao",
+		"soundmark": "wǒ men xū yào",
+		"englishGloss": "we need"
 	},
 	{
 		"chinese": "我们需要一起解决这个麻烦",
-		"english": "we need to solve the problem together",
-		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we need to solve the problem together"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "为什么我们需要一起解决这个麻烦",
-		"english": "why we need to solve the problem together",
-		"soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wei shen me wo men xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wèi shén me wǒ men xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "why we need to solve the problem together"
 	},
 	{
 		"chinese": "我疑惑",
-		"english": "I wonder",
-		"soundmark": "/aɪ/ /'wʌndɚ/"
+		"pinyin": "wo yi huo",
+		"soundmark": "wǒ yí huò",
+		"englishGloss": "I wonder"
 	},
 	{
 		"chinese": "我疑惑为什么我们需要一起解决这个麻烦",
-		"english": "I wonder why we need to solve the problem together",
-		"soundmark": "/aɪ/ /'wʌndɚ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo yi huo wei shen me wo men xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ yí huò wèi shén me wǒ men xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "I wonder why we need to solve the problem together"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他疑惑",
-		"english": "he wonders",
-		"soundmark": "/hi/ /'wʌndɚz/"
+		"pinyin": "ta yi huo",
+		"soundmark": "tā yí huò",
+		"englishGloss": "he wonders"
 	},
 	{
 		"chinese": "一起解决这个麻烦",
-		"english": "to solve the problem together",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "yi qi jie jue zhe ge ma fan",
+		"soundmark": "yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "to solve the problem together"
 	},
 	{
 		"chinese": "我们将会",
-		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"pinyin": "wo men jiang hui",
+		"soundmark": "wǒ men jiāng huì",
+		"englishGloss": "we will"
 	},
 	{
 		"chinese": "我们将会一起解决这个麻烦",
-		"english": "we will solve the problem together",
-		"soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men jiāng huì yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "we will solve the problem together"
 	},
 	{
 		"chinese": "在什么时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "zai shen me shi hou",
+		"soundmark": "zài shén me shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "我们将会在什么时候一起解决这个麻烦",
-		"english": "when we will solve the problem together",
-		"soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui zai shen me shi hou yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men jiāng huì zài shén me shí hòu yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "when we will solve the problem together"
 	},
 	{
 		"chinese": "他疑惑我们将会在什么时候一起解决这个麻烦",
-		"english": "he wonders when we will solve the problem together",
-		"soundmark": "/hi/ /'wʌndɚz/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "ta yi huo wo men jiang hui zai shen me shi hou yi qi jie jue zhe ge ma fan",
+		"soundmark": "tā yí huò wǒ men jiāng huì zài shén me shí hòu yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "he wonders when we will solve the problem together"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "我们将会如何一起解决这个问题",
-		"english": "how we will solve the problem together",
-		"soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui ru he yi qi jie jue zhe ge wen ti",
+		"soundmark": "wǒ men jiāng huì rú hé yì qǐ jiě jué zhè ge wèn tí",
+		"englishGloss": "how we will solve the problem together"
 	},
 	{
 		"chinese": "他疑惑我们将会如何一起解决这个麻烦",
-		"english": "he wonders how we will solve the problem together",
-		"soundmark": "/hi/ /'wʌndɚz/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "ta yi huo wo men jiang hui ru he yi qi jie jue zhe ge ma fan",
+		"soundmark": "tā yí huò wǒ men jiāng huì rú hé yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "he wonders how we will solve the problem together"
 	},
 	{
 		"chinese": "疑惑(ing形式)",
-		"english": "wondering",
-		"soundmark": "/'wʌndərɪŋ/"
+		"pinyin": "yi huo ( i n g xing shi )",
+		"soundmark": "yí huò ( i n g xíng shì )",
+		"englishGloss": "wondering"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在疑惑",
-		"english": "be wondering",
-		"soundmark": "/bi/ /'wʌndərɪŋ/ /(I，过去时)be was/ /wəz/"
+		"pinyin": "zheng zai yi huo",
+		"soundmark": "zhèng zài yí huò",
+		"englishGloss": "be wondering"
 	},
 	{
 		"chinese": "我(过去)正在疑惑",
-		"english": "I was wondering",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/"
+		"pinyin": "wo ( guo qu ) zheng zai yi huo",
+		"soundmark": "wǒ ( guò qù ) zhèng zài yí huò",
+		"englishGloss": "I was wondering"
 	},
 	{
 		"chinese": "是否我们可以一起解决这个麻烦",
-		"english": "if we can solve the problem together",
-		"soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "shi fou wo men ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "shì fǒu wǒ men kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "if we can solve the problem together"
 	},
 	{
 		"chinese": "我(过去)正在疑惑是否我们可以一起解决这个麻烦",
-		"english": "I was wondering if we can solve the problem together",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo ( guo qu ) zheng zai yi huo shi fou wo men ke yi yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ ( guò qù ) zhèng zài yí huò shì fǒu wǒ men kě yǐ yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "I was wondering if we can solve the problem together"
 	},
 	{
 		"chinese": "我(过去)正在疑惑",
-		"english": "I was wondering",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/"
+		"pinyin": "wo ( guo qu ) zheng zai yi huo",
+		"soundmark": "wǒ ( guò qù ) zhèng zài yí huò",
+		"englishGloss": "I was wondering"
 	},
 	{
 		"chinese": "为什么我们需要一起解决这个麻烦",
-		"english": "why we need to solve the problem together",
-		"soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wei shen me wo men xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wèi shén me wǒ men xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "why we need to solve the problem together"
 	},
 	{
 		"chinese": "我(过去)正在疑惑为什么我们需要一起解决这个麻烦",
-		"english": "I was wondering why we need to solve the problem together",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo ( guo qu ) zheng zai yi huo wei shen me wo men xu yao yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ ( guò qù ) zhèng zài yí huò wèi shén me wǒ men xū yào yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "I was wondering why we need to solve the problem together"
 	},
 	{
 		"chinese": "疑惑(ing形式)",
-		"english": "wondering",
-		"soundmark": "/'wʌndərɪŋ/"
+		"pinyin": "yi huo ( i n g xing shi )",
+		"soundmark": "yí huò ( i n g xíng shì )",
+		"englishGloss": "wondering"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在疑惑",
-		"english": "be wondering",
-		"soundmark": "/bi/ /'wʌndərɪŋ/"
+		"pinyin": "zheng zai yi huo",
+		"soundmark": "zhèng zài yí huò",
+		"englishGloss": "be wondering"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/ /(he，现在时)be is/ /ɪz/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他(现在)正在疑惑",
-		"english": "he is wondering",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/"
+		"pinyin": "ta ( xian zai ) zheng zai yi huo",
+		"soundmark": "tā ( xiàn zài ) zhèng zài yí huò",
+		"englishGloss": "he is wondering"
 	},
 	{
 		"chinese": "我们将会在什么时候一起解决这个麻烦",
-		"english": "when we will solve the problem together",
-		"soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui zai shen me shi hou yi qi jie jue zhe ge ma fan",
+		"soundmark": "wǒ men jiāng huì zài shén me shí hòu yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "when we will solve the problem together"
 	},
 	{
 		"chinese": "他(现在)正在疑惑我们将会在什么时候一起解决这个麻烦",
-		"english": "he is wondering when we will solve the problem together",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "ta ( xian zai ) zheng zai yi huo wo men jiang hui zai shen me shi hou yi qi jie jue zhe ge ma fan",
+		"soundmark": "tā ( xiàn zài ) zhèng zài yí huò wǒ men jiāng huì zài shén me shí hòu yì qǐ jiě jué zhè ge má fán",
+		"englishGloss": "he is wondering when we will solve the problem together"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "我们将会如何一起解决这个问题",
-		"english": "how we will solve the problem together",
-		"soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui ru he yi qi jie jue zhe ge wen ti",
+		"soundmark": "wǒ men jiāng huì rú hé yì qǐ jiě jué zhè ge wèn tí",
+		"englishGloss": "how we will solve the problem together"
 	},
 	{
 		"chinese": "他(现在)正在疑惑",
-		"english": "he is wondering",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/"
+		"pinyin": "ta ( xian zai ) zheng zai yi huo",
+		"soundmark": "tā ( xiàn zài ) zhèng zài yí huò",
+		"englishGloss": "he is wondering"
 	},
 	{
 		"chinese": "他(现在)正在疑惑我们将会如何一起解决这个问题",
-		"english": "he is wondering how we will solve the problem together",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"pinyin": "ta ( xian zai ) zheng zai yi huo wo men jiang hui ru he yi qi jie jue zhe ge wen ti",
+		"soundmark": "tā ( xiàn zài ) zhèng zài yí huò wǒ men jiāng huì rú hé yì qǐ jiě jué zhè ge wèn tí",
+		"englishGloss": "he is wondering how we will solve the problem together"
 	}
 ]

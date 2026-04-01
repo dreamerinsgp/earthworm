@@ -7,6 +7,7 @@ import {
   fetchSaveUserProgress,
 } from "@/actions/userProgress";
 import { SessionData } from "../actions/user";
+import { pinyinMatches } from "@/lib/pinyinNormalize";
 import { useUserStore } from "./user";
 
 export type Statement = Prisma.StatementGetPayload<{
@@ -14,8 +15,9 @@ export type Statement = Prisma.StatementGetPayload<{
     id: true;
     order: true;
     chinese: true;
-    english: true;
+    pinyin: true;
     soundmark: true;
+    englishGloss: true;
   };
 }>;
 
@@ -36,22 +38,20 @@ export const useCourse = create<State>((set, get) => ({
   currentCourse: undefined,
   currentStatement: undefined,
   statementIndex: 0,
-  async setupCourse(course: Course, statementIndex: number) {
+  setupCourse(course: Course, statementIndex: number) {
     const statement = course?.statements[statementIndex];
 
     set({
-      currentCourse: course!,
-      currentStatement: statement!,
+      currentCourse: course,
+      currentStatement: statement,
       statementIndex,
     });
   },
   checkCorrect(input: string) {
     const { currentStatement } = get();
-
-    return (
-      input.toLocaleLowerCase() ===
-      currentStatement?.english.toLocaleLowerCase()
-    );
+    const expected = currentStatement?.pinyin;
+    if (expected == null) return false;
+    return pinyinMatches(expected, input);
   },
 
   toNextStatement() {

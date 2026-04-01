@@ -7,7 +7,7 @@ interface Props {
 }
 
 export function Tips({ onShowAnswer }: Props) {
-  const { playSound, audio } = usePlaySound();
+  const { playSound } = usePlaySound();
 
   function handleToAnswer() {
     onShowAnswer();
@@ -23,11 +23,10 @@ export function Tips({ onShowAnswer }: Props) {
       ></TipsItem>
       <TipsItem
         text="control"
-        description="play soundmark"
+        description="play pronunciation"
         keyboardKey="Control"
         handler={playSound}
       ></TipsItem>
-      {audio}
     </div>
   );
 }

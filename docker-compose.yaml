@@ -2,13 +2,14 @@ version: '3.8'
 
 services:
   mysql:
-    image: mysql:latest
+    image: mysql:8.0
     environment:
       MYSQL_ROOT_PASSWORD: password
       MYSQL_DATABASE: earthworm_dev
     command: --default-authentication-plugin=mysql_native_password
     ports:
-      - "3306:3306"
+      # Host 3307 if 3306 is already in use on your machine (see docker-compose-dev.yaml)
+      - "3307:3306"
 
   nextjs:
     build:

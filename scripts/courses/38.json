@@ -1,712 +1,854 @@
 [
 	{
 		"chinese": "锁",
-		"english": "to lock",
-		"soundmark": "/tə/ /lɑk/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "to lock"
 	},
 	{
 		"chinese": "门",
-		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"pinyin": "men",
+		"soundmark": "mén",
+		"englishGloss": "the door"
 	},
 	{
 		"chinese": "锁门",
-		"english": "to lock the door tə/",
-		"soundmark": "/lɑk/ /ðə/ /dɔr/"
+		"pinyin": "suo men",
+		"soundmark": "suǒ mén",
+		"englishGloss": "to lock the door tə/"
 	},
 	{
 		"chinese": "忘记",
-		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "to forget"
 	},
 	{
 		"chinese": "忘记锁门",
-		"english": "to forget to lock the door",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "wang ji suo men",
+		"soundmark": "wàng jì suǒ mén",
+		"englishGloss": "to forget to lock the door"
 	},
 	{
 		"chinese": "忘记锁门(ing形式)",
-		"english": "forgetting to lock the door",
-		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "wang ji suo men ( i n g xing shi )",
+		"soundmark": "wàng jì suǒ mén ( i n g xíng shì )",
+		"englishGloss": "forgetting to lock the door"
 	},
 	{
 		"chinese": "承认",
-		"english": "to admit",
-		"soundmark": "/tə/ /ədˈmɪt/"
+		"pinyin": "cheng ren",
+		"soundmark": "chéng rèn",
+		"englishGloss": "to admit"
 	},
 	{
 		"chinese": "他们承认",
-		"english": "they admit",
-		"soundmark": "/ðe/ /ədˈmɪt/"
+		"pinyin": "ta men cheng ren",
+		"soundmark": "tā men chéng rèn",
+		"englishGloss": "they admit"
 	},
 	{
 		"chinese": "他们(过去)承认",
-		"english": "they admitted",
-		"soundmark": "/ðe/ /ədˈmɪtɪd/"
+		"pinyin": "ta men ( guo qu ) cheng ren",
+		"soundmark": "tā men ( guò qù ) chéng rèn",
+		"englishGloss": "they admitted"
 	},
 	{
 		"chinese": "他们(过去)承认忘记锁门",
-		"english": "they admitted forgetting to lock the door",
-		"soundmark": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "ta men ( guo qu ) cheng ren wang ji suo men",
+		"soundmark": "tā men ( guò qù ) chéng rèn wàng jì suǒ mén",
+		"englishGloss": "they admitted forgetting to lock the door"
 	},
 	{
 		"chinese": "灯",
-		"english": "light",
-		"soundmark": "/laɪt/"
+		"pinyin": "deng",
+		"soundmark": "dēng",
+		"englishGloss": "light"
 	},
 	{
 		"chinese": "红色",
-		"english": "red",
-		"soundmark": "/rɛd/"
+		"pinyin": "hong se",
+		"soundmark": "hóng sè",
+		"englishGloss": "red"
 	},
 	{
 		"chinese": "一个红灯",
-		"english": "a red light",
-		"soundmark": "/ə/ /rɛd/ /laɪt/"
+		"pinyin": "yi ge hong deng",
+		"soundmark": "yí gè hóng dēng",
+		"englishGloss": "a red light"
 	},
 	{
 		"chinese": "跑",
-		"english": "to run",
-		"soundmark": "/tə/ /rʌn/"
+		"pinyin": "pao",
+		"soundmark": "pǎo",
+		"englishGloss": "to run"
 	},
 	{
 		"chinese": "闯一个红灯",
-		"english": "to run a red light",
-		"soundmark": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/"
+		"pinyin": "chuang yi ge hong deng",
+		"soundmark": "chuǎng yí gè hóng dēng",
+		"englishGloss": "to run a red light"
 	},
 	{
 		"chinese": "闯一个红灯(ing形式)",
-		"english": "running a red light",
-		"soundmark": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/ /(过去)承认 admitted/ /ədˈmɪtɪd/"
+		"pinyin": "chuang yi ge hong deng ( i n g xing shi )",
+		"soundmark": "chuǎng yí gè hóng dēng ( i n g xíng shì )",
+		"englishGloss": "running a red light"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "to drive"
 	},
 	{
 		"chinese": "司机",
-		"english": "the driver",
-		"soundmark": "/ðə/ /'draɪvɚ/"
+		"pinyin": "si ji",
+		"soundmark": "sī jī",
+		"englishGloss": "the driver"
 	},
 	{
 		"chinese": "司机(过去)承认",
-		"english": "the driver admitted",
-		"soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/"
+		"pinyin": "si ji ( guo qu ) cheng ren",
+		"soundmark": "sī jī ( guò qù ) chéng rèn",
+		"englishGloss": "the driver admitted"
 	},
 	{
 		"chinese": "司机(过去)承认闯一个红灯",
-		"english": "the driver admitted running a red light",
-		"soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+		"pinyin": "si ji ( guo qu ) cheng ren chuang yi ge hong deng",
+		"soundmark": "sī jī ( guò qù ) chéng rèn chuǎng yí gè hóng dēng",
+		"englishGloss": "the driver admitted running a red light"
 	},
 	{
 		"chinese": "答案",
-		"english": "the answers",
-		"soundmark": "/ði/ /'ænsɚz/"
+		"pinyin": "da an",
+		"soundmark": "dá àn",
+		"englishGloss": "the answers"
 	},
 	{
 		"chinese": "复制",
-		"english": "to copy",
-		"soundmark": "/tə/ /ˈkɑpɪ/"
+		"pinyin": "fu zhi",
+		"soundmark": "fù zhì",
+		"englishGloss": "to copy"
 	},
 	{
 		"chinese": "抄答案",
-		"english": "to copy the answers",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/"
+		"pinyin": "chao da an",
+		"soundmark": "chāo dá àn",
+		"englishGloss": "to copy the answers"
 	},
 	{
 		"chinese": "同学",
-		"english": "classmate",
-		"soundmark": "/'klæsmet/"
+		"pinyin": "tong xue",
+		"soundmark": "tóng xué",
+		"englishGloss": "classmate"
 	},
 	{
 		"chinese": "从......那里",
-		"english": "from",
-		"soundmark": "/frʌm/"
+		"pinyin": "cong . . . . . . na li",
+		"soundmark": "cóng . . . . . . nà lǐ",
+		"englishGloss": "from"
 	},
 	{
 		"chinese": "从一个同学那里",
-		"english": "from a classmate",
-		"soundmark": "/frʌm/ /ə/ /'klæsmet/"
+		"pinyin": "cong yi ge tong xue na li",
+		"soundmark": "cóng yí gè tóng xué nà lǐ",
+		"englishGloss": "from a classmate"
 	},
 	{
 		"chinese": "从一个同学那里抄答案",
-		"english": "to copy the answers from a classmate",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+		"pinyin": "cong yi ge tong xue na li chao da an",
+		"soundmark": "cóng yí gè tóng xué nà lǐ chāo dá àn",
+		"englishGloss": "to copy the answers from a classmate"
 	},
 	{
 		"chinese": "从一个同学那里抄答案(ing形式)",
-		"english": "copying the answers from a classmate",
-		"soundmark": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/ /(过去)承认 admitted/ /ədˈmɪtɪd/"
+		"pinyin": "cong yi ge tong xue na li chao da an ( i n g xing shi )",
+		"soundmark": "cóng yí gè tóng xué nà lǐ chāo dá àn ( i n g xíng shì )",
+		"englishGloss": "copying the answers from a classmate"
 	},
 	{
 		"chinese": "那个学生",
-		"english": "the student",
-		"soundmark": "/ðə/ /'studnt/"
+		"pinyin": "na ge xue sheng",
+		"soundmark": "nà ge xué shēng",
+		"englishGloss": "the student"
 	},
 	{
 		"chinese": "那个学生(过去)承认",
-		"english": "the student admitted",
-		"soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/"
+		"pinyin": "na ge xue sheng ( guo qu ) cheng ren",
+		"soundmark": "nà ge xué shēng ( guò qù ) chéng rèn",
+		"englishGloss": "the student admitted"
 	},
 	{
 		"chinese": "那个学生(过去)承认从一个学生那里抄答案",
-		"english": "the student admitted copying the answers from a classmate",
-		"soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+		"pinyin": "na ge xue sheng ( guo qu ) cheng ren cong yi ge xue sheng na li chao da an",
+		"soundmark": "nà ge xué shēng ( guò qù ) chéng rèn cóng yí gè xué shēng nà lǐ chāo dá àn",
+		"englishGloss": "the student admitted copying the answers from a classmate"
 	},
 	{
 		"chinese": "迟到的",
-		"english": "late",
-		"soundmark": "/let/"
+		"pinyin": "chi dao de",
+		"soundmark": "chí dào de",
+		"englishGloss": "late"
 	},
 	{
 		"chinese": "她是迟到的",
-		"english": "she is late",
-		"soundmark": "/ʃi/ /ɪz/ /let/"
+		"pinyin": "ta shi chi dao de",
+		"soundmark": "tā shì chí dào de",
+		"englishGloss": "she is late"
 	},
 	{
 		"chinese": "碰面；见到",
-		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"pinyin": "peng mian ； jian dao",
+		"soundmark": "pèng miàn ； jiàn dào",
+		"englishGloss": "to meet"
 	},
 	{
 		"chinese": "会议",
-		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"pinyin": "hui yi",
+		"soundmark": "huì yì",
+		"englishGloss": "meeting"
 	},
 	{
 		"chinese": "为了；对于",
-		"english": "for",
-		"soundmark": "/fɚ/"
+		"pinyin": "wei le ； dui yu",
+		"soundmark": "wèi le ； duì yú",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "对于这个会议",
-		"english": "for the meeting",
-		"soundmark": "/fɚ/ /ðə/ /'mitɪŋ/"
+		"pinyin": "dui yu zhe ge hui yi",
+		"soundmark": "duì yú zhè ge huì yì",
+		"englishGloss": "for the meeting"
 	},
 	{
 		"chinese": "她是迟到的对于这个会议",
-		"english": "she is late for the meeting",
-		"soundmark": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /(过去)承认 admitted/ /ədˈmɪtɪd/"
+		"pinyin": "ta shi chi dao de dui yu zhe ge hui yi",
+		"soundmark": "tā shì chí dào de duì yú zhè ge huì yì",
+		"englishGloss": "she is late for the meeting"
 	},
 	{
 		"chinese": "是(ing形式)",
-		"english": "being",
-		"soundmark": "/ˈbiɪŋ/"
+		"pinyin": "shi ( i n g xing shi )",
+		"soundmark": "shì ( i n g xíng shì )",
+		"englishGloss": "being"
 	},
 	{
 		"chinese": "她(过去)承认是迟到的对于这个会议",
-		"english": "she admitted being late for the meeting",
-		"soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/"
+		"pinyin": "ta ( guo qu ) cheng ren shi chi dao de dui yu zhe ge hui yi",
+		"soundmark": "tā ( guò qù ) chéng rèn shì chí dào de duì yú zhè ge huì yì",
+		"englishGloss": "she admitted being late for the meeting"
 	},
 	{
 		"chinese": "说话",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "演讲",
-		"english": "speaking",
-		"soundmark": "/'spikɪŋ/"
+		"pinyin": "yan jiang",
+		"soundmark": "yǎn jiǎng",
+		"englishGloss": "speaking"
 	},
 	{
 		"chinese": "公开的",
-		"english": "public",
-		"soundmark": "/ˈpʌblɪk/"
+		"pinyin": "gong kai de",
+		"soundmark": "gōng kāi de",
+		"englishGloss": "public"
 	},
 	{
 		"chinese": "公开演讲",
-		"english": "public speaking",
-		"soundmark": "/ˈpʌblɪk/ /'spikɪŋ/"
+		"pinyin": "gong kai yan jiang",
+		"soundmark": "gōng kāi yǎn jiǎng",
+		"englishGloss": "public speaking"
 	},
 	{
 		"chinese": "害怕的",
-		"english": "afraid",
-		"soundmark": "/ə'fred/"
+		"pinyin": "hai pa de",
+		"soundmark": "hài pà de",
+		"englishGloss": "afraid"
 	},
 	{
 		"chinese": "她是害怕的",
-		"english": "she is afraid",
-		"soundmark": "/ʃi/ /ɪz/ /ə'fred/"
+		"pinyin": "ta shi hai pa de",
+		"soundmark": "tā shì hài pà de",
+		"englishGloss": "she is afraid"
 	},
 	{
 		"chinese": "她害怕公开演讲",
-		"english": "she is afraid of public speaking",
-		"soundmark": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/ /(过去)承认 admitted/ /ədˈmɪtɪd/"
+		"pinyin": "ta hai pa gong kai yan jiang",
+		"soundmark": "tā hài pà gōng kāi yǎn jiǎng",
+		"englishGloss": "she is afraid of public speaking"
 	},
 	{
 		"chinese": "是(ing形式)",
-		"english": "being",
-		"soundmark": "/ˈbiɪŋ/"
+		"pinyin": "shi ( i n g xing shi )",
+		"soundmark": "shì ( i n g xíng shì )",
+		"englishGloss": "being"
 	},
 	{
 		"chinese": "她(过去)承认",
-		"english": "she admitted",
-		"soundmark": "/ʃi/ /ədˈmɪtɪd/"
+		"pinyin": "ta ( guo qu ) cheng ren",
+		"soundmark": "tā ( guò qù ) chéng rèn",
+		"englishGloss": "she admitted"
 	},
 	{
 		"chinese": "她(过去)承认害怕公开演讲",
-		"english": "she admitted being afraid of public speaking",
-		"soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"pinyin": "ta ( guo qu ) cheng ren hai pa gong kai yan jiang",
+		"soundmark": "tā ( guò qù ) chéng rèn hài pà gōng kāi yǎn jiǎng",
+		"englishGloss": "she admitted being afraid of public speaking"
 	},
 	{
 		"chinese": "食物",
-		"english": "food",
-		"soundmark": "/fud/"
+		"pinyin": "shi wu",
+		"soundmark": "shí wù",
+		"englishGloss": "food"
 	},
 	{
 		"chinese": "垃圾",
-		"english": "junk",
-		"soundmark": "/dʒʌŋk/"
+		"pinyin": "la ji",
+		"soundmark": "lā jī",
+		"englishGloss": "junk"
 	},
 	{
 		"chinese": "垃圾食物",
-		"english": "junk food",
-		"soundmark": "/dʒʌŋk/ /fud/"
+		"pinyin": "la ji shi wu",
+		"soundmark": "lā jī shí wù",
+		"englishGloss": "junk food"
 	},
 	{
 		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "to eat"
 	},
 	{
 		"chinese": "吃垃圾食物",
-		"english": "to eat junk food",
-		"soundmark": "/tə/ /it/ /dʒʌŋk/ /fud/"
+		"pinyin": "chi la ji shi wu",
+		"soundmark": "chī lā jī shí wù",
+		"englishGloss": "to eat junk food"
 	},
 	{
 		"chinese": "吃垃圾食物(ing形式)",
-		"english": "eating junk food",
-		"soundmark": "/'itɪŋ/ /dʒʌŋk/ /fud/"
+		"pinyin": "chi la ji shi wu ( i n g xing shi )",
+		"soundmark": "chī lā jī shí wù ( i n g xíng shì )",
+		"englishGloss": "eating junk food"
 	},
 	{
 		"chinese": "避免",
-		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"pinyin": "bi mian",
+		"soundmark": "bì miǎn",
+		"englishGloss": "to avoid"
 	},
 	{
 		"chinese": "她避免",
-		"english": "she avoids",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/"
+		"pinyin": "ta bi mian",
+		"soundmark": "tā bì miǎn",
+		"englishGloss": "she avoids"
 	},
 	{
 		"chinese": "她避免吃垃圾食物",
-		"english": "she avoids eating junk food",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+		"pinyin": "ta bi mian chi la ji shi wu",
+		"soundmark": "tā bì miǎn chī lā jī shí wù",
+		"englishGloss": "she avoids eating junk food"
 	},
 	{
 		"chinese": "生活",
-		"english": "life",
-		"soundmark": "/laɪf/"
+		"pinyin": "sheng huo",
+		"soundmark": "shēng huó",
+		"englishGloss": "life"
 	},
 	{
 		"chinese": "方式",
-		"english": "style",
-		"soundmark": "/staɪl/"
+		"pinyin": "fang shi",
+		"soundmark": "fāng shì",
+		"englishGloss": "style"
 	},
 	{
 		"chinese": "生活方式",
-		"english": "lifestyle",
-		"soundmark": "/'laɪfstaɪl/"
+		"pinyin": "sheng huo fang shi",
+		"soundmark": "shēng huó fāng shì",
+		"englishGloss": "lifestyle"
 	},
 	{
 		"chinese": "健康的",
-		"english": "healthy",
-		"soundmark": "/'hɛlθi/"
+		"pinyin": "jian kang de",
+		"soundmark": "jiàn kāng de",
+		"englishGloss": "healthy"
 	},
 	{
 		"chinese": "一个健康的生活方式",
-		"english": "a healthy lifestyle",
-		"soundmark": "/ə/ /'hɛlθi/ /'laɪfstaɪl/"
+		"pinyin": "yi ge jian kang de sheng huo fang shi",
+		"soundmark": "yí gè jiàn kāng de shēng huó fāng shì",
+		"englishGloss": "a healthy lifestyle"
 	},
 	{
 		"chinese": "保持",
-		"english": "to maintain",
-		"soundmark": "/tə/ /menˈten/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to maintain"
 	},
 	{
 		"chinese": "保持一个健康的生活方式",
-		"english": "to maintain a healthy lifestyle",
-		"soundmark": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+		"pinyin": "bao chi yi ge jian kang de sheng huo fang shi",
+		"soundmark": "bǎo chí yí gè jiàn kāng de shēng huó fāng shì",
+		"englishGloss": "to maintain a healthy lifestyle"
 	},
 	{
 		"chinese": "她避免吃垃圾食物",
-		"english": "she avoids eating junk food",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+		"pinyin": "ta bi mian chi la ji shi wu",
+		"soundmark": "tā bì miǎn chī lā jī shí wù",
+		"englishGloss": "she avoids eating junk food"
 	},
 	{
 		"chinese": "她避免吃垃圾食物来保持一个健康的生活方式",
-		"english": "she avoids eating junk food to maintain a healthy lifestyle",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+		"pinyin": "ta bi mian chi la ji shi wu lai bao chi yi ge jian kang de sheng huo fang shi",
+		"soundmark": "tā bì miǎn chī lā jī shí wù lái bǎo chí yí gè jiàn kāng de shēng huó fāng shì",
+		"englishGloss": "she avoids eating junk food to maintain a healthy lifestyle"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉事实",
-		"english": "to tell the truth",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /trʊθ/"
+		"pinyin": "gao su shi shi",
+		"soundmark": "gào sù shì shí",
+		"englishGloss": "to tell the truth"
 	},
 	{
 		"chinese": "告诉事实(ing形式)",
-		"english": "telling the truth",
-		"soundmark": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+		"pinyin": "gao su shi shi ( i n g xing shi )",
+		"soundmark": "gào sù shì shí ( i n g xíng shì )",
+		"englishGloss": "telling the truth"
 	},
 	{
 		"chinese": "避免",
-		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"pinyin": "bi mian",
+		"soundmark": "bì miǎn",
+		"englishGloss": "to avoid"
 	},
 	{
 		"chinese": "她(过去)避免",
-		"english": "she avoided",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/"
+		"pinyin": "ta ( guo qu ) bi mian",
+		"soundmark": "tā ( guò qù ) bì miǎn",
+		"englishGloss": "she avoided"
 	},
 	{
 		"chinese": "她(过去)避免告诉事实",
-		"english": "she avoided telling the truth",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+		"pinyin": "ta ( guo qu ) bi mian gao su shi shi",
+		"soundmark": "tā ( guò qù ) bì miǎn gào sù shì shí",
+		"englishGloss": "she avoided telling the truth"
 	},
 	{
 		"chinese": "说谎",
-		"english": "to lie",
-		"soundmark": "/tə/ /laɪ/"
+		"pinyin": "shuo huang",
+		"soundmark": "shuō huǎng",
+		"englishGloss": "to lie"
 	},
 	{
 		"chinese": "说谎(ing形式)",
-		"english": "lying",
-		"soundmark": "/'laɪɪŋ/"
+		"pinyin": "shuo huang ( i n g xing shi )",
+		"soundmark": "shuō huǎng ( i n g xíng shì )",
+		"englishGloss": "lying"
 	},
 	{
 		"chinese": "父母",
-		"english": "parents",
-		"soundmark": "/'pɛrənts/"
+		"pinyin": "fu mu",
+		"soundmark": "fù mǔ",
+		"englishGloss": "parents"
 	},
 	{
 		"chinese": "她的父母",
-		"english": "her parents",
-		"soundmark": "/hɚ/ /'pɛrənts/"
+		"pinyin": "ta de fu mu",
+		"soundmark": "tā de fù mǔ",
+		"englishGloss": "her parents"
 	},
 	{
 		"chinese": "向她的父母说谎(ing形式)",
-		"english": "lying to her parents",
-		"soundmark": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+		"pinyin": "xiang ta de fu mu shuo huang ( i n g xing shi )",
+		"soundmark": "xiàng tā de fù mǔ shuō huǎng ( i n g xíng shì )",
+		"englishGloss": "lying to her parents"
 	},
 	{
 		"chinese": "通过",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo",
+		"soundmark": "tōng guò",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过向她的父母说谎",
-		"english": "by lying to her parents",
-		"soundmark": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+		"pinyin": "tong guo xiang ta de fu mu shuo huang",
+		"soundmark": "tōng guò xiàng tā de fù mǔ shuō huǎng",
+		"englishGloss": "by lying to her parents"
 	},
 	{
 		"chinese": "她(过去)避免告诉事实",
-		"english": "she avoided telling the truth",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+		"pinyin": "ta ( guo qu ) bi mian gao su shi shi",
+		"soundmark": "tā ( guò qù ) bì miǎn gào sù shì shí",
+		"englishGloss": "she avoided telling the truth"
 	},
 	{
 		"chinese": "她通过向她的父母说谎来(过去)避免告诉事实",
-		"english": "she avoided telling the truth by lying to her parents",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+		"pinyin": "ta tong guo xiang ta de fu mu shuo huang lai ( guo qu ) bi mian gao su shi shi",
+		"soundmark": "tā tōng guò xiàng tā de fù mǔ shuō huǎng lái ( guò qù ) bì miǎn gào sù shì shí",
+		"englishGloss": "she avoided telling the truth by lying to her parents"
 	},
 	{
 		"chinese": "伤害",
-		"english": "to hurt",
-		"soundmark": "/tə/ /hɝt/"
+		"pinyin": "shang hai",
+		"soundmark": "shāng hài",
+		"englishGloss": "to hurt"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "伤害她",
-		"english": "to hurt her",
-		"soundmark": "/tə/ /hɝt/ /hɚ/"
+		"pinyin": "shang hai ta",
+		"soundmark": "shāng hài tā",
+		"englishGloss": "to hurt her"
 	},
 	{
 		"chinese": "伤害她(ing形式)",
-		"english": "hurting her",
-		"soundmark": "/ˈhɝtɪŋ/ /hɚ/"
+		"pinyin": "shang hai ta ( i n g xing shi )",
+		"soundmark": "shāng hài tā ( i n g xíng shì )",
+		"englishGloss": "hurting her"
 	},
 	{
 		"chinese": "避免",
-		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"pinyin": "bi mian",
+		"soundmark": "bì miǎn",
+		"englishGloss": "to avoid"
 	},
 	{
 		"chinese": "我(过去)避免",
-		"english": "I avoided",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/"
+		"pinyin": "wo ( guo qu ) bi mian",
+		"soundmark": "wǒ ( guò qù ) bì miǎn",
+		"englishGloss": "I avoided"
 	},
 	{
 		"chinese": "我(过去)避免伤害她",
-		"english": "I avoided hurting her",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/"
+		"pinyin": "wo ( guo qu ) bi mian shang hai ta",
+		"soundmark": "wǒ ( guò qù ) bì miǎn shāng hài tā",
+		"englishGloss": "I avoided hurting her"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "沉默",
-		"english": "silent",
-		"soundmark": "/'saɪlənt/"
+		"pinyin": "chen mo",
+		"soundmark": "chén mò",
+		"englishGloss": "silent"
 	},
 	{
 		"chinese": "保持沉默",
-		"english": "to keep silent",
-		"soundmark": "/tə/ /kip/ /'saɪlənt/"
+		"pinyin": "bao chi chen mo",
+		"soundmark": "bǎo chí chén mò",
+		"englishGloss": "to keep silent"
 	},
 	{
 		"chinese": "保持沉默(ing形式)",
-		"english": "keeping silent",
-		"soundmark": "/'kipɪŋ/ /'saɪlənt/"
+		"pinyin": "bao chi chen mo ( i n g xing shi )",
+		"soundmark": "bǎo chí chén mò ( i n g xíng shì )",
+		"englishGloss": "keeping silent"
 	},
 	{
 		"chinese": "通过",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo",
+		"soundmark": "tōng guò",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过保持沉默",
-		"english": "by keeping silent",
-		"soundmark": "/baɪ/ /'kipɪŋ/ /'saɪlənt/"
+		"pinyin": "tong guo bao chi chen mo",
+		"soundmark": "tōng guò bǎo chí chén mò",
+		"englishGloss": "by keeping silent"
 	},
 	{
 		"chinese": "我通过保持沉默来(过去)避免伤害她",
-		"english": "I avoided hurting her by keeping silent",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/"
+		"pinyin": "wo tong guo bao chi chen mo lai ( guo qu ) bi mian shang hai ta",
+		"soundmark": "wǒ tōng guò bǎo chí chén mò lái ( guò qù ) bì miǎn shāng hài tā",
+		"englishGloss": "I avoided hurting her by keeping silent"
 	},
 	{
 		"chinese": "迟到的",
-		"english": "late",
-		"soundmark": "/let/"
+		"pinyin": "chi dao de",
+		"soundmark": "chí dào de",
+		"englishGloss": "late"
 	},
 	{
 		"chinese": "我是迟到的",
-		"english": "I am late",
-		"soundmark": "/aɪ/ /æm/ /let/ /(过去)避免 avoided/ /əˈvɔɪdɪd/"
+		"pinyin": "wo shi chi dao de",
+		"soundmark": "wǒ shì chí dào de",
+		"englishGloss": "I am late"
 	},
 	{
 		"chinese": "是(ing形式)",
-		"english": "being",
-		"soundmark": "/ˈbiɪŋ/"
+		"pinyin": "shi ( i n g xing shi )",
+		"soundmark": "shì ( i n g xíng shì )",
+		"englishGloss": "being"
 	},
 	{
 		"chinese": "我(过去)避免迟到",
-		"english": "I avoided being late",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+		"pinyin": "wo ( guo qu ) bi mian chi dao",
+		"soundmark": "wǒ ( guò qù ) bì miǎn chí dào",
+		"englishGloss": "I avoided being late"
 	},
 	{
 		"chinese": "出租车",
-		"english": "taxi",
-		"soundmark": "/'tæksi/"
+		"pinyin": "chu zu che",
+		"soundmark": "chū zū chē",
+		"englishGloss": "taxi"
 	},
 	{
 		"chinese": "乘坐",
-		"english": "to take",
-		"soundmark": "/tə/ /tek/"
+		"pinyin": "cheng zuo",
+		"soundmark": "chéng zuò",
+		"englishGloss": "to take"
 	},
 	{
 		"chinese": "乘坐一辆出租车",
-		"english": "to take a taxi",
-		"soundmark": "/tə/ /tek/ /ə/ /'tæksi/"
+		"pinyin": "cheng zuo yi liang chu zu che",
+		"soundmark": "chéng zuò yí liàng chū zū chē",
+		"englishGloss": "to take a taxi"
 	},
 	{
 		"chinese": "乘坐一辆出租车(ing形式)",
-		"english": "taking a taxi",
-		"soundmark": "/ˈtekɪŋ/ /ə/ /'tæksi/"
+		"pinyin": "cheng zuo yi liang chu zu che ( i n g xing shi )",
+		"soundmark": "chéng zuò yí liàng chū zū chē ( i n g xíng shì )",
+		"englishGloss": "taking a taxi"
 	},
 	{
 		"chinese": "通过",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo",
+		"soundmark": "tōng guò",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过乘坐一辆出租车",
-		"english": "by taking a taxi",
-		"soundmark": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+		"pinyin": "tong guo cheng zuo yi liang chu zu che",
+		"soundmark": "tōng guò chéng zuò yí liàng chū zū chē",
+		"englishGloss": "by taking a taxi"
 	},
 	{
 		"chinese": "我(过去)避免迟到",
-		"english": "I avoided being late",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+		"pinyin": "wo ( guo qu ) bi mian chi dao",
+		"soundmark": "wǒ ( guò qù ) bì miǎn chí dào",
+		"englishGloss": "I avoided being late"
 	},
 	{
 		"chinese": "我通过乘坐一辆出租车来(过去)避免迟到",
-		"english": "I avoided being late by taking a taxi",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+		"pinyin": "wo tong guo cheng zuo yi liang chu zu che lai ( guo qu ) bi mian chi dao",
+		"soundmark": "wǒ tōng guò chéng zuò yí liàng chū zū chē lái ( guò qù ) bì miǎn chí dào",
+		"englishGloss": "I avoided being late by taking a taxi"
 	},
 	{
 		"chinese": "避免",
-		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"pinyin": "bi mian",
+		"soundmark": "bì miǎn",
+		"englishGloss": "to avoid"
 	},
 	{
 		"chinese": "他避免",
-		"english": "he avoids",
-		"soundmark": "/hi/ /əˈvɔɪdz/"
+		"pinyin": "ta bi mian",
+		"soundmark": "tā bì miǎn",
+		"englishGloss": "he avoids"
 	},
 	{
 		"chinese": "抽烟",
-		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"pinyin": "chou yan",
+		"soundmark": "chōu yān",
+		"englishGloss": "to smoke"
 	},
 	{
 		"chinese": "抽烟(ing形式)",
-		"english": "smoking",
-		"soundmark": "/'smokɪŋ/"
+		"pinyin": "chou yan ( i n g xing shi )",
+		"soundmark": "chōu yān ( i n g xíng shì )",
+		"englishGloss": "smoking"
 	},
 	{
 		"chinese": "他避免抽烟",
-		"english": "he avoids smoking",
-		"soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/"
+		"pinyin": "ta bi mian chou yan",
+		"soundmark": "tā bì miǎn chōu yān",
+		"englishGloss": "he avoids smoking"
 	},
 	{
 		"chinese": "健康的",
-		"english": "healthy",
-		"soundmark": "/'hɛlθi/"
+		"pinyin": "jian kang de",
+		"soundmark": "jiàn kāng de",
+		"englishGloss": "healthy"
 	},
 	{
 		"chinese": "健康",
-		"english": "health",
-		"soundmark": "/hɛlθ/"
+		"pinyin": "jian kang",
+		"soundmark": "jiàn kāng",
+		"englishGloss": "health"
 	},
 	{
 		"chinese": "他的健康",
-		"english": "his health",
-		"soundmark": "/hɪz/ /hɛlθ/"
+		"pinyin": "ta de jian kang",
+		"soundmark": "tā de jiàn kāng",
+		"englishGloss": "his health"
 	},
 	{
 		"chinese": "保护",
-		"english": "to protect",
-		"soundmark": "/tə/ /prə'tɛkt/"
+		"pinyin": "bao hu",
+		"soundmark": "bǎo hù",
+		"englishGloss": "to protect"
 	},
 	{
 		"chinese": "保护他的健康",
-		"english": "to protect his health",
-		"soundmark": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+		"pinyin": "bao hu ta de jian kang",
+		"soundmark": "bǎo hù tā de jiàn kāng",
+		"englishGloss": "to protect his health"
 	},
 	{
 		"chinese": "他避免抽烟来保护他的健康",
-		"english": "he avoids smoking to protect his health",
-		"soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+		"pinyin": "ta bi mian chou yan lai bao hu ta de jian kang",
+		"soundmark": "tā bì miǎn chōu yān lái bǎo hù tā de jiàn kāng",
+		"englishGloss": "he avoids smoking to protect his health"
 	},
 	{
 		"chinese": "谎言",
-		"english": "lie",
-		"soundmark": "/laɪ/"
+		"pinyin": "huang yan",
+		"soundmark": "huǎng yán",
+		"englishGloss": "lie"
 	},
 	{
 		"chinese": "一个谎言",
-		"english": "a lie",
-		"soundmark": "/ə/ /laɪ/"
+		"pinyin": "yi ge huang yan",
+		"soundmark": "yí gè huǎng yán",
+		"englishGloss": "a lie"
 	},
 	{
 		"chinese": "白色的",
-		"english": "white",
-		"soundmark": "/waɪt/"
+		"pinyin": "bai se de",
+		"soundmark": "bái sè de",
+		"englishGloss": "white"
 	},
 	{
 		"chinese": "一个善意的谎言",
-		"english": "a white lie",
-		"soundmark": "/ə/ /waɪt/ /laɪ/"
+		"pinyin": "yi ge shan yi de huang yan",
+		"soundmark": "yí gè shàn yì de huǎng yán",
+		"englishGloss": "a white lie"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "说一个善意的谎言",
-		"english": "to tell a white lie",
-		"soundmark": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/"
+		"pinyin": "shuo yi ge shan yi de huang yan",
+		"soundmark": "shuō yí gè shàn yì de huǎng yán",
+		"englishGloss": "to tell a white lie"
 	},
 	{
 		"chinese": "说一个善意的谎言(ing形式)",
-		"english": "telling a white lie",
-		"soundmark": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+		"pinyin": "shuo yi ge shan yi de huang yan ( i n g xing shi )",
+		"soundmark": "shuō yí gè shàn yì de huǎng yán ( i n g xíng shì )",
+		"englishGloss": "telling a white lie"
 	},
 	{
 		"chinese": "承认",
-		"english": "to admit",
-		"soundmark": "/tə/ /ədˈmɪt/"
+		"pinyin": "cheng ren",
+		"soundmark": "chéng rèn",
+		"englishGloss": "to admit"
 	},
 	{
 		"chinese": "他(过去)承认",
-		"english": "he admitted",
-		"soundmark": "/hi/ /ədˈmɪtɪd/"
+		"pinyin": "ta ( guo qu ) cheng ren",
+		"soundmark": "tā ( guò qù ) chéng rèn",
+		"englishGloss": "he admitted"
 	},
 	{
 		"chinese": "他(过去)承认说一个善意的谎言(ing形式)",
-		"english": "he admitted telling a white lie",
-		"soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+		"pinyin": "ta ( guo qu ) cheng ren shuo yi ge shan yi de huang yan ( i n g xing shi )",
+		"soundmark": "tā ( guò qù ) chéng rèn shuō yí gè shàn yì de huǎng yán ( i n g xíng shì )",
+		"englishGloss": "he admitted telling a white lie"
 	},
 	{
 		"chinese": "感觉",
-		"english": "to feel",
-		"soundmark": "/tə/ /fil/"
+		"pinyin": "gan jue",
+		"soundmark": "gǎn jué",
+		"englishGloss": "to feel"
 	},
 	{
 		"chinese": "感情",
-		"english": "feelings",
-		"soundmark": "/'filɪŋz/"
+		"pinyin": "gan qing",
+		"soundmark": "gǎn qíng",
+		"englishGloss": "feelings"
 	},
 	{
 		"chinese": "某个人",
-		"english": "someone",
-		"soundmark": "/'sʌmwʌn/"
+		"pinyin": "mou ge ren",
+		"soundmark": "mǒu gè rén",
+		"englishGloss": "someone"
 	},
 	{
 		"chinese": "某个人的感情",
-		"english": "someone's feelings",
-		"soundmark": "/'sʌmwʌnz/ /'filɪŋz/"
+		"pinyin": "mou ge ren de gan qing",
+		"soundmark": "mǒu gè rén de gǎn qíng",
+		"englishGloss": "someone's feelings"
 	},
 	{
 		"chinese": "伤害",
-		"english": "to hurt",
-		"soundmark": "/tə/ /hɝt/"
+		"pinyin": "shang hai",
+		"soundmark": "shāng hài",
+		"englishGloss": "to hurt"
 	},
 	{
 		"chinese": "伤害某个人的感情",
-		"english": "to hurt someone's feelings",
-		"soundmark": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/"
+		"pinyin": "shang hai mou ge ren de gan qing",
+		"soundmark": "shāng hài mǒu gè rén de gǎn qíng",
+		"englishGloss": "to hurt someone's feelings"
 	},
 	{
 		"chinese": "伤害某个人的感情(ing形式)",
-		"english": "hurting someone's feelings",
-		"soundmark": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+		"pinyin": "shang hai mou ge ren de gan qing ( i n g xing shi )",
+		"soundmark": "shāng hài mǒu gè rén de gǎn qíng ( i n g xíng shì )",
+		"englishGloss": "hurting someone's feelings"
 	},
 	{
 		"chinese": "避免",
-		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"pinyin": "bi mian",
+		"soundmark": "bì miǎn",
+		"englishGloss": "to avoid"
 	},
 	{
 		"chinese": "避免伤害某个人的感情",
-		"english": "to avoid hurting someone's feelings",
-		"soundmark": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+		"pinyin": "bi mian shang hai mou ge ren de gan qing",
+		"soundmark": "bì miǎn shāng hài mǒu gè rén de gǎn qíng",
+		"englishGloss": "to avoid hurting someone's feelings"
 	},
 	{
 		"chinese": "他(过去)承认说一个善意的谎言",
-		"english": "he admitted telling a white lie",
-		"soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+		"pinyin": "ta ( guo qu ) cheng ren shuo yi ge shan yi de huang yan",
+		"soundmark": "tā ( guò qù ) chéng rèn shuō yí gè shàn yì de huǎng yán",
+		"englishGloss": "he admitted telling a white lie"
 	},
 	{
 		"chinese": "他(过去)承认说一个善意的谎言来避免伤害某个人的感情",
-		"english": "he admitted telling a white lie to avoid hurting someone's feelings",
-		"soundmark": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+		"pinyin": "ta ( guo qu ) cheng ren shuo yi ge shan yi de huang yan lai bi mian shang hai mou ge ren de gan qing",
+		"soundmark": "tā ( guò qù ) chéng rèn shuō yí gè shàn yì de huǎng yán lái bì miǎn shāng hài mǒu gè rén de gǎn qíng",
+		"englishGloss": "he admitted telling a white lie to avoid hurting someone's feelings"
 	}
 ]

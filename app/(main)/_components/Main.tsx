@@ -21,12 +21,14 @@ export function Main() {
   }, [currentCourse?.id]);
 
   useEffect(() => {
-    if (statementIndex >= currentCourse!.statements.length) {
+    const len = currentCourse?.statements?.length;
+    if (len == null || len === 0) return;
+    if (statementIndex >= len) {
       setMode("Summary");
     } else {
       setMode("Question");
     }
-  }, [statementIndex]);
+  }, [statementIndex, currentCourse?.id, currentCourse?.statements?.length]);
 
 
   function handleShowAnswer() {
@@ -40,6 +42,14 @@ export function Main() {
   };
 
   const CurrentView = viewMap[mode];
+
+  if (!currentCourse?.statements?.length) {
+    return (
+      <div className="h-full flex justify-center items-center text-slate-500">
+        Loading course…
+      </div>
+    );
+  }
 
   return (
     <div className="h-full flex justify-center items-center relative">

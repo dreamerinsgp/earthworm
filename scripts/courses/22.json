@@ -1,767 +1,920 @@
 [
 	{
 		"chinese": "听见；听说",
-		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"pinyin": "ting jian ； ting shuo",
+		"soundmark": "tīng jiàn ； tīng shuō",
+		"englishGloss": "to hear"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "听见我",
-		"english": "to hear me",
-		"soundmark": "/tə/ /hɪr/ /mi/"
+		"pinyin": "ting jian wo",
+		"soundmark": "tīng jiàn wǒ",
+		"englishGloss": "to hear me"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你听见我",
-		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"pinyin": "ni ting jian wo",
+		"soundmark": "nǐ tīng jiàn wǒ",
+		"englishGloss": "you hear me"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以听见我",
-		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can hear me"
 	},
 	{
 		"chinese": "你可以听见我吗？",
-		"english": "can you hear me?",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo ma ？",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ ma ？",
+		"englishGloss": "can you hear me?"
 	},
 	{
 		"chinese": "你可以听见我",
-		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can hear me"
 	},
 	{
 		"chinese": "不可以",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu ke yi",
+		"soundmark": "bù kě yǐ",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "你不可以听见我",
-		"english": "you can't hear me",
-		"soundmark": "/ju/ /kænt/ /hɪr/ /mi/"
+		"pinyin": "ni bu ke yi ting jian wo",
+		"soundmark": "nǐ bù kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can't hear me"
 	},
 	{
 		"chinese": "你不可以听见我吗？",
-		"english": "can't you hear me?",
-		"soundmark": "/kænt/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni bu ke yi ting jian wo ma ？",
+		"soundmark": "nǐ bù kě yǐ tīng jiàn wǒ ma ？",
+		"englishGloss": "can't you hear me?"
 	},
 	{
 		"chinese": "你不可以听见我",
-		"english": "you can't hear me",
-		"soundmark": "/ju/ /kænt/ /hɪr/ /mi/"
+		"pinyin": "ni bu ke yi ting jian wo",
+		"soundmark": "nǐ bù kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can't hear me"
 	},
 	{
 		"chinese": "你听见我",
-		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"pinyin": "ni ting jian wo",
+		"soundmark": "nǐ tīng jiàn wǒ",
+		"englishGloss": "you hear me"
 	},
 	{
 		"chinese": "不；没有",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu ； mei you",
+		"soundmark": "bù ； méi yǒu",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你没有听见我",
-		"english": "you don't hear me",
-		"soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+		"pinyin": "ni mei you ting jian wo",
+		"soundmark": "nǐ méi yǒu tīng jiàn wǒ",
+		"englishGloss": "you don't hear me"
 	},
 	{
 		"chinese": "你没有听见我吗？",
-		"english": "don't you hear me?",
-		"soundmark": "/dont/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni mei you ting jian wo ma ？",
+		"soundmark": "nǐ méi yǒu tīng jiàn wǒ ma ？",
+		"englishGloss": "don't you hear me?"
 	},
 	{
 		"chinese": "你没有听见我",
-		"english": "you don't hear me",
-		"soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+		"pinyin": "ni mei you ting jian wo",
+		"soundmark": "nǐ méi yǒu tīng jiàn wǒ",
+		"englishGloss": "you don't hear me"
 	},
 	{
 		"chinese": "你有听见我",
-		"english": "you do hear me",
-		"soundmark": "/ju/ /du/ /hɪr/ /mi/"
+		"pinyin": "ni you ting jian wo",
+		"soundmark": "nǐ yǒu tīng jiàn wǒ",
+		"englishGloss": "you do hear me"
 	},
 	{
 		"chinese": "你有听见我吗？",
-		"english": "do you hear me?",
-		"soundmark": "/du/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni you ting jian wo ma ？",
+		"soundmark": "nǐ yǒu tīng jiàn wǒ ma ？",
+		"englishGloss": "do you hear me?"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以听见我",
-		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can hear me"
 	},
 	{
 		"chinese": "你可以听见我吗？",
-		"english": "can you hear me?",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo ma ？",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ ma ？",
+		"englishGloss": "can you hear me?"
 	},
 	{
 		"chinese": "你没有听见我",
-		"english": "you don't hear me",
-		"soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+		"pinyin": "ni mei you ting jian wo",
+		"soundmark": "nǐ méi yǒu tīng jiàn wǒ",
+		"englishGloss": "you don't hear me"
 	},
 	{
 		"chinese": "你有听见我吗？",
-		"english": "do you hear me?",
-		"soundmark": "/du/ /ju/ /hɪr/ /mi/ /do过去式 did/ /dɪd/"
+		"pinyin": "ni you ting jian wo ma ？",
+		"soundmark": "nǐ yǒu tīng jiàn wǒ ma ？",
+		"englishGloss": "do you hear me?"
 	},
 	{
 		"chinese": "你(过去)有听见我吗？",
-		"english": "did you hear me?",
-		"soundmark": "/dɪd/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni ( guo qu ) you ting jian wo ma ？",
+		"soundmark": "nǐ ( guò qù ) yǒu tīng jiàn wǒ ma ？",
+		"englishGloss": "did you hear me?"
 	},
 	{
 		"chinese": "你(过去)有听见我",
-		"english": "you did hear me",
-		"soundmark": "/ju/ /dɪd/ /hɪr/ /mi/"
+		"pinyin": "ni ( guo qu ) you ting jian wo",
+		"soundmark": "nǐ ( guò qù ) yǒu tīng jiàn wǒ",
+		"englishGloss": "you did hear me"
 	},
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "这件事",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "zhe jian shi",
+		"soundmark": "zhè jiàn shì",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "你做这件事",
-		"english": "you do it",
-		"soundmark": "/ju/ /du/ /ɪt/"
+		"pinyin": "ni zuo zhe jian shi",
+		"soundmark": "nǐ zuò zhè jiàn shì",
+		"englishGloss": "you do it"
 	},
 	{
 		"chinese": "没有",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "mei you",
+		"soundmark": "méi yǒu",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你没有做这件事",
-		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"pinyin": "ni mei you zuo zhe jian shi",
+		"soundmark": "nǐ méi yǒu zuò zhè jiàn shì",
+		"englishGloss": "you don't do it"
 	},
 	{
 		"chinese": "你有做这件事",
-		"english": "you do do it",
-		"soundmark": "/ju/ /du/ /du/ /ɪt/"
+		"pinyin": "ni you zuo zhe jian shi",
+		"soundmark": "nǐ yǒu zuò zhè jiàn shì",
+		"englishGloss": "you do do it"
 	},
 	{
 		"chinese": "你没有做这件事",
-		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/ /(过去)没有 didn't/ /ˈdɪdnt/"
+		"pinyin": "ni mei you zuo zhe jian shi",
+		"soundmark": "nǐ méi yǒu zuò zhè jiàn shì",
+		"englishGloss": "you don't do it"
 	},
 	{
 		"chinese": "你(过去)没有做这件事",
-		"english": "you didn't do it",
-		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) mei you zuo zhe jian shi",
+		"soundmark": "nǐ ( guò qù ) méi yǒu zuò zhè jiàn shì",
+		"englishGloss": "you didn't do it"
 	},
 	{
 		"chinese": "你(过去)有做这件事",
-		"english": "you did do it",
-		"soundmark": "/ju/ /dɪd/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) you zuo zhe jian shi",
+		"soundmark": "nǐ ( guò qù ) yǒu zuò zhè jiàn shì",
+		"englishGloss": "you did do it"
 	},
 	{
 		"chinese": "你(过去)有做这件事吗？",
-		"english": "did you do it?",
-		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) you zuo zhe jian shi ma ？",
+		"soundmark": "nǐ ( guò qù ) yǒu zuò zhè jiàn shì ma ？",
+		"englishGloss": "did you do it?"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "什么时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "shen me shi hou",
+		"soundmark": "shén me shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "在哪里",
-		"english": "where",
-		"soundmark": "/wɛr/"
+		"pinyin": "zai na li",
+		"soundmark": "zài nǎ lǐ",
+		"englishGloss": "where"
 	},
 	{
 		"chinese": "什么",
-		"english": "what",
-		"soundmark": "/wɑt/"
+		"pinyin": "shen me",
+		"soundmark": "shén me",
+		"englishGloss": "what"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "你(过去)如何做这件事？",
-		"english": "how did you do it?",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) ru he zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) rú hé zuò zhè jiàn shì ？",
+		"englishGloss": "how did you do it?"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "你(过去)为什么做这件事？",
-		"english": "why did you do it?",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) wei shen me zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) wèi shén me zuò zhè jiàn shì ？",
+		"englishGloss": "why did you do it?"
 	},
 	{
 		"chinese": "什么时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "shen me shi hou",
+		"soundmark": "shén me shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "你(过去)什么时候做这件事？",
-		"english": "when did you do it?",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) shen me shi hou zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu zuò zhè jiàn shì ？",
+		"englishGloss": "when did you do it?"
 	},
 	{
 		"chinese": "在哪里",
-		"english": "where",
-		"soundmark": "/wɛr/"
+		"pinyin": "zai na li",
+		"soundmark": "zài nǎ lǐ",
+		"englishGloss": "where"
 	},
 	{
 		"chinese": "你(过去)在哪里做这件事？",
-		"english": "where did you do it?",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) zai na li zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ zuò zhè jiàn shì ？",
+		"englishGloss": "where did you do it?"
 	},
 	{
 		"chinese": "什么",
-		"english": "what",
-		"soundmark": "/wɑt/"
+		"pinyin": "shen me",
+		"soundmark": "shén me",
+		"englishGloss": "what"
 	},
 	{
 		"chinese": "你(过去)有做这件事吗？",
-		"english": "did you do it?",
-		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) you zuo zhe jian shi ma ？",
+		"soundmark": "nǐ ( guò qù ) yǒu zuò zhè jiàn shì ma ？",
+		"englishGloss": "did you do it?"
 	},
 	{
 		"chinese": "你(过去)做了什么？",
-		"english": "what did you do?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /du/"
+		"pinyin": "ni ( guo qu ) zuo le shen me ？",
+		"soundmark": "nǐ ( guò qù ) zuò le shén me ？",
+		"englishGloss": "what did you do?"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "找到我",
-		"english": "to find me",
-		"soundmark": "/tə/ /faɪnd/ /mi/"
+		"pinyin": "zhao dao wo",
+		"soundmark": "zhǎo dào wǒ",
+		"englishGloss": "to find me"
 	},
 	{
 		"chinese": "你(过去)是如何",
-		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shi ru he",
+		"soundmark": "nǐ ( guò qù ) shì rú hé",
+		"englishGloss": "how did you"
 	},
 	{
 		"chinese": "你(过去)是如何找到我的？",
-		"english": "how did you find me?",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/"
+		"pinyin": "ni ( guo qu ) shi ru he zhao dao wo de ？",
+		"soundmark": "nǐ ( guò qù ) shì rú hé zhǎo dào wǒ de ？",
+		"englishGloss": "how did you find me?"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "名字",
-		"english": "name",
-		"soundmark": "/nem/"
+		"pinyin": "ming zi",
+		"soundmark": "míng zì",
+		"englishGloss": "name"
 	},
 	{
 		"chinese": "她的名字",
-		"english": "her name",
-		"soundmark": "/hɚ/ /nem/"
+		"pinyin": "ta de ming zi",
+		"soundmark": "tā de míng zì",
+		"englishGloss": "her name"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "知道她的名字",
-		"english": "to know her name",
-		"soundmark": "/tə/ /no/ /hɚ/ /nem/"
+		"pinyin": "zhi dao ta de ming zi",
+		"soundmark": "zhī dào tā de míng zì",
+		"englishGloss": "to know her name"
 	},
 	{
 		"chinese": "你(过去)是如何",
-		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shi ru he",
+		"soundmark": "nǐ ( guò qù ) shì rú hé",
+		"englishGloss": "how did you"
 	},
 	{
 		"chinese": "你(过去)是如何知道她的名字的？",
-		"english": "how did you know her name?",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/"
+		"pinyin": "ni ( guo qu ) shi ru he zhi dao ta de ming zi de ？",
+		"soundmark": "nǐ ( guò qù ) shì rú hé zhī dào tā de míng zì de ？",
+		"englishGloss": "how did you know her name?"
 	},
 	{
 		"chinese": "电话",
-		"english": "phone",
-		"soundmark": "/fon/"
+		"pinyin": "dian hua",
+		"soundmark": "diàn huà",
+		"englishGloss": "phone"
 	},
 	{
 		"chinese": "号码",
-		"english": "number",
-		"soundmark": "/'nʌmbɚ/"
+		"pinyin": "hao ma",
+		"soundmark": "hào mǎ",
+		"englishGloss": "number"
 	},
 	{
 		"chinese": "电话号码",
-		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"pinyin": "dian hua hao ma",
+		"soundmark": "diàn huà hào mǎ",
+		"englishGloss": "phone number"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的电话号码",
-		"english": "my phone number",
-		"soundmark": "/maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "wo de dian hua hao ma",
+		"soundmark": "wǒ de diàn huà hào mǎ",
+		"englishGloss": "my phone number"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "知道我的电话号码",
-		"english": "to know my phone number",
-		"soundmark": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "zhi dao wo de dian hua hao ma",
+		"soundmark": "zhī dào wǒ de diàn huà hào mǎ",
+		"englishGloss": "to know my phone number"
 	},
 	{
 		"chinese": "你(过去)是如何",
-		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shi ru he",
+		"soundmark": "nǐ ( guò qù ) shì rú hé",
+		"englishGloss": "how did you"
 	},
 	{
 		"chinese": "你(过去)是如何知道我的电话号码的？",
-		"english": "how did you know my phone number?",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"pinyin": "ni ( guo qu ) shi ru he zhi dao wo de dian hua hao ma de ？",
+		"soundmark": "nǐ ( guò qù ) shì rú hé zhī dào wǒ de diàn huà hào mǎ de ？",
+		"englishGloss": "how did you know my phone number?"
 	},
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "这件事",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "zhe jian shi",
+		"soundmark": "zhè jiàn shì",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "决定做这件事",
-		"english": "to decide to do it",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+		"pinyin": "jue ding zuo zhe jian shi",
+		"soundmark": "jué dìng zuò zhè jiàn shì",
+		"englishGloss": "to decide to do it"
 	},
 	{
 		"chinese": "你(过去)为什么",
-		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) wei shen me",
+		"soundmark": "nǐ ( guò qù ) wèi shén me",
+		"englishGloss": "why did you"
 	},
 	{
 		"chinese": "你(过去)为什么决定做这件事？",
-		"english": "why did you decide to do it?",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) wei shen me jue ding zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) wèi shén me jué dìng zuò zhè jiàn shì ？",
+		"englishGloss": "why did you decide to do it?"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "离开我",
-		"english": "to leave me",
-		"soundmark": "/tə/ /liv/ /mi/"
+		"pinyin": "li kai wo",
+		"soundmark": "lí kāi wǒ",
+		"englishGloss": "to leave me"
 	},
 	{
 		"chinese": "你(过去)为什么",
-		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) wei shen me",
+		"soundmark": "nǐ ( guò qù ) wèi shén me",
+		"englishGloss": "why did you"
 	},
 	{
 		"chinese": "你(过去)为什么离开我？",
-		"english": "why did you leave me?",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/"
+		"pinyin": "ni ( guo qu ) wei shen me li kai wo ？",
+		"soundmark": "nǐ ( guò qù ) wèi shén me lí kāi wǒ ？",
+		"englishGloss": "why did you leave me?"
 	},
 	{
 		"chinese": "说",
-		"english": "to say",
-		"soundmark": "/tə/ /se/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to say"
 	},
 	{
 		"chinese": "它；那句话",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta ； na ju hua",
+		"soundmark": "tā ； nà jù huà",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "说那句话",
-		"english": "to say it",
-		"soundmark": "/tə/ /se/ /ɪt/"
+		"pinyin": "shuo na ju hua",
+		"soundmark": "shuō nà jù huà",
+		"englishGloss": "to say it"
 	},
 	{
 		"chinese": "你(过去)为什么",
-		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) wei shen me",
+		"soundmark": "nǐ ( guò qù ) wèi shén me",
+		"englishGloss": "why did you"
 	},
 	{
 		"chinese": "你(过去)为什么说那句话？",
-		"english": "why did you say it?",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /se/ /ɪt/"
+		"pinyin": "ni ( guo qu ) wei shen me shuo na ju hua ？",
+		"soundmark": "nǐ ( guò qù ) wèi shén me shuō nà jù huà ？",
+		"englishGloss": "why did you say it?"
 	},
 	{
 		"chinese": "到达",
-		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"pinyin": "dao da",
+		"soundmark": "dào dá",
+		"englishGloss": "to get"
 	},
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "到达这里",
-		"english": "to get here",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/"
+		"pinyin": "dao da zhe li",
+		"soundmark": "dào dá zhè lǐ",
+		"englishGloss": "to get here"
 	},
 	{
 		"chinese": "你(过去)什么时候",
-		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shen me shi hou",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu",
+		"englishGloss": "when did you"
 	},
 	{
 		"chinese": "你(过去)什么时候到达这里的？",
-		"english": "when did you get here?",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/"
+		"pinyin": "ni ( guo qu ) shen me shi hou dao da zhe li de ？",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu dào dá zhè lǐ de ？",
+		"englishGloss": "when did you get here?"
 	},
 	{
 		"chinese": "见到",
-		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"pinyin": "jian dao",
+		"soundmark": "jiàn dào",
+		"englishGloss": "to meet"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "见到他",
-		"english": "to meet him",
-		"soundmark": "/tə/ /mit/ /hɪm/"
+		"pinyin": "jian dao ta",
+		"soundmark": "jiàn dào tā",
+		"englishGloss": "to meet him"
 	},
 	{
 		"chinese": "你(过去)什么时候",
-		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shen me shi hou",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu",
+		"englishGloss": "when did you"
 	},
 	{
 		"chinese": "你(过去)什么时候见到他的？",
-		"english": "when did you meet him?",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/"
+		"pinyin": "ni ( guo qu ) shen me shi hou jian dao ta de ？",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu jiàn dào tā de ？",
+		"englishGloss": "when did you meet him?"
 	},
 	{
 		"chinese": "家",
-		"english": "home",
-		"soundmark": "/hom/"
+		"pinyin": "jia",
+		"soundmark": "jiā",
+		"englishGloss": "home"
 	},
 	{
 		"chinese": "工作",
-		"english": "work",
-		"soundmark": "/wɝk/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work"
 	},
 	{
 		"chinese": "家庭作业",
-		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"pinyin": "jia ting zuo ye",
+		"soundmark": "jiā tíng zuò yè",
+		"englishGloss": "homework"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "你的家庭作业",
-		"english": "your homework",
-		"soundmark": "/jʊr/ /'homwɝk/"
+		"pinyin": "ni de jia ting zuo ye",
+		"soundmark": "nǐ de jiā tíng zuò yè",
+		"englishGloss": "your homework"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "完成你的家庭做作业",
-		"english": "to finish your homework",
-		"soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+		"pinyin": "wan cheng ni de jia ting zuo zuo ye",
+		"soundmark": "wán chéng nǐ de jiā tíng zuò zuò yè",
+		"englishGloss": "to finish your homework"
 	},
 	{
 		"chinese": "你(过去)什么时候",
-		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shen me shi hou",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu",
+		"englishGloss": "when did you"
 	},
 	{
 		"chinese": "你(过去)什么时候完成你的家庭作业的？",
-		"english": "when did you finish your homework?",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+		"pinyin": "ni ( guo qu ) shen me shi hou wan cheng ni de jia ting zuo ye de ？",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu wán chéng nǐ de jiā tíng zuò yè de ？",
+		"englishGloss": "when did you finish your homework?"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "他们/她们/它们",
-		"english": "them",
-		"soundmark": "/ðəm/"
+		"pinyin": "ta men / ta men / ta men",
+		"soundmark": "tā men / tā men / tā men",
+		"englishGloss": "them"
 	},
 	{
 		"chinese": "找到他们",
-		"english": "to find them",
-		"soundmark": "/tə/ /faɪnd/ /ðəm/"
+		"pinyin": "zhao dao ta men",
+		"soundmark": "zhǎo dào tā men",
+		"englishGloss": "to find them"
 	},
 	{
 		"chinese": "你(过去)在哪里",
-		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) zai na li",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ",
+		"englishGloss": "where did you"
 	},
 	{
 		"chinese": "你(过去)在哪里找到他们的？",
-		"english": "where did you find them?",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/"
+		"pinyin": "ni ( guo qu ) zai na li zhao dao ta men de ？",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ zhǎo dào tā men de ？",
+		"englishGloss": "where did you find them?"
 	},
 	{
 		"chinese": "购买",
-		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"pinyin": "gou mai",
+		"soundmark": "gòu mǎi",
+		"englishGloss": "to buy"
 	},
 	{
 		"chinese": "这个",
-		"english": "this",
-		"soundmark": "/ðɪs/"
+		"pinyin": "zhe ge",
+		"soundmark": "zhè ge",
+		"englishGloss": "this"
 	},
 	{
 		"chinese": "购买这个",
-		"english": "to buy this",
-		"soundmark": "/tə/ /baɪ/ /ðɪs/"
+		"pinyin": "gou mai zhe ge",
+		"soundmark": "gòu mǎi zhè ge",
+		"englishGloss": "to buy this"
 	},
 	{
 		"chinese": "你(过去)在哪里",
-		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) zai na li",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ",
+		"englishGloss": "where did you"
 	},
 	{
 		"chinese": "你(过去)在哪里购买这个的？",
-		"english": "where did you buy this?",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/"
+		"pinyin": "ni ( guo qu ) zai na li gou mai zhe ge de ？",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ gòu mǎi zhè ge de ？",
+		"englishGloss": "where did you buy this?"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "to sleep"
 	},
 	{
 		"chinese": "你(过去)在哪里",
-		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) zai na li",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ",
+		"englishGloss": "where did you"
 	},
 	{
 		"chinese": "你(过去)在哪里睡觉的？",
-		"english": "where did you sleep?",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /slip/"
+		"pinyin": "ni ( guo qu ) zai na li shui jiao de ？",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ shuì jiào de ？",
+		"englishGloss": "where did you sleep?"
 	},
 	{
 		"chinese": "上一个",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "shang yi ge",
+		"soundmark": "shàng yí gè",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "晚上",
-		"english": "night",
-		"soundmark": "/naɪt/"
+		"pinyin": "wan shang",
+		"soundmark": "wǎn shàng",
+		"englishGloss": "night"
 	},
 	{
 		"chinese": "昨晚",
-		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"pinyin": "zuo wan",
+		"soundmark": "zuó wǎn",
+		"englishGloss": "last night"
 	},
 	{
 		"chinese": "你(过去)昨晚在哪里睡觉的？",
-		"english": "where did you sleep last night?",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/"
+		"pinyin": "ni ( guo qu ) zuo wan zai na li shui jiao de ？",
+		"soundmark": "nǐ ( guò qù ) zuó wǎn zài nǎ lǐ shuì jiào de ？",
+		"englishGloss": "where did you sleep last night?"
 	},
 	{
 		"chinese": "说",
-		"english": "to say",
-		"soundmark": "/tə/ /se/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to say"
 	},
 	{
 		"chinese": "你(过去)......了什么",
-		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) . . . . . . liao shen me",
+		"soundmark": "nǐ ( guò qù ) . . . . . . liǎo shén me",
+		"englishGloss": "what did you"
 	},
 	{
 		"chinese": "你(过去)说了什么？",
-		"english": "what did you say?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /se/"
+		"pinyin": "ni ( guo qu ) shuo le shen me ？",
+		"soundmark": "nǐ ( guò qù ) shuō le shén me ？",
+		"englishGloss": "what did you say?"
 	},
 	{
 		"chinese": "学",
-		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"pinyin": "xue",
+		"soundmark": "xué",
+		"englishGloss": "to learn"
 	},
 	{
 		"chinese": "你(过去)......了什么",
-		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) . . . . . . liao shen me",
+		"soundmark": "nǐ ( guò qù ) . . . . . . liǎo shén me",
+		"englishGloss": "what did you"
 	},
 	{
 		"chinese": "你(过去)学到了什么？",
-		"english": "what did you learn?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /lɝn/"
+		"pinyin": "ni ( guo qu ) xue dao le shen me ？",
+		"soundmark": "nǐ ( guò qù ) xué dào le shén me ？",
+		"englishGloss": "what did you learn?"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "你(过去)......了什么",
-		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) . . . . . . liao shen me",
+		"soundmark": "nǐ ( guò qù ) . . . . . . liǎo shén me",
+		"englishGloss": "what did you"
 	},
 	{
 		"chinese": "你(过去)找到了什么？",
-		"english": "what did you find?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /faɪnd/"
+		"pinyin": "ni ( guo qu ) zhao dao le shen me ？",
+		"soundmark": "nǐ ( guò qù ) zhǎo dào le shén me ？",
+		"englishGloss": "what did you find?"
 	},
 	{
 		"chinese": "听到",
-		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"pinyin": "ting dao",
+		"soundmark": "tīng dào",
+		"englishGloss": "to hear"
 	},
 	{
 		"chinese": "你(过去)......了什么",
-		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) . . . . . . liao shen me",
+		"soundmark": "nǐ ( guò qù ) . . . . . . liǎo shén me",
+		"englishGloss": "what did you"
 	},
 	{
 		"chinese": "你(过去)听到了什么？",
-		"english": "what did you hear?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /hɪr/"
+		"pinyin": "ni ( guo qu ) ting dao le shen me ？",
+		"soundmark": "nǐ ( guò qù ) tīng dào le shén me ？",
+		"englishGloss": "what did you hear?"
 	},
 	{
 		"chinese": "看到",
-		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"pinyin": "kan dao",
+		"soundmark": "kàn dào",
+		"englishGloss": "to see"
 	},
 	{
 		"chinese": "你(过去)......了什么",
-		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) . . . . . . liao shen me",
+		"soundmark": "nǐ ( guò qù ) . . . . . . liǎo shén me",
+		"englishGloss": "what did you"
 	},
 	{
 		"chinese": "你(过去)看到了什么？",
-		"english": "what did you see?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /si/"
+		"pinyin": "ni ( guo qu ) kan dao le shen me ？",
+		"soundmark": "nǐ ( guò qù ) kàn dào le shén me ？",
+		"englishGloss": "what did you see?"
 	},
 	{
 		"chinese": "你(过去)如何做这件事？",
-		"english": "how did you do it?",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) ru he zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) rú hé zuò zhè jiàn shì ？",
+		"englishGloss": "how did you do it?"
 	},
 	{
 		"chinese": "你(过去)为什么做这件事？",
-		"english": "why did you do it?",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) wei shen me zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) wèi shén me zuò zhè jiàn shì ？",
+		"englishGloss": "why did you do it?"
 	},
 	{
 		"chinese": "你(过去)什么时候做这件事？",
-		"english": "when did you do it?",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) shen me shi hou zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu zuò zhè jiàn shì ？",
+		"englishGloss": "when did you do it?"
 	},
 	{
 		"chinese": "你(过去)在哪里做这件事？",
-		"english": "where did you do it?",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+		"pinyin": "ni ( guo qu ) zai na li zuo zhe jian shi ？",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ zuò zhè jiàn shì ？",
+		"englishGloss": "where did you do it?"
 	},
 	{
 		"chinese": "你(过去)做了什么？",
-		"english": "what did you do?",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /du/"
+		"pinyin": "ni ( guo qu ) zuo le shen me ？",
+		"soundmark": "nǐ ( guò qù ) zuò le shén me ？",
+		"englishGloss": "what did you do?"
 	},
 	{
 		"chinese": "你(过去)如何......？",
-		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) ru he . . . . . . ？",
+		"soundmark": "nǐ ( guò qù ) rú hé . . . . . . ？",
+		"englishGloss": "how did you"
 	},
 	{
 		"chinese": "你(过去)为什么......？",
-		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) wei shen me . . . . . . ？",
+		"soundmark": "nǐ ( guò qù ) wèi shén me . . . . . . ？",
+		"englishGloss": "why did you"
 	},
 	{
 		"chinese": "你(过去)什么时候......？",
-		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) shen me shi hou . . . . . . ？",
+		"soundmark": "nǐ ( guò qù ) shén me shí hòu . . . . . . ？",
+		"englishGloss": "when did you"
 	},
 	{
 		"chinese": "你(过去)在哪里......？",
-		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) zai na li . . . . . . ？",
+		"soundmark": "nǐ ( guò qù ) zài nǎ lǐ . . . . . . ？",
+		"englishGloss": "where did you"
 	},
 	{
 		"chinese": "你(过去)......了什么？",
-		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"pinyin": "ni ( guo qu ) . . . . . . liao shen me ？",
+		"soundmark": "nǐ ( guò qù ) . . . . . . liǎo shén me ？",
+		"englishGloss": "what did you"
 	}
 ]

@@ -1,852 +1,1022 @@
 [
 	{
 		"chinese": "到达",
-		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"pinyin": "dao da",
+		"soundmark": "dào dá",
+		"englishGloss": "to get"
 	},
 	{
 		"chinese": "那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
+		"pinyin": "na li",
+		"soundmark": "nà lǐ",
+		"englishGloss": "there"
 	},
 	{
 		"chinese": "到达那里",
-		"english": "to get there",
-		"soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "dao da na li",
+		"soundmark": "dào dá nà lǐ",
+		"englishGloss": "to get there"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "我需要到达那里",
-		"english": "I need to get there",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo xu yao dao da na li",
+		"soundmark": "wǒ xū yào dào dá nà lǐ",
+		"englishGloss": "I need to get there"
 	},
 	{
 		"chinese": "我不需要到达那里",
-		"english": "I don't need to get there",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo bu xu yao dao da na li",
+		"soundmark": "wǒ bù xū yào dào dá nà lǐ",
+		"englishGloss": "I don't need to get there"
 	},
 	{
 		"chinese": "很快；马上",
-		"english": "soon",
-		"soundmark": "/sun/"
+		"pinyin": "hen kuai ； ma shang",
+		"soundmark": "hěn kuài ； mǎ shàng",
+		"englishGloss": "soon"
 	},
 	{
 		"chinese": "我需要马上到达那里",
-		"english": "I need to get there soon",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/"
+		"pinyin": "wo xu yao ma shang dao da na li",
+		"soundmark": "wǒ xū yào mǎ shàng dào dá nà lǐ",
+		"englishGloss": "I need to get there soon"
 	},
 	{
 		"chinese": "可能",
-		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"pinyin": "ke neng",
+		"soundmark": "kě néng",
+		"englishGloss": "possible"
 	},
 	{
 		"chinese": "尽快；尽可能地快",
-		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "jin kuai ； jin ke neng di kuai",
+		"soundmark": "jǐn kuài ； jǐn kě néng dì kuài",
+		"englishGloss": "as soon as possible"
 	},
 	{
 		"chinese": "我需要尽快到达那里",
-		"english": "I need to get there as soon as possible",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "wo xu yao jin kuai dao da na li",
+		"soundmark": "wǒ xū yào jǐn kuài dào dá nà lǐ",
+		"englishGloss": "I need to get there as soon as possible"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "如何到达那里",
-		"english": "how to get there",
-		"soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "ru he dao da na li",
+		"soundmark": "rú hé dào dá nà lǐ",
+		"englishGloss": "how to get there"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "知道如何到达那里",
-		"english": "to know how to get there",
-		"soundmark": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "zhi dao ru he dao da na li",
+		"soundmark": "zhī dào rú hé dào dá nà lǐ",
+		"englishGloss": "to know how to get there"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要知道如何到达那里",
-		"english": "I want to know how to get there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo xiang yao zhi dao ru he dao da na li",
+		"soundmark": "wǒ xiǎng yào zhī dào rú hé dào dá nà lǐ",
+		"englishGloss": "I want to know how to get there"
 	},
 	{
 		"chinese": "只是",
-		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"pinyin": "zhi shi",
+		"soundmark": "zhǐ shì",
+		"englishGloss": "just"
 	},
 	{
 		"chinese": "我只是想要知道如何到达那里",
-		"english": "I just want to know how to get there",
-		"soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo zhi shi xiang yao zhi dao ru he dao da na li",
+		"soundmark": "wǒ zhǐ shì xiǎng yào zhī dào rú hé dào dá nà lǐ",
+		"englishGloss": "I just want to know how to get there"
 	},
 	{
 		"chinese": "时间",
-		"english": "time",
-		"soundmark": "/taɪm/"
+		"pinyin": "shi jian",
+		"soundmark": "shí jiān",
+		"englishGloss": "time"
 	},
 	{
 		"chinese": "准时",
-		"english": "on time",
-		"soundmark": "/ɑn/ /taɪm/"
+		"pinyin": "zhun shi",
+		"soundmark": "zhǔn shí",
+		"englishGloss": "on time"
 	},
 	{
 		"chinese": "我只是想要知道如何准时到达那里",
-		"english": "I just want to know how to get there on time",
-		"soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "wo zhi shi xiang yao zhi dao ru he zhun shi dao da na li",
+		"soundmark": "wǒ zhǐ shì xiǎng yào zhī dào rú hé zhǔn shí dào dá nà lǐ",
+		"englishGloss": "I just want to know how to get there on time"
 	},
 	{
 		"chinese": "你必须到达那里",
-		"english": "you have to get there",
-		"soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "ni bi xu dao da na li",
+		"soundmark": "nǐ bì xū dào dá nà lǐ",
+		"englishGloss": "you have to get there"
 	},
 	{
 		"chinese": "今晚",
-		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"pinyin": "jin wan",
+		"soundmark": "jīn wǎn",
+		"englishGloss": "tonight"
 	},
 	{
 		"chinese": "你必须今晚到达那里",
-		"english": "you have to get there tonight",
-		"soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+		"pinyin": "ni bi xu jin wan dao da na li",
+		"soundmark": "nǐ bì xū jīn wǎn dào dá nà lǐ",
+		"englishGloss": "you have to get there tonight"
 	},
 	{
 		"chinese": "你不必今晚到达那里",
-		"english": "you don't have to get there tonight",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+		"pinyin": "ni bu bi jin wan dao da na li",
+		"soundmark": "nǐ bú bì jīn wǎn dào dá nà lǐ",
+		"englishGloss": "you don't have to get there tonight"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我们可以",
-		"english": "we can",
-		"soundmark": "/wi/ /kæn/"
+		"pinyin": "wo men ke yi",
+		"soundmark": "wǒ men kě yǐ",
+		"englishGloss": "we can"
 	},
 	{
 		"chinese": "到达那里",
-		"english": "to get there",
-		"soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "dao da na li",
+		"soundmark": "dào dá nà lǐ",
+		"englishGloss": "to get there"
 	},
 	{
 		"chinese": "我们可以到达那里",
-		"english": "we can get there",
-		"soundmark": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/"
+		"pinyin": "wo men ke yi dao da na li",
+		"soundmark": "wǒ men kě yǐ dào dá nà lǐ",
+		"englishGloss": "we can get there"
 	},
 	{
 		"chinese": "准时",
-		"english": "on time",
-		"soundmark": "/ɑn/ /taɪm/"
+		"pinyin": "zhun shi",
+		"soundmark": "zhǔn shí",
+		"englishGloss": "on time"
 	},
 	{
 		"chinese": "我们可以准时到达那里",
-		"english": "we can get there on time",
-		"soundmark": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "wo men ke yi zhun shi dao da na li",
+		"soundmark": "wǒ men kě yǐ zhǔn shí dào dá nà lǐ",
+		"englishGloss": "we can get there on time"
 	},
 	{
 		"chinese": "我们不可以准时到达那里",
-		"english": "we can not get there on time",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "wo men bu ke yi zhun shi dao da na li",
+		"soundmark": "wǒ men bù kě yǐ zhǔn shí dào dá nà lǐ",
+		"englishGloss": "we can not get there on time"
 	},
 	{
 		"chinese": "我们准时到达那里",
-		"english": "we get there on time",
-		"soundmark": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "wo men zhun shi dao da na li",
+		"soundmark": "wǒ men zhǔn shí dào dá nà lǐ",
+		"englishGloss": "we get there on time"
 	},
 	{
 		"chinese": "她准时到达那里",
-		"english": "she gets there on time",
-		"soundmark": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "ta zhun shi dao da na li",
+		"soundmark": "tā zhǔn shí dào dá nà lǐ",
+		"englishGloss": "she gets there on time"
 	},
 	{
 		"chinese": "我准时到达那里",
-		"english": "I get there on time",
-		"soundmark": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "wo zhun shi dao da na li",
+		"soundmark": "wǒ zhǔn shí dào dá nà lǐ",
+		"englishGloss": "I get there on time"
 	},
 	{
 		"chinese": "你准时到达那里",
-		"english": "you get there on time",
-		"soundmark": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"pinyin": "ni zhun shi dao da na li",
+		"soundmark": "nǐ zhǔn shí dào dá nà lǐ",
+		"englishGloss": "you get there on time"
 	},
 	{
 		"chinese": "忘记",
-		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "to forget"
 	},
 	{
 		"chinese": "你忘记",
-		"english": "you forget",
-		"soundmark": "/ju/ /fɚ'ɡɛt/"
+		"pinyin": "ni wang ji",
+		"soundmark": "nǐ wàng jì",
+		"englishGloss": "you forget"
 	},
 	{
 		"chinese": "锁",
-		"english": "to lock",
-		"soundmark": "/tə/ /lɑk/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "to lock"
 	},
 	{
 		"chinese": "门",
-		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"pinyin": "men",
+		"soundmark": "mén",
+		"englishGloss": "the door"
 	},
 	{
 		"chinese": "锁门",
-		"english": "to lock the door",
-		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "suo men",
+		"soundmark": "suǒ mén",
+		"englishGloss": "to lock the door"
 	},
 	{
 		"chinese": "你忘记锁门",
-		"english": "you forget to lock the door",
-		"soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "ni wang ji suo men",
+		"soundmark": "nǐ wàng jì suǒ mén",
+		"englishGloss": "you forget to lock the door"
 	},
 	{
 		"chinese": "你不要忘记锁门",
-		"english": "you don't forget to lock the door",
-		"soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "ni bu yao wang ji suo men",
+		"soundmark": "nǐ bú yào wàng jì suǒ mén",
+		"englishGloss": "you don't forget to lock the door"
 	},
 	{
 		"chinese": "不要忘记锁门",
-		"english": "don't forget to lock the door",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "bu yao wang ji suo men",
+		"soundmark": "bú yào wàng jì suǒ mén",
+		"englishGloss": "don't forget to lock the door"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "房子；家",
-		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"pinyin": "fang zi ； jia",
+		"soundmark": "fáng zi ； jiā",
+		"englishGloss": "the house"
 	},
 	{
 		"chinese": "离开家",
-		"english": "to leave the house",
-		"soundmark": "/tə/ /liv/ /ðə/ /haʊs/"
+		"pinyin": "li kai jia",
+		"soundmark": "lí kāi jiā",
+		"englishGloss": "to leave the house"
 	},
 	{
 		"chinese": "你离开家",
-		"english": "you leave the house",
-		"soundmark": "/ju/ /liv/ /ðə/ /haʊs/"
+		"pinyin": "ni li kai jia",
+		"soundmark": "nǐ lí kāi jiā",
+		"englishGloss": "you leave the house"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你离开家的时候",
-		"english": "when you leave the house",
-		"soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+		"pinyin": "dang ni li kai jia de shi hou",
+		"soundmark": "dāng nǐ lí kāi jiā de shí hòu",
+		"englishGloss": "when you leave the house"
 	},
 	{
 		"chinese": "不要忘记锁门当你离开家的时候",
-		"english": "don't forget to lock the door when you leave the house",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+		"pinyin": "bu yao wang ji suo men dang ni li kai jia de shi hou",
+		"soundmark": "bú yào wàng jì suǒ mén dāng nǐ lí kāi jiā de shí hòu",
+		"englishGloss": "don't forget to lock the door when you leave the house"
 	},
 	{
 		"chinese": "记得",
-		"english": "to remember",
-		"soundmark": "/tə/ /rɪ'mɛmbɚ/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "to remember"
 	},
 	{
 		"chinese": "锁门",
-		"english": "to lock the door",
-		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "suo men",
+		"soundmark": "suǒ mén",
+		"englishGloss": "to lock the door"
 	},
 	{
 		"chinese": "你记得锁门",
-		"english": "you remember to lock the door",
-		"soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "ni ji de suo men",
+		"soundmark": "nǐ jì de suǒ mén",
+		"englishGloss": "you remember to lock the door"
 	},
 	{
 		"chinese": "记得锁门",
-		"english": "remember to lock the door",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"pinyin": "ji de suo men",
+		"soundmark": "jì de suǒ mén",
+		"englishGloss": "remember to lock the door"
 	},
 	{
 		"chinese": "记得锁门当你离开家的时候",
-		"english": "remember to lock the door when you leave the house",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+		"pinyin": "ji de suo men dang ni li kai jia de shi hou",
+		"soundmark": "jì de suǒ mén dāng nǐ lí kāi jiā de shí hòu",
+		"englishGloss": "remember to lock the door when you leave the house"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "告诉她",
-		"english": "to tell her",
-		"soundmark": "/tə/ /tɛl/ /hɚ/"
+		"pinyin": "gao su ta",
+		"soundmark": "gào sù tā",
+		"englishGloss": "to tell her"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉她事实",
-		"english": "to tell her the truth",
-		"soundmark": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+		"pinyin": "gao su ta shi shi",
+		"soundmark": "gào sù tā shì shí",
+		"englishGloss": "to tell her the truth"
 	},
 	{
 		"chinese": "记得告诉她事实",
-		"english": "remember to tell her the truth",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+		"pinyin": "ji de gao su ta shi shi",
+		"soundmark": "jì de gào sù tā shì shí",
+		"englishGloss": "remember to tell her the truth"
 	},
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "到达这里",
-		"english": "to get here",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/"
+		"pinyin": "dao da zhe li",
+		"soundmark": "dào dá zhè lǐ",
+		"englishGloss": "to get here"
 	},
 	{
 		"chinese": "我到达这里",
-		"english": "I get here",
-		"soundmark": "/aɪ/ /ɡɛt/ /hɪr/"
+		"pinyin": "wo dao da zhe li",
+		"soundmark": "wǒ dào dá zhè lǐ",
+		"englishGloss": "I get here"
 	},
 	{
 		"chinese": "她到达这里",
-		"english": "she gets here",
-		"soundmark": "/ʃi/ /ɡɛts/ /hɪr/"
+		"pinyin": "ta dao da zhe li",
+		"soundmark": "tā dào dá zhè lǐ",
+		"englishGloss": "she gets here"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当她到达这里的时候",
-		"english": "when she gets here",
-		"soundmark": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+		"pinyin": "dang ta dao da zhe li de shi hou",
+		"soundmark": "dāng tā dào dá zhè lǐ de shí hòu",
+		"englishGloss": "when she gets here"
 	},
 	{
 		"chinese": "记得告诉她事实当她到达这里的时候",
-		"english": "remember to tell her the truth when she gets here",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+		"pinyin": "ji de gao su ta shi shi dang ta dao da zhe li de shi hou",
+		"soundmark": "jì de gào sù tā shì shí dāng tā dào dá zhè lǐ de shí hòu",
+		"englishGloss": "remember to tell her the truth when she gets here"
 	},
 	{
 		"chinese": "不要忘记告诉她事实当她到达这里的时候",
-		"english": "don't forget to tell her the truth when she gets here",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+		"pinyin": "bu yao wang ji gao su ta shi shi dang ta dao da zhe li de shi hou",
+		"soundmark": "bú yào wàng jì gào sù tā shì shí dāng tā dào dá zhè lǐ de shí hòu",
+		"englishGloss": "don't forget to tell her the truth when she gets here"
 	},
 	{
 		"chinese": "支付",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "账单",
-		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"pinyin": "zhang dan",
+		"soundmark": "zhàng dān",
+		"englishGloss": "the bill"
 	},
 	{
 		"chinese": "支付账单",
-		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "zhi fu zhang dan",
+		"soundmark": "zhī fù zhàng dān",
+		"englishGloss": "to pay the bill"
 	},
 	{
 		"chinese": "记得支付账单",
-		"english": "remember to pay the bill",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "ji de zhi fu zhang dan",
+		"soundmark": "jì de zhī fù zhàng dān",
+		"englishGloss": "remember to pay the bill"
 	},
 	{
 		"chinese": "不要忘记支付账单",
-		"english": "don't forget to pay the bill",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/"
+		"pinyin": "bu yao wang ji zhi fu zhang dan",
+		"soundmark": "bú yào wàng jì zhī fù zhàng dān",
+		"englishGloss": "don't forget to pay the bill"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你离开的时候",
-		"english": "when you leave",
-		"soundmark": "/wɛn/ /ju/ /liv/"
+		"pinyin": "dang ni li kai de shi hou",
+		"soundmark": "dāng nǐ lí kāi de shí hòu",
+		"englishGloss": "when you leave"
 	},
 	{
 		"chinese": "不要忘记支付账单当你离开的时候",
-		"english": "don't forget to pay the bill when you leave",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+		"pinyin": "bu yao wang ji zhi fu zhang dan dang ni li kai de shi hou",
+		"soundmark": "bú yào wàng jì zhī fù zhàng dān dāng nǐ lí kāi de shí hòu",
+		"englishGloss": "don't forget to pay the bill when you leave"
 	},
 	{
 		"chinese": "记得支付账单当你离开的时候",
-		"english": "remember to pay the bill when you leave",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+		"pinyin": "ji de zhi fu zhang dan dang ni li kai de shi hou",
+		"soundmark": "jì de zhī fù zhàng dān dāng nǐ lí kāi de shí hòu",
+		"englishGloss": "remember to pay the bill when you leave"
 	},
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "家务",
-		"english": "the housework",
-		"soundmark": "/ðə/ /'haʊswɝk/"
+		"pinyin": "jia wu",
+		"soundmark": "jiā wù",
+		"englishGloss": "the housework"
 	},
 	{
 		"chinese": "做家务",
-		"english": "to do the housework",
-		"soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+		"pinyin": "zuo jia wu",
+		"soundmark": "zuò jiā wù",
+		"englishGloss": "to do the housework"
 	},
 	{
 		"chinese": "不要忘记做家务",
-		"english": "don't forget to do the housework",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+		"pinyin": "bu yao wang ji zuo jia wu",
+		"soundmark": "bú yào wàng jì zuò jiā wù",
+		"englishGloss": "don't forget to do the housework"
 	},
 	{
 		"chinese": "记得做家务",
-		"english": "remember to do the housework",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+		"pinyin": "ji de zuo jia wu",
+		"soundmark": "jì de zuò jiā wù",
+		"englishGloss": "remember to do the housework"
 	},
 	{
 		"chinese": "家",
-		"english": "home",
-		"soundmark": "/hom/"
+		"pinyin": "jia",
+		"soundmark": "jiā",
+		"englishGloss": "home"
 	},
 	{
 		"chinese": "在家里",
-		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"pinyin": "zai jia li",
+		"soundmark": "zài jiā lǐ",
+		"englishGloss": "at home"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你在家里",
-		"english": "you are at home",
-		"soundmark": "/ju/ /ɚ/ /ət/ /hom/"
+		"pinyin": "ni zai jia li",
+		"soundmark": "nǐ zài jiā lǐ",
+		"englishGloss": "you are at home"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你在家里的时候",
-		"english": "when you are at home",
-		"soundmark": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+		"pinyin": "dang ni zai jia li de shi hou",
+		"soundmark": "dāng nǐ zài jiā lǐ de shí hòu",
+		"englishGloss": "when you are at home"
 	},
 	{
 		"chinese": "记得做家务当你在家里的时候",
-		"english": "remember to do the housework when you are at home",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+		"pinyin": "ji de zuo jia wu dang ni zai jia li de shi hou",
+		"soundmark": "jì de zuò jiā wù dāng nǐ zài jiā lǐ de shí hòu",
+		"englishGloss": "remember to do the housework when you are at home"
 	},
 	{
 		"chinese": "不要忘记做家务当你在家里的时候",
-		"english": "don't forget to do the housework when you are at home",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+		"pinyin": "bu yao wang ji zuo jia wu dang ni zai jia li de shi hou",
+		"soundmark": "bú yào wàng jì zuò jiā wù dāng nǐ zài jiā lǐ de shí hòu",
+		"englishGloss": "don't forget to do the housework when you are at home"
 	},
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "手（复数）",
-		"english": "hands",
-		"soundmark": "/hændz/"
+		"pinyin": "shou （ fu shu ）",
+		"soundmark": "shǒu （ fù shù ）",
+		"englishGloss": "hands"
 	},
 	{
 		"chinese": "你的手",
-		"english": "your hands",
-		"soundmark": "/jʊr/ /hænds/"
+		"pinyin": "ni de shou",
+		"soundmark": "nǐ de shǒu",
+		"englishGloss": "your hands"
 	},
 	{
 		"chinese": "洗",
-		"english": "to wash",
-		"soundmark": "/tə/ /wɑʃ/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "to wash"
 	},
 	{
 		"chinese": "洗你的手",
-		"english": "to wash your hands",
-		"soundmark": "/tə/ /wɑʃ/ /jʊr/ /hænds/"
+		"pinyin": "xi ni de shou",
+		"soundmark": "xǐ nǐ de shǒu",
+		"englishGloss": "to wash your hands"
 	},
 	{
 		"chinese": "不要忘记",
-		"english": "don't forget",
-		"soundmark": "/dont/ /fɚ'ɡɛt/"
+		"pinyin": "bu yao wang ji",
+		"soundmark": "bú yào wàng jì",
+		"englishGloss": "don't forget"
 	},
 	{
 		"chinese": "不要忘记洗你的手",
-		"english": "don't forget to wash your hands",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/"
+		"pinyin": "bu yao wang ji xi ni de shou",
+		"soundmark": "bú yào wàng jì xǐ nǐ de shǒu",
+		"englishGloss": "don't forget to wash your hands"
 	},
 	{
 		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "to eat"
 	},
 	{
 		"chinese": "食物",
-		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"pinyin": "shi wu",
+		"soundmark": "shí wù",
+		"englishGloss": "the food"
 	},
 	{
 		"chinese": "吃食物",
-		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"pinyin": "chi shi wu",
+		"soundmark": "chī shí wù",
+		"englishGloss": "to eat the food"
 	},
 	{
 		"chinese": "你可以吃食物",
-		"english": "you can eat the food",
-		"soundmark": "/ju/ /kæn/ /it/ /ðə/ /fud/"
+		"pinyin": "ni ke yi chi shi wu",
+		"soundmark": "nǐ kě yǐ chī shí wù",
+		"englishGloss": "you can eat the food"
 	},
 	{
 		"chinese": "你吃食物",
-		"english": "you eat the food",
-		"soundmark": "/ju/ /it/ /ðə/ /fud/"
+		"pinyin": "ni chi shi wu",
+		"soundmark": "nǐ chī shí wù",
+		"englishGloss": "you eat the food"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在你吃食物之前",
-		"english": "before you eat the food",
-		"soundmark": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+		"pinyin": "zai ni chi shi wu zhi qian",
+		"soundmark": "zài nǐ chī shí wù zhī qián",
+		"englishGloss": "before you eat the food"
 	},
 	{
 		"chinese": "不要忘记洗你的手在你吃食物之前",
-		"english": "don't forget to wash your hands before you eat the food",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+		"pinyin": "bu yao wang ji xi ni de shou zai ni chi shi wu zhi qian",
+		"soundmark": "bú yào wàng jì xǐ nǐ de shǒu zài nǐ chī shí wù zhī qián",
+		"englishGloss": "don't forget to wash your hands before you eat the food"
 	},
 	{
 		"chinese": "记得洗你的手在你吃食物之前",
-		"english": "remember to wash your hands before you eat the food",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+		"pinyin": "ji de xi ni de shou zai ni chi shi wu zhi qian",
+		"soundmark": "jì de xǐ nǐ de shǒu zài nǐ chī shí wù zhī qián",
+		"englishGloss": "remember to wash your hands before you eat the food"
 	},
 	{
 		"chinese": "到达",
-		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"pinyin": "dao da",
+		"soundmark": "dào dá",
+		"englishGloss": "to get"
 	},
 	{
 		"chinese": "到达家；回到家",
-		"english": "to get home",
-		"soundmark": "/tə/ /ɡɛt/ /hom/"
+		"pinyin": "dao da jia ； hui dao jia",
+		"soundmark": "dào dá jiā ； huí dào jiā",
+		"englishGloss": "to get home"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "我需要回家",
-		"english": "I need to get home",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/"
+		"pinyin": "wo xu yao hui jia",
+		"soundmark": "wǒ xū yào huí jiā",
+		"englishGloss": "I need to get home"
 	},
 	{
 		"chinese": "应该",
-		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"pinyin": "ying gai",
+		"soundmark": "yīng gāi",
+		"englishGloss": "should"
 	},
 	{
 		"chinese": "我应该回家",
-		"english": "I should get home",
-		"soundmark": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/"
+		"pinyin": "wo ying gai hui jia",
+		"soundmark": "wǒ yīng gāi huí jiā",
+		"englishGloss": "I should get home"
 	},
 	{
 		"chinese": "我回家",
-		"english": "I get home",
-		"soundmark": "/aɪ/ /ɡɛt/ /hom/"
+		"pinyin": "wo hui jia",
+		"soundmark": "wǒ huí jiā",
+		"englishGloss": "I get home"
 	},
 	{
 		"chinese": "你回家",
-		"english": "you get home",
-		"soundmark": "/ju/ /ɡɛt/ /hom/"
+		"pinyin": "ni hui jia",
+		"soundmark": "nǐ huí jiā",
+		"englishGloss": "you get home"
 	},
 	{
 		"chinese": "打电话",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "给我打电话",
-		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"pinyin": "gei wo da dian hua",
+		"soundmark": "gěi wǒ dǎ diàn huà",
+		"englishGloss": "to call me"
 	},
 	{
 		"chinese": "记得给我打电话",
-		"english": "remember to call me",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/"
+		"pinyin": "ji de gei wo da dian hua",
+		"soundmark": "jì de gěi wǒ dǎ diàn huà",
+		"englishGloss": "remember to call me"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你回到家的时候",
-		"english": "when you get home",
-		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+		"pinyin": "dang ni hui dao jia de shi hou",
+		"soundmark": "dāng nǐ huí dào jiā de shí hòu",
+		"englishGloss": "when you get home"
 	},
 	{
 		"chinese": "记得给我打电话当你回到家的时候",
-		"english": "remember to call me when you get home",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"pinyin": "ji de gei wo da dian hua dang ni hui dao jia de shi hou",
+		"soundmark": "jì de gěi wǒ dǎ diàn huà dāng nǐ huí dào jiā de shí hòu",
+		"englishGloss": "remember to call me when you get home"
 	},
 	{
 		"chinese": "不要忘记",
-		"english": "don't forget",
-		"soundmark": "/dont/ /fɚ'ɡɛt/"
+		"pinyin": "bu yao wang ji",
+		"soundmark": "bú yào wàng jì",
+		"englishGloss": "don't forget"
 	},
 	{
 		"chinese": "不要忘记给我打电话当你回到家的时候",
-		"english": "don't forget to call me when you get home",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"pinyin": "bu yao wang ji gei wo da dian hua dang ni hui dao jia de shi hou",
+		"soundmark": "bú yào wàng jì gěi wǒ dǎ diàn huà dāng nǐ huí dào jiā de shí hòu",
+		"englishGloss": "don't forget to call me when you get home"
 	},
 	{
 		"chinese": "清理；打扫",
-		"english": "to clean",
-		"soundmark": "/tə/ /klin/"
+		"pinyin": "qing li ； da sao",
+		"soundmark": "qīng lǐ ； dǎ sǎo",
+		"englishGloss": "to clean"
 	},
 	{
 		"chinese": "房间",
-		"english": "the room",
-		"soundmark": "/ðə/ /rum/"
+		"pinyin": "fang jian",
+		"soundmark": "fáng jiān",
+		"englishGloss": "the room"
 	},
 	{
 		"chinese": "打扫房间",
-		"english": "to clean the room",
-		"soundmark": "/tə/ /klin/ /ðə/ /rum/"
+		"pinyin": "da sao fang jian",
+		"soundmark": "dǎ sǎo fáng jiān",
+		"englishGloss": "to clean the room"
 	},
 	{
 		"chinese": "不要忘记打扫房间",
-		"english": "don't forget to clean the room",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/"
+		"pinyin": "bu yao wang ji da sao fang jian",
+		"soundmark": "bú yào wàng jì dǎ sǎo fáng jiān",
+		"englishGloss": "don't forget to clean the room"
 	},
 	{
 		"chinese": "当你回到家的时候",
-		"english": "when you get home",
-		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+		"pinyin": "dang ni hui dao jia de shi hou",
+		"soundmark": "dāng nǐ huí dào jiā de shí hòu",
+		"englishGloss": "when you get home"
 	},
 	{
 		"chinese": "不要忘记打扫房间当你回到家的时候",
-		"english": "don't forget to clean the room when you get home",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"pinyin": "bu yao wang ji da sao fang jian dang ni hui dao jia de shi hou",
+		"soundmark": "bú yào wàng jì dǎ sǎo fáng jiān dāng nǐ huí dào jiā de shí hòu",
+		"englishGloss": "don't forget to clean the room when you get home"
 	},
 	{
 		"chinese": "记得打扫房间当你回到家的时候",
-		"english": "remember to clean the room when you get home",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"pinyin": "ji de da sao fang jian dang ni hui dao jia de shi hou",
+		"soundmark": "jì de dǎ sǎo fáng jiān dāng nǐ huí dào jiā de shí hòu",
+		"englishGloss": "remember to clean the room when you get home"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "钥匙",
-		"english": "the key",
-		"soundmark": "/ðə/ /ki/"
+		"pinyin": "yao shi",
+		"soundmark": "yào shi",
+		"englishGloss": "the key"
 	},
 	{
 		"chinese": "找到钥匙",
-		"english": "to find the key",
-		"soundmark": "/tə/ /faɪnd/ /ðə/ /ki/"
+		"pinyin": "zhao dao yao shi",
+		"soundmark": "zhǎo dào yào shi",
+		"englishGloss": "to find the key"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要找到钥匙",
-		"english": "I need to find the key",
-		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/"
+		"pinyin": "wo xu yao zhao dao yao shi",
+		"soundmark": "wǒ xū yào zhǎo dào yào shi",
+		"englishGloss": "I need to find the key"
 	},
 	{
 		"chinese": "门",
-		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"pinyin": "men",
+		"soundmark": "mén",
+		"englishGloss": "the door"
 	},
 	{
 		"chinese": "门的钥匙",
-		"english": "the key to the door",
-		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "men de yao shi",
+		"soundmark": "mén de yào shi",
+		"englishGloss": "the key to the door"
 	},
 	{
 		"chinese": "房子",
-		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"pinyin": "fang zi",
+		"soundmark": "fáng zi",
+		"englishGloss": "the house"
 	},
 	{
 		"chinese": "房子的钥匙",
-		"english": "the key to the house",
-		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+		"pinyin": "fang zi de yao shi",
+		"soundmark": "fáng zi de yào shi",
+		"englishGloss": "the key to the house"
 	},
 	{
 		"chinese": "我需要找到门的钥匙",
-		"english": "I need to find the key to the door",
-		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "wo xu yao zhao dao men de yao shi",
+		"soundmark": "wǒ xū yào zhǎo dào mén de yào shi",
+		"englishGloss": "I need to find the key to the door"
 	},
 	{
 		"chinese": "我必须找到房子的钥匙",
-		"english": "I have to find the key to the house",
-		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+		"pinyin": "wo bi xu zhao dao fang zi de yao shi",
+		"soundmark": "wǒ bì xū zhǎo dào fáng zi de yào shi",
+		"englishGloss": "I have to find the key to the house"
 	},
 	{
 		"chinese": "可以；能",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi ； neng",
+		"soundmark": "kě yǐ ； néng",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我能找到门的钥匙",
-		"english": "I can find the key to the door",
-		"soundmark": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "wo neng zhao dao men de yao shi",
+		"soundmark": "wǒ néng zhǎo dào mén de yào shi",
+		"englishGloss": "I can find the key to the door"
 	},
 	{
 		"chinese": "我不能找到门的钥匙",
-		"english": "I can not find the key to the door",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "wo bu neng zhao dao men de yao shi",
+		"soundmark": "wǒ bù néng zhǎo dào mén de yào shi",
+		"englishGloss": "I can not find the key to the door"
 	},
 	{
 		"chinese": "我不能找到房子的钥匙",
-		"english": "I can not find the key to the house",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+		"pinyin": "wo bu neng zhao dao fang zi de yao shi",
+		"soundmark": "wǒ bù néng zhǎo dào fáng zi de yào shi",
+		"englishGloss": "I can not find the key to the house"
 	},
 	{
 		"chinese": "弄丢了",
-		"english": "lost",
-		"soundmark": "/lɔst/"
+		"pinyin": "nong diu le",
+		"soundmark": "nòng diū le",
+		"englishGloss": "lost"
 	},
 	{
 		"chinese": "我弄丢了钥匙",
-		"english": "I lost the key",
-		"soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/"
+		"pinyin": "wo nong diu le yao shi",
+		"soundmark": "wǒ nòng diū le yào shi",
+		"englishGloss": "I lost the key"
 	},
 	{
 		"chinese": "门的钥匙",
-		"english": "the key to the door",
-		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "men de yao shi",
+		"soundmark": "mén de yào shi",
+		"englishGloss": "the key to the door"
 	},
 	{
 		"chinese": "我弄丢了门的钥匙",
-		"english": "I lost the key to the door",
-		"soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "wo nong diu le men de yao shi",
+		"soundmark": "wǒ nòng diū le mén de yào shi",
+		"englishGloss": "I lost the key to the door"
 	},
 	{
 		"chinese": "我觉得；我认为",
-		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"pinyin": "wo jue de ； wo ren wei",
+		"soundmark": "wǒ jué de ； wǒ rèn wéi",
+		"englishGloss": "I think"
 	},
 	{
 		"chinese": "我觉得我丢掉了门的钥匙",
-		"english": "I think I lost the key to the door",
-		"soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"pinyin": "wo jue de wo diu diao le men de yao shi",
+		"soundmark": "wǒ jué de wǒ diū diào le mén de yào shi",
+		"englishGloss": "I think I lost the key to the door"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "我不能找到它",
-		"english": "I can not find it",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+		"pinyin": "wo bu neng zhao dao ta",
+		"soundmark": "wǒ bù néng zhǎo dào tā",
+		"englishGloss": "I can not find it"
 	},
 	{
 		"chinese": "我觉得我丢掉了门的钥匙因为我不能找到它",
-		"english": "I think I lost the key to the door because I can not find it",
-		"soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+		"pinyin": "wo jue de wo diu diao le men de yao shi yin wei wo bu neng zhao dao ta",
+		"soundmark": "wǒ jué de wǒ diū diào le mén de yào shi yīn wèi wǒ bù néng zhǎo dào tā",
+		"englishGloss": "I think I lost the key to the door because I can not find it"
 	},
 	{
 		"chinese": "关闭",
-		"english": "to close",
-		"soundmark": "/tə/ /kloz/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "to close"
 	},
 	{
 		"chinese": "窗户",
-		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"pinyin": "chuang hu",
+		"soundmark": "chuāng hù",
+		"englishGloss": "the window"
 	},
 	{
 		"chinese": "关闭窗户",
-		"english": "to close the window",
-		"soundmark": "/tə/ /kloz/ /ðə/ /'wɪndo/"
+		"pinyin": "guan bi chuang hu",
+		"soundmark": "guān bì chuāng hù",
+		"englishGloss": "to close the window"
 	},
 	{
 		"chinese": "我想要关闭窗户",
-		"english": "I want to close the window",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"pinyin": "wo xiang yao guan bi chuang hu",
+		"soundmark": "wǒ xiǎng yào guān bì chuāng hù",
+		"englishGloss": "I want to close the window"
 	},
 	{
 		"chinese": "记得",
-		"english": "to remember",
-		"soundmark": "/tə/ /rɪ'mɛmbɚ/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "to remember"
 	},
 	{
 		"chinese": "你记得关闭窗户",
-		"english": "you remember to close the window",
-		"soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"pinyin": "ni ji de guan bi chuang hu",
+		"soundmark": "nǐ jì de guān bì chuāng hù",
+		"englishGloss": "you remember to close the window"
 	},
 	{
 		"chinese": "记得关闭窗户",
-		"english": "remember to close the window",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"pinyin": "ji de guan bi chuang hu",
+		"soundmark": "jì de guān bì chuāng hù",
+		"englishGloss": "remember to close the window"
 	},
 	{
 		"chinese": "不要忘记",
-		"english": "don't forget",
-		"soundmark": "/dont/ /fɚ'ɡɛt/"
+		"pinyin": "bu yao wang ji",
+		"soundmark": "bú yào wàng jì",
+		"englishGloss": "don't forget"
 	},
 	{
 		"chinese": "不要忘记关闭窗户",
-		"english": "don't forget to close the window",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"pinyin": "bu yao wang ji guan bi chuang hu",
+		"soundmark": "bú yào wàng jì guān bì chuāng hù",
+		"englishGloss": "don't forget to close the window"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你离开的时候",
-		"english": "when you leave",
-		"soundmark": "/wɛn/ /ju/ /liv/"
+		"pinyin": "dang ni li kai de shi hou",
+		"soundmark": "dāng nǐ lí kāi de shí hòu",
+		"englishGloss": "when you leave"
 	},
 	{
 		"chinese": "房间",
-		"english": "the room",
-		"soundmark": "/ðə/ /rum/"
+		"pinyin": "fang jian",
+		"soundmark": "fáng jiān",
+		"englishGloss": "the room"
 	},
 	{
 		"chinese": "当你离开房间的时候",
-		"english": "when you leave the room",
-		"soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /rum/"
+		"pinyin": "dang ni li kai fang jian de shi hou",
+		"soundmark": "dāng nǐ lí kāi fáng jiān de shí hòu",
+		"englishGloss": "when you leave the room"
 	},
 	{
 		"chinese": "不要忘记关闭窗户当你离开房间的时候",
-		"english": "don't forget to close the window when you leave the room",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+		"pinyin": "bu yao wang ji guan bi chuang hu dang ni li kai fang jian de shi hou",
+		"soundmark": "bú yào wàng jì guān bì chuāng hù dāng nǐ lí kāi fáng jiān de shí hòu",
+		"englishGloss": "don't forget to close the window when you leave the room"
 	},
 	{
 		"chinese": "记得关闭窗户当你离开房间的时候",
-		"english": "remember to close the window when you leave the room",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+		"pinyin": "ji de guan bi chuang hu dang ni li kai fang jian de shi hou",
+		"soundmark": "jì de guān bì chuāng hù dāng nǐ lí kāi fáng jiān de shí hòu",
+		"englishGloss": "remember to close the window when you leave the room"
 	}
 ]

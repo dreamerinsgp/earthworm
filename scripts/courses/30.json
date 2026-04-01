@@ -1,607 +1,728 @@
 [
 	{
 		"chinese": "注意到；察觉到",
-		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"pinyin": "zhu yi dao ； cha jue dao",
+		"soundmark": "zhù yì dào ； chá jué dào",
+		"englishGloss": "to notice"
 	},
 	{
 		"chinese": "你将会",
-		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"pinyin": "ni jiang hui",
+		"soundmark": "nǐ jiāng huì",
+		"englishGloss": "you will"
 	},
 	{
 		"chinese": "你将会注意到",
-		"english": "you will notice",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/"
+		"pinyin": "ni jiang hui zhu yi dao",
+		"soundmark": "nǐ jiāng huì zhù yì dào",
+		"englishGloss": "you will notice"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "你将会注意到那个",
-		"english": "you will notice that",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+		"pinyin": "ni jiang hui zhu yi dao na ge",
+		"soundmark": "nǐ jiāng huì zhù yì dào nà ge",
+		"englishGloss": "you will notice that"
 	},
 	{
 		"chinese": "付出",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "fu chu",
+		"soundmark": "fù chū",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "注意力",
-		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"pinyin": "zhu yi li",
+		"soundmark": "zhù yì lì",
+		"englishGloss": "attention"
 	},
 	{
 		"chinese": "付出注意力",
-		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"pinyin": "fu chu zhu yi li",
+		"soundmark": "fù chū zhù yì lì",
+		"englishGloss": "to pay attention"
 	},
 	{
 		"chinese": "付出注意力在......",
-		"english": "to pay attention to",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/"
+		"pinyin": "fu chu zhu yi li zai . . . . . .",
+		"soundmark": "fù chū zhù yì lì zài . . . . . .",
+		"englishGloss": "to pay attention to"
 	},
 	{
 		"chinese": "近的",
-		"english": "close",
-		"soundmark": "/kloz/"
+		"pinyin": "jin de",
+		"soundmark": "jìn de",
+		"englishGloss": "close"
 	},
 	{
 		"chinese": "密切关注",
-		"english": "to pay close attention",
-		"soundmark": "/tə/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"pinyin": "mi qie guan zhu",
+		"soundmark": "mì qiè guān zhù",
+		"englishGloss": "to pay close attention"
 	},
 	{
 		"chinese": "你密切关注",
-		"english": "you pay close attention",
-		"soundmark": "/ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"pinyin": "ni mi qie guan zhu",
+		"soundmark": "nǐ mì qiè guān zhù",
+		"englishGloss": "you pay close attention"
 	},
 	{
 		"chinese": "如果",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "ru guo",
+		"soundmark": "rú guǒ",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "如果你密切关注",
-		"english": "if you pay close attention",
-		"soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"pinyin": "ru guo ni mi qie guan zhu",
+		"soundmark": "rú guǒ nǐ mì qiè guān zhù",
+		"englishGloss": "if you pay close attention"
 	},
 	{
 		"chinese": "你将会注意到那个如果你密切关注",
-		"english": "you will notice that if you pay close attention",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"pinyin": "ni jiang hui zhu yi dao na ge ru guo ni mi qie guan zhu",
+		"soundmark": "nǐ jiāng huì zhù yì dào nà ge rú guǒ nǐ mì qiè guān zhù",
+		"englishGloss": "you will notice that if you pay close attention"
 	},
 	{
 		"chinese": "不同的",
-		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"pinyin": "bu tong de",
+		"soundmark": "bù tóng de",
+		"englishGloss": "different"
 	},
 	{
 		"chinese": "不同之处",
-		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"pinyin": "bu tong zhi chu",
+		"soundmark": "bù tóng zhī chù",
+		"englishGloss": "difference"
 	},
 	{
 		"chinese": "很多",
-		"english": "many",
-		"soundmark": "/'mɛni/"
+		"pinyin": "hen duo",
+		"soundmark": "hěn duō",
+		"englishGloss": "many"
 	},
 	{
 		"chinese": "很多不同之处",
-		"english": "many differences",
-		"soundmark": "/'mɛni/ /'dɪfrənsɪz/"
+		"pinyin": "hen duo bu tong zhi chu",
+		"soundmark": "hěn duō bù tóng zhī chù",
+		"englishGloss": "many differences"
 	},
 	{
 		"chinese": "存在（复数）",
-		"english": "there are",
-		"soundmark": "/ðɛr/ /ɚ/"
+		"pinyin": "cun zai （ fu shu ）",
+		"soundmark": "cún zài （ fù shù ）",
+		"englishGloss": "there are"
 	},
 	{
 		"chinese": "存在很多不同之处",
-		"english": "there are many differences",
-		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+		"pinyin": "cun zai hen duo bu tong zhi chu",
+		"soundmark": "cún zài hěn duō bù tóng zhī chù",
+		"englishGloss": "there are many differences"
 	},
 	{
 		"chinese": "美国的",
-		"english": "American",
-		"soundmark": "/ə'mɛrikən/"
+		"pinyin": "mei guo de",
+		"soundmark": "měi guó de",
+		"englishGloss": "American"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "美式英语",
-		"english": "American English",
-		"soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "mei shi ying yu",
+		"soundmark": "měi shì yīng yǔ",
+		"englishGloss": "American English"
 	},
 	{
 		"chinese": "英国的",
-		"english": "British",
-		"soundmark": "/'brɪtɪʃ/"
+		"pinyin": "ying guo de",
+		"soundmark": "yīng guó de",
+		"englishGloss": "British"
 	},
 	{
 		"chinese": "英式英语",
-		"english": "British English",
-		"soundmark": "/'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ying shi ying yu",
+		"soundmark": "yīng shì yīng yǔ",
+		"englishGloss": "British English"
 	},
 	{
 		"chinese": "美式英语和英式英语",
-		"english": "American English and British English",
-		"soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "mei shi ying yu he ying shi ying yu",
+		"soundmark": "měi shì yīng yǔ hé yīng shì yīng yǔ",
+		"englishGloss": "American English and British English"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "在美式英语和英式英语之间",
-		"english": "between American English and British English",
-		"soundmark": "/bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "zai mei shi ying yu he ying shi ying yu zhi jian",
+		"soundmark": "zài měi shì yīng yǔ hé yīng shì yīng yǔ zhī jiān",
+		"englishGloss": "between American English and British English"
 	},
 	{
 		"chinese": "存在很多不同之处",
-		"english": "there are many differences",
-		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+		"pinyin": "cun zai hen duo bu tong zhi chu",
+		"soundmark": "cún zài hěn duō bù tóng zhī chù",
+		"englishGloss": "there are many differences"
 	},
 	{
 		"chinese": "在美式英语和英式英语之间存在很多不同之处",
-		"english": "there are many differences between American English and British English",
-		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "zai mei shi ying yu he ying shi ying yu zhi jian cun zai hen duo bu tong zhi chu",
+		"soundmark": "zài měi shì yīng yǔ hé yīng shì yīng yǔ zhī jiān cún zài hěn duō bù tóng zhī chù",
+		"englishGloss": "there are many differences between American English and British English"
 	},
 	{
 		"chinese": "你将会注意到",
-		"english": "you will notice",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/"
+		"pinyin": "ni jiang hui zhu yi dao",
+		"soundmark": "nǐ jiāng huì zhù yì dào",
+		"englishGloss": "you will notice"
 	},
 	{
 		"chinese": "你将会注意到那个",
-		"english": "you will notice that",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+		"pinyin": "ni jiang hui zhu yi dao na ge",
+		"soundmark": "nǐ jiāng huì zhù yì dào nà ge",
+		"englishGloss": "you will notice that"
 	},
 	{
 		"chinese": "你将会注意到（那个）在美式英语和英式英语之间存在很多不同之处",
-		"english": "you will notice that there are many differences between American English and British",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /English/"
+		"pinyin": "ni jiang hui zhu yi dao （ na ge ） zai mei shi ying yu he ying shi ying yu zhi jian cun zai hen duo bu tong zhi chu",
+		"soundmark": "nǐ jiāng huì zhù yì dào （ nà ge ） zài měi shì yīng yǔ hé yīng shì yīng yǔ zhī jiān cún zài hěn duō bù tóng zhī chù",
+		"englishGloss": "you will notice that there are many differences between American English and British"
 	},
 	{
 		"chinese": "如果你密切关注",
-		"english": "if you pay close attention",
-		"soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"pinyin": "ru guo ni mi qie guan zhu",
+		"soundmark": "rú guǒ nǐ mì qiè guān zhù",
+		"englishGloss": "if you pay close attention"
 	},
 	{
 		"chinese": "你将会注意到（那个）在美式英语和英式英语之间存在很多不同之处如果你密切关注",
-		"english": "you will notice that there are many differences between American English and British English if you pay close attention",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"pinyin": "ni jiang hui zhu yi dao （ na ge ） zai mei shi ying yu he ying shi ying yu zhi jian cun zai hen duo bu tong zhi chu ru guo ni mi qie guan zhu",
+		"soundmark": "nǐ jiāng huì zhù yì dào （ nà ge ） zài měi shì yīng yǔ hé yīng shì yīng yǔ zhī jiān cún zài hěn duō bù tóng zhī chù rú guǒ nǐ mì qiè guān zhù",
+		"englishGloss": "you will notice that there are many differences between American English and British English if you pay close attention"
 	},
 	{
 		"chinese": "不同之处",
-		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"pinyin": "bu tong zhi chu",
+		"soundmark": "bù tóng zhī chù",
+		"englishGloss": "difference"
 	},
 	{
 		"chinese": "不同的",
-		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"pinyin": "bu tong de",
+		"soundmark": "bù tóng de",
+		"englishGloss": "different"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你是不同的",
-		"english": "you are different",
-		"soundmark": "/ju/ /ɚ/ /'dɪfrənt/"
+		"pinyin": "ni shi bu tong de",
+		"soundmark": "nǐ shì bù tóng de",
+		"englishGloss": "you are different"
 	},
 	{
 		"chinese": "假装",
-		"english": "to pretend",
-		"soundmark": "/tə/ /prɪˈtɛnd/"
+		"pinyin": "jia zhuang",
+		"soundmark": "jiǎ zhuāng",
+		"englishGloss": "to pretend"
 	},
 	{
 		"chinese": "你假装是不同的",
-		"english": "you pretend to be different",
-		"soundmark": "/ju/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"pinyin": "ni jia zhuang shi bu tong de",
+		"soundmark": "nǐ jiǎ zhuāng shì bù tóng de",
+		"englishGloss": "you pretend to be different"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你需要假装是不同的",
-		"english": "you need to pretend to be different",
-		"soundmark": "/ju/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"pinyin": "ni xu yao jia zhuang shi bu tong de",
+		"soundmark": "nǐ xū yào jiǎ zhuāng shì bù tóng de",
+		"englishGloss": "you need to pretend to be different"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你不需要假装是不同的",
-		"english": "you don't need to pretend to be different",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"pinyin": "ni bu xu yao jia zhuang shi bu tong de",
+		"soundmark": "nǐ bù xū yào jiǎ zhuāng shì bù tóng de",
+		"englishGloss": "you don't need to pretend to be different"
 	},
 	{
 		"chinese": "无辜的",
-		"english": "innocent",
-		"soundmark": "/ˈɪnəsnt/"
+		"pinyin": "wu gu de",
+		"soundmark": "wú gū de",
+		"englishGloss": "innocent"
 	},
 	{
 		"chinese": "你不需要假装是无辜的",
-		"english": "you don't need to pretend to be innocent",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ˈɪnəsnt/"
+		"pinyin": "ni bu xu yao jia zhuang shi wu gu de",
+		"soundmark": "nǐ bù xū yào jiǎ zhuāng shì wú gū de",
+		"englishGloss": "you don't need to pretend to be innocent"
 	},
 	{
 		"chinese": "我不想",
-		"english": "I don't want",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/"
+		"pinyin": "wo bu xiang",
+		"soundmark": "wǒ bù xiǎng",
+		"englishGloss": "I don't want"
 	},
 	{
 		"chinese": "我不想假装是不同的",
-		"english": "I don't want to pretend to be different",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"pinyin": "wo bu xiang jia zhuang shi bu tong de",
+		"soundmark": "wǒ bù xiǎng jiǎ zhuāng shì bù tóng de",
+		"englishGloss": "I don't want to pretend to be different"
 	},
 	{
 		"chinese": "那个人",
-		"english": "the person",
-		"soundmark": "/ðə/ /'pɝsn/"
+		"pinyin": "na ge ren",
+		"soundmark": "nà ge rén",
+		"englishGloss": "the person"
 	},
 	{
 		"chinese": "我不想假装是那个人",
-		"english": "I don't want to pretend to be the person",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"pinyin": "wo bu xiang jia zhuang shi na ge ren",
+		"soundmark": "wǒ bù xiǎng jiǎ zhuāng shì nà ge rén",
+		"englishGloss": "I don't want to pretend to be the person"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "医生",
-		"english": "doctor",
-		"soundmark": "/'dɑktɚ/"
+		"pinyin": "yi sheng",
+		"soundmark": "yī shēng",
+		"englishGloss": "doctor"
 	},
 	{
 		"chinese": "她是一名医生",
-		"english": "she is a doctor",
-		"soundmark": "/ʃi/ /ɪz/ /ə/ /'dɑktɚ/"
+		"pinyin": "ta shi yi ming yi sheng",
+		"soundmark": "tā shì yì míng yī shēng",
+		"englishGloss": "she is a doctor"
 	},
 	{
 		"chinese": "她想要",
-		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "she wants"
 	},
 	{
 		"chinese": "她想要成为一名医生",
-		"english": "she wants to be a doctor",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ə/ /'dɑktɚ/"
+		"pinyin": "ta xiang yao cheng wei yi ming yi sheng",
+		"soundmark": "tā xiǎng yào chéng wéi yì míng yī shēng",
+		"englishGloss": "she wants to be a doctor"
 	},
 	{
 		"chinese": "那个人",
-		"english": "the person",
-		"soundmark": "/ðə/ /'pɝsn/"
+		"pinyin": "na ge ren",
+		"soundmark": "nà ge rén",
+		"englishGloss": "the person"
 	},
 	{
 		"chinese": "她想要成为那个人",
-		"english": "she wants to be the person",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"pinyin": "ta xiang yao cheng wei na ge ren",
+		"soundmark": "tā xiǎng yào chéng wéi nà ge rén",
+		"englishGloss": "she wants to be the person"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "她想要我成为那个人",
-		"english": "she wants me to be the person",
-		"soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"pinyin": "ta xiang yao wo cheng wei na ge ren",
+		"soundmark": "tā xiǎng yào wǒ chéng wéi nà ge rén",
+		"englishGloss": "she wants me to be the person"
 	},
 	{
 		"chinese": "她想要我成为的那个人",
-		"english": "the person she wants me to be",
-		"soundmark": "/ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+		"pinyin": "ta xiang yao wo cheng wei de na ge ren",
+		"soundmark": "tā xiǎng yào wǒ chéng wéi de nà ge rén",
+		"englishGloss": "the person she wants me to be"
 	},
 	{
 		"chinese": "我不想假装是那个人",
-		"english": "I don't want to pretend to be the person",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"pinyin": "wo bu xiang jia zhuang shi na ge ren",
+		"soundmark": "wǒ bù xiǎng jiǎ zhuāng shì nà ge rén",
+		"englishGloss": "I don't want to pretend to be the person"
 	},
 	{
 		"chinese": "我不想假装是她想要我成为的那个人",
-		"english": "I don't want to pretend to be the person she wants me to be",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+		"pinyin": "wo bu xiang jia zhuang shi ta xiang yao wo cheng wei de na ge ren",
+		"soundmark": "wǒ bù xiǎng jiǎ zhuāng shì tā xiǎng yào wǒ chéng wéi de nà ge rén",
+		"englishGloss": "I don't want to pretend to be the person she wants me to be"
 	},
 	{
 		"chinese": "假装",
-		"english": "to pretend",
-		"soundmark": "/tə/ /prɪˈtɛnd/"
+		"pinyin": "jia zhuang",
+		"soundmark": "jiǎ zhuāng",
+		"englishGloss": "to pretend"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你不需要",
-		"english": "you don't need",
-		"soundmark": "/ju/ /dont/ /nid/"
+		"pinyin": "ni bu xu yao",
+		"soundmark": "nǐ bù xū yào",
+		"englishGloss": "you don't need"
 	},
 	{
 		"chinese": "你不需要假装",
-		"english": "you don't need to pretend",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/"
+		"pinyin": "ni bu xu yao jia zhuang",
+		"soundmark": "nǐ bù xū yào jiǎ zhuāng",
+		"englishGloss": "you don't need to pretend"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "你不需要假装（那个）",
-		"english": "you don't need to pretend that",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/"
+		"pinyin": "ni bu xu yao jia zhuang （ na ge ）",
+		"soundmark": "nǐ bù xū yào jiǎ zhuāng （ nà ge ）",
+		"englishGloss": "you don't need to pretend that"
 	},
 	{
 		"chinese": "注意到；察觉到",
-		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"pinyin": "zhu yi dao ； cha jue dao",
+		"soundmark": "zhù yì dào ； chá jué dào",
+		"englishGloss": "to notice"
 	},
 	{
 		"chinese": "你注意到",
-		"english": "you notice",
-		"soundmark": "/ju/ /ˈnotɪs/ /（过去）注意到 noticed/ /ˈnotɪst/"
+		"pinyin": "ni zhu yi dao",
+		"soundmark": "nǐ zhù yì dào",
+		"englishGloss": "you notice"
 	},
 	{
 		"chinese": "你（过去）注意到",
-		"english": "you noticed",
-		"soundmark": "/ju/ /ˈnotɪst/ /（过去）没有 didn't/ /ˈdɪdnt/"
+		"pinyin": "ni （ guo qu ） zhu yi dao",
+		"soundmark": "nǐ （ guò qù ） zhù yì dào",
+		"englishGloss": "you noticed"
 	},
 	{
 		"chinese": "你（过去）没有注意到",
-		"english": "you didn't notice",
-		"soundmark": "/ju/ /ˈdɪdnt/ /ˈnotɪs/"
+		"pinyin": "ni （ guo qu ） mei you zhu yi dao",
+		"soundmark": "nǐ （ guò qù ） méi yǒu zhù yì dào",
+		"englishGloss": "you didn't notice"
 	},
 	{
 		"chinese": "你不需要假装（那个）你（过去）没有注意到",
-		"english": "you don't need to pretend that you didn't notice",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/ /ju/ /ˈdɪdnt/ /ˈnotɪs/"
+		"pinyin": "ni bu xu yao jia zhuang （ na ge ） ni （ guo qu ） mei you zhu yi dao",
+		"soundmark": "nǐ bù xū yào jiǎ zhuāng （ nà ge ） nǐ （ guò qù ） méi yǒu zhù yì dào",
+		"englishGloss": "you don't need to pretend that you didn't notice"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "更",
-		"english": "more",
-		"soundmark": "/mɔr/"
+		"pinyin": "geng",
+		"soundmark": "gèng",
+		"englishGloss": "more"
 	},
 	{
 		"chinese": "它是更重要的",
-		"english": "it is more important",
-		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi geng zhong yao de",
+		"soundmark": "tā shì gèng zhòng yào de",
+		"englishGloss": "it is more important"
 	},
 	{
 		"chinese": "任何事情",
-		"english": "anything",
-		"soundmark": "/’ɛnɪθɪŋ/"
+		"pinyin": "ren he shi qing",
+		"soundmark": "rèn hé shì qíng",
+		"englishGloss": "anything"
 	},
 	{
 		"chinese": "比",
-		"english": "than",
-		"soundmark": "/ðæn/"
+		"pinyin": "bi",
+		"soundmark": "bǐ",
+		"englishGloss": "than"
 	},
 	{
 		"chinese": "比任何事情",
-		"english": "than anything",
-		"soundmark": "/ðæn/ /’ɛnɪθɪŋ/"
+		"pinyin": "bi ren he shi qing",
+		"soundmark": "bǐ rèn hé shì qíng",
+		"englishGloss": "than anything"
 	},
 	{
 		"chinese": "它是比任何事情更重要的",
-		"english": "it is more important than anything",
-		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+		"pinyin": "ta shi bi ren he shi qing geng zhong yao de",
+		"soundmark": "tā shì bǐ rèn hé shì qíng gèng zhòng yào de",
+		"englishGloss": "it is more important than anything"
 	},
 	{
 		"chinese": "其他的",
-		"english": "else",
-		"soundmark": "/ɛls/"
+		"pinyin": "qi ta de",
+		"soundmark": "qí tā de",
+		"englishGloss": "else"
 	},
 	{
 		"chinese": "其他的任何事情",
-		"english": "anything else",
-		"soundmark": "/’ɛnɪθɪŋ/ /ɛls/"
+		"pinyin": "qi ta de ren he shi qing",
+		"soundmark": "qí tā de rèn hé shì qíng",
+		"englishGloss": "anything else"
 	},
 	{
 		"chinese": "它是比其他的任何事情更重要的",
-		"english": "it is more important than anything else",
-		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+		"pinyin": "ta shi bi qi ta de ren he shi qing geng zhong yao de",
+		"soundmark": "tā shì bǐ qí tā de rèn hé shì qíng gèng zhòng yào de",
+		"englishGloss": "it is more important than anything else"
 	},
 	{
 		"chinese": "家庭",
-		"english": "family",
-		"soundmark": "/ˈfæməli/"
+		"pinyin": "jia ting",
+		"soundmark": "jiā tíng",
+		"englishGloss": "family"
 	},
 	{
 		"chinese": "比",
-		"english": "than",
-		"soundmark": "/ðæn/"
+		"pinyin": "bi",
+		"soundmark": "bǐ",
+		"englishGloss": "than"
 	},
 	{
 		"chinese": "比家庭",
-		"english": "than family",
-		"soundmark": "/ðæn/ /ˈfæməli/"
+		"pinyin": "bi jia ting",
+		"soundmark": "bǐ jiā tíng",
+		"englishGloss": "than family"
 	},
 	{
 		"chinese": "没有东西",
-		"english": "nothing",
-		"soundmark": "/'nʌθɪŋ/"
+		"pinyin": "mei you dong xi",
+		"soundmark": "méi yǒu dōng xī",
+		"englishGloss": "nothing"
 	},
 	{
 		"chinese": "没有东西比家庭是更重要的",
-		"english": "nothing is more important than family",
-		"soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈfæməli/"
+		"pinyin": "mei you dong xi bi jia ting shi geng zhong yao de",
+		"soundmark": "méi yǒu dōng xī bǐ jiā tíng shì gèng zhòng yào de",
+		"englishGloss": "nothing is more important than family"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "船",
-		"english": "ship",
-		"soundmark": "/ʃɪp/"
+		"pinyin": "chuan",
+		"soundmark": "chuán",
+		"englishGloss": "ship"
 	},
 	{
 		"chinese": "友谊",
-		"english": "friendship",
-		"soundmark": "/ˈfrɛndʃɪp/"
+		"pinyin": "you yi",
+		"soundmark": "yǒu yì",
+		"englishGloss": "friendship"
 	},
 	{
 		"chinese": "我们的",
-		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"pinyin": "wo men de",
+		"soundmark": "wǒ men de",
+		"englishGloss": "our"
 	},
 	{
 		"chinese": "我们的友谊",
-		"english": "our friendship",
-		"soundmark": "/'aʊɚ/ /ˈfrɛndʃɪp/"
+		"pinyin": "wo men de you yi",
+		"soundmark": "wǒ men de yǒu yì",
+		"englishGloss": "our friendship"
 	},
 	{
 		"chinese": "没有东西比我们的友谊是更重要的",
-		"english": "nothing is more important than our friendship",
-		"soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /'aʊɚ/ /ˈfrɛndʃɪp/ /A比B是更重要的 A is more important than B/ /e/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /bi/"
+		"pinyin": "mei you dong xi bi wo men de you yi shi geng zhong yao de",
+		"soundmark": "méi yǒu dōng xī bǐ wǒ men de yǒu yì shì gèng zhòng yào de",
+		"englishGloss": "nothing is more important than our friendship"
 	},
 	{
 		"chinese": "家庭",
-		"english": "family",
-		"soundmark": "/ˈfæməli/"
+		"pinyin": "jia ting",
+		"soundmark": "jiā tíng",
+		"englishGloss": "family"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的家庭",
-		"english": "my family",
-		"soundmark": "/maɪ/ /ˈfæməli/"
+		"pinyin": "wo de jia ting",
+		"soundmark": "wǒ de jiā tíng",
+		"englishGloss": "my family"
 	},
 	{
 		"chinese": "任何事情",
-		"english": "anything",
-		"soundmark": "/’ɛnɪθɪŋ/"
+		"pinyin": "ren he shi qing",
+		"soundmark": "rèn hé shì qíng",
+		"englishGloss": "anything"
 	},
 	{
 		"chinese": "我的家庭比任何事情是更重要的",
-		"english": "my family is more important than anything",
-		"soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+		"pinyin": "wo de jia ting bi ren he shi qing shi geng zhong yao de",
+		"soundmark": "wǒ de jiā tíng bǐ rèn hé shì qíng shì gèng zhòng yào de",
+		"englishGloss": "my family is more important than anything"
 	},
 	{
 		"chinese": "其他的",
-		"english": "else",
-		"soundmark": "/ɛls/"
+		"pinyin": "qi ta de",
+		"soundmark": "qí tā de",
+		"englishGloss": "else"
 	},
 	{
 		"chinese": "我的家庭比其他的任何事情是更重要的",
-		"english": "my family is more important than anything else",
-		"soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+		"pinyin": "wo de jia ting bi qi ta de ren he shi qing shi geng zhong yao de",
+		"soundmark": "wǒ de jiā tíng bǐ qí tā de rèn hé shì qíng shì gèng zhòng yào de",
+		"englishGloss": "my family is more important than anything else"
 	},
 	{
 		"chinese": "生活；生命",
-		"english": "life",
-		"soundmark": "/laɪf/"
+		"pinyin": "sheng huo ； sheng ming",
+		"soundmark": "shēng huó ； shēng mìng",
+		"englishGloss": "life"
 	},
 	{
 		"chinese": "人",
-		"english": "man",
-		"soundmark": "/mæn/"
+		"pinyin": "ren",
+		"soundmark": "rén",
+		"englishGloss": "man"
 	},
 	{
 		"chinese": "人的生命",
-		"english": "man's life",
-		"soundmark": "/mænz/ /laɪf/"
+		"pinyin": "ren de sheng ming",
+		"soundmark": "rén de shēng mìng",
+		"englishGloss": "man's life"
 	},
 	{
 		"chinese": "一个人的生命",
-		"english": "a man's life",
-		"soundmark": "/ə/ /mænz/ /laɪf/"
+		"pinyin": "yi ge ren de sheng ming",
+		"soundmark": "yí gè rén de shēng mìng",
+		"englishGloss": "a man's life"
 	},
 	{
 		"chinese": "金钱",
-		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"pinyin": "jin qian",
+		"soundmark": "jīn qián",
+		"englishGloss": "money"
 	},
 	{
 		"chinese": "一个人的生命比金钱是更重要的",
-		"english": "a man's life is more important than money",
-		"soundmark": "/ə/ /mænz/ /laɪf/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈmʌni/"
+		"pinyin": "yi ge ren de sheng ming bi jin qian shi geng zhong yao de",
+		"soundmark": "yí gè rén de shēng mìng bǐ jīn qián shì gèng zhòng yào de",
+		"englishGloss": "a man's life is more important than money"
 	},
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你做",
-		"english": "you do",
-		"soundmark": "/ju/ /du/"
+		"pinyin": "ni zuo",
+		"soundmark": "nǐ zuò",
+		"englishGloss": "you do"
 	},
 	{
 		"chinese": "那件事情",
-		"english": "the thing",
-		"soundmark": "/ðə/ /θɪŋ/"
+		"pinyin": "na jian shi qing",
+		"soundmark": "nà jiàn shì qíng",
+		"englishGloss": "the thing"
 	},
 	{
 		"chinese": "你做的那件事情",
-		"english": "the thing you do",
-		"soundmark": "/ðə/ /θɪŋ/ /ju/ /du/"
+		"pinyin": "ni zuo de na jian shi qing",
+		"soundmark": "nǐ zuò de nà jiàn shì qíng",
+		"englishGloss": "the thing you do"
 	},
 	{
 		"chinese": "你做的内容",
-		"english": "what you do",
-		"soundmark": "/wɑt/ /ju/ /du/"
+		"pinyin": "ni zuo de nei rong",
+		"soundmark": "nǐ zuò de nèi róng",
+		"englishGloss": "what you do"
 	},
 	{
 		"chinese": "说",
-		"english": "to say",
-		"soundmark": "/tə/ /se/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to say"
 	},
 	{
 		"chinese": "你说",
-		"english": "you say",
-		"soundmark": "/ju/ /se/"
+		"pinyin": "ni shuo",
+		"soundmark": "nǐ shuō",
+		"englishGloss": "you say"
 	},
 	{
 		"chinese": "你说的内容",
-		"english": "what you say",
-		"soundmark": "/wɑt/ /ju/ /se/ /A比B是更重要的 A is more important than B/ /e/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /bi/"
+		"pinyin": "ni shuo de nei rong",
+		"soundmark": "nǐ shuō de nèi róng",
+		"englishGloss": "what you say"
 	},
 	{
 		"chinese": "你做的内容比你说的内容是更重要的",
-		"english": "what you do is more important than what you say",
-		"soundmark": "/wɑt/ /ju/ /du/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /wɑt/ /ju/ /se/"
+		"pinyin": "ni zuo de nei rong bi ni shuo de nei rong shi geng zhong yao de",
+		"soundmark": "nǐ zuò de nèi róng bǐ nǐ shuō de nèi róng shì gèng zhòng yào de",
+		"englishGloss": "what you do is more important than what you say"
 	}
 ]

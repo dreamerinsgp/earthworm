@@ -1,917 +1,1100 @@
 [
 	{
 		"chinese": "清洗",
-		"english": "to wash",
-		"soundmark": "/tə/ /wɔʃ/"
+		"pinyin": "qing xi",
+		"soundmark": "qīng xǐ",
+		"englishGloss": "to wash"
 	},
 	{
 		"chinese": "清洗（ed形式）",
-		"english": "washed",
-		"soundmark": "/wɔʃt/"
+		"pinyin": "qing xi （ e d xing shi ）",
+		"soundmark": "qīng xǐ （ e d xíng shì ）",
+		"englishGloss": "washed"
 	},
 	{
 		"chinese": "被清洗了",
-		"english": "be washed",
-		"soundmark": "/bi/ /wɔʃt/"
+		"pinyin": "bei qing xi le",
+		"soundmark": "bèi qīng xǐ le",
+		"englishGloss": "be washed"
 	},
 	{
 		"chinese": "这辆车",
-		"english": "the car",
-		"soundmark": "/ðə/ /kɑr/"
+		"pinyin": "zhe liang che",
+		"soundmark": "zhè liàng chē",
+		"englishGloss": "the car"
 	},
 	{
 		"chinese": "这辆车被清洗了",
-		"english": "the car is washed",
-		"soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/"
+		"pinyin": "zhe liang che bei qing xi le",
+		"soundmark": "zhè liàng chē bèi qīng xǐ le",
+		"englishGloss": "the car is washed"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "通过",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo",
+		"soundmark": "tōng guò",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过他",
-		"english": "by him",
-		"soundmark": "/baɪ/ /hɪm/"
+		"pinyin": "tong guo ta",
+		"soundmark": "tōng guò tā",
+		"englishGloss": "by him"
 	},
 	{
 		"chinese": "这辆车通过他被清洗了",
-		"english": "the car is washed by him",
-		"soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/ /baɪ/ /hɪm/"
+		"pinyin": "zhe liang che tong guo ta bei qing xi le",
+		"soundmark": "zhè liàng chē tōng guò tā bèi qīng xǐ le",
+		"englishGloss": "the car is washed by him"
 	},
 	{
 		"chinese": "这辆车（过去）被他清洗了",
-		"english": "the car was washed by him",
-		"soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/"
+		"pinyin": "zhe liang che （ guo qu ） bei ta qing xi le",
+		"soundmark": "zhè liàng chē （ guò qù ） bèi tā qīng xǐ le",
+		"englishGloss": "the car was washed by him"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "这辆车昨天被他清洗了",
-		"english": "the car was washed by him yesterday",
-		"soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/ /'jɛstɚde/"
+		"pinyin": "zhe liang che zuo tian bei ta qing xi le",
+		"soundmark": "zhè liàng chē zuó tiān bèi tā qīng xǐ le",
+		"englishGloss": "the car was washed by him yesterday"
 	},
 	{
 		"chinese": "回答",
-		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "to answer"
 	},
 	{
 		"chinese": "回答（ed形式）",
-		"english": "answered",
-		"soundmark": "/'ænsɚd/"
+		"pinyin": "hui da （ e d xing shi ）",
+		"soundmark": "huí dá （ e d xíng shì ）",
+		"englishGloss": "answered"
 	},
 	{
 		"chinese": "被回答了",
-		"english": "be answered",
-		"soundmark": "/bi/ /'ænsɚd/"
+		"pinyin": "bei hui da le",
+		"soundmark": "bèi huí dá le",
+		"englishGloss": "be answered"
 	},
 	{
 		"chinese": "这个问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "这个问题被回答了",
-		"english": "the question is answered",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/"
+		"pinyin": "zhe ge wen ti bei hui da le",
+		"soundmark": "zhè ge wèn tí bèi huí dá le",
+		"englishGloss": "the question is answered"
 	},
 	{
 		"chinese": "那个学生",
-		"english": "the student",
-		"soundmark": "/ðə/ /'studnt/"
+		"pinyin": "na ge xue sheng",
+		"soundmark": "nà ge xué shēng",
+		"englishGloss": "the student"
 	},
 	{
 		"chinese": "通过那个学生",
-		"english": "by the student",
-		"soundmark": "/baɪ/ /ðə/ /'studnt/"
+		"pinyin": "tong guo na ge xue sheng",
+		"soundmark": "tōng guò nà ge xué shēng",
+		"englishGloss": "by the student"
 	},
 	{
 		"chinese": "这个问题被那个学生回答了",
-		"english": "the question is answered by the student",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+		"pinyin": "zhe ge wen ti bei na ge xue sheng hui da le",
+		"soundmark": "zhè ge wèn tí bèi nà ge xué shēng huí dá le",
+		"englishGloss": "the question is answered by the student"
 	},
 	{
 		"chinese": "这个问题（过去）被那个学生回答了",
-		"english": "the question was answered by the student",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+		"pinyin": "zhe ge wen ti （ guo qu ） bei na ge xue sheng hui da le",
+		"soundmark": "zhè ge wèn tí （ guò qù ） bèi nà ge xué shēng huí dá le",
+		"englishGloss": "the question was answered by the student"
 	},
 	{
 		"chinese": "解决",
-		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"pinyin": "jie jue",
+		"soundmark": "jiě jué",
+		"englishGloss": "to solve"
 	},
 	{
 		"chinese": "解决（ed形式）",
-		"english": "solved",
-		"soundmark": "/sɑlvd/"
+		"pinyin": "jie jue （ e d xing shi ）",
+		"soundmark": "jiě jué （ e d xíng shì ）",
+		"englishGloss": "solved"
 	},
 	{
 		"chinese": "被解决了",
-		"english": "be solved",
-		"soundmark": "/bi/ /sɑlvd/"
+		"pinyin": "bei jie jue le",
+		"soundmark": "bèi jiě jué le",
+		"englishGloss": "be solved"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "那个问题被解决了",
-		"english": "the problem is solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɑlvd/"
+		"pinyin": "na ge wen ti bei jie jue le",
+		"soundmark": "nà ge wèn tí bèi jiě jué le",
+		"englishGloss": "the problem is solved"
 	},
 	{
 		"chinese": "那个问题（过去）被解决了",
-		"english": "the problem was solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /wəz/ /sɑlvd/"
+		"pinyin": "na ge wen ti （ guo qu ） bei jie jue le",
+		"soundmark": "nà ge wèn tí （ guò qù ） bèi jiě jué le",
+		"englishGloss": "the problem was solved"
 	},
 	{
 		"chinese": "紧急",
-		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"pinyin": "jin ji",
+		"soundmark": "jǐn jí",
+		"englishGloss": "urgent"
 	},
 	{
 		"chinese": "那个紧急的问题",
-		"english": "the urgent problem",
-		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/"
+		"pinyin": "na ge jin ji de wen ti",
+		"soundmark": "nà ge jǐn jí de wèn tí",
+		"englishGloss": "the urgent problem"
 	},
 	{
 		"chinese": "那个紧急的问题（过去）被解决了",
-		"english": "the urgent problem was solved",
-		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/"
+		"pinyin": "na ge jin ji de wen ti （ guo qu ） bei jie jue le",
+		"soundmark": "nà ge jǐn jí de wèn tí （ guò qù ） bèi jiě jué le",
+		"englishGloss": "the urgent problem was solved"
 	},
 	{
 		"chinese": "他们",
-		"english": "them",
-		"soundmark": "/ðəm/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "them"
 	},
 	{
 		"chinese": "通过他们",
-		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"pinyin": "tong guo ta men",
+		"soundmark": "tōng guò tā men",
+		"englishGloss": "by them"
 	},
 	{
 		"chinese": "那个紧急的问题（过去）被他们解决了",
-		"english": "the urgent problem was solved by them",
-		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/ /baɪ/ /ðəm/"
+		"pinyin": "na ge jin ji de wen ti （ guo qu ） bei ta men jie jue le",
+		"soundmark": "nà ge jǐn jí de wèn tí （ guò qù ） bèi tā men jiě jué le",
+		"englishGloss": "the urgent problem was solved by them"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "告诉（ed形式）",
-		"english": "told",
-		"soundmark": "/told/"
+		"pinyin": "gao su （ e d xing shi ）",
+		"soundmark": "gào sù （ e d xíng shì ）",
+		"englishGloss": "told"
 	},
 	{
 		"chinese": "被告诉",
-		"english": "be told",
-		"soundmark": "/bi/ /told/"
+		"pinyin": "bei gao su",
+		"soundmark": "bèi gào sù",
+		"englishGloss": "be told"
 	},
 	{
 		"chinese": "故事",
-		"english": "story",
-		"soundmark": "/'stɔri/"
+		"pinyin": "gu shi",
+		"soundmark": "gù shì",
+		"englishGloss": "story"
 	},
 	{
 		"chinese": "这个故事",
-		"english": "the story",
-		"soundmark": "/ðə/ /'stɔri/"
+		"pinyin": "zhe ge gu shi",
+		"soundmark": "zhè ge gù shì",
+		"englishGloss": "the story"
 	},
 	{
 		"chinese": "这个故事被讲述",
-		"english": "the story is told",
-		"soundmark": "/ðə/ /'stɔri/ /ɪz/ /told/"
+		"pinyin": "zhe ge gu shi bei jiang shu",
+		"soundmark": "zhè ge gù shì bèi jiǎng shù",
+		"englishGloss": "the story is told"
 	},
 	{
 		"chinese": "这个故事（过去）被讲述",
-		"english": "the story was told",
-		"soundmark": "/ðə/ /'stɔri/ /wəz/ /told/"
+		"pinyin": "zhe ge gu shi （ guo qu ） bei jiang shu",
+		"soundmark": "zhè ge gù shì （ guò qù ） bèi jiǎng shù",
+		"englishGloss": "the story was told"
 	},
 	{
 		"chinese": "父亲",
-		"english": "father",
-		"soundmark": "/'fɑðɚ/"
+		"pinyin": "fu qin",
+		"soundmark": "fù qīn",
+		"englishGloss": "father"
 	},
 	{
 		"chinese": "爷爷",
-		"english": "grandfather",
-		"soundmark": "/'grænfɑðɚ/"
+		"pinyin": "ye ye",
+		"soundmark": "yé ye",
+		"englishGloss": "grandfather"
 	},
 	{
 		"chinese": "我的爷爷",
-		"english": "my grandfather",
-		"soundmark": "/maɪ/ /'grænfɑðɚ/"
+		"pinyin": "wo de ye ye",
+		"soundmark": "wǒ de yé ye",
+		"englishGloss": "my grandfather"
 	},
 	{
 		"chinese": "通过我的爷爷",
-		"english": "by my grandfather",
-		"soundmark": "/baɪ/ /maɪ/ /'grænfɑðɚ/"
+		"pinyin": "tong guo wo de ye ye",
+		"soundmark": "tōng guò wǒ de yé ye",
+		"englishGloss": "by my grandfather"
 	},
 	{
 		"chinese": "这个故事（过去）被我的爷爷讲述",
-		"english": "the story was told by my grandfather",
-		"soundmark": "/ðə/ /'stɔri/ /wəz/ /told/ /baɪ/ /maɪ/ /'grænfɑðɚ/"
+		"pinyin": "zhe ge gu shi （ guo qu ） bei wo de ye ye jiang shu",
+		"soundmark": "zhè ge gù shì （ guò qù ） bèi wǒ de yé ye jiǎng shù",
+		"englishGloss": "the story was told by my grandfather"
 	},
 	{
 		"chinese": "被告诉",
-		"english": "be told",
-		"soundmark": "/bi/ /told/"
+		"pinyin": "bei gao su",
+		"soundmark": "bèi gào sù",
+		"englishGloss": "be told"
 	},
 	{
 		"chinese": "她（过去）被告诉",
-		"english": "she was told",
-		"soundmark": "/ʃi/ /wəz/ /told/"
+		"pinyin": "ta （ guo qu ） bei gao su",
+		"soundmark": "tā （ guò qù ） bèi gào sù",
+		"englishGloss": "she was told"
 	},
 	{
 		"chinese": "喝",
-		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "to drink"
 	},
 	{
 		"chinese": "水",
-		"english": "water",
-		"soundmark": "/'wɔtɚ/"
+		"pinyin": "shui",
+		"soundmark": "shuǐ",
+		"englishGloss": "water"
 	},
 	{
 		"chinese": "喝水",
-		"english": "to drink water",
-		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/"
+		"pinyin": "he shui",
+		"soundmark": "hē shuǐ",
+		"englishGloss": "to drink water"
 	},
 	{
 		"chinese": "更多",
-		"english": "more",
-		"soundmark": "/mɔr/"
+		"pinyin": "geng duo",
+		"soundmark": "gèng duō",
+		"englishGloss": "more"
 	},
 	{
 		"chinese": "喝更多的水",
-		"english": "to drink more water",
-		"soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"pinyin": "he geng duo de shui",
+		"soundmark": "hē gèng duō de shuǐ",
+		"englishGloss": "to drink more water"
 	},
 	{
 		"chinese": "她（过去）被告诉",
-		"english": "she was told",
-		"soundmark": "/ʃi/ /wəz/ /told/"
+		"pinyin": "ta （ guo qu ） bei gao su",
+		"soundmark": "tā （ guò qù ） bèi gào sù",
+		"englishGloss": "she was told"
 	},
 	{
 		"chinese": "她（过去）被告诉喝更多的水",
-		"english": "she was told to drink more water",
-		"soundmark": "/ʃi/ /wəz/ /told/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"pinyin": "ta （ guo qu ） bei gao su he geng duo de shui",
+		"soundmark": "tā （ guò qù ） bèi gào sù hē gèng duō de shuǐ",
+		"englishGloss": "she was told to drink more water"
 	},
 	{
 		"chinese": "医生",
-		"english": "the doctor",
-		"soundmark": "/ðə/ /'dɑktɚ/"
+		"pinyin": "yi sheng",
+		"soundmark": "yī shēng",
+		"englishGloss": "the doctor"
 	},
 	{
 		"chinese": "通过医生",
-		"english": "by the doctor",
-		"soundmark": "/baɪ/ /ðə/ /'dɑktɚ/"
+		"pinyin": "tong guo yi sheng",
+		"soundmark": "tōng guò yī shēng",
+		"englishGloss": "by the doctor"
 	},
 	{
 		"chinese": "她被医生告诉",
-		"english": "she was told by the doctor",
-		"soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/"
+		"pinyin": "ta bei yi sheng gao su",
+		"soundmark": "tā bèi yī shēng gào sù",
+		"englishGloss": "she was told by the doctor"
 	},
 	{
 		"chinese": "喝更多的水",
-		"english": "to drink more water",
-		"soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"pinyin": "he geng duo de shui",
+		"soundmark": "hē gèng duō de shuǐ",
+		"englishGloss": "to drink more water"
 	},
 	{
 		"chinese": "她（过去）被医生告诉喝更多的水",
-		"english": "she was told by the doctor to drink more water",
-		"soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"pinyin": "ta （ guo qu ） bei yi sheng gao su he geng duo de shui",
+		"soundmark": "tā （ guò qù ） bèi yī shēng gào sù hē gèng duō de shuǐ",
+		"englishGloss": "she was told by the doctor to drink more water"
 	},
 	{
 		"chinese": "水",
-		"english": "water",
-		"soundmark": "/'wɔtɚ/"
+		"pinyin": "shui",
+		"soundmark": "shuǐ",
+		"englishGloss": "water"
 	},
 	{
 		"chinese": "浇水",
-		"english": "to water",
-		"soundmark": "/tə/ /'wɔtɚ/"
+		"pinyin": "jiao shui",
+		"soundmark": "jiāo shuǐ",
+		"englishGloss": "to water"
 	},
 	{
 		"chinese": "浇水（ed形式）",
-		"english": "watered",
-		"soundmark": "/'wɔtɚd/"
+		"pinyin": "jiao shui （ e d xing shi ）",
+		"soundmark": "jiāo shuǐ （ e d xíng shì ）",
+		"englishGloss": "watered"
 	},
 	{
 		"chinese": "被浇水",
-		"english": "be watered",
-		"soundmark": "/bi/ /'wɔtɚd/"
+		"pinyin": "bei jiao shui",
+		"soundmark": "bèi jiāo shuǐ",
+		"englishGloss": "be watered"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "将会被浇水",
-		"english": "will be watered",
-		"soundmark": "/wɪl/ /bi/ /'wɔtɚd/"
+		"pinyin": "jiang hui bei jiao shui",
+		"soundmark": "jiāng huì bèi jiāo shuǐ",
+		"englishGloss": "will be watered"
 	},
 	{
 		"chinese": "花",
-		"english": "flower",
-		"soundmark": "/'flaʊɚ/"
+		"pinyin": "hua",
+		"soundmark": "huā",
+		"englishGloss": "flower"
 	},
 	{
 		"chinese": "这些花",
-		"english": "the flowers",
-		"soundmark": "/ðə/ /'flaʊɚz/"
+		"pinyin": "zhe xie hua",
+		"soundmark": "zhè xiē huā",
+		"englishGloss": "the flowers"
 	},
 	{
 		"chinese": "这些花将会被浇水",
-		"english": "the flowers will be watered",
-		"soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/"
+		"pinyin": "zhe xie hua jiang hui bei jiao shui",
+		"soundmark": "zhè xiē huā jiāng huì bèi jiāo shuǐ",
+		"englishGloss": "the flowers will be watered"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "通过我",
-		"english": "by me",
-		"soundmark": "/baɪ/ /mi/"
+		"pinyin": "tong guo wo",
+		"soundmark": "tōng guò wǒ",
+		"englishGloss": "by me"
 	},
 	{
 		"chinese": "这些花将会被我浇水",
-		"english": "the flowers will be watered by me",
-		"soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/ /baɪ/ /mi/"
+		"pinyin": "zhe xie hua jiang hui bei wo jiao shui",
+		"soundmark": "zhè xiē huā jiāng huì bèi wǒ jiāo shuǐ",
+		"englishGloss": "the flowers will be watered by me"
 	},
 	{
 		"chinese": "说",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "演讲者",
-		"english": "speaker",
-		"soundmark": "/'spikɚ/"
+		"pinyin": "yan jiang zhe",
+		"soundmark": "yǎn jiǎng zhě",
+		"englishGloss": "speaker"
 	},
 	{
 		"chinese": "那个演讲者",
-		"english": "the speaker",
-		"soundmark": "/ðə/ /'spikɚ/"
+		"pinyin": "na ge yan jiang zhe",
+		"soundmark": "nà ge yǎn jiǎng zhě",
+		"englishGloss": "the speaker"
 	},
 	{
 		"chinese": "邀请",
-		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "to invite"
 	},
 	{
 		"chinese": "邀请（ed形式）",
-		"english": "invited",
-		"soundmark": "/ɪn'vaɪtɪd/"
+		"pinyin": "yao qing （ e d xing shi ）",
+		"soundmark": "yāo qǐng （ e d xíng shì ）",
+		"englishGloss": "invited"
 	},
 	{
 		"chinese": "被邀请",
-		"english": "be invited",
-		"soundmark": "/bi/ /ɪn'vaɪtɪd/"
+		"pinyin": "bei yao qing",
+		"soundmark": "bèi yāo qǐng",
+		"englishGloss": "be invited"
 	},
 	{
 		"chinese": "那个演讲者被邀请了",
-		"english": "the speaker is invited",
-		"soundmark": "/ðə/ /'spikɚ/ /ɪz/ /ɪn'vaɪtɪd/"
+		"pinyin": "na ge yan jiang zhe bei yao qing le",
+		"soundmark": "nà ge yǎn jiǎng zhě bèi yāo qǐng le",
+		"englishGloss": "the speaker is invited"
 	},
 	{
 		"chinese": "那个演讲者（过去）被邀请了",
-		"english": "the speaker was invited",
-		"soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/"
+		"pinyin": "na ge yan jiang zhe （ guo qu ） bei yao qing le",
+		"soundmark": "nà ge yǎn jiǎng zhě （ guò qù ） bèi yāo qǐng le",
+		"englishGloss": "the speaker was invited"
 	},
 	{
 		"chinese": "通过他们",
-		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"pinyin": "tong guo ta men",
+		"soundmark": "tōng guò tā men",
+		"englishGloss": "by them"
 	},
 	{
 		"chinese": "那个演讲者（过去）被他们邀请了",
-		"english": "the speaker was invited by them",
-		"soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/ /baɪ/ /ðəm/"
+		"pinyin": "na ge yan jiang zhe （ guo qu ） bei ta men yao qing le",
+		"soundmark": "nà ge yǎn jiǎng zhě （ guò qù ） bèi tā men yāo qǐng le",
+		"englishGloss": "the speaker was invited by them"
 	},
 	{
 		"chinese": "邀请",
-		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "to invite"
 	},
 	{
 		"chinese": "邀请（名词）",
-		"english": "invitation",
-		"soundmark": "/ɪnvɪ'teʃən/"
+		"pinyin": "yao qing （ ming ci ）",
+		"soundmark": "yāo qǐng （ míng cí ）",
+		"englishGloss": "invitation"
 	},
 	{
 		"chinese": "那个邀请",
-		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"pinyin": "na ge yao qing",
+		"soundmark": "nà ge yāo qǐng",
+		"englishGloss": "the invitation"
 	},
 	{
 		"chinese": "接受",
-		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "to accept"
 	},
 	{
 		"chinese": "接受（ed形式）",
-		"english": "accepted",
-		"soundmark": "/ək'sɛptɪd/"
+		"pinyin": "jie shou （ e d xing shi ）",
+		"soundmark": "jiē shòu （ e d xíng shì ）",
+		"englishGloss": "accepted"
 	},
 	{
 		"chinese": "被接受了",
-		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"pinyin": "bei jie shou le",
+		"soundmark": "bèi jiē shòu le",
+		"englishGloss": "be accepted"
 	},
 	{
 		"chinese": "那个邀请被接受了",
-		"english": "the invitation is accepted",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/"
+		"pinyin": "na ge yao qing bei jie shou le",
+		"soundmark": "nà ge yāo qǐng bèi jiē shòu le",
+		"englishGloss": "the invitation is accepted"
 	},
 	{
 		"chinese": "那个邀请（过去）被接受了",
-		"english": "the invitation was accepted",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/"
+		"pinyin": "na ge yao qing （ guo qu ） bei jie shou le",
+		"soundmark": "nà ge yāo qǐng （ guò qù ） bèi jiē shòu le",
+		"englishGloss": "the invitation was accepted"
 	},
 	{
 		"chinese": "通过他们",
-		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"pinyin": "tong guo ta men",
+		"soundmark": "tōng guò tā men",
+		"englishGloss": "by them"
 	},
 	{
 		"chinese": "那个邀请（过去）被他们接受了",
-		"english": "the invitation was accepted by them",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+		"pinyin": "na ge yao qing （ guo qu ） bei ta men jie shou le",
+		"soundmark": "nà ge yāo qǐng （ guò qù ） bèi tā men jiē shòu le",
+		"englishGloss": "the invitation was accepted by them"
 	},
 	{
 		"chinese": "加入",
-		"english": "to join",
-		"soundmark": "/tə/ /dʒɔɪn/"
+		"pinyin": "jia ru",
+		"soundmark": "jiā rù",
+		"englishGloss": "to join"
 	},
 	{
 		"chinese": "团队",
-		"english": "team",
-		"soundmark": "/tim/"
+		"pinyin": "tuan dui",
+		"soundmark": "tuán duì",
+		"englishGloss": "team"
 	},
 	{
 		"chinese": "我们的团队",
-		"english": "our team",
-		"soundmark": "/'aʊɚ/ /tim/"
+		"pinyin": "wo men de tuan dui",
+		"soundmark": "wǒ men de tuán duì",
+		"englishGloss": "our team"
 	},
 	{
 		"chinese": "加入我们的团队",
-		"english": "to join our team",
-		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jia ru wo men de tuan dui",
+		"soundmark": "jiā rù wǒ men de tuán duì",
+		"englishGloss": "to join our team"
 	},
 	{
 		"chinese": "那个邀请",
-		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"pinyin": "na ge yao qing",
+		"soundmark": "nà ge yāo qǐng",
+		"englishGloss": "the invitation"
 	},
 	{
 		"chinese": "加入我们团队的那个邀请",
-		"english": "the invitation to join our team",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jia ru wo men tuan dui de na ge yao qing",
+		"soundmark": "jiā rù wǒ men tuán duì de nà ge yāo qǐng",
+		"englishGloss": "the invitation to join our team"
 	},
 	{
 		"chinese": "被接受了",
-		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"pinyin": "bei jie shou le",
+		"soundmark": "bèi jiē shòu le",
+		"englishGloss": "be accepted"
 	},
 	{
 		"chinese": "加入我们团队的那个邀请（过去）被接受了",
-		"english": "the invitation to join our team was accepted",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/"
+		"pinyin": "jia ru wo men tuan dui de na ge yao qing （ guo qu ） bei jie shou le",
+		"soundmark": "jiā rù wǒ men tuán duì de nà ge yāo qǐng （ guò qù ） bèi jiē shòu le",
+		"englishGloss": "the invitation to join our team was accepted"
 	},
 	{
 		"chinese": "通过他们",
-		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"pinyin": "tong guo ta men",
+		"soundmark": "tōng guò tā men",
+		"englishGloss": "by them"
 	},
 	{
 		"chinese": "加入我们团队的那个邀请（过去）被他们接受了",
-		"english": "the invitation to join our team was accepted by them",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+		"pinyin": "jia ru wo men tuan dui de na ge yao qing （ guo qu ） bei ta men jie shou le",
+		"soundmark": "jiā rù wǒ men tuán duì de nà ge yāo qǐng （ guò qù ） bèi tā men jiē shòu le",
+		"englishGloss": "the invitation to join our team was accepted by them"
 	},
 	{
 		"chinese": "被接受",
-		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"pinyin": "bei jie shou",
+		"soundmark": "bèi jiē shòu",
+		"englishGloss": "be accepted"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "将会被接受",
-		"english": "will be accepted",
-		"soundmark": "/wɪl/ /bi/ /ək'sɛptɪd/"
+		"pinyin": "jiang hui bei jie shou",
+		"soundmark": "jiāng huì bèi jiē shòu",
+		"englishGloss": "will be accepted"
 	},
 	{
 		"chinese": "那个挑战",
-		"english": "the challenge",
-		"soundmark": "/ðə/ /ˈtʃælɪndʒ/"
+		"pinyin": "na ge tiao zhan",
+		"soundmark": "nà ge tiǎo zhàn",
+		"englishGloss": "the challenge"
 	},
 	{
 		"chinese": "那个挑战将会被接受",
-		"english": "the challenge will be accepted",
-		"soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/"
+		"pinyin": "na ge tiao zhan jiang hui bei jie shou",
+		"soundmark": "nà ge tiāo zhàn jiàng huì bèi jiē shòu",
+		"englishGloss": "the challenge will be accepted"
 	},
 	{
 		"chinese": "通过我们",
-		"english": "by us",
-		"soundmark": "/baɪ/ /ʌs/"
+		"pinyin": "tong guo wo men",
+		"soundmark": "tōng guò wǒ men",
+		"englishGloss": "by us"
 	},
 	{
 		"chinese": "那个挑战将会被我们接受",
-		"english": "the challenge will be accepted by us",
-		"soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ʌs/"
+		"pinyin": "na ge tiao zhan jiang hui bei wo men jie shou",
+		"soundmark": "nà ge tiǎo zhàn jiāng huì bèi wǒ men jiē shòu",
+		"englishGloss": "the challenge will be accepted by us"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "完成（ed形式）",
-		"english": "finished",
-		"soundmark": "/'fɪnɪʃt/"
+		"pinyin": "wan cheng （ e d xing shi ）",
+		"soundmark": "wán chéng （ e d xíng shì ）",
+		"englishGloss": "finished"
 	},
 	{
 		"chinese": "被完成",
-		"english": "be finished",
-		"soundmark": "/bi/ /'fɪnɪʃt/"
+		"pinyin": "bei wan cheng",
+		"soundmark": "bèi wán chéng",
+		"englishGloss": "be finished"
 	},
 	{
 		"chinese": "应该",
-		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"pinyin": "ying gai",
+		"soundmark": "yīng gāi",
+		"englishGloss": "should"
 	},
 	{
 		"chinese": "应该被完成",
-		"english": "should be finished",
-		"soundmark": "/ʃʊd/ /bi/ /'fɪnɪʃt/"
+		"pinyin": "ying gai bei wan cheng",
+		"soundmark": "yīng gāi bèi wán chéng",
+		"englishGloss": "should be finished"
 	},
 	{
 		"chinese": "家庭作业",
-		"english": "the homework",
-		"soundmark": "/ðə/ /'homwɝk/"
+		"pinyin": "jia ting zuo ye",
+		"soundmark": "jiā tíng zuò yè",
+		"englishGloss": "the homework"
 	},
 	{
 		"chinese": "家庭作业应该被完成",
-		"english": "the homework should be finished",
-		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/"
+		"pinyin": "jia ting zuo ye ying gai bei wan cheng",
+		"soundmark": "jiā tíng zuò yè yīng gāi bèi wán chéng",
+		"englishGloss": "the homework should be finished"
 	},
 	{
 		"chinese": "通过你",
-		"english": "by you",
-		"soundmark": "/baɪ/ /ju/"
+		"pinyin": "tong guo ni",
+		"soundmark": "tōng guò nǐ",
+		"englishGloss": "by you"
 	},
 	{
 		"chinese": "家庭作业应该被你完成",
-		"english": "the homework should be finished by you",
-		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/"
+		"pinyin": "jia ting zuo ye ying gai bei ni wan cheng",
+		"soundmark": "jiā tíng zuò yè yīng gāi bèi nǐ wán chéng",
+		"englishGloss": "the homework should be finished by you"
 	},
 	{
 		"chinese": "晚饭",
-		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"pinyin": "wan fan",
+		"soundmark": "wǎn fàn",
+		"englishGloss": "dinner"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在晚饭之前",
-		"english": "before dinner",
-		"soundmark": "/bɪ'fɔr/ /'dɪnɚ/"
+		"pinyin": "zai wan fan zhi qian",
+		"soundmark": "zài wǎn fàn zhī qián",
+		"englishGloss": "before dinner"
 	},
 	{
 		"chinese": "家庭作业应该在晚饭之前被你完成",
-		"english": "the homework should be finished by you before dinner",
-		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/ /bɪ'fɔr/ /'dɪnɚ/"
+		"pinyin": "jia ting zuo ye ying gai zai wan fan zhi qian bei ni wan cheng",
+		"soundmark": "jiā tíng zuò yè yīng gāi zài wǎn fàn zhī qián bèi nǐ wán chéng",
+		"englishGloss": "the homework should be finished by you before dinner"
 	},
 	{
 		"chinese": "烹饪；做饭",
-		"english": "to cook",
-		"soundmark": "/tə/ /kʊk/"
+		"pinyin": "peng ren ； zuo fan",
+		"soundmark": "pēng rèn ； zuò fàn",
+		"englishGloss": "to cook"
 	},
 	{
 		"chinese": "烹饪（ed形式）",
-		"english": "cooked",
-		"soundmark": "/kʊkt/"
+		"pinyin": "peng ren （ e d xing shi ）",
+		"soundmark": "pēng rèn （ e d xíng shì ）",
+		"englishGloss": "cooked"
 	},
 	{
 		"chinese": "被烹饪",
-		"english": "be cooked",
-		"soundmark": "/bi/ /kʊkt/"
+		"pinyin": "bei peng ren",
+		"soundmark": "bèi pēng rèn",
+		"englishGloss": "be cooked"
 	},
 	{
 		"chinese": "母亲",
-		"english": "mother",
-		"soundmark": "/'mʌðɚ/"
+		"pinyin": "mu qin",
+		"soundmark": "mǔ qīn",
+		"englishGloss": "mother"
 	},
 	{
 		"chinese": "我的母亲",
-		"english": "my mother",
-		"soundmark": "/maɪ/ /'mʌðɚ/"
+		"pinyin": "wo de mu qin",
+		"soundmark": "wǒ de mǔ qīn",
+		"englishGloss": "my mother"
 	},
 	{
 		"chinese": "通过我的母亲",
-		"english": "by my mother",
-		"soundmark": "/baɪ/ /maɪ/ /'mʌðɚ/"
+		"pinyin": "tong guo wo de mu qin",
+		"soundmark": "tōng guò wǒ de mǔ qīn",
+		"englishGloss": "by my mother"
 	},
 	{
 		"chinese": "被我妈烹饪",
-		"english": "be cooked by my mother",
-		"soundmark": "/bi/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+		"pinyin": "bei wo ma peng ren",
+		"soundmark": "bèi wǒ mā pēng rèn",
+		"englishGloss": "be cooked by my mother"
 	},
 	{
 		"chinese": "晚饭",
-		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"pinyin": "wan fan",
+		"soundmark": "wǎn fàn",
+		"englishGloss": "dinner"
 	},
 	{
 		"chinese": "这顿晚饭",
-		"english": "the dinner",
-		"soundmark": "/ðə/ /'dɪnɚ/"
+		"pinyin": "zhe dun wan fan",
+		"soundmark": "zhè dùn wǎn fàn",
+		"englishGloss": "the dinner"
 	},
 	{
 		"chinese": "这顿晚饭是被我妈做的",
-		"english": "the dinner is cooked by my mother",
-		"soundmark": "/ðə/ /'dɪnɚ/ /ɪz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+		"pinyin": "zhe dun wan fan shi bei wo ma zuo de",
+		"soundmark": "zhè dùn wǎn fàn shì bèi wǒ mā zuò de",
+		"englishGloss": "the dinner is cooked by my mother"
 	},
 	{
 		"chinese": "这顿晚饭（过去）是被我妈做的",
-		"english": "the dinner was cooked by my mother",
-		"soundmark": "/ðə/ /'dɪnɚ/ /wəz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+		"pinyin": "zhe dun wan fan （ guo qu ） shi bei wo ma zuo de",
+		"soundmark": "zhè dùn wǎn fàn （ guò qù ） shì bèi wǒ mā zuò de",
+		"englishGloss": "the dinner was cooked by my mother"
 	},
 	{
 		"chinese": "打破",
-		"english": "to break",
-		"soundmark": "/tə/ /brek/"
+		"pinyin": "da po",
+		"soundmark": "dǎ pò",
+		"englishGloss": "to break"
 	},
 	{
 		"chinese": "打破（ed形式）",
-		"english": "broken",
-		"soundmark": "/'brokən/"
+		"pinyin": "da po （ e d xing shi ）",
+		"soundmark": "dǎ pò （ e d xíng shì ）",
+		"englishGloss": "broken"
 	},
 	{
 		"chinese": "被打破",
-		"english": "be broken",
-		"soundmark": "/bi/ /'brokən/"
+		"pinyin": "bei da po",
+		"soundmark": "bèi dǎ pò",
+		"englishGloss": "be broken"
 	},
 	{
 		"chinese": "窗户",
-		"english": "window",
-		"soundmark": "/'wɪndo/"
+		"pinyin": "chuang hu",
+		"soundmark": "chuāng hù",
+		"englishGloss": "window"
 	},
 	{
 		"chinese": "那个窗户",
-		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"pinyin": "na ge chuang hu",
+		"soundmark": "nà ge chuāng hù",
+		"englishGloss": "the window"
 	},
 	{
 		"chinese": "那个窗户被打破了",
-		"english": "the window is broken",
-		"soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/"
+		"pinyin": "na ge chuang hu bei da po le",
+		"soundmark": "nà ge chuāng hù bèi dǎ pò le",
+		"englishGloss": "the window is broken"
 	},
 	{
 		"chinese": "石头",
-		"english": "stone",
-		"soundmark": "/ston/"
+		"pinyin": "shi tou",
+		"soundmark": "shí tou",
+		"englishGloss": "stone"
 	},
 	{
 		"chinese": "通过",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo",
+		"soundmark": "tōng guò",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过一个手头",
-		"english": "by a stone",
-		"soundmark": "/baɪ/ /ə/ /ston/"
+		"pinyin": "tong guo yi ge shou tou",
+		"soundmark": "tōng guò yí gè shǒu tóu",
+		"englishGloss": "by a stone"
 	},
 	{
 		"chinese": "那个窗户被一个石头打破了",
-		"english": "the window is broken by a stone",
-		"soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/ /baɪ/ /ə/ /ston/"
+		"pinyin": "na ge chuang hu bei yi ge shi tou da po le",
+		"soundmark": "nà ge chuāng hù bèi yí gè shí tou dǎ pò le",
+		"englishGloss": "the window is broken by a stone"
 	},
 	{
 		"chinese": "那个窗户（过去）被一个石头打破了",
-		"english": "the window was broken by a stone",
-		"soundmark": "/ðə/ /'wɪndo/ /wəz/ /'brokən/ /baɪ/ /ə/ /ston/"
+		"pinyin": "na ge chuang hu （ guo qu ） bei yi ge shi tou da po le",
+		"soundmark": "nà ge chuāng hù （ guò qù ） bèi yí gè shí tou dǎ pò le",
+		"englishGloss": "the window was broken by a stone"
 	},
 	{
 		"chinese": "关闭",
-		"english": "to close",
-		"soundmark": "/tə/ /kloz/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "to close"
 	},
 	{
 		"chinese": "关闭（ed形式）",
-		"english": "closed",
-		"soundmark": "/klozd/"
+		"pinyin": "guan bi （ e d xing shi ）",
+		"soundmark": "guān bì （ e d xíng shì ）",
+		"englishGloss": "closed"
 	},
 	{
 		"chinese": "被关闭",
-		"english": "be closed",
-		"soundmark": "/bi/ /klozd/"
+		"pinyin": "bei guan bi",
+		"soundmark": "bèi guān bì",
+		"englishGloss": "be closed"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "将会被关闭",
-		"english": "will be closed",
-		"soundmark": "/wɪl/ /bi/ /klozd/"
+		"pinyin": "jiang hui bei guan bi",
+		"soundmark": "jiāng huì bèi guān bì",
+		"englishGloss": "will be closed"
 	},
 	{
 		"chinese": "那个窗户",
-		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"pinyin": "na ge chuang hu",
+		"soundmark": "nà ge chuāng hù",
+		"englishGloss": "the window"
 	},
 	{
 		"chinese": "那个窗户将会被关闭",
-		"english": "the window will be closed",
-		"soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/"
+		"pinyin": "na ge chuang hu jiang hui bei guan bi",
+		"soundmark": "nà ge chuāng hù jiāng huì bèi guān bì",
+		"englishGloss": "the window will be closed"
 	},
 	{
 		"chinese": "通过我",
-		"english": "by me",
-		"soundmark": "/baɪ/ /mi/"
+		"pinyin": "tong guo wo",
+		"soundmark": "tōng guò wǒ",
+		"englishGloss": "by me"
 	},
 	{
 		"chinese": "那个窗户将会被我关闭",
-		"english": "the window will be closed by me",
-		"soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/ /baɪ/ /mi/"
+		"pinyin": "na ge chuang hu jiang hui bei wo guan bi",
+		"soundmark": "nà ge chuāng hù jiāng huì bèi wǒ guān bì",
+		"englishGloss": "the window will be closed by me"
 	},
 	{
 		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"pinyin": "bao chi",
+		"soundmark": "bǎo chí",
+		"englishGloss": "to keep"
 	},
 	{
 		"chinese": "保持（ed形式）",
-		"english": "kept",
-		"soundmark": "/kɛpt/"
+		"pinyin": "bao chi （ e d xing shi ）",
+		"soundmark": "bǎo chí （ e d xíng shì ）",
+		"englishGloss": "kept"
 	},
 	{
 		"chinese": "被保持",
-		"english": "be kept",
-		"soundmark": "/bi/ /kɛpt/"
+		"pinyin": "bei bao chi",
+		"soundmark": "bèi bǎo chí",
+		"englishGloss": "be kept"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "将会被保持",
-		"english": "will be kept",
-		"soundmark": "/wɪl/ /bi/ /kɛpt/"
+		"pinyin": "jiang hui bei bao chi",
+		"soundmark": "jiāng huì bèi bǎo chí",
+		"englishGloss": "will be kept"
 	},
 	{
 		"chinese": "秘密",
-		"english": "secret",
-		"soundmark": "/'sikrət/"
+		"pinyin": "mi mi",
+		"soundmark": "mì mì",
+		"englishGloss": "secret"
 	},
 	{
 		"chinese": "这个秘密",
-		"english": "the secret",
-		"soundmark": "/ðə/ /'sikrət/"
+		"pinyin": "zhe ge mi mi",
+		"soundmark": "zhè ge mì mì",
+		"englishGloss": "the secret"
 	},
 	{
 		"chinese": "这个秘密将会被保持",
-		"english": "the secret will be kept",
-		"soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/"
+		"pinyin": "zhe ge mi mi jiang hui bei bao chi",
+		"soundmark": "zhè ge mì mì jiāng huì bèi bǎo chí",
+		"englishGloss": "the secret will be kept"
 	},
 	{
 		"chinese": "通过他",
-		"english": "by him",
-		"soundmark": "/baɪ/ /hɪm/"
+		"pinyin": "tong guo ta",
+		"soundmark": "tōng guò tā",
+		"englishGloss": "by him"
 	},
 	{
 		"chinese": "这个秘密将会被他保持",
-		"english": "the secret will be kept by him",
-		"soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/ /baɪ/ /hɪm/"
+		"pinyin": "zhe ge mi mi jiang hui bei ta bao chi",
+		"soundmark": "zhè ge mì mì jiāng huì bèi tā bǎo chí",
+		"englishGloss": "the secret will be kept by him"
 	},
 	{
 		"chinese": "保存；拯救",
-		"english": "to save",
-		"soundmark": "/tə/ /sev/"
+		"pinyin": "bao cun ； zheng jiu",
+		"soundmark": "bǎo cún ； zhěng jiù",
+		"englishGloss": "to save"
 	},
 	{
 		"chinese": "拯救（ed形式）",
-		"english": "saved",
-		"soundmark": "/sevd/"
+		"pinyin": "zheng jiu （ e d xing shi ）",
+		"soundmark": "zhěng jiù （ e d xíng shì ）",
+		"englishGloss": "saved"
 	},
 	{
 		"chinese": "被拯救",
-		"english": "be saved",
-		"soundmark": "/bi/ /sevd/"
+		"pinyin": "bei zheng jiu",
+		"soundmark": "bèi zhěng jiù",
+		"englishGloss": "be saved"
 	},
 	{
 		"chinese": "将会被拯救",
-		"english": "will be saved",
-		"soundmark": "/wɪl/ /bi/ /sevd/"
+		"pinyin": "jiang hui bei zheng jiu",
+		"soundmark": "jiāng huì bèi zhěng jiù",
+		"englishGloss": "will be saved"
 	},
 	{
 		"chinese": "世界",
-		"english": "the world",
-		"soundmark": "/ðə/ /wɝld/"
+		"pinyin": "shi jie",
+		"soundmark": "shì jiè",
+		"englishGloss": "the world"
 	},
 	{
 		"chinese": "世界将会被拯救",
-		"english": "the world will be saved",
-		"soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/"
+		"pinyin": "shi jie jiang hui bei zheng jiu",
+		"soundmark": "shì jiè jiāng huì bèi zhěng jiù",
+		"englishGloss": "the world will be saved"
 	},
 	{
 		"chinese": "通过他们",
-		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"pinyin": "tong guo ta men",
+		"soundmark": "tōng guò tā men",
+		"englishGloss": "by them"
 	},
 	{
 		"chinese": "世界将会被他们拯救",
-		"english": "the world will be saved by them",
-		"soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/ /baɪ/ /ðəm/"
+		"pinyin": "shi jie jiang hui bei ta men zheng jiu",
+		"soundmark": "shì jiè jiāng huì bèi tā men zhěng jiù",
+		"englishGloss": "the world will be saved by them"
 	},
 	{
 		"chinese": "脚",
-		"english": "foot",
-		"soundmark": "/fʊt/"
+		"pinyin": "jiao",
+		"soundmark": "jiǎo",
+		"englishGloss": "foot"
 	},
 	{
 		"chinese": "球",
-		"english": "ball",
-		"soundmark": "/bɔl/"
+		"pinyin": "qiu",
+		"soundmark": "qiú",
+		"englishGloss": "ball"
 	},
 	{
 		"chinese": "足球",
-		"english": "football",
-		"soundmark": "/'fʊtbɔl/"
+		"pinyin": "zu qiu",
+		"soundmark": "zú qiú",
+		"englishGloss": "football"
 	},
 	{
 		"chinese": "比赛",
-		"english": "match",
-		"soundmark": "/mætʃ/"
+		"pinyin": "bi sai",
+		"soundmark": "bǐ sài",
+		"englishGloss": "match"
 	},
 	{
 		"chinese": "足球比赛",
-		"english": "football match",
-		"soundmark": "/'fʊtbɔl/ /mætʃ/"
+		"pinyin": "zu qiu bi sai",
+		"soundmark": "zú qiú bǐ sài",
+		"englishGloss": "football match"
 	},
 	{
 		"chinese": "那场足球比赛",
-		"english": "the football match",
-		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/"
+		"pinyin": "na chang zu qiu bi sai",
+		"soundmark": "nà chǎng zú qiú bǐ sài",
+		"englishGloss": "the football match"
 	},
 	{
 		"chinese": "举行",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "ju xing",
+		"soundmark": "jǔ xíng",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "举行（ed形式）",
-		"english": "held",
-		"soundmark": "/hɛld/"
+		"pinyin": "ju xing （ e d xing shi ）",
+		"soundmark": "jǔ xíng （ e d xíng shì ）",
+		"englishGloss": "held"
 	},
 	{
 		"chinese": "被举行",
-		"english": "be held",
-		"soundmark": "/bi/ /hɛld/"
+		"pinyin": "bei ju xing",
+		"soundmark": "bèi jǔ xíng",
+		"englishGloss": "be held"
 	},
 	{
 		"chinese": "将会被举行",
-		"english": "will be held",
-		"soundmark": "/wɪl/ /bi/ /hɛld/"
+		"pinyin": "jiang hui bei ju xing",
+		"soundmark": "jiāng huì bèi jǔ xíng",
+		"englishGloss": "will be held"
 	},
 	{
 		"chinese": "那场足球比赛将会被举行",
-		"english": "the football match will be held",
-		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/"
+		"pinyin": "na chang zu qiu bi sai jiang hui bei ju xing",
+		"soundmark": "nà chǎng zú qiú bǐ sài jiāng huì bèi jǔ xíng",
+		"englishGloss": "the football match will be held"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "那场足球比赛明天将会被举行",
-		"english": "the football match will be held tomorrow",
-		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/ /tə'mɔro/"
+		"pinyin": "na chang zu qiu bi sai ming tian jiang hui bei ju xing",
+		"soundmark": "nà chǎng zú qiú bǐ sài míng tiān jiāng huì bèi jǔ xíng",
+		"englishGloss": "the football match will be held tomorrow"
 	}
 ]

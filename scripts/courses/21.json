@@ -1,762 +1,914 @@
 [
 	{
 		"chinese": "工作",
-		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "job"
 	},
 	{
 		"chinese": "工作；付出劳动",
-		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"pinyin": "gong zuo ； fu chu lao dong",
+		"soundmark": "gōng zuò ； fù chū láo dòng",
+		"englishGloss": "to work"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他需要",
-		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"pinyin": "ta xu yao",
+		"soundmark": "tā xū yào",
+		"englishGloss": "he needs"
 	},
 	{
 		"chinese": "他需要工作",
-		"english": "he needs to work",
-		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/"
+		"pinyin": "ta xu yao gong zuo",
+		"soundmark": "tā xū yào gōng zuò",
+		"englishGloss": "he needs to work"
 	},
 	{
 		"chinese": "家",
-		"english": "home",
-		"soundmark": "/hom/"
+		"pinyin": "jia",
+		"soundmark": "jiā",
+		"englishGloss": "home"
 	},
 	{
 		"chinese": "家庭作业",
-		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"pinyin": "jia ting zuo ye",
+		"soundmark": "jiā tíng zuò yè",
+		"englishGloss": "homework"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "他的家庭作业",
-		"english": "his homework",
-		"soundmark": "/hɪz/ /'homwɝk/"
+		"pinyin": "ta de jia ting zuo ye",
+		"soundmark": "tā de jiā tíng zuò yè",
+		"englishGloss": "his homework"
 	},
 	{
 		"chinese": "在......上",
-		"english": "on",
-		"soundmark": "/ɑn/"
+		"pinyin": "zai . . . . . . shang",
+		"soundmark": "zài . . . . . . shàng",
+		"englishGloss": "on"
 	},
 	{
 		"chinese": "在他的家庭作业上",
-		"english": "on his homework",
-		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+		"pinyin": "zai ta de jia ting zuo ye shang",
+		"soundmark": "zài tā de jiā tíng zuò yè shàng",
+		"englishGloss": "on his homework"
 	},
 	{
 		"chinese": "他需要在他的家庭作业上工作",
-		"english": "he needs to work on his homework",
-		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/"
+		"pinyin": "ta xu yao zai ta de jia ting zuo ye shang gong zuo",
+		"soundmark": "tā xū yào zài tā de jiā tíng zuò yè shàng gōng zuò",
+		"englishGloss": "he needs to work on his homework"
 	},
 	{
 		"chinese": "他在他的家庭作业上工作",
-		"english": "he works on his homework",
-		"soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/"
+		"pinyin": "ta zai ta de jia ting zuo ye shang gong zuo",
+		"soundmark": "tā zài tā de jiā tíng zuò yè shàng gōng zuò",
+		"englishGloss": "he works on his homework"
 	},
 	{
 		"chinese": "工作(ing形式)",
-		"english": "working",
-		"soundmark": "/'wɝkɪŋ/"
+		"pinyin": "gong zuo ( i n g xing shi )",
+		"soundmark": "gōng zuò ( i n g xíng shì )",
+		"englishGloss": "working"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在工作",
-		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/ /(he，现在时)be is/ /ɪz/"
+		"pinyin": "zheng zai gong zuo",
+		"soundmark": "zhèng zài gōng zuò",
+		"englishGloss": "be working"
 	},
 	{
 		"chinese": "他(现在)正在工作",
-		"english": "he is working",
-		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/"
+		"pinyin": "ta ( xian zai ) zheng zai gong zuo",
+		"soundmark": "tā ( xiàn zài ) zhèng zài gōng zuò",
+		"englishGloss": "he is working"
 	},
 	{
 		"chinese": "在他的家庭作业上",
-		"english": "on his homework",
-		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+		"pinyin": "zai ta de jia ting zuo ye shang",
+		"soundmark": "zài tā de jiā tíng zuò yè shàng",
+		"englishGloss": "on his homework"
 	},
 	{
 		"chinese": "他(现在)正在在他的家庭作业上工作",
-		"english": "he is working on his homework",
-		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/"
+		"pinyin": "ta ( xian zai ) zheng zai zai ta de jia ting zuo ye shang gong zuo",
+		"soundmark": "tā ( xiàn zài ) zhèng zài zài tā de jiā tíng zuò yè shàng gōng zuò",
+		"englishGloss": "he is working on his homework"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的家庭作业",
-		"english": "my homework",
-		"soundmark": "/maɪ/ /'homwɝk/"
+		"pinyin": "wo de jia ting zuo ye",
+		"soundmark": "wǒ de jiā tíng zuò yè",
+		"englishGloss": "my homework"
 	},
 	{
 		"chinese": "正在工作",
-		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "zheng zai gong zuo",
+		"soundmark": "zhèng zài gōng zuò",
+		"englishGloss": "be working"
 	},
 	{
 		"chinese": "我(现在)正在工作",
-		"english": "I am working",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài gōng zuò",
+		"englishGloss": "I am working"
 	},
 	{
 		"chinese": "在......上",
-		"english": "on",
-		"soundmark": "/ɑn/"
+		"pinyin": "zai . . . . . . shang",
+		"soundmark": "zài . . . . . . shàng",
+		"englishGloss": "on"
 	},
 	{
 		"chinese": "我(现在)正在在我的家庭作业上工作",
-		"english": "I am working on my homework",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/"
+		"pinyin": "wo ( xian zai ) zheng zai zai wo de jia ting zuo ye shang gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài zài wǒ de jiā tíng zuò yè shàng gōng zuò",
+		"englishGloss": "I am working on my homework"
 	},
 	{
 		"chinese": "它；那件事",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta ； na jian shi",
+		"soundmark": "tā ； nà jiàn shì",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "我(现在)正在在那件事上工作",
-		"english": "I am working on it",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"pinyin": "wo ( xian zai ) zheng zai zai na jian shi shang gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài zài nà jiàn shì shàng gōng zuò",
+		"englishGloss": "I am working on it"
 	},
 	{
 		"chinese": "仍然",
-		"english": "still",
-		"soundmark": "/stɪl/"
+		"pinyin": "reng ran",
+		"soundmark": "réng rán",
+		"englishGloss": "still"
 	},
 	{
 		"chinese": "我(现在)仍然正在在那件事上工作",
-		"english": "I am still working on it",
-		"soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"pinyin": "wo ( xian zai ) reng ran zheng zai zai na jian shi shang gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) réng rán zhèng zài zài nà jiàn shì shàng gōng zuò",
+		"englishGloss": "I am still working on it"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们(现在)正在在那件事上工作",
-		"english": "we are working on it",
-		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"pinyin": "wo men ( xian zai ) zheng zai zai na jian shi shang gong zuo",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài zài nà jiàn shì shàng gōng zuò",
+		"englishGloss": "we are working on it"
 	},
 	{
 		"chinese": "项目",
-		"english": "project",
-		"soundmark": "/ˈprɑdʒɛkt/"
+		"pinyin": "xiang mu",
+		"soundmark": "xiàng mù",
+		"englishGloss": "project"
 	},
 	{
 		"chinese": "新的",
-		"english": "new",
-		"soundmark": "/nu/"
+		"pinyin": "xin de",
+		"soundmark": "xīn de",
+		"englishGloss": "new"
 	},
 	{
 		"chinese": "一个新的项目",
-		"english": "a new project",
-		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+		"pinyin": "yi ge xin de xiang mu",
+		"soundmark": "yí gè xīn de xiàng mù",
+		"englishGloss": "a new project"
 	},
 	{
 		"chinese": "我们(现在)正在在一个新的项目上工作",
-		"english": "we are working on a new project",
-		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+		"pinyin": "wo men ( xian zai ) zheng zai zai yi ge xin de xiang mu shang gong zuo",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài zài yí gè xīn de xiàng mù shàng gōng zuò",
+		"englishGloss": "we are working on a new project"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "正在工作",
-		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"pinyin": "zheng zai gong zuo",
+		"soundmark": "zhèng zài gōng zuò",
+		"englishGloss": "be working"
 	},
 	{
 		"chinese": "将会正在工作",
-		"english": "will be working",
-		"soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/"
+		"pinyin": "jiang hui zheng zai gong zuo",
+		"soundmark": "jiāng huì zhèng zài gōng zuò",
+		"englishGloss": "will be working"
 	},
 	{
 		"chinese": "一个新的项目",
-		"english": "a new project",
-		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+		"pinyin": "yi ge xin de xiang mu",
+		"soundmark": "yí gè xīn de xiàng mù",
+		"englishGloss": "a new project"
 	},
 	{
 		"chinese": "我们将会正在在一个新的项目上工作",
-		"english": "we will be working on a new project",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+		"pinyin": "wo men jiang hui zheng zai zai yi ge xin de xiang mu shang gong zuo",
+		"soundmark": "wǒ men jiāng huì zhèng zài zài yí gè xīn de xiàng mù shàng gōng zuò",
+		"englishGloss": "we will be working on a new project"
 	},
 	{
 		"chinese": "周；星期",
-		"english": "week",
-		"soundmark": "/wik/"
+		"pinyin": "zhou ； xing qi",
+		"soundmark": "zhōu ； xīng qī",
+		"englishGloss": "week"
 	},
 	{
 		"chinese": "下一个",
-		"english": "next",
-		"soundmark": "/nɛkst/"
+		"pinyin": "xia yi ge",
+		"soundmark": "xià yí gè",
+		"englishGloss": "next"
 	},
 	{
 		"chinese": "下周",
-		"english": "next week",
-		"soundmark": "/nɛkst/ /wik/"
+		"pinyin": "xia zhou",
+		"soundmark": "xià zhōu",
+		"englishGloss": "next week"
 	},
 	{
 		"chinese": "我们下周将会正在在一个新的项目上工作",
-		"english": "we will be working on a new project next week",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/"
+		"pinyin": "wo men xia zhou jiang hui zheng zai zai yi ge xin de xiang mu shang gong zuo",
+		"soundmark": "wǒ men xià zhōu jiāng huì zhèng zài zài yí gè xīn de xiàng mù shàng gōng zuò",
+		"englishGloss": "we will be working on a new project next week"
 	},
 	{
 		"chinese": "它；那件事",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta ； na jian shi",
+		"soundmark": "tā ； nà jiàn shì",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "我们下周将会正在在那件事上工作",
-		"english": "we will be working on it next week",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/"
+		"pinyin": "wo men xia zhou jiang hui zheng zai zai na jian shi shang gong zuo",
+		"soundmark": "wǒ men xià zhōu jiāng huì zhèng zài zài nà jiàn shì shàng gōng zuò",
+		"englishGloss": "we will be working on it next week"
 	},
 	{
 		"chinese": "我(现在)正在在那件事上工作",
-		"english": "I am working on it",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"pinyin": "wo ( xian zai ) zheng zai zai na jian shi shang gong zuo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài zài nà jiàn shì shàng gōng zuò",
+		"englishGloss": "I am working on it"
 	},
 	{
 		"chinese": "寻找",
-		"english": "to look for",
-		"soundmark": "/tə/ /lʊk/ /fɝ/"
+		"pinyin": "xun zhao",
+		"soundmark": "xún zhǎo",
+		"englishGloss": "to look for"
 	},
 	{
 		"chinese": "寻找(ing形式)",
-		"english": "looking for",
-		"soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "xun zhao ( i n g xing shi )",
+		"soundmark": "xún zhǎo ( i n g xíng shì )",
+		"englishGloss": "looking for"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在寻找",
-		"english": "be looking for",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "zheng zai xun zhao",
+		"soundmark": "zhèng zài xún zhǎo",
+		"englishGloss": "be looking for"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/ /(she，现在时)be is/ /ɪz/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "她(现在)正在寻找",
-		"english": "she is looking for",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/"
+		"pinyin": "ta ( xian zai ) zheng zai xun zhao",
+		"soundmark": "tā ( xiàn zài ) zhèng zài xún zhǎo",
+		"englishGloss": "she is looking for"
 	},
 	{
 		"chinese": "她的",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "玩具",
-		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"pinyin": "wan ju",
+		"soundmark": "wán jù",
+		"englishGloss": "toy"
 	},
 	{
 		"chinese": "她的玩具",
-		"english": "her toy",
-		"soundmark": "/hɚ/ /tɔɪ/"
+		"pinyin": "ta de wan ju",
+		"soundmark": "tā de wán jù",
+		"englishGloss": "her toy"
 	},
 	{
 		"chinese": "她(现在)正在寻找她的玩具",
-		"english": "she is looking for her toy",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"pinyin": "ta ( xian zai ) zheng zai xun zhao ta de wan ju",
+		"soundmark": "tā ( xiàn zài ) zhèng zài xún zhǎo tā de wán jù",
+		"englishGloss": "she is looking for her toy"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "女儿",
-		"english": "daughter",
-		"soundmark": "/'dɔtɚ/"
+		"pinyin": "nü er",
+		"soundmark": "nǚ ér",
+		"englishGloss": "daughter"
 	},
 	{
 		"chinese": "我的女儿",
-		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"pinyin": "wo de nü er",
+		"soundmark": "wǒ de nǚ ér",
+		"englishGloss": "my daughter"
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具",
-		"english": "my daughter is looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"pinyin": "wo de nü er ( xian zai ) zheng zai xun zhao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér ( xiàn zài ) zhèng zài xún zhǎo tā de wán jù",
+		"englishGloss": "my daughter is looking for her toy"
 	},
 	{
 		"chinese": "找到",
-		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "to find"
 	},
 	{
 		"chinese": "她的玩具",
-		"english": "her toy",
-		"soundmark": "/hɚ/ /tɔɪ/"
+		"pinyin": "ta de wan ju",
+		"soundmark": "tā de wán jù",
+		"englishGloss": "her toy"
 	},
 	{
 		"chinese": "找到她的玩具",
-		"english": "to find her toy",
-		"soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"pinyin": "zhao dao ta de wan ju",
+		"soundmark": "zhǎo dào tā de wán jù",
+		"englishGloss": "to find her toy"
 	},
 	{
 		"chinese": "我的女儿",
-		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"pinyin": "wo de nü er",
+		"soundmark": "wǒ de nǚ ér",
+		"englishGloss": "my daughter"
 	},
 	{
 		"chinese": "我的女儿找到她的玩具",
-		"english": "my daughter finds her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/"
+		"pinyin": "wo de nü er zhao dao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér zhǎo dào tā de wán jù",
+		"englishGloss": "my daughter finds her toy"
 	},
 	{
 		"chinese": "能",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "neng",
+		"soundmark": "néng",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我的女儿可以找到她的玩具",
-		"english": "my daughter can find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"pinyin": "wo de nü er ke yi zhao dao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér kě yǐ zhǎo dào tā de wán jù",
+		"englishGloss": "my daughter can find her toy"
 	},
 	{
 		"chinese": "不能",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu neng",
+		"soundmark": "bù néng",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "我的女儿不能找到她的玩具",
-		"english": "my daughter can't find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"pinyin": "wo de nü er bu neng zhao dao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér bù néng zhǎo dào tā de wán jù",
+		"englishGloss": "my daughter can't find her toy"
 	},
 	{
 		"chinese": "但是",
-		"english": "but",
-		"soundmark": "/bʌt/"
+		"pinyin": "dan shi",
+		"soundmark": "dàn shì",
+		"englishGloss": "but"
 	},
 	{
 		"chinese": "但是我的女儿不能找到她的玩具",
-		"english": "but my daughter can't find her toy",
-		"soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"pinyin": "dan shi wo de nü er bu neng zhao dao ta de wan ju",
+		"soundmark": "dàn shì wǒ de nǚ ér bù néng zhǎo dào tā de wán jù",
+		"englishGloss": "but my daughter can't find her toy"
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具",
-		"english": "my daughter is looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"pinyin": "wo de nü er ( xian zai ) zheng zai xun zhao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér ( xiàn zài ) zhèng zài xún zhǎo tā de wán jù",
+		"englishGloss": "my daughter is looking for her toy"
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具但是我的女儿不能找到她的玩具",
-		"english": "my daughter is looking for her toy but my daughter can't find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"pinyin": "wo de nü er ( xian zai ) zheng zai xun zhao ta de wan ju dan shi wo de nü er bu neng zhao dao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér ( xiàn zài ) zhèng zài xún zhǎo tā de wán jù dàn shì wǒ de nǚ ér bù néng zhǎo dào tā de wán jù",
+		"englishGloss": "my daughter is looking for her toy but my daughter can't find her toy"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "它",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "但是她不能找到它",
-		"english": "but she can't find it",
-		"soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+		"pinyin": "dan shi ta bu neng zhao dao ta",
+		"soundmark": "dàn shì tā bù néng zhǎo dào tā",
+		"englishGloss": "but she can't find it"
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具但是她不能找到它",
-		"english": "my daughter is looking for her toy but she can't find it",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/ /(she，过去时)be was/ /wəz/"
+		"pinyin": "wo de nü er ( xian zai ) zheng zai xun zhao ta de wan ju dan shi ta bu neng zhao dao ta",
+		"soundmark": "wǒ de nǚ ér ( xiàn zài ) zhèng zài xún zhǎo tā de wán jù dàn shì tā bù néng zhǎo dào tā",
+		"englishGloss": "my daughter is looking for her toy but she can't find it"
 	},
 	{
 		"chinese": "我的女儿(过去)正在寻找她的玩具",
-		"english": "my daughter was looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /(过去)能 could/ /kʊd/ /(过去)不能 couldn't/ /kʊdnt/"
+		"pinyin": "wo de nü er ( guo qu ) zheng zai xun zhao ta de wan ju",
+		"soundmark": "wǒ de nǚ ér ( guò qù ) zhèng zài xún zhǎo tā de wán jù",
+		"englishGloss": "my daughter was looking for her toy"
 	},
 	{
 		"chinese": "但是她(过去)不能找到它",
-		"english": "but she couldn't find it",
-		"soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+		"pinyin": "dan shi ta ( guo qu ) bu neng zhao dao ta",
+		"soundmark": "dàn shì tā ( guò qù ) bù néng zhǎo dào tā",
+		"englishGloss": "but she couldn't find it"
 	},
 	{
 		"chinese": "我的女儿(过去)正在寻找她的玩具但是她(过去)不能找到它",
-		"english": "my daughter was looking for her toy but she couldn't find it",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+		"pinyin": "wo de nü er ( guo qu ) zheng zai xun zhao ta de wan ju dan shi ta ( guo qu ) bu neng zhao dao ta",
+		"soundmark": "wǒ de nǚ ér ( guò qù ) zhèng zài xún zhǎo tā de wán jù dàn shì tā ( guò qù ) bù néng zhǎo dào tā",
+		"englishGloss": "my daughter was looking for her toy but she couldn't find it"
 	},
 	{
 		"chinese": "听见；听说",
-		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"pinyin": "ting jian ； ting shuo",
+		"soundmark": "tīng jiàn ； tīng shuō",
+		"englishGloss": "to hear"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "听见我",
-		"english": "to hear me",
-		"soundmark": "/tə/ /hɪr/ /mi/"
+		"pinyin": "ting jian wo",
+		"soundmark": "tīng jiàn wǒ",
+		"englishGloss": "to hear me"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你听见我",
-		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"pinyin": "ni ting jian wo",
+		"soundmark": "nǐ tīng jiàn wǒ",
+		"englishGloss": "you hear me"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以听见我",
-		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can hear me"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "是否你可以听见我",
-		"english": "if you can hear me",
-		"soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "shi fou ni ke yi ting jian wo",
+		"soundmark": "shì fǒu nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "if you can hear me"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我想要知道",
-		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo xiang yao zhi dao",
+		"soundmark": "wǒ xiǎng yào zhī dào",
+		"englishGloss": "I want to know"
 	},
 	{
 		"chinese": "我想要知道是否你可以听见我",
-		"english": "I want to know if you can hear me",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "wo xiang yao zhi dao shi fou ni ke yi ting jian wo",
+		"soundmark": "wǒ xiǎng yào zhī dào shì fǒu nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "I want to know if you can hear me"
 	},
 	{
 		"chinese": "我知道",
-		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"pinyin": "wo zhi dao",
+		"soundmark": "wǒ zhī dào",
+		"englishGloss": "I know"
 	},
 	{
 		"chinese": "我知道你可以听见我",
-		"english": "I know you can hear me",
-		"soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "wo zhi dao ni ke yi ting jian wo",
+		"soundmark": "wǒ zhī dào nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "I know you can hear me"
 	},
 	{
 		"chinese": "你可以听见我",
-		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ",
+		"englishGloss": "you can hear me"
 	},
 	{
 		"chinese": "你可以听见我吗？",
-		"english": "can you hear me?",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"pinyin": "ni ke yi ting jian wo ma ？",
+		"soundmark": "nǐ kě yǐ tīng jiàn wǒ ma ？",
+		"englishGloss": "can you hear me?"
 	},
 	{
 		"chinese": "音乐",
-		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"pinyin": "yin yue",
+		"soundmark": "yīn yuè",
+		"englishGloss": "music"
 	},
 	{
 		"chinese": "你可以听见音乐",
-		"english": "you can hear music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/"
+		"pinyin": "ni ke yi ting jian yin yue",
+		"soundmark": "nǐ kě yǐ tīng jiàn yīn yuè",
+		"englishGloss": "you can hear music"
 	},
 	{
 		"chinese": "一些",
-		"english": "some",
-		"soundmark": "/səm/"
+		"pinyin": "yi xie",
+		"soundmark": "yì xiē",
+		"englishGloss": "some"
 	},
 	{
 		"chinese": "你可以听见一些音乐",
-		"english": "you can hear some music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"pinyin": "ni ke yi ting jian yi xie yin yue",
+		"soundmark": "nǐ kě yǐ tīng jiàn yì xiē yīn yuè",
+		"englishGloss": "you can hear some music"
 	},
 	{
 		"chinese": "听",
-		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"pinyin": "ting",
+		"soundmark": "tīng",
+		"englishGloss": "to listen"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要听",
-		"english": "I want to listen",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/"
+		"pinyin": "wo xiang yao ting",
+		"soundmark": "wǒ xiǎng yào tīng",
+		"englishGloss": "I want to listen"
 	},
 	{
 		"chinese": "我听",
-		"english": "I listen",
-		"soundmark": "/aɪ/ /'lɪsn/"
+		"pinyin": "wo ting",
+		"soundmark": "wǒ tīng",
+		"englishGloss": "I listen"
 	},
 	{
 		"chinese": "听(ing形式)",
-		"english": "listening",
-		"soundmark": "/ˈlɪsnɪŋ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "ting ( i n g xing shi )",
+		"soundmark": "tīng ( i n g xíng shì )",
+		"englishGloss": "listening"
 	},
 	{
 		"chinese": "我(现在)正在听",
-		"english": "I am listening",
-		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai ting",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài tīng",
+		"englishGloss": "I am listening"
 	},
 	{
 		"chinese": "音乐",
-		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"pinyin": "yin yue",
+		"soundmark": "yīn yuè",
+		"englishGloss": "music"
 	},
 	{
 		"chinese": "我(现在)正在听音乐",
-		"english": "I am listening to music",
-		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"pinyin": "wo ( xian zai ) zheng zai ting yin yue",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài tīng yīn yuè",
+		"englishGloss": "I am listening to music"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/ /(she，现在时)be is/ /ɪz/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "她(现在)正在听音乐",
-		"english": "she is listening to music",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/ /(she，过去时)be was/ /wəz/"
+		"pinyin": "ta ( xian zai ) zheng zai ting yin yue",
+		"soundmark": "tā ( xiàn zài ) zhèng zài tīng yīn yuè",
+		"englishGloss": "she is listening to music"
 	},
 	{
 		"chinese": "她(过去)正在听音乐",
-		"english": "she was listening to music",
-		"soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"pinyin": "ta ( guo qu ) zheng zai ting yin yue",
+		"soundmark": "tā ( guò qù ) zhèng zài tīng yīn yuè",
+		"englishGloss": "she was listening to music"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我(过去)正在听音乐",
-		"english": "I was listening to music",
-		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"pinyin": "wo ( guo qu ) zheng zai ting yin yue",
+		"soundmark": "wǒ ( guò qù ) zhèng zài tīng yīn yuè",
+		"englishGloss": "I was listening to music"
 	},
 	{
 		"chinese": "一些",
-		"english": "some",
-		"soundmark": "/səm/"
+		"pinyin": "yi xie",
+		"soundmark": "yì xiē",
+		"englishGloss": "some"
 	},
 	{
 		"chinese": "我(过去)正在听一些音乐",
-		"english": "I was listening to some music",
-		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/ /(you，现在时)be are/ /ɚ/"
+		"pinyin": "wo ( guo qu ) zheng zai ting yi xie yin yue",
+		"soundmark": "wǒ ( guò qù ) zhèng zài tīng yì xiē yīn yuè",
+		"englishGloss": "I was listening to some music"
 	},
 	{
 		"chinese": "你(现在)正在听",
-		"english": "you are listening",
-		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/"
+		"pinyin": "ni ( xian zai ) zheng zai ting",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài tīng",
+		"englishGloss": "you are listening"
 	},
 	{
 		"chinese": "你(现在)正在听音乐",
-		"english": "you are listening to music",
-		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"pinyin": "ni ( xian zai ) zheng zai ting yin yue",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài tīng yīn yuè",
+		"englishGloss": "you are listening to music"
 	},
 	{
 		"chinese": "你听",
-		"english": "you listen",
-		"soundmark": "/ju/ /'lɪsn/"
+		"pinyin": "ni ting",
+		"soundmark": "nǐ tīng",
+		"englishGloss": "you listen"
 	},
 	{
 		"chinese": "认真地",
-		"english": "carefully",
-		"soundmark": "/'kɛrfəli/"
+		"pinyin": "ren zhen di",
+		"soundmark": "rèn zhēn dì",
+		"englishGloss": "carefully"
 	},
 	{
 		"chinese": "你认真地听",
-		"english": "you listen carefully",
-		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+		"pinyin": "ni ren zhen di ting",
+		"soundmark": "nǐ rèn zhēn dì tīng",
+		"englishGloss": "you listen carefully"
 	},
 	{
 		"chinese": "如果",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "ru guo",
+		"soundmark": "rú guǒ",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "如果你认真地听",
-		"english": "if you listen carefully",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/"
+		"pinyin": "ru guo ni ren zhen di ting",
+		"soundmark": "rú guǒ nǐ rèn zhēn dì tīng",
+		"englishGloss": "if you listen carefully"
 	},
 	{
 		"chinese": "你可以听到一些音乐",
-		"english": "you can hear some music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"pinyin": "ni ke yi ting dao yi xie yin yue",
+		"soundmark": "nǐ kě yǐ tīng dào yì xiē yīn yuè",
+		"englishGloss": "you can hear some music"
 	},
 	{
 		"chinese": "如果你认真地听你可以听到一些音乐",
-		"english": "if you listen carefully you can hear some music",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"pinyin": "ru guo ni ren zhen di ting ni ke yi ting dao yi xie yin yue",
+		"soundmark": "rú guǒ nǐ rèn zhēn dì tīng nǐ kě yǐ tīng dào yì xiē yīn yuè",
+		"englishGloss": "if you listen carefully you can hear some music"
 	},
 	{
 		"chinese": "这段音乐",
-		"english": "the music",
-		"soundmark": "/ðə/ /'mjuzɪk/"
+		"pinyin": "zhe duan yin yue",
+		"soundmark": "zhè duàn yīn yuè",
+		"englishGloss": "the music"
 	},
 	{
 		"chinese": "如果你认真地听这段音乐",
-		"english": "if you listen to the music carefully",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/"
+		"pinyin": "ru guo ni ren zhen di ting zhe duan yin yue",
+		"soundmark": "rú guǒ nǐ rèn zhēn dì tīng zhè duàn yīn yuè",
+		"englishGloss": "if you listen to the music carefully"
 	},
 	{
 		"chinese": "吉他",
-		"english": "guitar",
-		"soundmark": "/ɡɪ'tɑr/"
+		"pinyin": "ji ta",
+		"soundmark": "jí tā",
+		"englishGloss": "guitar"
 	},
 	{
 		"chinese": "一把吉他",
-		"english": "a guitar",
-		"soundmark": "/ə/ /ɡɪ'tɑr/"
+		"pinyin": "yi ba ji ta",
+		"soundmark": "yì bǎ jí tā",
+		"englishGloss": "a guitar"
 	},
 	{
 		"chinese": "你可以听见",
-		"english": "you can hear",
-		"soundmark": "/ju/ /kæn/ /hɪr/"
+		"pinyin": "ni ke yi ting jian",
+		"soundmark": "nǐ kě yǐ tīng jiàn",
+		"englishGloss": "you can hear"
 	},
 	{
 		"chinese": "你可以听见一把吉他",
-		"english": "you can hear a guitar",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/"
+		"pinyin": "ni ke yi ting jian yi ba ji ta",
+		"soundmark": "nǐ kě yǐ tīng jiàn yì bǎ jí tā",
+		"englishGloss": "you can hear a guitar"
 	},
 	{
 		"chinese": "后面的",
-		"english": "back",
-		"soundmark": "/bæk/"
+		"pinyin": "hou mian de",
+		"soundmark": "hòu miàn de",
+		"englishGloss": "back"
 	},
 	{
 		"chinese": "场地",
-		"english": "ground",
-		"soundmark": "/ɡraʊnd/"
+		"pinyin": "chang di",
+		"soundmark": "chǎng dì",
+		"englishGloss": "ground"
 	},
 	{
 		"chinese": "背景",
-		"english": "background",
-		"soundmark": "/'bækɡraʊnd/"
+		"pinyin": "bei jing",
+		"soundmark": "bèi jǐng",
+		"englishGloss": "background"
 	},
 	{
 		"chinese": "在背景里",
-		"english": "in the background",
-		"soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/"
+		"pinyin": "zai bei jing li",
+		"soundmark": "zài bèi jǐng lǐ",
+		"englishGloss": "in the background"
 	},
 	{
 		"chinese": "你可以听见一把吉他在背景里",
-		"english": "you can hear a guitar in the background",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/"
+		"pinyin": "ni ke yi ting jian yi ba ji ta zai bei jing li",
+		"soundmark": "nǐ kě yǐ tīng jiàn yì bǎ jí tā zài bèi jǐng lǐ",
+		"englishGloss": "you can hear a guitar in the background"
 	},
 	{
 		"chinese": "如果你认真地听这段音乐你可以听见一把吉他在背景里",
-		"english": "if you listen to the music carefully you can hear a guitar in the background",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/"
+		"pinyin": "ru guo ni ren zhen di ting zhe duan yin yue ni ke yi ting jian yi ba ji ta zai bei jing li",
+		"soundmark": "rú guǒ nǐ rèn zhēn dì tīng zhè duàn yīn yuè nǐ kě yǐ tīng jiàn yì bǎ jí tā zài bèi jǐng lǐ",
+		"englishGloss": "if you listen to the music carefully you can hear a guitar in the background"
 	},
 	{
 		"chinese": "你认真地听",
-		"english": "you listen carefully",
-		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+		"pinyin": "ni ren zhen di ting",
+		"soundmark": "nǐ rèn zhēn dì tīng",
+		"englishGloss": "you listen carefully"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你不认真地听",
-		"english": "you don't listen carefully",
-		"soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"pinyin": "ni bu ren zhen di ting",
+		"soundmark": "nǐ bú rèn zhēn dì tīng",
+		"englishGloss": "you don't listen carefully"
 	},
 	{
 		"chinese": "如果",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "ru guo",
+		"soundmark": "rú guǒ",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "如果你不认真地听",
-		"english": "if you don't listen carefully",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"pinyin": "ru guo ni bu ren zhen di ting",
+		"soundmark": "rú guǒ nǐ bú rèn zhēn dì tīng",
+		"englishGloss": "if you don't listen carefully"
 	},
 	{
 		"chinese": "听见",
-		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"pinyin": "ting jian",
+		"soundmark": "tīng jiàn",
+		"englishGloss": "to hear"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你将会听见",
-		"english": "you will hear",
-		"soundmark": "/ju/ /wɪl/ /hɪr/"
+		"pinyin": "ni jiang hui ting jian",
+		"soundmark": "nǐ jiāng huì tīng jiàn",
+		"englishGloss": "you will hear"
 	},
 	{
 		"chinese": "东西",
-		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"pinyin": "dong xi",
+		"soundmark": "dōng xī",
+		"englishGloss": "thing"
 	},
 	{
 		"chinese": "没有东西",
-		"english": "nothing",
-		"soundmark": "/'nʌθɪŋ/"
+		"pinyin": "mei you dong xi",
+		"soundmark": "méi yǒu dōng xī",
+		"englishGloss": "nothing"
 	},
 	{
 		"chinese": "你将会听见没有东西",
-		"english": "you will hear nothing",
-		"soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+		"pinyin": "ni jiang hui ting jian mei you dong xi",
+		"soundmark": "nǐ jiāng huì tīng jiàn méi yǒu dōng xī",
+		"englishGloss": "you will hear nothing"
 	},
 	{
 		"chinese": "如果你不认真地听",
-		"english": "if you don't listen carefully",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"pinyin": "ru guo ni bu ren zhen di ting",
+		"soundmark": "rú guǒ nǐ bú rèn zhēn dì tīng",
+		"englishGloss": "if you don't listen carefully"
 	},
 	{
 		"chinese": "如果你不认真地听你将会什么都听不到",
-		"english": "if you don't listen carefully you will hear nothing",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+		"pinyin": "ru guo ni bu ren zhen di ting ni jiang hui shen me dou ting bu dao",
+		"soundmark": "rú guǒ nǐ bú rèn zhēn dì tīng nǐ jiāng huì shén me dōu tīng bú dào",
+		"englishGloss": "if you don't listen carefully you will hear nothing"
 	}
 ]

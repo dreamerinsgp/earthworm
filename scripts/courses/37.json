@@ -1,742 +1,890 @@
 [
 	{
 		"chinese": "阅读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "这本书",
-		"english": "the book",
-		"soundmark": "/ðə/ /bʊk/"
+		"pinyin": "zhe ben shu",
+		"soundmark": "zhè běn shū",
+		"englishGloss": "the book"
 	},
 	{
 		"chinese": "阅读这本书",
-		"english": "to read the book",
-		"soundmark": "/tə/ /rid/ /ðə/ /bʊk/"
+		"pinyin": "yue du zhe ben shu",
+		"soundmark": "yuè dú zhè běn shū",
+		"englishGloss": "to read the book"
 	},
 	{
 		"chinese": "阅读这本书(ing形式)",
-		"english": "reading the book",
-		"soundmark": "/'ridɪŋ/ /ðə/ /bʊk/"
+		"pinyin": "yue du zhe ben shu ( i n g xing shi )",
+		"soundmark": "yuè dú zhè běn shū ( i n g xíng shì )",
+		"englishGloss": "reading the book"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "他完成",
-		"english": "he finishes",
-		"soundmark": "/hi/ /'fɪnɪʃɪz/"
+		"pinyin": "ta wan cheng",
+		"soundmark": "tā wán chéng",
+		"englishGloss": "he finishes"
 	},
 	{
 		"chinese": "他(过去)完成",
-		"english": "he finished",
-		"soundmark": "/hi/ /'fɪnɪʃt/"
+		"pinyin": "ta ( guo qu ) wan cheng",
+		"soundmark": "tā ( guò qù ) wán chéng",
+		"englishGloss": "he finished"
 	},
 	{
 		"chinese": "他(过去)完成阅读这本书",
-		"english": "he finished reading the book",
-		"soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/"
+		"pinyin": "ta ( guo qu ) wan cheng yue du zhe ben shu",
+		"soundmark": "tā ( guò qù ) wán chéng yuè dú zhè běn shū",
+		"englishGloss": "he finished reading the book"
 	},
 	{
 		"chinese": "天",
-		"english": "day",
-		"soundmark": "/de/"
+		"pinyin": "tian",
+		"soundmark": "tiān",
+		"englishGloss": "day"
 	},
 	{
 		"chinese": "一天",
-		"english": "one day",
-		"soundmark": "/wʌn/ /de/"
+		"pinyin": "yi tian",
+		"soundmark": "yì tiān",
+		"englishGloss": "one day"
 	},
 	{
 		"chinese": "在一天内",
-		"english": "in one day",
-		"soundmark": "/ɪn/ /wʌn/ /de/"
+		"pinyin": "zai yi tian nei",
+		"soundmark": "zài yì tiān nèi",
+		"englishGloss": "in one day"
 	},
 	{
 		"chinese": "他在一天内完成了阅读这本书",
-		"english": "he finished reading the book in one day",
-		"soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /de/"
+		"pinyin": "ta zai yi tian nei wan cheng le yue du zhe ben shu",
+		"soundmark": "tā zài yì tiān nèi wán chéng le yuè dú zhè běn shū",
+		"englishGloss": "he finished reading the book in one day"
 	},
 	{
 		"chinese": "晚上",
-		"english": "night",
-		"soundmark": "/naɪt/"
+		"pinyin": "wan shang",
+		"soundmark": "wǎn shàng",
+		"englishGloss": "night"
 	},
 	{
 		"chinese": "在一个晚上内",
-		"english": "in one night",
-		"soundmark": "/ɪn/ /wʌn/ /naɪt/"
+		"pinyin": "zai yi ge wan shang nei",
+		"soundmark": "zài yí gè wǎn shàng nèi",
+		"englishGloss": "in one night"
 	},
 	{
 		"chinese": "他在一个晚上内完成了阅读这本书",
-		"english": "he finished reading the book in one night",
-		"soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /naɪt/"
+		"pinyin": "ta zai yi ge wan shang nei wan cheng le yue du zhe ben shu",
+		"soundmark": "tā zài yí gè wǎn shàng nèi wán chéng le yuè dú zhè běn shū",
+		"englishGloss": "he finished reading the book in one night"
 	},
 	{
 		"chinese": "洗",
-		"english": "to wash",
-		"soundmark": "/tə/ /wɔʃ/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "to wash"
 	},
 	{
 		"chinese": "碟",
-		"english": "dish",
-		"soundmark": "/dɪʃ/"
+		"pinyin": "die",
+		"soundmark": "dié",
+		"englishGloss": "dish"
 	},
 	{
 		"chinese": "那些碗碟",
-		"english": "the dishes",
-		"soundmark": "/ðə/ /dɪʃɪz/"
+		"pinyin": "na xie wan die",
+		"soundmark": "nà xiē wǎn dié",
+		"englishGloss": "the dishes"
 	},
 	{
 		"chinese": "洗那些碗碟",
-		"english": "to wash the dishes",
-		"soundmark": "/tə/ /wɔʃ/ /ðə/ /dɪʃɪz/"
+		"pinyin": "xi na xie wan die",
+		"soundmark": "xǐ nà xiē wǎn dié",
+		"englishGloss": "to wash the dishes"
 	},
 	{
 		"chinese": "洗那些碗碟(ing形式)",
-		"english": "washing the dishes",
-		"soundmark": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/"
+		"pinyin": "xi na xie wan die ( i n g xing shi )",
+		"soundmark": "xǐ nà xiē wǎn dié ( i n g xíng shì )",
+		"englishGloss": "washing the dishes"
 	},
 	{
 		"chinese": "晚饭",
-		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"pinyin": "wan fan",
+		"soundmark": "wǎn fàn",
+		"englishGloss": "dinner"
 	},
 	{
 		"chinese": "在......之后",
-		"english": "after",
-		"soundmark": "/'æftɚ/"
+		"pinyin": "zai . . . . . . zhi hou",
+		"soundmark": "zài . . . . . . zhī hòu",
+		"englishGloss": "after"
 	},
 	{
 		"chinese": "在晚饭之后",
-		"english": "after dinner",
-		"soundmark": "/'æftɚ/ /'dɪnɚ/"
+		"pinyin": "zai wan fan zhi hou",
+		"soundmark": "zài wǎn fàn zhī hòu",
+		"englishGloss": "after dinner"
 	},
 	{
 		"chinese": "在晚饭之后洗那些碗碟(ing形式)",
-		"english": "washing the dishes after dinner",
-		"soundmark": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/"
+		"pinyin": "zai wan fan zhi hou xi na xie wan die ( i n g xing shi )",
+		"soundmark": "zài wǎn fàn zhī hòu xǐ nà xiē wǎn dié ( i n g xíng shì )",
+		"englishGloss": "washing the dishes after dinner"
 	},
 	{
 		"chinese": "他(过去)完成",
-		"english": "he finished",
-		"soundmark": "/hi/ /'fɪnɪʃt/"
+		"pinyin": "ta ( guo qu ) wan cheng",
+		"soundmark": "tā ( guò qù ) wán chéng",
+		"englishGloss": "he finished"
 	},
 	{
 		"chinese": "他在晚饭之后完成了洗碗",
-		"english": "he finished washing the dishes after dinner",
-		"soundmark": "/hi/ /'fɪnɪʃt/ /'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/"
+		"pinyin": "ta zai wan fan zhi hou wan cheng le xi wan",
+		"soundmark": "tā zài wǎn fàn zhī hòu wán chéng le xǐ wǎn",
+		"englishGloss": "he finished washing the dishes after dinner"
 	},
 	{
 		"chinese": "作画",
-		"english": "to paint",
-		"soundmark": "/tə/ /pent/"
+		"pinyin": "zuo hua",
+		"soundmark": "zuò huà",
+		"englishGloss": "to paint"
 	},
 	{
 		"chinese": "墙",
-		"english": "the wall",
-		"soundmark": "/ðə/ /wɔl/"
+		"pinyin": "qiang",
+		"soundmark": "qiáng",
+		"englishGloss": "the wall"
 	},
 	{
 		"chinese": "刷墙",
-		"english": "to paint the wall",
-		"soundmark": "/tə/ /pent/ /ðə/ /wɔl/"
+		"pinyin": "shua qiang",
+		"soundmark": "shuā qiáng",
+		"englishGloss": "to paint the wall"
 	},
 	{
 		"chinese": "刷墙(ing形式)",
-		"english": "painting the wall",
-		"soundmark": "/'pentɪŋ/ /ðə/ /wɔl/"
+		"pinyin": "shua qiang ( i n g xing shi )",
+		"soundmark": "shuā qiáng ( i n g xíng shì )",
+		"englishGloss": "painting the wall"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "他们完成",
-		"english": "they finish",
-		"soundmark": "/ðe/ /'fɪnɪʃ/"
+		"pinyin": "ta men wan cheng",
+		"soundmark": "tā men wán chéng",
+		"englishGloss": "they finish"
 	},
 	{
 		"chinese": "他们(过去)完成",
-		"english": "they finished",
-		"soundmark": "/ðe/ /'fɪnɪʃt/"
+		"pinyin": "ta men ( guo qu ) wan cheng",
+		"soundmark": "tā men ( guò qù ) wán chéng",
+		"englishGloss": "they finished"
 	},
 	{
 		"chinese": "他们完成了刷墙",
-		"english": "they finished painting the wall",
-		"soundmark": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/"
+		"pinyin": "ta men wan cheng le shua qiang",
+		"soundmark": "tā men wán chéng le shuā qiáng",
+		"englishGloss": "they finished painting the wall"
 	},
 	{
 		"chinese": "太阳",
-		"english": "sun",
-		"soundmark": "/sʌn/"
+		"pinyin": "tai yang",
+		"soundmark": "tài yáng",
+		"englishGloss": "sun"
 	},
 	{
 		"chinese": "日落",
-		"english": "sunset",
-		"soundmark": "/'sʌnsɛt/"
+		"pinyin": "ri luo",
+		"soundmark": "rì luò",
+		"englishGloss": "sunset"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在日落之前",
-		"english": "before sunset",
-		"soundmark": "/bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "zai ri luo zhi qian",
+		"soundmark": "zài rì luò zhī qián",
+		"englishGloss": "before sunset"
 	},
 	{
 		"chinese": "他们在落日之前完成了刷墙",
-		"english": "they finished painting the wall before sunset",
-		"soundmark": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "ta men zai luo ri zhi qian wan cheng le shua qiang",
+		"soundmark": "tā men zài luò rì zhī qián wán chéng le shuā qiáng",
+		"englishGloss": "they finished painting the wall before sunset"
 	},
 	{
 		"chinese": "清理",
-		"english": "to clean",
-		"soundmark": "/tə/ /klin/"
+		"pinyin": "qing li",
+		"soundmark": "qīng lǐ",
+		"englishGloss": "to clean"
 	},
 	{
 		"chinese": "这个房子",
-		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"pinyin": "zhe ge fang zi",
+		"soundmark": "zhè ge fáng zi",
+		"englishGloss": "the house"
 	},
 	{
 		"chinese": "清理这个房子",
-		"english": "to clean the house",
-		"soundmark": "/tə/ /klin/ /ðə/ /haʊs/"
+		"pinyin": "qing li zhe ge fang zi",
+		"soundmark": "qīng lǐ zhè ge fáng zi",
+		"englishGloss": "to clean the house"
 	},
 	{
 		"chinese": "清理这个房子(ing形式)",
-		"english": "cleaning the house",
-		"soundmark": "/'klinɪŋ/ /ðə/ /haʊs/"
+		"pinyin": "qing li zhe ge fang zi ( i n g xing shi )",
+		"soundmark": "qīng lǐ zhè ge fáng zi ( i n g xíng shì )",
+		"englishGloss": "cleaning the house"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "你(过去)完成",
-		"english": "you finished",
-		"soundmark": "/ju/ /'fɪnɪʃt/"
+		"pinyin": "ni ( guo qu ) wan cheng",
+		"soundmark": "nǐ ( guò qù ) wán chéng",
+		"englishGloss": "you finished"
 	},
 	{
 		"chinese": "你完成了清理这个房子",
-		"english": "you finished cleaning the house",
-		"soundmark": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/"
+		"pinyin": "ni wan cheng le qing li zhe ge fang zi",
+		"soundmark": "nǐ wán chéng le qīng lǐ zhè ge fáng zi",
+		"englishGloss": "you finished cleaning the house"
 	},
 	{
 		"chinese": "你自己",
-		"english": "yourself",
-		"soundmark": "/jɔr'sɛlf/"
+		"pinyin": "ni zi ji",
+		"soundmark": "nǐ zì jǐ",
+		"englishGloss": "yourself"
 	},
 	{
 		"chinese": "通过你自己",
-		"english": "by yourself",
-		"soundmark": "/baɪ/ /jɔr'sɛlf/"
+		"pinyin": "tong guo ni zi ji",
+		"soundmark": "tōng guò nǐ zì jǐ",
+		"englishGloss": "by yourself"
 	},
 	{
 		"chinese": "你自己一个人完成了清理这个房子",
-		"english": "you finished cleaning the house by yourself",
-		"soundmark": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/ /baɪ/ /jɔr'sɛlf/"
+		"pinyin": "ni zi ji yi ge ren wan cheng le qing li zhe ge fang zi",
+		"soundmark": "nǐ zì jǐ yí gè rén wán chéng le qīng lǐ zhè ge fáng zi",
+		"englishGloss": "you finished cleaning the house by yourself"
 	},
 	{
 		"chinese": "打破",
-		"english": "to break",
-		"soundmark": "/tə/ /brek/"
+		"pinyin": "da po",
+		"soundmark": "dǎ pò",
+		"englishGloss": "to break"
 	},
 	{
 		"chinese": "那个窗户",
-		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"pinyin": "na ge chuang hu",
+		"soundmark": "nà ge chuāng hù",
+		"englishGloss": "the window"
 	},
 	{
 		"chinese": "打破那个窗户",
-		"english": "to break the window",
-		"soundmark": "/tə/ /brek/ /ðə/ /'wɪndo/"
+		"pinyin": "da po na ge chuang hu",
+		"soundmark": "dǎ pò nà ge chuāng hù",
+		"englishGloss": "to break the window"
 	},
 	{
 		"chinese": "一个石头",
-		"english": "a stone",
-		"soundmark": "/ə/ /ston/"
+		"pinyin": "yi ge shi tou",
+		"soundmark": "yí gè shí tou",
+		"englishGloss": "a stone"
 	},
 	{
 		"chinese": "和......一起",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he . . . . . . yi qi",
+		"soundmark": "hé . . . . . . yì qǐ",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "和一个石头一起",
-		"english": "with a stone",
-		"soundmark": "/wɪð/ /ə/ /ston/"
+		"pinyin": "he yi ge shi tou yi qi",
+		"soundmark": "hé yí gè shí tou yì qǐ",
+		"englishGloss": "with a stone"
 	},
 	{
 		"chinese": "用一个石头打破那个窗户",
-		"english": "to break the window with a stone",
-		"soundmark": "/tə/ /brek/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+		"pinyin": "yong yi ge shi tou da po na ge chuang hu",
+		"soundmark": "yòng yí gè shí tou dǎ pò nà ge chuāng hù",
+		"englishGloss": "to break the window with a stone"
 	},
 	{
 		"chinese": "用一个石头打破那个窗户(ing形式)",
-		"english": "breaking the window with a stone",
-		"soundmark": "/'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+		"pinyin": "yong yi ge shi tou da po na ge chuang hu ( i n g xing shi )",
+		"soundmark": "yòng yí gè shí tou dǎ pò nà ge chuāng hù ( i n g xíng shì )",
+		"englishGloss": "breaking the window with a stone"
 	},
 	{
 		"chinese": "否认",
-		"english": "to deny",
-		"soundmark": "/tə/ /dɪ'naɪ/"
+		"pinyin": "fou ren",
+		"soundmark": "fǒu rèn",
+		"englishGloss": "to deny"
 	},
 	{
 		"chinese": "他们否认",
-		"english": "they deny",
-		"soundmark": "/ðe/ /dɪ'naɪ/"
+		"pinyin": "ta men fou ren",
+		"soundmark": "tā men fǒu rèn",
+		"englishGloss": "they deny"
 	},
 	{
 		"chinese": "他们(过去)否认",
-		"english": "they denied",
-		"soundmark": "/ðe/ /dɪ'naɪd/"
+		"pinyin": "ta men ( guo qu ) fou ren",
+		"soundmark": "tā men ( guò qù ) fǒu rèn",
+		"englishGloss": "they denied"
 	},
 	{
 		"chinese": "他们(过去)否认用一个石头打破那个窗户",
-		"english": "they denied breaking the window with a stone",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+		"pinyin": "ta men ( guo qu ) fou ren yong yi ge shi tou da po na ge chuang hu",
+		"soundmark": "tā men ( guò qù ) fǒu rèn yòng yí gè shí tou dǎ pò nà ge chuāng hù",
+		"englishGloss": "they denied breaking the window with a stone"
 	},
 	{
 		"chinese": "他(过去)否认",
-		"english": "he denied",
-		"soundmark": "/hi/ /dɪ'naɪd/"
+		"pinyin": "ta ( guo qu ) fou ren",
+		"soundmark": "tā ( guò qù ) fǒu rèn",
+		"englishGloss": "he denied"
 	},
 	{
 		"chinese": "改变",
-		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "to change"
 	},
 	{
 		"chinese": "想法",
-		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"pinyin": "xiang fa",
+		"soundmark": "xiǎng fǎ",
+		"englishGloss": "mind"
 	},
 	{
 		"chinese": "他的想法",
-		"english": "his mind",
-		"soundmark": "/hɪz/ /maɪnd/"
+		"pinyin": "ta de xiang fa",
+		"soundmark": "tā de xiǎng fǎ",
+		"englishGloss": "his mind"
 	},
 	{
 		"chinese": "改变他的想法",
-		"english": "to change his mind",
-		"soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+		"pinyin": "gai bian ta de xiang fa",
+		"soundmark": "gǎi biàn tā de xiǎng fǎ",
+		"englishGloss": "to change his mind"
 	},
 	{
 		"chinese": "分钟",
-		"english": "minute",
-		"soundmark": "/'mɪnɪt/"
+		"pinyin": "fen zhong",
+		"soundmark": "fēn zhōng",
+		"englishGloss": "minute"
 	},
 	{
 		"chinese": "最后",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "zui hou",
+		"soundmark": "zuì hòu",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "最后一分钟",
-		"english": "the last minute",
-		"soundmark": "/ðə/ /læst/ /'mɪnɪt/"
+		"pinyin": "zui hou yi fen zhong",
+		"soundmark": "zuì hòu yì fēn zhōng",
+		"englishGloss": "the last minute"
 	},
 	{
 		"chinese": "在最后一个刻",
-		"english": "at the last minute",
-		"soundmark": "/ət/ /ðə/ /læst/ /'mɪnɪt/"
+		"pinyin": "zai zui hou yi ge ke",
+		"soundmark": "zài zuì hòu yí gè kè",
+		"englishGloss": "at the last minute"
 	},
 	{
 		"chinese": "在最后一刻改变他的想法",
-		"english": "to change his mind at the last minute",
-		"soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+		"pinyin": "zai zui hou yi ke gai bian ta de xiang fa",
+		"soundmark": "zài zuì hòu yí kè gǎi biàn tā de xiǎng fǎ",
+		"englishGloss": "to change his mind at the last minute"
 	},
 	{
 		"chinese": "在最后一刻改变他的想法(ing形式)",
-		"english": "changing his mind at the last minute",
-		"soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+		"pinyin": "zai zui hou yi ke gai bian ta de xiang fa ( i n g xing shi )",
+		"soundmark": "zài zuì hòu yí kè gǎi biàn tā de xiǎng fǎ ( i n g xíng shì )",
+		"englishGloss": "changing his mind at the last minute"
 	},
 	{
 		"chinese": "他(过去)否认",
-		"english": "he denied",
-		"soundmark": "/hi/ /dɪ'naɪd/"
+		"pinyin": "ta ( guo qu ) fou ren",
+		"soundmark": "tā ( guò qù ) fǒu rèn",
+		"englishGloss": "he denied"
 	},
 	{
 		"chinese": "他(过去)否认在最后一刻改变他的想法",
-		"english": "he denied changing his mind at the last minute",
-		"soundmark": "/hi/ /dɪ'naɪd/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+		"pinyin": "ta ( guo qu ) fou ren zai zui hou yi ke gai bian ta de xiang fa",
+		"soundmark": "tā ( guò qù ) fǒu rèn zài zuì hòu yí kè gǎi biàn tā de xiǎng fǎ",
+		"englishGloss": "he denied changing his mind at the last minute"
 	},
 	{
 		"chinese": "父母",
-		"english": "parents",
-		"soundmark": "/'pɛrənts/"
+		"pinyin": "fu mu",
+		"soundmark": "fù mǔ",
+		"englishGloss": "parents"
 	},
 	{
 		"chinese": "他的父母",
-		"english": "his parents",
-		"soundmark": "/hɪz/ /'pɛrənts/"
+		"pinyin": "ta de fu mu",
+		"soundmark": "tā de fù mǔ",
+		"englishGloss": "his parents"
 	},
 	{
 		"chinese": "撒谎",
-		"english": "to lie",
-		"soundmark": "/tə/ /laɪ/"
+		"pinyin": "sa huang",
+		"soundmark": "sā huǎng",
+		"englishGloss": "to lie"
 	},
 	{
 		"chinese": "向他的父母撒谎",
-		"english": "to lie to his parents",
-		"soundmark": "/tə/ /laɪ/ /tə/ /hɪz/ /'pɛrənts/"
+		"pinyin": "xiang ta de fu mu sa huang",
+		"soundmark": "xiàng tā de fù mǔ sā huǎng",
+		"englishGloss": "to lie to his parents"
 	},
 	{
 		"chinese": "撒谎(ing形式)",
-		"english": "lying",
-		"soundmark": "/'laɪɪŋ/"
+		"pinyin": "sa huang ( i n g xing shi )",
+		"soundmark": "sā huǎng ( i n g xíng shì )",
+		"englishGloss": "lying"
 	},
 	{
 		"chinese": "向他的父母撒谎(ing形式)",
-		"english": "lying to his parents",
-		"soundmark": "/'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/"
+		"pinyin": "xiang ta de fu mu sa huang ( i n g xing shi )",
+		"soundmark": "xiàng tā de fù mǔ sā huǎng ( i n g xíng shì )",
+		"englishGloss": "lying to his parents"
 	},
 	{
 		"chinese": "否认",
-		"english": "to deny",
-		"soundmark": "/tə/ /dɪ'naɪ/"
+		"pinyin": "fou ren",
+		"soundmark": "fǒu rèn",
+		"englishGloss": "to deny"
 	},
 	{
 		"chinese": "他(过去)否认",
-		"english": "he denied",
-		"soundmark": "/hi/ /dɪ'naɪd/"
+		"pinyin": "ta ( guo qu ) fou ren",
+		"soundmark": "tā ( guò qù ) fǒu rèn",
+		"englishGloss": "he denied"
 	},
 	{
 		"chinese": "他(过去)否认向他的父母撒谎",
-		"english": "he denied lying to his parents",
-		"soundmark": "/hi/ /dɪ'naɪd/ /'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/"
+		"pinyin": "ta ( guo qu ) fou ren xiang ta de fu mu sa huang",
+		"soundmark": "tā ( guò qù ) fǒu rèn xiàng tā de fù mǔ sā huǎng",
+		"englishGloss": "he denied lying to his parents"
 	},
 	{
 		"chinese": "有病的",
-		"english": "sick",
-		"soundmark": "/sɪk/"
+		"pinyin": "you bing de",
+		"soundmark": "yǒu bìng de",
+		"englishGloss": "sick"
 	},
 	{
 		"chinese": "他是有病的",
-		"english": "he is sick",
-		"soundmark": "/hi/ /ɪz/ /sɪk/"
+		"pinyin": "ta shi you bing de",
+		"soundmark": "tā shì yǒu bìng de",
+		"englishGloss": "he is sick"
 	},
 	{
 		"chinese": "假装",
-		"english": "to pretend",
-		"soundmark": "/tə/ /prɪ'tɛnd/"
+		"pinyin": "jia zhuang",
+		"soundmark": "jiǎ zhuāng",
+		"englishGloss": "to pretend"
 	},
 	{
 		"chinese": "假装是有病的",
-		"english": "to pretend to be sick",
-		"soundmark": "/tə/ /prɪ'tɛnd/ /tə/ /bi/ /sɪk/"
+		"pinyin": "jia zhuang shi you bing de",
+		"soundmark": "jiǎ zhuāng shì yǒu bìng de",
+		"englishGloss": "to pretend to be sick"
 	},
 	{
 		"chinese": "假装是有病的(ing形式)",
-		"english": "pretending to be sick",
-		"soundmark": "/prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/"
+		"pinyin": "jia zhuang shi you bing de ( i n g xing shi )",
+		"soundmark": "jiǎ zhuāng shì yǒu bìng de ( i n g xíng shì )",
+		"englishGloss": "pretending to be sick"
 	},
 	{
 		"chinese": "否认",
-		"english": "to deny",
-		"soundmark": "/tə/ /dɪ'naɪ/"
+		"pinyin": "fou ren",
+		"soundmark": "fǒu rèn",
+		"englishGloss": "to deny"
 	},
 	{
 		"chinese": "他(过去)否认",
-		"english": "he denied",
-		"soundmark": "/hi/ /dɪ'naɪd/"
+		"pinyin": "ta ( guo qu ) fou ren",
+		"soundmark": "tā ( guò qù ) fǒu rèn",
+		"englishGloss": "he denied"
 	},
 	{
 		"chinese": "他(过去)否认假装是有病的",
-		"english": "he denied pretending to be sick",
-		"soundmark": "/hi/ /dɪ'naɪd/ /prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/"
+		"pinyin": "ta ( guo qu ) fou ren jia zhuang shi you bing de",
+		"soundmark": "tā ( guò qù ) fǒu rèn jiǎ zhuāng shì yǒu bìng de",
+		"englishGloss": "he denied pretending to be sick"
 	},
 	{
 		"chinese": "监狱",
-		"english": "prison",
-		"soundmark": "/'prɪzn/"
+		"pinyin": "jian yu",
+		"soundmark": "jiān yù",
+		"englishGloss": "prison"
 	},
 	{
 		"chinese": "从监狱",
-		"english": "from prison",
-		"soundmark": "/frʌm/ /'prɪzn/"
+		"pinyin": "cong jian yu",
+		"soundmark": "cóng jiān yù",
+		"englishGloss": "from prison"
 	},
 	{
 		"chinese": "逃跑",
-		"english": "to escape",
-		"soundmark": "/tə/ /ɪ'skep/"
+		"pinyin": "tao pao",
+		"soundmark": "táo pǎo",
+		"englishGloss": "to escape"
 	},
 	{
 		"chinese": "越狱",
-		"english": "to escape from prison",
-		"soundmark": "/tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+		"pinyin": "yue yu",
+		"soundmark": "yuè yù",
+		"englishGloss": "to escape from prison"
 	},
 	{
 		"chinese": "计划",
-		"english": "to plan",
-		"soundmark": "/tə/ /plæn/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "to plan"
 	},
 	{
 		"chinese": "计划越狱",
-		"english": "to plan to escape from prison",
-		"soundmark": "/tə/ /plæn/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+		"pinyin": "ji hua yue yu",
+		"soundmark": "jì huà yuè yù",
+		"englishGloss": "to plan to escape from prison"
 	},
 	{
 		"chinese": "计划越狱(ing形式)",
-		"english": "planning to escape from prison",
-		"soundmark": "/'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+		"pinyin": "ji hua yue yu ( i n g xing shi )",
+		"soundmark": "jì huà yuè yù ( i n g xíng shì )",
+		"englishGloss": "planning to escape from prison"
 	},
 	{
 		"chinese": "否认",
-		"english": "to deny",
-		"soundmark": "/tə/ /dɪ'naɪ/"
+		"pinyin": "fou ren",
+		"soundmark": "fǒu rèn",
+		"englishGloss": "to deny"
 	},
 	{
 		"chinese": "他们(过去)否认",
-		"english": "they denied",
-		"soundmark": "/ðe/ /dɪ'naɪd/"
+		"pinyin": "ta men ( guo qu ) fou ren",
+		"soundmark": "tā men ( guò qù ) fǒu rèn",
+		"englishGloss": "they denied"
 	},
 	{
 		"chinese": "他们(过去)否认计划越狱",
-		"english": "they denied planning to escape from prison",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+		"pinyin": "ta men ( guo qu ) fou ren ji hua yue yu",
+		"soundmark": "tā men ( guò qù ) fǒu rèn jì huà yuè yù",
+		"englishGloss": "they denied planning to escape from prison"
 	},
 	{
 		"chinese": "偷",
-		"english": "to steal",
-		"soundmark": "/tə/ /stil/"
+		"pinyin": "tou",
+		"soundmark": "tōu",
+		"englishGloss": "to steal"
 	},
 	{
 		"chinese": "钱",
-		"english": "the money",
-		"soundmark": "/ðə/ /'mʌni/"
+		"pinyin": "qian",
+		"soundmark": "qián",
+		"englishGloss": "the money"
 	},
 	{
 		"chinese": "偷钱",
-		"english": "to steal the money",
-		"soundmark": "/tə/ /stil/ /ðə/ /'mʌni/"
+		"pinyin": "tou qian",
+		"soundmark": "tōu qián",
+		"englishGloss": "to steal the money"
 	},
 	{
 		"chinese": "偷钱(ing形式)",
-		"english": "stealing the money",
-		"soundmark": "/stilɪŋ/ /ðə/ /'mʌni/"
+		"pinyin": "tou qian ( i n g xing shi )",
+		"soundmark": "tōu qián ( i n g xíng shì )",
+		"englishGloss": "stealing the money"
 	},
 	{
 		"chinese": "银行",
-		"english": "the bank",
-		"soundmark": "/ðə/ /bæŋk/"
+		"pinyin": "yin hang",
+		"soundmark": "yín háng",
+		"englishGloss": "the bank"
 	},
 	{
 		"chinese": "从银行",
-		"english": "from the bank",
-		"soundmark": "/frʌm/ /ðə/ /bæŋk/"
+		"pinyin": "cong yin hang",
+		"soundmark": "cóng yín háng",
+		"englishGloss": "from the bank"
 	},
 	{
 		"chinese": "从银行偷钱(ing形式)",
-		"english": "stealing the money from the bank",
-		"soundmark": "/stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/"
+		"pinyin": "cong yin hang tou qian ( i n g xing shi )",
+		"soundmark": "cóng yín háng tōu qián ( i n g xíng shì )",
+		"englishGloss": "stealing the money from the bank"
 	},
 	{
 		"chinese": "否认",
-		"english": "to deny",
-		"soundmark": "/tə/ /dɪ'naɪ/"
+		"pinyin": "fou ren",
+		"soundmark": "fǒu rèn",
+		"englishGloss": "to deny"
 	},
 	{
 		"chinese": "他(过去)否认",
-		"english": "he denied",
-		"soundmark": "/hi/ /dɪ'naɪd/"
+		"pinyin": "ta ( guo qu ) fou ren",
+		"soundmark": "tā ( guò qù ) fǒu rèn",
+		"englishGloss": "he denied"
 	},
 	{
 		"chinese": "他(过去)否认从银行偷钱",
-		"english": "he denied stealing the money from the bank",
-		"soundmark": "/hi/ /dɪ'naɪd/ /stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/"
+		"pinyin": "ta ( guo qu ) fou ren cong yin hang tou qian",
+		"soundmark": "tā ( guò qù ) fǒu rèn cóng yín háng tōu qián",
+		"englishGloss": "he denied stealing the money from the bank"
 	},
 	{
 		"chinese": "接受",
-		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "to accept"
 	},
 	{
 		"chinese": "接受(ed形式)",
-		"english": "accepted",
-		"soundmark": "/ək'sɛptɪd/"
+		"pinyin": "jie shou ( e d xing shi )",
+		"soundmark": "jiē shòu ( e d xíng shì )",
+		"englishGloss": "accepted"
 	},
 	{
 		"chinese": "被接受了",
-		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"pinyin": "bei jie shou le",
+		"soundmark": "bèi jiē shòu le",
+		"englishGloss": "be accepted"
 	},
 	{
 		"chinese": "他被接受了",
-		"english": "he is accepted",
-		"soundmark": "/hi/ /ɪz/ /ək'sɛptɪd/"
+		"pinyin": "ta bei jie shou le",
+		"soundmark": "tā bèi jiē shòu le",
+		"englishGloss": "he is accepted"
 	},
 	{
 		"chinese": "他(过去)被接受了",
-		"english": "he was accepted",
-		"soundmark": "/hi/ /wəz/ /ək'sɛptɪd/"
+		"pinyin": "ta ( guo qu ) bei jie shou le",
+		"soundmark": "tā ( guò qù ) bèi jiē shòu le",
+		"englishGloss": "he was accepted"
 	},
 	{
 		"chinese": "大学",
-		"english": "the university",
-		"soundmark": "/ðə/ /ˌjunɪ'vɝsəti/"
+		"pinyin": "da xue",
+		"soundmark": "dà xué",
+		"englishGloss": "the university"
 	},
 	{
 		"chinese": "通过大学",
-		"english": "by the university",
-		"soundmark": "/baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+		"pinyin": "tong guo da xue",
+		"soundmark": "tōng guò dà xué",
+		"englishGloss": "by the university"
 	},
 	{
 		"chinese": "他(过去)被大学录取了",
-		"english": "he was accepted by the university",
-		"soundmark": "/hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+		"pinyin": "ta ( guo qu ) bei da xue lu qu le",
+		"soundmark": "tā ( guò qù ) bèi dà xué lù qǔ le",
+		"englishGloss": "he was accepted by the university"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "那个他(过去)被大学录取了",
-		"english": "that he was accepted by the university",
-		"soundmark": "/ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+		"pinyin": "na ge ta ( guo qu ) bei da xue lu qu le",
+		"soundmark": "nà ge tā ( guò qù ) bèi dà xué lù qǔ le",
+		"englishGloss": "that he was accepted by the university"
 	},
 	{
 		"chinese": "他(过去)否认",
-		"english": "he denied",
-		"soundmark": "/hi/ /dɪ'naɪd/"
+		"pinyin": "ta ( guo qu ) fou ren",
+		"soundmark": "tā ( guò qù ) fǒu rèn",
+		"englishGloss": "he denied"
 	},
 	{
 		"chinese": "他(过去)否认(那个)他(过去)被大学录取了",
-		"english": "he denied that he was accepted by the university",
-		"soundmark": "/hi/ /dɪ'naɪd/ /ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+		"pinyin": "ta ( guo qu ) fou ren ( na ge ) ta ( guo qu ) bei da xue lu qu le",
+		"soundmark": "tā ( guò qù ) fǒu rèn ( nà ge ) tā ( guò qù ) bèi dà xué lù qǔ le",
+		"englishGloss": "he denied that he was accepted by the university"
 	},
 	{
 		"chinese": "他(过去)否认(那个)",
-		"english": "he denied that",
-		"soundmark": "/hi/ /dɪ'naɪd/ /ðæt/"
+		"pinyin": "ta ( guo qu ) fou ren ( na ge )",
+		"soundmark": "tā ( guò qù ) fǒu rèn ( nà ge )",
+		"englishGloss": "he denied that"
 	},
 	{
 		"chinese": "他们(过去)否认(那个)",
-		"english": "they denied that",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/"
+		"pinyin": "ta men ( guo qu ) fou ren ( na ge )",
+		"soundmark": "tā men ( guò qù ) fǒu rèn ( nà ge )",
+		"englishGloss": "they denied that"
 	},
 	{
 		"chinese": "邀请",
-		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "to invite"
 	},
 	{
 		"chinese": "邀请(ed形式)",
-		"english": "invited",
-		"soundmark": "/ɪn'vaɪtɪd/"
+		"pinyin": "yao qing ( e d xing shi )",
+		"soundmark": "yāo qǐng ( e d xíng shì )",
+		"englishGloss": "invited"
 	},
 	{
 		"chinese": "被邀请",
-		"english": "be invited",
-		"soundmark": "/bi/ /ɪn'vaɪtɪd/"
+		"pinyin": "bei yao qing",
+		"soundmark": "bèi yāo qǐng",
+		"englishGloss": "be invited"
 	},
 	{
 		"chinese": "他们被邀请",
-		"english": "they are invited",
-		"soundmark": "/ðe/ /ɚ/ /ɪn'vaɪtɪd/"
+		"pinyin": "ta men bei yao qing",
+		"soundmark": "tā men bèi yāo qǐng",
+		"englishGloss": "they are invited"
 	},
 	{
 		"chinese": "他们(过去)被邀请",
-		"english": "they were invited",
-		"soundmark": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/"
+		"pinyin": "ta men ( guo qu ) bei yao qing",
+		"soundmark": "tā men ( guò qù ) bèi yāo qǐng",
+		"englishGloss": "they were invited"
 	},
 	{
 		"chinese": "总统",
-		"english": "the president",
-		"soundmark": "/ðə/ /'prɛzɪdənt/"
+		"pinyin": "zong tong",
+		"soundmark": "zǒng tǒng",
+		"englishGloss": "the president"
 	},
 	{
 		"chinese": "通过总统",
-		"english": "by the president",
-		"soundmark": "/baɪ/ /ðə/ /'prɛzɪdənt/"
+		"pinyin": "tong guo zong tong",
+		"soundmark": "tōng guò zǒng tǒng",
+		"englishGloss": "by the president"
 	},
 	{
 		"chinese": "他们(过去)被总统邀请",
-		"english": "they were invited by the president",
-		"soundmark": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/"
+		"pinyin": "ta men ( guo qu ) bei zong tong yao qing",
+		"soundmark": "tā men ( guò qù ) bèi zǒng tǒng yāo qǐng",
+		"englishGloss": "they were invited by the president"
 	},
 	{
 		"chinese": "他们(过去)否认(那个)",
-		"english": "they denied that",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/"
+		"pinyin": "ta men ( guo qu ) fou ren ( na ge )",
+		"soundmark": "tā men ( guò qù ) fǒu rèn ( nà ge )",
+		"englishGloss": "they denied that"
 	},
 	{
 		"chinese": "他们(过去)否认(那个)他们(过去)被总统邀请",
-		"english": "they denied that they were invited by the president",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/"
+		"pinyin": "ta men ( guo qu ) fou ren ( na ge ) ta men ( guo qu ) bei zong tong yao qing",
+		"soundmark": "tā men ( guò qù ) fǒu rèn ( nà ge ) tā men ( guò qù ) bèi zǒng tǒng yāo qǐng",
+		"englishGloss": "they denied that they were invited by the president"
 	},
 	{
 		"chinese": "教",
-		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "to teach"
 	},
 	{
 		"chinese": "教(ed形式)",
-		"english": "taught",
-		"soundmark": "/tɔt/"
+		"pinyin": "jiao ( e d xing shi )",
+		"soundmark": "jiào ( e d xíng shì )",
+		"englishGloss": "taught"
 	},
 	{
 		"chinese": "被教",
-		"english": "be taught",
-		"soundmark": "/bi/ /tɔt/"
+		"pinyin": "bei jiao",
+		"soundmark": "bèi jiào",
+		"englishGloss": "be taught"
 	},
 	{
 		"chinese": "他们被教",
-		"english": "they are taught",
-		"soundmark": "/ðe/ /ɚ/ /tɔt/"
+		"pinyin": "ta men bei jiao",
+		"soundmark": "tā men bèi jiào",
+		"englishGloss": "they are taught"
 	},
 	{
 		"chinese": "他们(过去)被教",
-		"english": "they were taught",
-		"soundmark": "/ðe/ /wɚ/ /tɔt/"
+		"pinyin": "ta men ( guo qu ) bei jiao",
+		"soundmark": "tā men ( guò qù ) bèi jiào",
+		"englishGloss": "they were taught"
 	},
 	{
 		"chinese": "教授",
-		"english": "professor",
-		"soundmark": "/prə'fɛsər/"
+		"pinyin": "jiao shou",
+		"soundmark": "jiào shòu",
+		"englishGloss": "professor"
 	},
 	{
 		"chinese": "有名的",
-		"english": "famous",
-		"soundmark": "/'feməs/"
+		"pinyin": "you ming de",
+		"soundmark": "yǒu míng de",
+		"englishGloss": "famous"
 	},
 	{
 		"chinese": "一个有名的教授",
-		"english": "a famous professor",
-		"soundmark": "/ə/ /'feməs/ /prə'fɛsər/"
+		"pinyin": "yi ge you ming de jiao shou",
+		"soundmark": "yí gè yǒu míng de jiào shòu",
+		"englishGloss": "a famous professor"
 	},
 	{
 		"chinese": "通过一个有名的教授",
-		"english": "by a famous professor",
-		"soundmark": "/baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+		"pinyin": "tong guo yi ge you ming de jiao shou",
+		"soundmark": "tōng guò yí gè yǒu míng de jiào shòu",
+		"englishGloss": "by a famous professor"
 	},
 	{
 		"chinese": "他们(过去)被教",
-		"english": "they were taught",
-		"soundmark": "/ðe/ /wɚ/ /tɔt/"
+		"pinyin": "ta men ( guo qu ) bei jiao",
+		"soundmark": "tā men ( guò qù ) bèi jiào",
+		"englishGloss": "they were taught"
 	},
 	{
 		"chinese": "他们(过去)被一个有名的教授所教",
-		"english": "they were taught by a famous professor",
-		"soundmark": "/ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+		"pinyin": "ta men ( guo qu ) bei yi ge you ming de jiao shou suo jiao",
+		"soundmark": "tā men ( guò qù ) bèi yí gè yǒu míng de jiào shòu suǒ jiào",
+		"englishGloss": "they were taught by a famous professor"
 	},
 	{
 		"chinese": "他们(过去)否认(那个)",
-		"english": "they denied that",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/"
+		"pinyin": "ta men ( guo qu ) fou ren ( na ge )",
+		"soundmark": "tā men ( guò qù ) fǒu rèn ( nà ge )",
+		"englishGloss": "they denied that"
 	},
 	{
 		"chinese": "他们(过去)否认(那个)他们(过去)被一个有名的教授所教",
-		"english": "they denied that they were taught by a famous professor",
-		"soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+		"pinyin": "ta men ( guo qu ) fou ren ( na ge ) ta men ( guo qu ) bei yi ge you ming de jiao shou suo jiao",
+		"soundmark": "tā men ( guò qù ) fǒu rèn ( nà ge ) tā men ( guò qù ) bèi yí gè yǒu míng de jiào shòu suǒ jiào",
+		"englishGloss": "they denied that they were taught by a famous professor"
 	}
 ]

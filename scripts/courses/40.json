@@ -1,627 +1,752 @@
 [
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "老师",
-		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"pinyin": "lao shi",
+		"soundmark": "lǎo shī",
+		"englishGloss": "the teacher"
 	},
 	{
 		"chinese": "老师允许",
-		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"pinyin": "lao shi yun xu",
+		"soundmark": "lǎo shī yǔn xǔ",
+		"englishGloss": "the teacher permits"
 	},
 	{
 		"chinese": "唱歌",
-		"english": "to sing",
-		"soundmark": "/tə/ /sɪŋ/"
+		"pinyin": "chang ge",
+		"soundmark": "chàng gē",
+		"englishGloss": "to sing"
 	},
 	{
 		"chinese": "课堂",
-		"english": "class",
-		"soundmark": "/klæs/"
+		"pinyin": "ke tang",
+		"soundmark": "kè táng",
+		"englishGloss": "class"
 	},
 	{
 		"chinese": "在",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"pinyin": "zai",
+		"soundmark": "zài",
+		"englishGloss": "in"
 	},
 	{
 		"chinese": "在课堂",
-		"english": "in the class",
-		"soundmark": "/ɪn/ /ðə/ /klæs/"
+		"pinyin": "zai ke tang",
+		"soundmark": "zài kè táng",
+		"englishGloss": "in the class"
 	},
 	{
 		"chinese": "音乐",
-		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"pinyin": "yin yue",
+		"soundmark": "yīn yuè",
+		"englishGloss": "music"
 	},
 	{
 		"chinese": "在音乐课",
-		"english": "in the music class",
-		"soundmark": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"pinyin": "zai yin yue ke",
+		"soundmark": "zài yīn yuè kè",
+		"englishGloss": "in the music class"
 	},
 	{
 		"chinese": "在音乐课唱歌",
-		"english": "to sing in the music class",
-		"soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"pinyin": "zai yin yue ke chang ge",
+		"soundmark": "zài yīn yuè kè chàng gē",
+		"englishGloss": "to sing in the music class"
 	},
 	{
 		"chinese": "在音乐课唱歌(ing形式)",
-		"english": "singing in the music class",
-		"soundmark": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"pinyin": "zai yin yue ke chang ge ( i n g xing shi )",
+		"soundmark": "zài yīn yuè kè chàng gē ( i n g xíng shì )",
+		"englishGloss": "singing in the music class"
 	},
 	{
 		"chinese": "老师允许",
-		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"pinyin": "lao shi yun xu",
+		"soundmark": "lǎo shī yǔn xǔ",
+		"englishGloss": "the teacher permits"
 	},
 	{
 		"chinese": "老师允许在音乐课唱歌",
-		"english": "the teacher permits singing in the music class",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"pinyin": "lao shi yun xu zai yin yue ke chang ge",
+		"soundmark": "lǎo shī yǔn xǔ zài yīn yuè kè chàng gē",
+		"englishGloss": "the teacher permits singing in the music class"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "老师允许他",
-		"english": "the teacher permits him",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/"
+		"pinyin": "lao shi yun xu ta",
+		"soundmark": "lǎo shī yǔn xǔ tā",
+		"englishGloss": "the teacher permits him"
 	},
 	{
 		"chinese": "在音乐课唱歌",
-		"english": "to sing in the music class",
-		"soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"pinyin": "zai yin yue ke chang ge",
+		"soundmark": "zài yīn yuè kè chàng gē",
+		"englishGloss": "to sing in the music class"
 	},
 	{
 		"chinese": "老师允许他在音乐课唱歌",
-		"english": "the teacher permits him to sing in the music class",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"pinyin": "lao shi yun xu ta zai yin yue ke chang ge",
+		"soundmark": "lǎo shī yǔn xǔ tā zài yīn yuè kè chàng gē",
+		"englishGloss": "the teacher permits him to sing in the music class"
 	},
 	{
 		"chinese": "大海",
-		"english": "the sea",
-		"soundmark": "/ðə/ /si/"
+		"pinyin": "da hai",
+		"soundmark": "dà hǎi",
+		"englishGloss": "the sea"
 	},
 	{
 		"chinese": "在......里",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"pinyin": "zai . . . . . . li",
+		"soundmark": "zài . . . . . . lǐ",
+		"englishGloss": "in"
 	},
 	{
 		"chinese": "在大海里",
-		"english": "in the sea",
-		"soundmark": "/ɪn/ /ðə/ /si/"
+		"pinyin": "zai da hai li",
+		"soundmark": "zài dà hǎi lǐ",
+		"englishGloss": "in the sea"
 	},
 	{
 		"chinese": "游泳",
-		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "to swim"
 	},
 	{
 		"chinese": "在大海里游泳",
-		"english": "to swim in the sea",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"pinyin": "zai da hai li you yong",
+		"soundmark": "zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "to swim in the sea"
 	},
 	{
 		"chinese": "日落",
-		"english": "sunset",
-		"soundmark": "/'sʌnsɛt/"
+		"pinyin": "ri luo",
+		"soundmark": "rì luò",
+		"englishGloss": "sunset"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在日落之前",
-		"english": "before sunset",
-		"soundmark": "/bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "zai ri luo zhi qian",
+		"soundmark": "zài rì luò zhī qián",
+		"englishGloss": "before sunset"
 	},
 	{
 		"chinese": "在日落之前在大海里游泳",
-		"english": "to swim in the sea before sunset",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "zai ri luo zhi qian zai da hai li you yong",
+		"soundmark": "zài rì luò zhī qián zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "to swim in the sea before sunset"
 	},
 	{
 		"chinese": "在日落之前在大海里游泳(ing形式)",
-		"english": "swimming in the sea before sunset",
-		"soundmark": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "zai ri luo zhi qian zai da hai li you yong ( i n g xing shi )",
+		"soundmark": "zài rì luò zhī qián zài dà hǎi lǐ yóu yǒng ( i n g xíng shì )",
+		"englishGloss": "swimming in the sea before sunset"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "政策",
-		"english": "the policy",
-		"soundmark": "/ðə/ /ˈpɑləsi/"
+		"pinyin": "zheng ce",
+		"soundmark": "zhèng cè",
+		"englishGloss": "the policy"
 	},
 	{
 		"chinese": "政策允许",
-		"english": "the policy permits",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+		"pinyin": "zheng ce yun xu",
+		"soundmark": "zhèng cè yǔn xǔ",
+		"englishGloss": "the policy permits"
 	},
 	{
 		"chinese": "政策允许在日落之前在大海里游泳",
-		"english": "the policy permits swimming in the sea before sunset",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "zheng ce yun xu zai ri luo zhi qian zai da hai li you yong",
+		"soundmark": "zhèng cè yǔn xǔ zài rì luò zhī qián zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "the policy permits swimming in the sea before sunset"
 	},
 	{
 		"chinese": "父亲",
-		"english": "father",
-		"soundmark": "/'fɑðɚ/"
+		"pinyin": "fu qin",
+		"soundmark": "fù qīn",
+		"englishGloss": "father"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "他的父亲",
-		"english": "his father",
-		"soundmark": "/hɪz/ /'fɑðɚ/"
+		"pinyin": "ta de fu qin",
+		"soundmark": "tā de fù qīn",
+		"englishGloss": "his father"
 	},
 	{
 		"chinese": "允许",
-		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"pinyin": "yun xu",
+		"soundmark": "yǔn xǔ",
+		"englishGloss": "to permit"
 	},
 	{
 		"chinese": "他的父亲允许",
-		"english": "his father permits",
-		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/"
+		"pinyin": "ta de fu qin yun xu",
+		"soundmark": "tā de fù qīn yǔn xǔ",
+		"englishGloss": "his father permits"
 	},
 	{
 		"chinese": "他",
-		"english": "him",
-		"soundmark": "/hɪm/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "him"
 	},
 	{
 		"chinese": "他的父亲允许他",
-		"english": "his father permits him",
-		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/"
+		"pinyin": "ta de fu qin yun xu ta",
+		"soundmark": "tā de fù qīn yǔn xǔ tā",
+		"englishGloss": "his father permits him"
 	},
 	{
 		"chinese": "在日落之前在大海里游泳",
-		"english": "to swim in the sea before sunset",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "zai ri luo zhi qian zai da hai li you yong",
+		"soundmark": "zài rì luò zhī qián zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "to swim in the sea before sunset"
 	},
 	{
 		"chinese": "他的父亲允许他在日落之前在大海里游泳",
-		"english": "his father permits him to swim in the sea before sunset",
-		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"pinyin": "ta de fu qin yun xu ta zai ri luo zhi qian zai da hai li you yong",
+		"soundmark": "tā de fù qīn yǔn xǔ tā zài rì luò zhī qián zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "his father permits him to swim in the sea before sunset"
 	},
 	{
 		"chinese": "停止",
-		"english": "to stop",
-		"soundmark": "/tə/ /stɑp/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "to stop"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他停止",
-		"english": "he stops",
-		"soundmark": "/hi/ /stɑps/"
+		"pinyin": "ta ting zhi",
+		"soundmark": "tā tíng zhǐ",
+		"englishGloss": "he stops"
 	},
 	{
 		"chinese": "他停止(过去)",
-		"english": "he stopped",
-		"soundmark": "/hi/ /stɑpt/"
+		"pinyin": "ta ting zhi ( guo qu )",
+		"soundmark": "tā tíng zhǐ ( guò qù )",
+		"englishGloss": "he stopped"
 	},
 	{
 		"chinese": "抽烟",
-		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"pinyin": "chou yan",
+		"soundmark": "chōu yān",
+		"englishGloss": "to smoke"
 	},
 	{
 		"chinese": "抽烟(ing形式)",
-		"english": "smoking",
-		"soundmark": "/'smokɪŋ/"
+		"pinyin": "chou yan ( i n g xing shi )",
+		"soundmark": "chōu yān ( i n g xíng shì )",
+		"englishGloss": "smoking"
 	},
 	{
 		"chinese": "他停止抽烟",
-		"english": "he stopped smoking",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+		"pinyin": "ta ting zhi chou yan",
+		"soundmark": "tā tíng zhǐ chōu yān",
+		"englishGloss": "he stopped smoking"
 	},
 	{
 		"chinese": "健康",
-		"english": "health",
-		"soundmark": "/hɛlθ/"
+		"pinyin": "jian kang",
+		"soundmark": "jiàn kāng",
+		"englishGloss": "health"
 	},
 	{
 		"chinese": "他的健康",
-		"english": "his health",
-		"soundmark": "/hɪz/ /hɛlθ/"
+		"pinyin": "ta de jian kang",
+		"soundmark": "tā de jiàn kāng",
+		"englishGloss": "his health"
 	},
 	{
 		"chinese": "为了",
-		"english": "for",
-		"soundmark": "/fɚ/"
+		"pinyin": "wei le",
+		"soundmark": "wèi le",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "为了他的健康",
-		"english": "for his health",
-		"soundmark": "/fɚ/ /hɪz/ /hɛlθ/"
+		"pinyin": "wei le ta de jian kang",
+		"soundmark": "wèi le tā de jiàn kāng",
+		"englishGloss": "for his health"
 	},
 	{
 		"chinese": "他停止抽烟",
-		"english": "he stopped smoking",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+		"pinyin": "ta ting zhi chou yan",
+		"soundmark": "tā tíng zhǐ chōu yān",
+		"englishGloss": "he stopped smoking"
 	},
 	{
 		"chinese": "他为了他的健康停止抽烟",
-		"english": "he stopped smoking for his health",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/"
+		"pinyin": "ta wei le ta de jian kang ting zhi chou yan",
+		"soundmark": "tā wèi le tā de jiàn kāng tíng zhǐ chōu yān",
+		"englishGloss": "he stopped smoking for his health"
 	},
 	{
 		"chinese": "他停止抽烟",
-		"english": "he stopped smoking",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+		"pinyin": "ta ting zhi chou yan",
+		"soundmark": "tā tíng zhǐ chōu yān",
+		"englishGloss": "he stopped smoking"
 	},
 	{
 		"chinese": "抽烟",
-		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"pinyin": "chou yan",
+		"soundmark": "chōu yān",
+		"englishGloss": "to smoke"
 	},
 	{
 		"chinese": "他停下来去抽烟",
-		"english": "he stopped to smoke",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/"
+		"pinyin": "ta ting xia lai qu chou yan",
+		"soundmark": "tā tíng xià lái qù chōu yān",
+		"englishGloss": "he stopped to smoke"
 	},
 	{
 		"chinese": "公交车",
-		"english": "bus",
-		"soundmark": "/bʌs/"
+		"pinyin": "gong jiao che",
+		"soundmark": "gōng jiāo chē",
+		"englishGloss": "bus"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop",
-		"soundmark": "/stɑp/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop"
 	},
 	{
 		"chinese": "公交车站",
-		"english": "bus stop",
-		"soundmark": "/bʌs/ /stɑp/"
+		"pinyin": "gong jiao che zhan",
+		"soundmark": "gōng jiāo chē zhàn",
+		"englishGloss": "bus stop"
 	},
 	{
 		"chinese": "在公交车站",
-		"english": "at the bus stop",
-		"soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "zai gong jiao che zhan",
+		"soundmark": "zài gōng jiāo chē zhàn",
+		"englishGloss": "at the bus stop"
 	},
 	{
 		"chinese": "他停下来去抽烟",
-		"english": "he stopped to smoke",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/"
+		"pinyin": "ta ting xia lai qu chou yan",
+		"soundmark": "tā tíng xià lái qù chōu yān",
+		"englishGloss": "he stopped to smoke"
 	},
 	{
 		"chinese": "他在公交车站停下来去抽烟",
-		"english": "he stopped to smoke at the bus stop",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "ta zai gong jiao che zhan ting xia lai qu chou yan",
+		"soundmark": "tā zài gōng jiāo chē zhàn tíng xià lái qù chōu yān",
+		"englishGloss": "he stopped to smoke at the bus stop"
 	},
 	{
 		"chinese": "买",
-		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "to buy"
 	},
 	{
 		"chinese": "花",
-		"english": "flower",
-		"soundmark": "/'flaʊɚ/"
+		"pinyin": "hua",
+		"soundmark": "huā",
+		"englishGloss": "flower"
 	},
 	{
 		"chinese": "一些",
-		"english": "some",
-		"soundmark": "/səm/"
+		"pinyin": "yi xie",
+		"soundmark": "yì xiē",
+		"englishGloss": "some"
 	},
 	{
 		"chinese": "一些花",
-		"english": "some flowers",
-		"soundmark": "/səm/ /'flaʊɚz/"
+		"pinyin": "yi xie hua",
+		"soundmark": "yì xiē huā",
+		"englishGloss": "some flowers"
 	},
 	{
 		"chinese": "买一些花",
-		"english": "to buy some flowers",
-		"soundmark": "/tə/ /baɪ/ /səm/ /'flaʊɚz/"
+		"pinyin": "mai yi xie hua",
+		"soundmark": "mǎi yì xiē huā",
+		"englishGloss": "to buy some flowers"
 	},
 	{
 		"chinese": "他停止",
-		"english": "he stopped",
-		"soundmark": "/hi/ /stɑpt/"
+		"pinyin": "ta ting zhi",
+		"soundmark": "tā tíng zhǐ",
+		"englishGloss": "he stopped"
 	},
 	{
 		"chinese": "他停下来去买一些花",
-		"english": "he stopped to buy some flowers",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+		"pinyin": "ta ting xia lai qu mai yi xie hua",
+		"soundmark": "tā tíng xià lái qù mǎi yì xiē huā",
+		"englishGloss": "he stopped to buy some flowers"
 	},
 	{
 		"chinese": "路",
-		"english": "way",
-		"soundmark": "/we/"
+		"pinyin": "lu",
+		"soundmark": "lù",
+		"englishGloss": "way"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "他的路",
-		"english": "his way",
-		"soundmark": "/hɪz/ /we/"
+		"pinyin": "ta de lu",
+		"soundmark": "tā de lù",
+		"englishGloss": "his way"
 	},
 	{
 		"chinese": "家",
-		"english": "home",
-		"soundmark": "/hom/"
+		"pinyin": "jia",
+		"soundmark": "jiā",
+		"englishGloss": "home"
 	},
 	{
 		"chinese": "他回家的路",
-		"english": "his way home",
-		"soundmark": "/hɪz/ /we/ /hom/"
+		"pinyin": "ta hui jia de lu",
+		"soundmark": "tā huí jiā de lù",
+		"englishGloss": "his way home"
 	},
 	{
 		"chinese": "在他回家的路上",
-		"english": "on his way home",
-		"soundmark": "/ɑn/ /hɪz/ /we/ /hom/"
+		"pinyin": "zai ta hui jia de lu shang",
+		"soundmark": "zài tā huí jiā de lù shang",
+		"englishGloss": "on his way home"
 	},
 	{
 		"chinese": "他停下来去买一些花",
-		"english": "he stopped to buy some flowers",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+		"pinyin": "ta ting xia lai qu mai yi xie hua",
+		"soundmark": "tā tíng xià lái qù mǎi yì xiē huā",
+		"englishGloss": "he stopped to buy some flowers"
 	},
 	{
 		"chinese": "他在他回家的路上停下来去买",
-		"english": "he stopped to buy some flowers",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/"
+		"pinyin": "ta zai ta hui jia de lu shang ting xia lai qu mai",
+		"soundmark": "tā zài tā huí jiā de lù shang tíng xià lái qù mǎi",
+		"englishGloss": "he stopped to buy some flowers"
 	},
 	{
 		"chinese": "一些花",
-		"english": "on his way home",
-		"soundmark": "/hɪz/ /we/ /hom/"
+		"pinyin": "yi xie hua",
+		"soundmark": "yì xiē huā",
+		"englishGloss": "on his way home"
 	},
 	{
 		"chinese": "买(ing形式)",
-		"english": "buying",
-		"soundmark": "/'baɪɪŋ/"
+		"pinyin": "mai ( i n g xing shi )",
+		"soundmark": "mǎi ( i n g xíng shì )",
+		"englishGloss": "buying"
 	},
 	{
 		"chinese": "花",
-		"english": "flowers",
-		"soundmark": "/'flaʊɚz/"
+		"pinyin": "hua",
+		"soundmark": "huā",
+		"englishGloss": "flowers"
 	},
 	{
 		"chinese": "买花(ing形式)",
-		"english": "buying flowers",
-		"soundmark": "/'baɪɪŋ/ /'flaʊɚz/"
+		"pinyin": "mai hua ( i n g xing shi )",
+		"soundmark": "mǎi huā ( i n g xíng shì )",
+		"englishGloss": "buying flowers"
 	},
 	{
 		"chinese": "他停止",
-		"english": "he stopped",
-		"soundmark": "/hi/ /stɑpt/"
+		"pinyin": "ta ting zhi",
+		"soundmark": "tā tíng zhǐ",
+		"englishGloss": "he stopped"
 	},
 	{
 		"chinese": "他停止买花",
-		"english": "he stopped buying flowers",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/"
+		"pinyin": "ta ting zhi mai hua",
+		"soundmark": "tā tíng zhǐ mǎi huā",
+		"englishGloss": "he stopped buying flowers"
 	},
 	{
 		"chinese": "她",
-		"english": "her",
-		"soundmark": "/hɚ/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "her"
 	},
 	{
 		"chinese": "为了",
-		"english": "for",
-		"soundmark": "/fɚ/"
+		"pinyin": "wei le",
+		"soundmark": "wèi le",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "为她",
-		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"pinyin": "wei ta",
+		"soundmark": "wèi tā",
+		"englishGloss": "for her"
 	},
 	{
 		"chinese": "她停止为她买花",
-		"english": "he stopped buying flowers for her",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+		"pinyin": "ta ting zhi wei ta mai hua",
+		"soundmark": "tā tíng zhǐ wèi tā mǎi huā",
+		"englishGloss": "he stopped buying flowers for her"
 	},
 	{
 		"chinese": "争吵",
-		"english": "fight",
-		"soundmark": "/faɪt/"
+		"pinyin": "zheng chao",
+		"soundmark": "zhēng chǎo",
+		"englishGloss": "fight"
 	},
 	{
 		"chinese": "一次争吵",
-		"english": "a fight",
-		"soundmark": "/ə/ /faɪt/"
+		"pinyin": "yi ci zheng chao",
+		"soundmark": "yí cì zhēng chǎo",
+		"englishGloss": "a fight"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "有",
-		"english": "have",
-		"soundmark": "/hæv/"
+		"pinyin": "you",
+		"soundmark": "yǒu",
+		"englishGloss": "have"
 	},
 	{
 		"chinese": "他们有",
-		"english": "they have",
-		"soundmark": "/ðe/ /hæv/"
+		"pinyin": "ta men you",
+		"soundmark": "tā men yǒu",
+		"englishGloss": "they have"
 	},
 	{
 		"chinese": "他们有一次争吵",
-		"english": "they have a fight",
-		"soundmark": "/ðe/ /hæv/ /ə/ /faɪt/"
+		"pinyin": "ta men you yi ci zheng chao",
+		"soundmark": "tā men yǒu yí cì zhēng chǎo",
+		"englishGloss": "they have a fight"
 	},
 	{
 		"chinese": "他们(过去)有一次争吵",
-		"english": "they had a fight",
-		"soundmark": "/ðe/ /hæd/ /ə/ /faɪt/"
+		"pinyin": "ta men ( guo qu ) you yi ci zheng chao",
+		"soundmark": "tā men ( guò qù ) yǒu yí cì zhēng chǎo",
+		"englishGloss": "they had a fight"
 	},
 	{
 		"chinese": "在......之后",
-		"english": "after",
-		"soundmark": "/'æftɚ/"
+		"pinyin": "zai . . . . . . zhi hou",
+		"soundmark": "zài . . . . . . zhī hòu",
+		"englishGloss": "after"
 	},
 	{
 		"chinese": "在他们(过去)有一次争吵之后",
-		"english": "after they had a fight",
-		"soundmark": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+		"pinyin": "zai ta men ( guo qu ) you yi ci zheng chao zhi hou",
+		"soundmark": "zài tā men ( guò qù ) yǒu yí cì zhēng chǎo zhī hòu",
+		"englishGloss": "after they had a fight"
 	},
 	{
 		"chinese": "他停止为她买花",
-		"english": "he stopped buying flowers for her",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+		"pinyin": "ta ting zhi wei ta mai hua",
+		"soundmark": "tā tíng zhǐ wèi tā mǎi huā",
+		"englishGloss": "he stopped buying flowers for her"
 	},
 	{
 		"chinese": "在他们(过去)有一次争吵之后他停止为她买花",
-		"english": "he stopped buying flowers for her after they had a fight",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+		"pinyin": "zai ta men ( guo qu ) you yi ci zheng chao zhi hou ta ting zhi wei ta mai hua",
+		"soundmark": "zài tā men ( guò qù ) yǒu yí cì zhēng chǎo zhī hòu tā tíng zhǐ wèi tā mǎi huā",
+		"englishGloss": "he stopped buying flowers for her after they had a fight"
 	},
 	{
 		"chinese": "记得",
-		"english": "to remember",
-		"soundmark": "/tə/ /rɪ'mɛmbɚ/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "to remember"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要记得",
-		"english": "I need to remember",
-		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+		"pinyin": "wo xu yao ji de",
+		"soundmark": "wǒ xū yào jì de",
+		"englishGloss": "I need to remember"
 	},
 	{
 		"chinese": "打电话给......",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua gei . . . . . .",
+		"soundmark": "dǎ diàn huà gěi . . . . . .",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "妈妈",
-		"english": "mom",
-		"soundmark": "/mɑm/"
+		"pinyin": "ma ma",
+		"soundmark": "mā ma",
+		"englishGloss": "mom"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的妈妈",
-		"english": "my mom",
-		"soundmark": "/maɪ/ /mɑm/"
+		"pinyin": "wo de ma ma",
+		"soundmark": "wǒ de mā ma",
+		"englishGloss": "my mom"
 	},
 	{
 		"chinese": "打电话给我的妈妈",
-		"english": "to call my mom",
-		"soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/"
+		"pinyin": "da dian hua gei wo de ma ma",
+		"soundmark": "dǎ diàn huà gěi wǒ de mā ma",
+		"englishGloss": "to call my mom"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "明天打电话给我的妈妈",
-		"english": "to call my mom tomorrow",
-		"soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+		"pinyin": "ming tian da dian hua gei wo de ma ma",
+		"soundmark": "míng tiān dǎ diàn huà gěi wǒ de mā ma",
+		"englishGloss": "to call my mom tomorrow"
 	},
 	{
 		"chinese": "我需要记得",
-		"english": "I need to remember",
-		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+		"pinyin": "wo xu yao ji de",
+		"soundmark": "wǒ xū yào jì de",
+		"englishGloss": "I need to remember"
 	},
 	{
 		"chinese": "我需要记得明天打电话给我的妈妈",
-		"english": "I need to remember to call my mom tomorrow",
-		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+		"pinyin": "wo xu yao ji de ming tian da dian hua gei wo de ma ma",
+		"soundmark": "wǒ xū yào jì de míng tiān dǎ diàn huà gěi wǒ de mā ma",
+		"englishGloss": "I need to remember to call my mom tomorrow"
 	},
 	{
 		"chinese": "打电话给......",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua gei . . . . . .",
+		"soundmark": "dǎ diàn huà gěi . . . . . .",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "打电话给你",
-		"english": "to call you",
-		"soundmark": "/tə/ /kɔl/ /ju/"
+		"pinyin": "da dian hua gei ni",
+		"soundmark": "dǎ diàn huà gěi nǐ",
+		"englishGloss": "to call you"
 	},
 	{
 		"chinese": "打电话给你(ing形式)",
-		"english": "calling you",
-		"soundmark": "/ˈkɔlɪŋ/ /ju/"
+		"pinyin": "da dian hua gei ni ( i n g xing shi )",
+		"soundmark": "dǎ diàn huà gěi nǐ ( i n g xíng shì )",
+		"englishGloss": "calling you"
 	},
 	{
 		"chinese": "昨天晚上",
-		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"pinyin": "zuo tian wan shang",
+		"soundmark": "zuó tiān wǎn shàng",
+		"englishGloss": "last night"
 	},
 	{
 		"chinese": "昨天晚上打电话给你(ing形式)",
-		"english": "calling you last night",
-		"soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"pinyin": "zuo tian wan shang da dian hua gei ni ( i n g xing shi )",
+		"soundmark": "zuó tiān wǎn shàng dǎ diàn huà gěi nǐ ( i n g xíng shì )",
+		"englishGloss": "calling you last night"
 	},
 	{
 		"chinese": "我记得",
-		"english": "I remember",
-		"soundmark": "/aɪ/ /rɪ'mɛmbɚ/"
+		"pinyin": "wo ji de",
+		"soundmark": "wǒ jì de",
+		"englishGloss": "I remember"
 	},
 	{
 		"chinese": "我记得昨天晚上打电话给你",
-		"english": "I remember calling you last night",
-		"soundmark": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"pinyin": "wo ji de zuo tian wan shang da dian hua gei ni",
+		"soundmark": "wǒ jì de zuó tiān wǎn shàng dǎ diàn huà gěi nǐ",
+		"englishGloss": "I remember calling you last night"
 	},
 	{
 		"chinese": "忘记",
-		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "to forget"
 	},
 	{
 		"chinese": "我忘记",
-		"english": "I forget",
-		"soundmark": "/aɪ/ /fɚ'ɡɛt/"
+		"pinyin": "wo wang ji",
+		"soundmark": "wǒ wàng jì",
+		"englishGloss": "I forget"
 	},
 	{
 		"chinese": "我忘记(过去)",
-		"english": "I forgot",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/"
+		"pinyin": "wo wang ji ( guo qu )",
+		"soundmark": "wǒ wàng jì ( guò qù )",
+		"englishGloss": "I forgot"
 	},
 	{
 		"chinese": "昨天晚上打电话给你(ing形式)",
-		"english": "calling you last night",
-		"soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"pinyin": "zuo tian wan shang da dian hua gei ni ( i n g xing shi )",
+		"soundmark": "zuó tiān wǎn shàng dǎ diàn huà gěi nǐ ( i n g xíng shì )",
+		"englishGloss": "calling you last night"
 	},
 	{
 		"chinese": "我忘记昨天晚上打电话给你",
-		"english": "I forgot calling you last night",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"pinyin": "wo wang ji zuo tian wan shang da dian hua gei ni",
+		"soundmark": "wǒ wàng jì zuó tiān wǎn shàng dǎ diàn huà gěi nǐ",
+		"englishGloss": "I forgot calling you last night"
 	},
 	{
 		"chinese": "打电话给......",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua gei . . . . . .",
+		"soundmark": "dǎ diàn huà gěi . . . . . .",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "昨天晚上打电话给你",
-		"english": "to call you last night",
-		"soundmark": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+		"pinyin": "zuo tian wan shang da dian hua gei ni",
+		"soundmark": "zuó tiān wǎn shàng dǎ diàn huà gěi nǐ",
+		"englishGloss": "to call you last night"
 	},
 	{
 		"chinese": "我忘记昨晚去给你打电话",
-		"english": "I forgot to call you last night",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+		"pinyin": "wo wang ji zuo wan qu gei ni da dian hua",
+		"soundmark": "wǒ wàng jì zuó wǎn qù gěi nǐ dǎ diàn huà",
+		"englishGloss": "I forgot to call you last night"
 	}
 ]

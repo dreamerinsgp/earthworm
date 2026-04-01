@@ -1,912 +1,1094 @@
 [
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like",
-		"soundmark": "/laɪk/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like"
 	},
 	{
 		"chinese": "我们喜欢",
-		"english": "we like",
-		"soundmark": "/wi/ /laɪk/"
+		"pinyin": "wo men xi huan",
+		"soundmark": "wǒ men xǐ huan",
+		"englishGloss": "we like"
 	},
 	{
 		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to do"
 	},
 	{
 		"chinese": "这件事",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "zhe jian shi",
+		"soundmark": "zhè jiàn shì",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我们喜欢做这件事",
-		"english": "we like to do it",
-		"soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo men xi huan zuo zhe jian shi",
+		"soundmark": "wǒ men xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "we like to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我们喜欢现在做这件事",
-		"english": "we like to do it now",
-		"soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo men xi huan xian zai zuo zhe jian shi",
+		"soundmark": "wǒ men xǐ huan xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "we like to do it now"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我们不喜欢现在做这件事",
-		"english": "we don't like to do it now",
-		"soundmark": "/wi/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "wo men bu xi huan xian zai zuo zhe jian shi",
+		"soundmark": "wǒ men bù xǐ huan xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "we don't like to do it now"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "to dance",
-		"soundmark": "/tə/ /dæns/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "to dance"
 	},
 	{
 		"chinese": "我们喜欢跳舞",
-		"english": "we like to dance",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/"
+		"pinyin": "wo men xi huan tiao wu",
+		"soundmark": "wǒ men xǐ huan tiào wǔ",
+		"englishGloss": "we like to dance"
 	},
 	{
 		"chinese": "我们喜欢现在跳舞",
-		"english": "we like to dance now",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/"
+		"pinyin": "wo men xi huan xian zai tiao wu",
+		"soundmark": "wǒ men xǐ huan xiàn zài tiào wǔ",
+		"englishGloss": "we like to dance now"
 	},
 	{
 		"chinese": "街道",
-		"english": "the street",
-		"soundmark": "/ðə/ /strit/"
+		"pinyin": "jie dao",
+		"soundmark": "jiē dào",
+		"englishGloss": "the street"
 	},
 	{
 		"chinese": "在街头",
-		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"pinyin": "zai jie tou",
+		"soundmark": "zài jiē tóu",
+		"englishGloss": "in the street"
 	},
 	{
 		"chinese": "我们喜欢在街头跳舞",
-		"english": "we like to dance in the street",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/"
+		"pinyin": "wo men xi huan zai jie tou tiao wu",
+		"soundmark": "wǒ men xǐ huan zài jiē tóu tiào wǔ",
+		"englishGloss": "we like to dance in the street"
 	},
 	{
 		"chinese": "晚上",
-		"english": "night",
-		"soundmark": "/naɪt/"
+		"pinyin": "wan shang",
+		"soundmark": "wǎn shàng",
+		"englishGloss": "night"
 	},
 	{
 		"chinese": "在晚上",
-		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"pinyin": "zai wan shang",
+		"soundmark": "zài wǎn shàng",
+		"englishGloss": "at night"
 	},
 	{
 		"chinese": "我们喜欢在晚上在街头跳舞",
-		"english": "we like to dance in the street at night",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "wo men xi huan zai wan shang zai jie tou tiao wu",
+		"soundmark": "wǒ men xǐ huan zài wǎn shàng zài jiē tóu tiào wǔ",
+		"englishGloss": "we like to dance in the street at night"
 	},
 	{
 		"chinese": "我们不喜欢在晚上在街头跳舞",
-		"english": "we don't like to dance in the street at night",
-		"soundmark": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "wo men bu xi huan zai wan shang zai jie tou tiao wu",
+		"soundmark": "wǒ men bù xǐ huan zài wǎn shàng zài jiē tóu tiào wǔ",
+		"englishGloss": "we don't like to dance in the street at night"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "to sleep"
 	},
 	{
 		"chinese": "你们",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni men",
+		"soundmark": "nǐ men",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你们喜欢",
-		"english": "you like",
-		"soundmark": "/ju/ /laɪk/"
+		"pinyin": "ni men xi huan",
+		"soundmark": "nǐ men xǐ huan",
+		"englishGloss": "you like"
 	},
 	{
 		"chinese": "你们喜欢睡觉",
-		"english": "you like to sleep",
-		"soundmark": "/ju/ /laɪk/ /tə/ /slip/"
+		"pinyin": "ni men xi huan shui jiao",
+		"soundmark": "nǐ men xǐ huan shuì jiào",
+		"englishGloss": "you like to sleep"
 	},
 	{
 		"chinese": "在床上",
-		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang",
+		"soundmark": "zài chuáng shàng",
+		"englishGloss": "on the bed"
 	},
 	{
 		"chinese": "你们喜欢在床上睡觉",
-		"english": "you like to sleep on the bed",
-		"soundmark": "/ju/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ni men xi huan zai chuang shang shui jiao",
+		"soundmark": "nǐ men xǐ huan zài chuáng shàng shuì jiào",
+		"englishGloss": "you like to sleep on the bed"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你们不喜欢在床上睡觉",
-		"english": "you don't like to sleep on the bed",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ni men bu xi huan zai chuang shang shui jiao",
+		"soundmark": "nǐ men bù xǐ huan zài chuáng shàng shuì jiào",
+		"englishGloss": "you don't like to sleep on the bed"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "和我一起",
-		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"pinyin": "he wo yi qi",
+		"soundmark": "hé wǒ yì qǐ",
+		"englishGloss": "with me"
 	},
 	{
 		"chinese": "和我一起跳舞",
-		"english": "to dance with me",
-		"soundmark": "/tə/ /dæns/ /wɪð/ /mi/"
+		"pinyin": "he wo yi qi tiao wu",
+		"soundmark": "hé wǒ yì qǐ tiào wǔ",
+		"englishGloss": "to dance with me"
 	},
 	{
 		"chinese": "你们喜欢和我一起跳舞",
-		"english": "you like to dance with me",
-		"soundmark": "/ju/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/"
+		"pinyin": "ni men xi huan he wo yi qi tiao wu",
+		"soundmark": "nǐ men xǐ huan hé wǒ yì qǐ tiào wǔ",
+		"englishGloss": "you like to dance with me"
 	},
 	{
 		"chinese": "你们不喜欢和我一起跳舞",
-		"english": "you don't like to dance with me",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/"
+		"pinyin": "ni men bu xi huan he wo yi qi tiao wu",
+		"soundmark": "nǐ men bù xǐ huan hé wǒ yì qǐ tiào wǔ",
+		"englishGloss": "you don't like to dance with me"
 	},
 	{
 		"chinese": "在街头",
-		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"pinyin": "zai jie tou",
+		"soundmark": "zài jiē tóu",
+		"englishGloss": "in the street"
 	},
 	{
 		"chinese": "你们不喜欢在街头和我一起跳舞",
-		"english": "you don't like to dance with me in the street",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/"
+		"pinyin": "ni men bu xi huan zai jie tou he wo yi qi tiao wu",
+		"soundmark": "nǐ men bù xǐ huan zài jiē tóu hé wǒ yì qǐ tiào wǔ",
+		"englishGloss": "you don't like to dance with me in the street"
 	},
 	{
 		"chinese": "在晚上",
-		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"pinyin": "zai wan shang",
+		"soundmark": "zài wǎn shàng",
+		"englishGloss": "at night"
 	},
 	{
 		"chinese": "你们不喜欢在晚上在街头和我一起跳舞",
-		"english": "you don't like to dance with me in the street at night",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "ni men bu xi huan zai wan shang zai jie tou he wo yi qi tiao wu",
+		"soundmark": "nǐ men bù xǐ huan zài wǎn shàng zài jiē tóu hé wǒ yì qǐ tiào wǔ",
+		"englishGloss": "you don't like to dance with me in the street at night"
 	},
 	{
 		"chinese": "说话",
-		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to talk"
 	},
 	{
 		"chinese": "和我",
-		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"pinyin": "he wo",
+		"soundmark": "hé wǒ",
+		"englishGloss": "with me"
 	},
 	{
 		"chinese": "和我说话",
-		"english": "to talk with me",
-		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "he wo shuo hua",
+		"soundmark": "hé wǒ shuō huà",
+		"englishGloss": "to talk with me"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们喜欢和我说话",
-		"english": "they like to talk with me",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "ta men xi huan he wo shuo hua",
+		"soundmark": "tā men xǐ huan hé wǒ shuō huà",
+		"englishGloss": "they like to talk with me"
 	},
 	{
 		"chinese": "他们不喜欢和我说话",
-		"english": "they don't like to talk with me",
-		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+		"pinyin": "ta men bu xi huan he wo shuo hua",
+		"soundmark": "tā men bù xǐ huan hé wǒ shuō huà",
+		"englishGloss": "they don't like to talk with me"
 	},
 	{
 		"chinese": "和你",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni",
+		"soundmark": "hé nǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "和你一起跳舞",
-		"english": "to dance with you",
-		"soundmark": "/tə/ /dæns/ /wɪð/ /ju/"
+		"pinyin": "he ni yi qi tiao wu",
+		"soundmark": "hé nǐ yì qǐ tiào wǔ",
+		"englishGloss": "to dance with you"
 	},
 	{
 		"chinese": "他们喜欢和你一起跳舞",
-		"english": "they like to dance with you",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/"
+		"pinyin": "ta men xi huan he ni yi qi tiao wu",
+		"soundmark": "tā men xǐ huan hé nǐ yì qǐ tiào wǔ",
+		"englishGloss": "they like to dance with you"
 	},
 	{
 		"chinese": "他们不喜欢和你一起跳舞",
-		"english": "they don't like to dance with you",
-		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/"
+		"pinyin": "ta men bu xi huan he ni yi qi tiao wu",
+		"soundmark": "tā men bù xǐ huan hé nǐ yì qǐ tiào wǔ",
+		"englishGloss": "they don't like to dance with you"
 	},
 	{
 		"chinese": "在街头",
-		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"pinyin": "zai jie tou",
+		"soundmark": "zài jiē tóu",
+		"englishGloss": "in the street"
 	},
 	{
 		"chinese": "他们喜欢和你一起在街头跳舞",
-		"english": "they like to dance with you in the street",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/"
+		"pinyin": "ta men xi huan he ni yi qi zai jie tou tiao wu",
+		"soundmark": "tā men xǐ huan hé nǐ yì qǐ zài jiē tóu tiào wǔ",
+		"englishGloss": "they like to dance with you in the street"
 	},
 	{
 		"chinese": "在晚上",
-		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"pinyin": "zai wan shang",
+		"soundmark": "zài wǎn shàng",
+		"englishGloss": "at night"
 	},
 	{
 		"chinese": "他们喜欢在晚上和你一起在街头跳舞",
-		"english": "they like to dance with you in the street at night",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "ta men xi huan zai wan shang he ni yi qi zai jie tou tiao wu",
+		"soundmark": "tā men xǐ huan zài wǎn shàng hé nǐ yì qǐ zài jiē tóu tiào wǔ",
+		"englishGloss": "they like to dance with you in the street at night"
 	},
 	{
 		"chinese": "他们不喜欢在晚上和你一起在街头跳舞",
-		"english": "they don't like to dance with you in the street at night",
-		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "ta men bu xi huan zai wan shang he ni yi qi zai jie tou tiao wu",
+		"soundmark": "tā men bù xǐ huan zài wǎn shàng hé nǐ yì qǐ zài jiē tóu tiào wǔ",
+		"englishGloss": "they don't like to dance with you in the street at night"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "想要知道",
-		"english": "want to know",
-		"soundmark": "/wɑnt/ /tə/ /no/"
+		"pinyin": "xiang yao zhi dao",
+		"soundmark": "xiǎng yào zhī dào",
+		"englishGloss": "want to know"
 	},
 	{
 		"chinese": "我们想要知道",
-		"english": "we want to know",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo men xiang yao zhi dao",
+		"soundmark": "wǒ men xiǎng yào zhī dào",
+		"englishGloss": "we want to know"
 	},
 	{
 		"chinese": "只是",
-		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"pinyin": "zhi shi",
+		"soundmark": "zhǐ shì",
+		"englishGloss": "just"
 	},
 	{
 		"chinese": "我们只是想要知道",
-		"english": "we just want to know",
-		"soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+		"pinyin": "wo men zhi shi xiang yao zhi dao",
+		"soundmark": "wǒ men zhǐ shì xiǎng yào zhī dào",
+		"englishGloss": "we just want to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我们只是想要知道是否他们喜欢在晚上和你一起在街头跳舞",
-		"english": "we just want to know if they like to dance with you in the street at night",
-		"soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "wo men zhi shi xiang yao zhi dao shi fou ta men xi huan zai wan shang he ni yi qi zai jie tou tiao wu",
+		"soundmark": "wǒ men zhǐ shì xiǎng yào zhī dào shì fǒu tā men xǐ huan zài wǎn shàng hé nǐ yì qǐ zài jiē tóu tiào wǔ",
+		"englishGloss": "we just want to know if they like to dance with you in the street at night"
 	},
 	{
 		"chinese": "答案",
-		"english": "the answer",
-		"soundmark": "/ði/ /'ænsɚ/"
+		"pinyin": "da an",
+		"soundmark": "dá àn",
+		"englishGloss": "the answer"
 	},
 	{
 		"chinese": "我们想要知道答案",
-		"english": "we want to know the answer",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/"
+		"pinyin": "wo men xiang yao zhi dao da an",
+		"soundmark": "wǒ men xiǎng yào zhī dào dá àn",
+		"englishGloss": "we want to know the answer"
 	},
 	{
 		"chinese": "问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "问题的答案",
-		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti de da an",
+		"soundmark": "wèn tí de dá àn",
+		"englishGloss": "the answer to the question"
 	},
 	{
 		"chinese": "我们想要知道问题的答案",
-		"english": "we want to know the answer to the question",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo men xiang yao zhi dao wen ti de da an",
+		"soundmark": "wǒ men xiǎng yào zhī dào wèn tí de dá àn",
+		"englishGloss": "we want to know the answer to the question"
 	},
 	{
 		"chinese": "我们不想知道问题的答案",
-		"english": "we don't want to know the answer to the question",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo men bu xiang zhi dao wen ti de da an",
+		"soundmark": "wǒ men bù xiǎng zhī dào wèn tí de dá àn",
+		"englishGloss": "we don't want to know the answer to the question"
 	},
 	{
 		"chinese": "很快",
-		"english": "soon",
-		"soundmark": "/sun/"
+		"pinyin": "hen kuai",
+		"soundmark": "hěn kuài",
+		"englishGloss": "soon"
 	},
 	{
 		"chinese": "可能",
-		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"pinyin": "ke neng",
+		"soundmark": "kě néng",
+		"englishGloss": "possible"
 	},
 	{
 		"chinese": "尽快；尽可能地快",
-		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "jin kuai ； jin ke neng di kuai",
+		"soundmark": "jǐn kuài ； jǐn kě néng dì kuài",
+		"englishGloss": "as soon as possible"
 	},
 	{
 		"chinese": "我们想要尽快知道问题的答案",
-		"english": "we want to know the answer to the question as soon as possible",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "wo men xiang yao jin kuai zhi dao wen ti de da an",
+		"soundmark": "wǒ men xiǎng yào jǐn kuài zhī dào wèn tí de dá àn",
+		"englishGloss": "we want to know the answer to the question as soon as possible"
 	},
 	{
 		"chinese": "散步",
-		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"pinyin": "san bu",
+		"soundmark": "sàn bù",
+		"englishGloss": "to walk"
 	},
 	{
 		"chinese": "在公园里",
-		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li",
+		"soundmark": "zài gōng yuán lǐ",
+		"englishGloss": "in the park"
 	},
 	{
 		"chinese": "我们想要在公园里散步",
-		"english": "we want to walk in the park",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "wo men xiang yao zai gong yuan li san bu",
+		"soundmark": "wǒ men xiǎng yào zài gōng yuán lǐ sàn bù",
+		"englishGloss": "we want to walk in the park"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "我们想要每天在公园里散步",
-		"english": "we want to walk in the park every day",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+		"pinyin": "wo men xiang yao mei tian zai gong yuan li san bu",
+		"soundmark": "wǒ men xiǎng yào měi tiān zài gōng yuán lǐ sàn bù",
+		"englishGloss": "we want to walk in the park every day"
 	},
 	{
 		"chinese": "这个食物",
-		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"pinyin": "zhe ge shi wu",
+		"soundmark": "zhè ge shí wù",
+		"englishGloss": "the food"
 	},
 	{
 		"chinese": "这个餐厅",
-		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"pinyin": "zhe ge can ting",
+		"soundmark": "zhè ge cān tīng",
+		"englishGloss": "the restaurant"
 	},
 	{
 		"chinese": "来自这个餐厅",
-		"english": "from the restaurant",
-		"soundmark": "/frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "lai zi zhe ge can ting",
+		"soundmark": "lái zì zhè ge cān tīng",
+		"englishGloss": "from the restaurant"
 	},
 	{
 		"chinese": "来自这个餐厅的食物",
-		"english": "the food from the restaurant",
-		"soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "lai zi zhe ge can ting de shi wu",
+		"soundmark": "lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "the food from the restaurant"
 	},
 	{
 		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "to eat"
 	},
 	{
 		"chinese": "吃来自这个餐厅的食物",
-		"english": "to eat the food from the restaurant",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "to eat the food from the restaurant"
 	},
 	{
 		"chinese": "我们想吃来自这个餐厅的食物",
-		"english": "we want to eat the food from the restaurant",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men xiang chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "wǒ men xiǎng chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "we want to eat the food from the restaurant"
 	},
 	{
 		"chinese": "我们不想吃来自这个餐厅的食物",
-		"english": "we don't want to eat the food from the restaurant",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men bu xiang chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "wǒ men bù xiǎng chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "we don't want to eat the food from the restaurant"
 	},
 	{
 		"chinese": "工作",
-		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "to work"
 	},
 	{
 		"chinese": "这个餐厅",
-		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"pinyin": "zhe ge can ting",
+		"soundmark": "zhè ge cān tīng",
+		"englishGloss": "the restaurant"
 	},
 	{
 		"chinese": "在这个餐厅",
-		"english": "at the restaurant",
-		"soundmark": "/ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "zai zhe ge can ting",
+		"soundmark": "zài zhè ge cān tīng",
+		"englishGloss": "at the restaurant"
 	},
 	{
 		"chinese": "在这个餐厅工作",
-		"english": "to work at the restaurant",
-		"soundmark": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "zai zhe ge can ting gong zuo",
+		"soundmark": "zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "to work at the restaurant"
 	},
 	{
 		"chinese": "我们想要在这个餐厅工作",
-		"english": "we want to work at the restaurant",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men xiang yao zai zhe ge can ting gong zuo",
+		"soundmark": "wǒ men xiǎng yào zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "we want to work at the restaurant"
 	},
 	{
 		"chinese": "我们不想在这个餐厅工作",
-		"english": "we don't want to work at the restaurant",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men bu xiang zai zhe ge can ting gong zuo",
+		"soundmark": "wǒ men bù xiǎng zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "we don't want to work at the restaurant"
 	},
 	{
 		"chinese": "你们想要在这个餐厅工作",
-		"english": "you want to work at the restaurant",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "ni men xiang yao zai zhe ge can ting gong zuo",
+		"soundmark": "nǐ men xiǎng yào zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "you want to work at the restaurant"
 	},
 	{
 		"chinese": "你们不想在这个餐厅工作",
-		"english": "you don't want to work at the restaurant",
-		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "ni men bu xiang zai zhe ge can ting gong zuo",
+		"soundmark": "nǐ men bù xiǎng zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "you don't want to work at the restaurant"
 	},
 	{
 		"chinese": "他们想要在这个餐厅工作",
-		"english": "they want to work at the restaurant",
-		"soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "ta men xiang yao zai zhe ge can ting gong zuo",
+		"soundmark": "tā men xiǎng yào zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "they want to work at the restaurant"
 	},
 	{
 		"chinese": "他们不想在这个餐厅工作",
-		"english": "they don't want to work at the restaurant",
-		"soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "ta men bu xiang zai zhe ge can ting gong zuo",
+		"soundmark": "tā men bù xiǎng zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "they don't want to work at the restaurant"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "和你一起工作",
-		"english": "to work with you",
-		"soundmark": "/tə/ /wɝk/ /wɪð/ /ju/"
+		"pinyin": "he ni yi qi gong zuo",
+		"soundmark": "hé nǐ yì qǐ gōng zuò",
+		"englishGloss": "to work with you"
 	},
 	{
 		"chinese": "他们想要和你一起工作",
-		"english": "they want to work with you",
-		"soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"pinyin": "ta men xiang yao he ni yi qi gong zuo",
+		"soundmark": "tā men xiǎng yào hé nǐ yì qǐ gōng zuò",
+		"englishGloss": "they want to work with you"
 	},
 	{
 		"chinese": "他们不想和你一起工作",
-		"english": "they don't want to work with you",
-		"soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"pinyin": "ta men bu xiang he ni yi qi gong zuo",
+		"soundmark": "tā men bù xiǎng hé nǐ yì qǐ gōng zuò",
+		"englishGloss": "they don't want to work with you"
 	},
 	{
 		"chinese": "认为",
-		"english": "think",
-		"soundmark": "/θɪŋk/"
+		"pinyin": "ren wei",
+		"soundmark": "rèn wéi",
+		"englishGloss": "think"
 	},
 	{
 		"chinese": "我认为",
-		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"pinyin": "wo ren wei",
+		"soundmark": "wǒ rèn wéi",
+		"englishGloss": "I think"
 	},
 	{
 		"chinese": "我认为他们想要和你一起工作",
-		"english": "I think they want to work with you",
-		"soundmark": "/aɪ/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"pinyin": "wo ren wei ta men xiang yao he ni yi qi gong zuo",
+		"soundmark": "wǒ rèn wéi tā men xiǎng yào hé nǐ yì qǐ gōng zuò",
+		"englishGloss": "I think they want to work with you"
 	},
 	{
 		"chinese": "我认为他们不想和你一起工作",
-		"english": "I don't think they want to work with you",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"pinyin": "wo ren wei ta men bu xiang he ni yi qi gong zuo",
+		"soundmark": "wǒ rèn wéi tā men bù xiǎng hé nǐ yì qǐ gōng zuò",
+		"englishGloss": "I don't think they want to work with you"
 	},
 	{
 		"chinese": "问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "问题（们）",
-		"english": "the questions",
-		"soundmark": "/ðə/ /'kwestʃənz/"
+		"pinyin": "wen ti （ men ）",
+		"soundmark": "wèn tí （ men ）",
+		"englishGloss": "the questions"
 	},
 	{
 		"chinese": "回答",
-		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "to answer"
 	},
 	{
 		"chinese": "回答问题",
-		"english": "to answer the questions",
-		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+		"pinyin": "hui da wen ti",
+		"soundmark": "huí dá wèn tí",
+		"englishGloss": "to answer the questions"
 	},
 	{
 		"chinese": "我们需要回答问题",
-		"english": "we need to answer the questions",
-		"soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+		"pinyin": "wo men xu yao hui da wen ti",
+		"soundmark": "wǒ men xū yào huí dá wèn tí",
+		"englishGloss": "we need to answer the questions"
 	},
 	{
 		"chinese": "关于",
-		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"pinyin": "guan yu",
+		"soundmark": "guān yú",
+		"englishGloss": "about"
 	},
 	{
 		"chinese": "关于工作",
-		"english": "about the work",
-		"soundmark": "/ə'baʊt/ /ðə/ /wɝk/"
+		"pinyin": "guan yu gong zuo",
+		"soundmark": "guān yú gōng zuò",
+		"englishGloss": "about the work"
 	},
 	{
 		"chinese": "我们需要回答关于工作的问题",
-		"english": "we need to answer the questions about the work",
-		"soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+		"pinyin": "wo men xu yao hui da guan yu gong zuo de wen ti",
+		"soundmark": "wǒ men xū yào huí dá guān yú gōng zuò de wèn tí",
+		"englishGloss": "we need to answer the questions about the work"
 	},
 	{
 		"chinese": "我们不需要回答关于工作的问题",
-		"english": "we don't need to answer the questions about the work",
-		"soundmark": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+		"pinyin": "wo men bu xu yao hui da guan yu gong zuo de wen ti",
+		"soundmark": "wǒ men bù xū yào huí dá guān yú gōng zuò de wèn tí",
+		"englishGloss": "we don't need to answer the questions about the work"
 	},
 	{
 		"chinese": "你们需要回答关于工作的问题",
-		"english": "you need to answer the questions about the work",
-		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+		"pinyin": "ni men xu yao hui da guan yu gong zuo de wen ti",
+		"soundmark": "nǐ men xū yào huí dá guān yú gōng zuò de wèn tí",
+		"englishGloss": "you need to answer the questions about the work"
 	},
 	{
 		"chinese": "很快",
-		"english": "soon",
-		"soundmark": "/sun/"
+		"pinyin": "hen kuai",
+		"soundmark": "hěn kuài",
+		"englishGloss": "soon"
 	},
 	{
 		"chinese": "可能",
-		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"pinyin": "ke neng",
+		"soundmark": "kě néng",
+		"englishGloss": "possible"
 	},
 	{
 		"chinese": "尽快；尽可能地快",
-		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "jin kuai ； jin ke neng di kuai",
+		"soundmark": "jǐn kuài ； jǐn kě néng dì kuài",
+		"englishGloss": "as soon as possible"
 	},
 	{
 		"chinese": "你们需要尽快回答关于工作的问题",
-		"english": "you need to answer the questions about the work as soon as possible",
-		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"pinyin": "ni men xu yao jin kuai hui da guan yu gong zuo de wen ti",
+		"soundmark": "nǐ men xū yào jǐn kuài huí dá guān yú gōng zuò de wèn tí",
+		"englishGloss": "you need to answer the questions about the work as soon as possible"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它们是重要的",
-		"english": "they are important",
-		"soundmark": "/ðe/ /ɚ/ /ɪm'pɔrtnt/"
+		"pinyin": "ta men shi zhong yao de",
+		"soundmark": "tā men shì zhòng yào de",
+		"englishGloss": "they are important"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "它们是非常重要的",
-		"english": "they are very important",
-		"soundmark": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ta men shi fei chang zhong yao de",
+		"soundmark": "tā men shì fēi cháng zhòng yào de",
+		"englishGloss": "they are very important"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "你们需要尽快回答关于工作的问题因为它们是非常重要的",
-		"english": "you need to answer the questions about the work as soon as possible because they are very important",
-		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ni men xu yao jin kuai hui da guan yu gong zuo de wen ti yin wei ta men shi fei chang zhong yao de",
+		"soundmark": "nǐ men xū yào jǐn kuài huí dá guān yú gōng zuò de wèn tí yīn wèi tā men shì fēi cháng zhòng yào de",
+		"englishGloss": "you need to answer the questions about the work as soon as possible because they are very important"
 	},
 	{
 		"chinese": "离开",
-		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "to leave"
 	},
 	{
 		"chinese": "我们必须离开",
-		"english": "we have to leave",
-		"soundmark": "/wi/ /hæv/ /tə/ /liv/"
+		"pinyin": "wo men bi xu li kai",
+		"soundmark": "wǒ men bì xū lí kāi",
+		"englishGloss": "we have to leave"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我们必须现在离开",
-		"english": "we have to leave now",
-		"soundmark": "/wi/ /hæv/ /tə/ /liv/ /naʊ/"
+		"pinyin": "wo men bi xu xian zai li kai",
+		"soundmark": "wǒ men bì xū xiàn zài lí kāi",
+		"englishGloss": "we have to leave now"
 	},
 	{
 		"chinese": "我们不必现在离开",
-		"english": "we don't have to leave now",
-		"soundmark": "/wi/ /dont/ /hæv/ /tə/ /liv/ /naʊ/"
+		"pinyin": "wo men bu bi xian zai li kai",
+		"soundmark": "wǒ men bú bì xiàn zài lí kāi",
+		"englishGloss": "we don't have to leave now"
 	},
 	{
 		"chinese": "你们必须现在离开",
-		"english": "you have to leave now",
-		"soundmark": "/ju/ /hæv/ /tə/ /liv/ /naʊ/"
+		"pinyin": "ni men bi xu xian zai li kai",
+		"soundmark": "nǐ men bì xū xiàn zài lí kāi",
+		"englishGloss": "you have to leave now"
 	},
 	{
 		"chinese": "你们不必现在离开",
-		"english": "you don't have to leave now",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /naʊ/"
+		"pinyin": "ni men bu bi xian zai li kai",
+		"soundmark": "nǐ men bú bì xiàn zài lí kāi",
+		"englishGloss": "you don't have to leave now"
 	},
 	{
 		"chinese": "这个餐厅",
-		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"pinyin": "zhe ge can ting",
+		"soundmark": "zhè ge cān tīng",
+		"englishGloss": "the restaurant"
 	},
 	{
 		"chinese": "你们必须现在离开这个餐厅",
-		"english": "you have to leave the restaurant now",
-		"soundmark": "/ju/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/"
+		"pinyin": "ni men bi xu xian zai li kai zhe ge can ting",
+		"soundmark": "nǐ men bì xū xiàn zài lí kāi zhè ge cān tīng",
+		"englishGloss": "you have to leave the restaurant now"
 	},
 	{
 		"chinese": "你们不必现在离开这个餐厅",
-		"english": "you don't have to leave the restaurant now",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/"
+		"pinyin": "ni men bu bi xian zai li kai zhe ge can ting",
+		"soundmark": "nǐ men bú bì xiàn zài lí kāi zhè ge cān tīng",
+		"englishGloss": "you don't have to leave the restaurant now"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "to dance",
-		"soundmark": "/tə/ /dæns/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "to dance"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我们可以",
-		"english": "we can",
-		"soundmark": "/wi/ /kæn/"
+		"pinyin": "wo men ke yi",
+		"soundmark": "wǒ men kě yǐ",
+		"englishGloss": "we can"
 	},
 	{
 		"chinese": "我们可以跳舞",
-		"english": "we can dance",
-		"soundmark": "/wi/ /kæn/ /dæns/"
+		"pinyin": "wo men ke yi tiao wu",
+		"soundmark": "wǒ men kě yǐ tiào wǔ",
+		"englishGloss": "we can dance"
 	},
 	{
 		"chinese": "在街头",
-		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"pinyin": "zai jie tou",
+		"soundmark": "zài jiē tóu",
+		"englishGloss": "in the street"
 	},
 	{
 		"chinese": "我们可以在街头跳舞",
-		"english": "we can dance in the street",
-		"soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/"
+		"pinyin": "wo men ke yi zai jie tou tiao wu",
+		"soundmark": "wǒ men kě yǐ zài jiē tóu tiào wǔ",
+		"englishGloss": "we can dance in the street"
 	},
 	{
 		"chinese": "在晚上",
-		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"pinyin": "zai wan shang",
+		"soundmark": "zài wǎn shàng",
+		"englishGloss": "at night"
 	},
 	{
 		"chinese": "我们可以晚上在街头跳舞",
-		"english": "we can dance in the street at night",
-		"soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "wo men ke yi wan shang zai jie tou tiao wu",
+		"soundmark": "wǒ men kě yǐ wǎn shàng zài jiē tóu tiào wǔ",
+		"englishGloss": "we can dance in the street at night"
 	},
 	{
 		"chinese": "我们不可以晚上在街头跳舞",
-		"english": "we can not dance in the street at night",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"pinyin": "wo men bu ke yi wan shang zai jie tou tiao wu",
+		"soundmark": "wǒ men bù kě yǐ wǎn shàng zài jiē tóu tiào wǔ",
+		"englishGloss": "we can not dance in the street at night"
 	},
 	{
 		"chinese": "工作",
-		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "to work"
 	},
 	{
 		"chinese": "我们可以工作",
-		"english": "we can work",
-		"soundmark": "/wi/ /kæn/ /wɝk/"
+		"pinyin": "wo men ke yi gong zuo",
+		"soundmark": "wǒ men kě yǐ gōng zuò",
+		"englishGloss": "we can work"
 	},
 	{
 		"chinese": "这个餐厅",
-		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"pinyin": "zhe ge can ting",
+		"soundmark": "zhè ge cān tīng",
+		"englishGloss": "the restaurant"
 	},
 	{
 		"chinese": "在这个餐厅",
-		"english": "at the restaurant",
-		"soundmark": "/ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "zai zhe ge can ting",
+		"soundmark": "zài zhè ge cān tīng",
+		"englishGloss": "at the restaurant"
 	},
 	{
 		"chinese": "我们可以在这个餐厅工作",
-		"english": "we can work at the restaurant",
-		"soundmark": "/wi/ /kæn/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men ke yi zai zhe ge can ting gong zuo",
+		"soundmark": "wǒ men kě yǐ zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "we can work at the restaurant"
 	},
 	{
 		"chinese": "我们不可以在这个餐厅工作",
-		"english": "we can not work at the restaurant",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men bu ke yi zai zhe ge can ting gong zuo",
+		"soundmark": "wǒ men bù kě yǐ zài zhè ge cān tīng gōng zuò",
+		"englishGloss": "we can not work at the restaurant"
 	},
 	{
 		"chinese": "散步",
-		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"pinyin": "san bu",
+		"soundmark": "sàn bù",
+		"englishGloss": "to walk"
 	},
 	{
 		"chinese": "我们可以散步",
-		"english": "we can walk",
-		"soundmark": "/wi/ /kæn/ /wɔk/"
+		"pinyin": "wo men ke yi san bu",
+		"soundmark": "wǒ men kě yǐ sàn bù",
+		"englishGloss": "we can walk"
 	},
 	{
 		"chinese": "在公园里",
-		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li",
+		"soundmark": "zài gōng yuán lǐ",
+		"englishGloss": "in the park"
 	},
 	{
 		"chinese": "我们可以在公园里散步",
-		"english": "we can walk in the park",
-		"soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "wo men ke yi zai gong yuan li san bu",
+		"soundmark": "wǒ men kě yǐ zài gōng yuán lǐ sàn bù",
+		"englishGloss": "we can walk in the park"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "我们可以每天在公园里散步",
-		"english": "we can walk in the park every day",
-		"soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+		"pinyin": "wo men ke yi mei tian zai gong yuan li san bu",
+		"soundmark": "wǒ men kě yǐ měi tiān zài gōng yuán lǐ sàn bù",
+		"englishGloss": "we can walk in the park every day"
 	},
 	{
 		"chinese": "我们不可以每天在公园里散步",
-		"english": "we can not walk in the park every day",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+		"pinyin": "wo men bu ke yi mei tian zai gong yuan li san bu",
+		"soundmark": "wǒ men bù kě yǐ měi tiān zài gōng yuán lǐ sàn bù",
+		"englishGloss": "we can not walk in the park every day"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "应该",
-		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"pinyin": "ying gai",
+		"soundmark": "yīng gāi",
+		"englishGloss": "should"
 	},
 	{
 		"chinese": "我们应该",
-		"english": "we should",
-		"soundmark": "/wi/ /ʃʊd/"
+		"pinyin": "wo men ying gai",
+		"soundmark": "wǒ men yīng gāi",
+		"englishGloss": "we should"
 	},
 	{
 		"chinese": "我们应该知道",
-		"english": "we should know",
-		"soundmark": "/wi/ /ʃʊd/ /no/"
+		"pinyin": "wo men ying gai zhi dao",
+		"soundmark": "wǒ men yīng gāi zhī dào",
+		"englishGloss": "we should know"
 	},
 	{
 		"chinese": "答案",
-		"english": "the answer",
-		"soundmark": "/ði/ /'ænsɚ/"
+		"pinyin": "da an",
+		"soundmark": "dá àn",
+		"englishGloss": "the answer"
 	},
 	{
 		"chinese": "我们应该知道答案",
-		"english": "we should know the answer",
-		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/"
+		"pinyin": "wo men ying gai zhi dao da an",
+		"soundmark": "wǒ men yīng gāi zhī dào dá àn",
+		"englishGloss": "we should know the answer"
 	},
 	{
 		"chinese": "这个问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "这个问题的答案",
-		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti de da an",
+		"soundmark": "zhè ge wèn tí de dá àn",
+		"englishGloss": "the answer to the question"
 	},
 	{
 		"chinese": "我们应该知道这个问题的答案",
-		"english": "we should know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo men ying gai zhi dao zhe ge wen ti de da an",
+		"soundmark": "wǒ men yīng gāi zhī dào zhè ge wèn tí de dá àn",
+		"englishGloss": "we should know the answer to the question"
 	},
 	{
 		"chinese": "我们不应该知道这个问题的答案",
-		"english": "we should not know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo men bu ying gai zhi dao zhe ge wen ti de da an",
+		"soundmark": "wǒ men bú yīng gāi zhī dào zhè ge wèn tí de dá àn",
+		"englishGloss": "we should not know the answer to the question"
 	},
 	{
 		"chinese": "我认为",
-		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"pinyin": "wo ren wei",
+		"soundmark": "wǒ rèn wéi",
+		"englishGloss": "I think"
 	},
 	{
 		"chinese": "我认为我们应该知道这个问题的答案",
-		"english": "I think we should know the answer to the question",
-		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo ren wei wo men ying gai zhi dao zhe ge wen ti de da an",
+		"soundmark": "wǒ rèn wéi wǒ men yīng gāi zhī dào zhè ge wèn tí de dá àn",
+		"englishGloss": "I think we should know the answer to the question"
 	},
 	{
 		"chinese": "我认为我们不应该知道这个问题的答案",
-		"english": "I don't think we should know the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo ren wei wo men bu ying gai zhi dao zhe ge wen ti de da an",
+		"soundmark": "wǒ rèn wéi wǒ men bú yīng gāi zhī dào zhè ge wèn tí de dá àn",
+		"englishGloss": "I don't think we should know the answer to the question"
 	},
 	{
 		"chinese": "应该知道",
-		"english": "should know",
-		"soundmark": "/ʃʊd/ /no/"
+		"pinyin": "ying gai zhi dao",
+		"soundmark": "yīng gāi zhī dào",
+		"englishGloss": "should know"
 	},
 	{
 		"chinese": "你们应该知道",
-		"english": "you should know",
-		"soundmark": "/ju/ /ʃʊd/ /no/"
+		"pinyin": "ni men ying gai zhi dao",
+		"soundmark": "nǐ men yīng gāi zhī dào",
+		"englishGloss": "you should know"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "你们应该知道原因",
-		"english": "you should know the reason",
-		"soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/"
+		"pinyin": "ni men ying gai zhi dao yuan yin",
+		"soundmark": "nǐ men yīng gāi zhī dào yuán yīn",
+		"englishGloss": "you should know the reason"
 	},
 	{
 		"chinese": "食物",
-		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"pinyin": "shi wu",
+		"soundmark": "shí wù",
+		"englishGloss": "the food"
 	},
 	{
 		"chinese": "这个餐厅",
-		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"pinyin": "zhe ge can ting",
+		"soundmark": "zhè ge cān tīng",
+		"englishGloss": "the restaurant"
 	},
 	{
 		"chinese": "来自这个餐厅的食物",
-		"english": "the food from the restaurant",
-		"soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "lai zi zhe ge can ting de shi wu",
+		"soundmark": "lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "the food from the restaurant"
 	},
 	{
 		"chinese": "吃来自这个餐厅的食物",
-		"english": "to eat the food from the restaurant",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "to eat the food from the restaurant"
 	},
 	{
 		"chinese": "我们想要",
-		"english": "we want",
-		"soundmark": "/wi/ /wɑnt/"
+		"pinyin": "wo men xiang yao",
+		"soundmark": "wǒ men xiǎng yào",
+		"englishGloss": "we want"
 	},
 	{
 		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "to eat"
 	},
 	{
 		"chinese": "我们想要吃来自这个餐厅的食物",
-		"english": "we want to eat the food from the restaurant",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men xiang yao chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "wǒ men xiǎng yào chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "we want to eat the food from the restaurant"
 	},
 	{
 		"chinese": "我们不想吃来自这个餐厅的食物",
-		"english": "we don't want to eat the food from the restaurant",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo men bu xiang chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "wǒ men bù xiǎng chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "we don't want to eat the food from the restaurant"
 	},
 	{
 		"chinese": "为什么",
-		"english": "why",
-		"soundmark": "/waɪ/"
+		"pinyin": "wei shen me",
+		"soundmark": "wèi shén me",
+		"englishGloss": "why"
 	},
 	{
 		"chinese": "你应该知道原因为什么我们不想吃来自这个餐厅的食物",
-		"english": "you should know the reason why we don't want to eat the food from the restaurant",
-		"soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "ni ying gai zhi dao yuan yin wei shen me wo men bu xiang chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "nǐ yīng gāi zhī dào yuán yīn wèi shén me wǒ men bù xiǎng chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "you should know the reason why we don't want to eat the food from the restaurant"
 	},
 	{
 		"chinese": "我认为",
-		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"pinyin": "wo ren wei",
+		"soundmark": "wǒ rèn wéi",
+		"englishGloss": "I think"
 	},
 	{
 		"chinese": "我认为你应该知道原因为什么我们不想吃来自这个餐厅的食物",
-		"english": "I think you should know the reason why we don't want to eat the food from the restaurant",
-		"soundmark": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"pinyin": "wo ren wei ni ying gai zhi dao yuan yin wei shen me wo men bu xiang chi lai zi zhe ge can ting de shi wu",
+		"soundmark": "wǒ rèn wéi nǐ yīng gāi zhī dào yuán yīn wèi shén me wǒ men bù xiǎng chī lái zì zhè ge cān tīng de shí wù",
+		"englishGloss": "I think you should know the reason why we don't want to eat the food from the restaurant"
 	}
 ]

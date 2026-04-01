@@ -1,732 +1,878 @@
 [
 	{
 		"chinese": "我喜欢",
-		"english": "I like",
-		"soundmark": "/aɪ/ /laɪk/"
+		"pinyin": "wo xi huan",
+		"soundmark": "wǒ xǐ huan",
+		"englishGloss": "I like"
 	},
 	{
 		"chinese": "阅读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "我喜欢阅读",
-		"english": "I like to read",
-		"soundmark": "/aɪ/ /laɪk/ /tə/ /rid/"
+		"pinyin": "wo xi huan yue du",
+		"soundmark": "wǒ xǐ huan yuè dú",
+		"englishGloss": "I like to read"
 	},
 	{
 		"chinese": "阅读(ing形式)",
-		"english": "reading",
-		"soundmark": "/'ridɪŋ/"
+		"pinyin": "yue du ( i n g xing shi )",
+		"soundmark": "yuè dú ( i n g xíng shì )",
+		"englishGloss": "reading"
 	},
 	{
 		"chinese": "我喜欢阅读",
-		"english": "I like reading",
-		"soundmark": "/aɪ/ /laɪk/ /ridɪŋ/"
+		"pinyin": "wo xi huan yue du",
+		"soundmark": "wǒ xǐ huan yuè dú",
+		"englishGloss": "I like reading"
 	},
 	{
 		"chinese": "烹饪",
-		"english": "to cook",
-		"soundmark": "/tə/ /kʊk/"
+		"pinyin": "peng ren",
+		"soundmark": "pēng rèn",
+		"englishGloss": "to cook"
 	},
 	{
 		"chinese": "烹饪(ing形式)",
-		"english": "cooking",
-		"soundmark": "/'kʊkɪŋ/"
+		"pinyin": "peng ren ( i n g xing shi )",
+		"soundmark": "pēng rèn ( i n g xíng shì )",
+		"englishGloss": "cooking"
 	},
 	{
 		"chinese": "我喜欢烹饪",
-		"english": "I like cooking",
-		"soundmark": "/aɪ/ /laɪk/ /'kʊkɪŋ/"
+		"pinyin": "wo xi huan peng ren",
+		"soundmark": "wǒ xǐ huan pēng rèn",
+		"englishGloss": "I like cooking"
 	},
 	{
 		"chinese": "购物",
-		"english": "to shop",
-		"soundmark": "/tə/ /ʃɑp/"
+		"pinyin": "gou wu",
+		"soundmark": "gòu wù",
+		"englishGloss": "to shop"
 	},
 	{
 		"chinese": "购物(ing形式)",
-		"english": "shopping",
-		"soundmark": "/'ʃɑpɪŋ/"
+		"pinyin": "gou wu ( i n g xing shi )",
+		"soundmark": "gòu wù ( i n g xíng shì )",
+		"englishGloss": "shopping"
 	},
 	{
 		"chinese": "我喜欢购物",
-		"english": "I like shopping",
-		"soundmark": "/aɪ/ /laɪk/ /'ʃɑpɪŋ/"
+		"pinyin": "wo xi huan gou wu",
+		"soundmark": "wǒ xǐ huan gòu wù",
+		"englishGloss": "I like shopping"
 	},
 	{
 		"chinese": "篮球",
-		"english": "basketball",
-		"soundmark": "/'bæskɪtbɔl/"
+		"pinyin": "lan qiu",
+		"soundmark": "lán qiú",
+		"englishGloss": "basketball"
 	},
 	{
 		"chinese": "打",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "da",
+		"soundmark": "dǎ",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "打篮球",
-		"english": "to play basketball",
-		"soundmark": "/tə/ /ple/ /'bæskɪtbɔl/"
+		"pinyin": "da lan qiu",
+		"soundmark": "dǎ lán qiú",
+		"englishGloss": "to play basketball"
 	},
 	{
 		"chinese": "打(ing形式)",
-		"english": "playing",
-		"soundmark": "/'pleɪŋ/"
+		"pinyin": "da ( i n g xing shi )",
+		"soundmark": "dǎ ( i n g xíng shì )",
+		"englishGloss": "playing"
 	},
 	{
 		"chinese": "打篮球(ing形式)",
-		"english": "playing basketball",
-		"soundmark": "/'pleɪŋ/ /'bæskɪtbɔl/"
+		"pinyin": "da lan qiu ( i n g xing shi )",
+		"soundmark": "dǎ lán qiú ( i n g xíng shì )",
+		"englishGloss": "playing basketball"
 	},
 	{
 		"chinese": "我喜欢打篮球",
-		"english": "I like playing basketball",
-		"soundmark": "/aɪ/ /laɪk/ /'pleɪŋ/ /'bæskɪtbɔl/"
+		"pinyin": "wo xi huan da lan qiu",
+		"soundmark": "wǒ xǐ huan dǎ lán qiú",
+		"englishGloss": "I like playing basketball"
 	},
 	{
 		"chinese": "享受",
-		"english": "to enjoy",
-		"soundmark": "/tə/ /ɪn'dʒɔɪ/"
+		"pinyin": "xiang shou",
+		"soundmark": "xiǎng shòu",
+		"englishGloss": "to enjoy"
 	},
 	{
 		"chinese": "我享受",
-		"english": "I enjoy",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/"
+		"pinyin": "wo xiang shou",
+		"soundmark": "wǒ xiǎng shòu",
+		"englishGloss": "I enjoy"
 	},
 	{
 		"chinese": "打篮球(ing形式)",
-		"english": "playing basketball",
-		"soundmark": "/'pleɪŋ/ /'bæskɪtbɔl/"
+		"pinyin": "da lan qiu ( i n g xing shi )",
+		"soundmark": "dǎ lán qiú ( i n g xíng shì )",
+		"englishGloss": "playing basketball"
 	},
 	{
 		"chinese": "我享受打篮球",
-		"english": "I enjoy playing basketball",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /'pleɪŋ/ /'bæskɪtbɔl/"
+		"pinyin": "wo xiang shou da lan qiu",
+		"soundmark": "wǒ xiǎng shòu dǎ lán qiú",
+		"englishGloss": "I enjoy playing basketball"
 	},
 	{
 		"chinese": "书",
-		"english": "books",
-		"soundmark": "/bʊks/"
+		"pinyin": "shu",
+		"soundmark": "shū",
+		"englishGloss": "books"
 	},
 	{
 		"chinese": "阅读(ing形式)",
-		"english": "reading",
-		"soundmark": "/'ridɪŋ/"
+		"pinyin": "yue du ( i n g xing shi )",
+		"soundmark": "yuè dú ( i n g xíng shì )",
+		"englishGloss": "reading"
 	},
 	{
 		"chinese": "读书(ing形式）",
-		"english": "reading books",
-		"soundmark": "/'ridɪŋ/ /bʊks/"
+		"pinyin": "du shu ( i n g xing shi ）",
+		"soundmark": "dú shū ( i n g xíng shì ）",
+		"englishGloss": "reading books"
 	},
 	{
 		"chinese": "我享受",
-		"english": "I enjoy",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/"
+		"pinyin": "wo xiang shou",
+		"soundmark": "wǒ xiǎng shòu",
+		"englishGloss": "I enjoy"
 	},
 	{
 		"chinese": "我享受读书",
-		"english": "I enjoy reading books",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/"
+		"pinyin": "wo xiang shou du shu",
+		"soundmark": "wǒ xiǎng shòu dú shū",
+		"englishGloss": "I enjoy reading books"
 	},
 	{
 		"chinese": "自由的",
-		"english": "free",
-		"soundmark": "/fri/"
+		"pinyin": "zi you de",
+		"soundmark": "zì yóu de",
+		"englishGloss": "free"
 	},
 	{
 		"chinese": "时间",
-		"english": "time",
-		"soundmark": "/taɪm/"
+		"pinyin": "shi jian",
+		"soundmark": "shí jiān",
+		"englishGloss": "time"
 	},
 	{
 		"chinese": "自由时间",
-		"english": "free time",
-		"soundmark": "/fri/ /taɪm/"
+		"pinyin": "zi you shi jian",
+		"soundmark": "zì yóu shí jiān",
+		"englishGloss": "free time"
 	},
 	{
 		"chinese": "我的自由时间",
-		"english": "my free time",
-		"soundmark": "/maɪ/ /fri/ /taɪm/"
+		"pinyin": "wo de zi you shi jian",
+		"soundmark": "wǒ de zì yóu shí jiān",
+		"englishGloss": "my free time"
 	},
 	{
 		"chinese": "在我的自由时间里",
-		"english": "in my free time",
-		"soundmark": "/ɪn/ /maɪ/ /fri/ /taɪm/"
+		"pinyin": "zai wo de zi you shi jian li",
+		"soundmark": "zài wǒ de zì yóu shí jiān lǐ",
+		"englishGloss": "in my free time"
 	},
 	{
 		"chinese": "在我空闲的时候我享受读书",
-		"english": "I enjoy reading books in my free time",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/ /ɪn/ /maɪ/ /fri/ /taɪm/"
+		"pinyin": "zai wo kong xian de shi hou wo xiang shou du shu",
+		"soundmark": "zài wǒ kòng xián de shí hòu wǒ xiǎng shòu dú shū",
+		"englishGloss": "I enjoy reading books in my free time"
 	},
 	{
 		"chinese": "他享受",
-		"english": "he enjoys",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/"
+		"pinyin": "ta xiang shou",
+		"soundmark": "tā xiǎng shòu",
+		"englishGloss": "he enjoys"
 	},
 	{
 		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "to make"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friends",
-		"soundmark": "/frɛndz/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friends"
 	},
 	{
 		"chinese": "交朋友",
-		"english": "to make friends",
-		"soundmark": "/tə/ /mek/ /frɛndz/"
+		"pinyin": "jiao peng you",
+		"soundmark": "jiāo péng yǒu",
+		"englishGloss": "to make friends"
 	},
 	{
 		"chinese": "交朋友(ing形式)",
-		"english": "making friends",
-		"soundmark": "/'mekɪŋ/ /frɛndz/"
+		"pinyin": "jiao peng you ( i n g xing shi )",
+		"soundmark": "jiāo péng yǒu ( i n g xíng shì )",
+		"englishGloss": "making friends"
 	},
 	{
 		"chinese": "他享受交朋友",
-		"english": "he enjoys making friends",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/"
+		"pinyin": "ta xiang shou jiao peng you",
+		"soundmark": "tā xiǎng shòu jiāo péng yǒu",
+		"englishGloss": "he enjoys making friends"
 	},
 	{
 		"chinese": "人",
-		"english": "people",
-		"soundmark": "/'pipl/"
+		"pinyin": "ren",
+		"soundmark": "rén",
+		"englishGloss": "people"
 	},
 	{
 		"chinese": "不同的",
-		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"pinyin": "bu tong de",
+		"soundmark": "bù tóng de",
+		"englishGloss": "different"
 	},
 	{
 		"chinese": "不同的人",
-		"english": "different people",
-		"soundmark": "/'dɪfrənt/ /'pipl/"
+		"pinyin": "bu tong de ren",
+		"soundmark": "bù tóng de rén",
+		"englishGloss": "different people"
 	},
 	{
 		"chinese": "和不同的人",
-		"english": "with different people",
-		"soundmark": "/wɪð/ /'dɪfrənt/ /'pipl/"
+		"pinyin": "he bu tong de ren",
+		"soundmark": "hé bù tóng de rén",
+		"englishGloss": "with different people"
 	},
 	{
 		"chinese": "他享受交朋友",
-		"english": "he enjoys making friends",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/"
+		"pinyin": "ta xiang shou jiao peng you",
+		"soundmark": "tā xiǎng shòu jiāo péng yǒu",
+		"englishGloss": "he enjoys making friends"
 	},
 	{
 		"chinese": "他享受和不同的人交朋友",
-		"english": "he enjoys making friends with different people",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/ /wɪð/ /'dɪfrənt/ /'pipl/"
+		"pinyin": "ta xiang shou he bu tong de ren jiao peng you",
+		"soundmark": "tā xiǎng shòu hé bù tóng de rén jiāo péng yǒu",
+		"englishGloss": "he enjoys making friends with different people"
 	},
 	{
 		"chinese": "看",
-		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "to watch"
 	},
 	{
 		"chinese": "电影",
-		"english": "movies",
-		"soundmark": "/'muviz/"
+		"pinyin": "dian ying",
+		"soundmark": "diàn yǐng",
+		"englishGloss": "movies"
 	},
 	{
 		"chinese": "看电影",
-		"english": "to watch movies",
-		"soundmark": "/tə/ /wɑtʃ/ /'muviz/"
+		"pinyin": "kan dian ying",
+		"soundmark": "kàn diàn yǐng",
+		"englishGloss": "to watch movies"
 	},
 	{
 		"chinese": "看电影(ing形式)",
-		"english": "watching movies",
-		"soundmark": "/'wɑtʃɪŋ/ /'muviz/"
+		"pinyin": "kan dian ying ( i n g xing shi )",
+		"soundmark": "kàn diàn yǐng ( i n g xíng shì )",
+		"englishGloss": "watching movies"
 	},
 	{
 		"chinese": "他享受",
-		"english": "he enjoys",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/"
+		"pinyin": "ta xiang shou",
+		"soundmark": "tā xiǎng shòu",
+		"englishGloss": "he enjoys"
 	},
 	{
 		"chinese": "他享受看电影",
-		"english": "he enjoys watching movies",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/"
+		"pinyin": "ta xiang shou kan dian ying",
+		"soundmark": "tā xiǎng shòu kàn diàn yǐng",
+		"englishGloss": "he enjoys watching movies"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "女孩",
-		"english": "girl",
-		"soundmark": "/ɡɝl/"
+		"pinyin": "nü hai",
+		"soundmark": "nǚ hái",
+		"englishGloss": "girl"
 	},
 	{
 		"chinese": "女朋友",
-		"english": "girlfriend",
-		"soundmark": "/'ɡɝlfrɛnd/"
+		"pinyin": "nü peng you",
+		"soundmark": "nǚ péng yǒu",
+		"englishGloss": "girlfriend"
 	},
 	{
 		"chinese": "他的女朋友",
-		"english": "his girlfriend",
-		"soundmark": "/hɪz/ /'ɡɝlfrɛnd/"
+		"pinyin": "ta de nü peng you",
+		"soundmark": "tā de nǚ péng yǒu",
+		"englishGloss": "his girlfriend"
 	},
 	{
 		"chinese": "和......一起",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he . . . . . . yi qi",
+		"soundmark": "hé . . . . . . yì qǐ",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "和他的女朋友一起",
-		"english": "with his girlfriend",
-		"soundmark": "/wɪð/ /hɪz/ /'ɡɝlfrɛnd/"
+		"pinyin": "he ta de nü peng you yi qi",
+		"soundmark": "hé tā de nǚ péng yǒu yì qǐ",
+		"englishGloss": "with his girlfriend"
 	},
 	{
 		"chinese": "他享受看电影",
-		"english": "he enjoys watching movies",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/"
+		"pinyin": "ta xiang shou kan dian ying",
+		"soundmark": "tā xiǎng shòu kàn diàn yǐng",
+		"englishGloss": "he enjoys watching movies"
 	},
 	{
 		"chinese": "他享受和他的女朋友一起看电影",
-		"english": "he enjoys watching movies with his girlfriend",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/ /wɪð/ /hɪz/ /'ɡɝlfrɛnd/"
+		"pinyin": "ta xiang shou he ta de nü peng you yi qi kan dian ying",
+		"soundmark": "tā xiǎng shòu hé tā de nǚ péng yǒu yì qǐ kàn diàn yǐng",
+		"englishGloss": "he enjoys watching movies with his girlfriend"
 	},
 	{
 		"chinese": "世界",
-		"english": "the world",
-		"soundmark": "/ðə/ /wɝld/"
+		"pinyin": "shi jie",
+		"soundmark": "shì jiè",
+		"englishGloss": "the world"
 	},
 	{
 		"chinese": "围着",
-		"english": "around",
-		"soundmark": "/ə'raʊnd/"
+		"pinyin": "wei zhe",
+		"soundmark": "wéi zhe",
+		"englishGloss": "around"
 	},
 	{
 		"chinese": "围着世界",
-		"english": "around the world",
-		"soundmark": "/ə'raʊnd/ /ðə/ /wɝld/"
+		"pinyin": "wei zhe shi jie",
+		"soundmark": "wéi zhe shì jiè",
+		"englishGloss": "around the world"
 	},
 	{
 		"chinese": "旅行",
-		"english": "to travel",
-		"soundmark": "/tə/ /'trævl/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "to travel"
 	},
 	{
 		"chinese": "环游世界",
-		"english": "to travel around the world",
-		"soundmark": "/tə/ /'trævl/ /ə'raʊnd/ /ðə/ /wɝld/"
+		"pinyin": "huan you shi jie",
+		"soundmark": "huán yóu shì jiè",
+		"englishGloss": "to travel around the world"
 	},
 	{
 		"chinese": "环游世界(ing形式)",
-		"english": "traveling around the world",
-		"soundmark": "/'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/"
+		"pinyin": "huan you shi jie ( i n g xing shi )",
+		"soundmark": "huán yóu shì jiè ( i n g xíng shì )",
+		"englishGloss": "traveling around the world"
 	},
 	{
 		"chinese": "他们享受",
-		"english": "they enjoy",
-		"soundmark": "/ðe/ /ɪn'dʒɔɪ/"
+		"pinyin": "ta men xiang shou",
+		"soundmark": "tā men xiǎng shòu",
+		"englishGloss": "they enjoy"
 	},
 	{
 		"chinese": "他们享受环游世界",
-		"english": "they enjoy traveling around the world",
-		"soundmark": "/ðe/ /ɪn'dʒɔɪ/ /'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/"
+		"pinyin": "ta men xiang shou huan you shi jie",
+		"soundmark": "tā men xiǎng shòu huán yóu shì jiè",
+		"englishGloss": "they enjoy traveling around the world"
 	},
 	{
 		"chinese": "游戏",
-		"english": "games",
-		"soundmark": "/ɡemz/"
+		"pinyin": "you xi",
+		"soundmark": "yóu xì",
+		"englishGloss": "games"
 	},
 	{
 		"chinese": "视频",
-		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"pinyin": "shi pin",
+		"soundmark": "shì pín",
+		"englishGloss": "video"
 	},
 	{
 		"chinese": "电子游戏",
-		"english": "video games",
-		"soundmark": "/'vɪdɪo/ /ɡemz/"
+		"pinyin": "dian zi you xi",
+		"soundmark": "diàn zǐ yóu xì",
+		"englishGloss": "video games"
 	},
 	{
 		"chinese": "玩",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "wan",
+		"soundmark": "wán",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "玩电子游戏",
-		"english": "to play video games",
-		"soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "wan dian zi you xi",
+		"soundmark": "wán diàn zǐ yóu xì",
+		"englishGloss": "to play video games"
 	},
 	{
 		"chinese": "玩电子游戏(ing形式)",
-		"english": "playing video games",
-		"soundmark": "/'pleɪŋ/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "wan dian zi you xi ( i n g xing shi )",
+		"soundmark": "wán diàn zǐ yóu xì ( i n g xíng shì )",
+		"englishGloss": "playing video games"
 	},
 	{
 		"chinese": "他享受",
-		"english": "he enjoys",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/"
+		"pinyin": "ta xiang shou",
+		"soundmark": "tā xiǎng shòu",
+		"englishGloss": "he enjoys"
 	},
 	{
 		"chinese": "他享受玩电子游戏",
-		"english": "he enjoys playing video games",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/"
+		"pinyin": "ta xiang shou wan dian zi you xi",
+		"soundmark": "tā xiǎng shòu wán diàn zǐ yóu xì",
+		"englishGloss": "he enjoys playing video games"
 	},
 	{
 		"chinese": "朋友们",
-		"english": "friends",
-		"soundmark": "/frɛndz/"
+		"pinyin": "peng you men",
+		"soundmark": "péng yǒu men",
+		"englishGloss": "friends"
 	},
 	{
 		"chinese": "他的朋友们",
-		"english": "his friends",
-		"soundmark": "/hɪz/ /frɛndz/"
+		"pinyin": "ta de peng you men",
+		"soundmark": "tā de péng yǒu men",
+		"englishGloss": "his friends"
 	},
 	{
 		"chinese": "和......一起",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he . . . . . . yi qi",
+		"soundmark": "hé . . . . . . yì qǐ",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "和他的朋友们一起",
-		"english": "with his friends",
-		"soundmark": "/wɪð/ /hɪz/ /frɛndz/"
+		"pinyin": "he ta de peng you men yi qi",
+		"soundmark": "hé tā de péng yǒu men yì qǐ",
+		"englishGloss": "with his friends"
 	},
 	{
 		"chinese": "他享受和他的朋友们一起玩电子游戏",
-		"english": "he enjoys playing video games with his friends",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/ /wɪð/ /hɪz/ /frɛndz/"
+		"pinyin": "ta xiang shou he ta de peng you men yi qi wan dian zi you xi",
+		"soundmark": "tā xiǎng shòu hé tā de péng yǒu men yì qǐ wán diàn zǐ yóu xì",
+		"englishGloss": "he enjoys playing video games with his friends"
 	},
 	{
 		"chinese": "练习",
-		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"pinyin": "lian xi",
+		"soundmark": "liàn xí",
+		"englishGloss": "to practice"
 	},
 	{
 		"chinese": "瑜伽",
-		"english": "yoga",
-		"soundmark": "/ˈjoɡə/"
+		"pinyin": "yu jia",
+		"soundmark": "yú jiā",
+		"englishGloss": "yoga"
 	},
 	{
 		"chinese": "练习瑜伽",
-		"english": "to practice yoga",
-		"soundmark": "/tə/ /ˈpræktɪs/ /ˈjoɡə/"
+		"pinyin": "lian xi yu jia",
+		"soundmark": "liàn xí yú jiā",
+		"englishGloss": "to practice yoga"
 	},
 	{
 		"chinese": "练习瑜伽(ing形式)",
-		"english": "practicing yoga",
-		"soundmark": "/ˈpræktɪsɪŋ/ /ˈjoɡə/"
+		"pinyin": "lian xi yu jia ( i n g xing shi )",
+		"soundmark": "liàn xí yú jiā ( i n g xíng shì )",
+		"englishGloss": "practicing yoga"
 	},
 	{
 		"chinese": "我享受",
-		"english": "I enjoy",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/"
+		"pinyin": "wo xiang shou",
+		"soundmark": "wǒ xiǎng shòu",
+		"englishGloss": "I enjoy"
 	},
 	{
 		"chinese": "我享受练习瑜伽",
-		"english": "I enjoy practicing yoga",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/"
+		"pinyin": "wo xiang shou lian xi yu jia",
+		"soundmark": "wǒ xiǎng shòu liàn xí yú jiā",
+		"englishGloss": "I enjoy practicing yoga"
 	},
 	{
 		"chinese": "每天早上",
-		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "mei tian zao shang",
+		"soundmark": "měi tiān zǎo shàng",
+		"englishGloss": "every morning"
 	},
 	{
 		"chinese": "我享受每天早上练习瑜伽",
-		"english": "I enjoy practicing yoga every morning",
-		"soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/ /'ɛvri/ /'mɔrnɪŋ/"
+		"pinyin": "wo xiang shou mei tian zao shang lian xi yu jia",
+		"soundmark": "wǒ xiǎng shòu měi tiān zǎo shàng liàn xí yú jiā",
+		"englishGloss": "I enjoy practicing yoga every morning"
 	},
 	{
 		"chinese": "他们享受",
-		"english": "they enjoy",
-		"soundmark": "/ðe/ /ɪn'dʒɔɪ/"
+		"pinyin": "ta men xiang shou",
+		"soundmark": "tā men xiǎng shòu",
+		"englishGloss": "they enjoy"
 	},
 	{
 		"chinese": "练习(ing形式)",
-		"english": "practicing",
-		"soundmark": "/ˈpræktɪsɪŋ/"
+		"pinyin": "lian xi ( i n g xing shi )",
+		"soundmark": "liàn xí ( i n g xíng shì )",
+		"englishGloss": "practicing"
 	},
 	{
 		"chinese": "他们享受练习",
-		"english": "they enjoy practicing",
-		"soundmark": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/"
+		"pinyin": "ta men xiang shou lian xi",
+		"soundmark": "tā men xiǎng shòu liàn xí",
+		"englishGloss": "they enjoy practicing"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "他们的",
-		"english": "their",
-		"soundmark": "/ðɛr/"
+		"pinyin": "ta men de",
+		"soundmark": "tā men de",
+		"englishGloss": "their"
 	},
 	{
 		"chinese": "他们的英语",
-		"english": "their English",
-		"soundmark": "/ðɛr/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ta men de ying yu",
+		"soundmark": "tā men de yīng yǔ",
+		"englishGloss": "their English"
 	},
 	{
 		"chinese": "他们享受练习他们的英语",
-		"english": "they enjoy practicing their English",
-		"soundmark": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ta men xiang shou lian xi ta men de ying yu",
+		"soundmark": "tā men xiǎng shòu liàn xí tā men de yīng yǔ",
+		"englishGloss": "they enjoy practicing their English"
 	},
 	{
 		"chinese": "说话",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "说话的人",
-		"english": "speaker",
-		"soundmark": "/'spikɚ/"
+		"pinyin": "shuo hua de ren",
+		"soundmark": "shuō huà de rén",
+		"englishGloss": "speaker"
 	},
 	{
 		"chinese": "当地的",
-		"english": "native",
-		"soundmark": "/ˈnetɪv/"
+		"pinyin": "dang di de",
+		"soundmark": "dāng dì de",
+		"englishGloss": "native"
 	},
 	{
 		"chinese": "母语使用者",
-		"english": "native speakers",
-		"soundmark": "/ˈnetɪv/ /'spikɚz/"
+		"pinyin": "mu yu shi yong zhe",
+		"soundmark": "mǔ yǔ shǐ yòng zhě",
+		"englishGloss": "native speakers"
 	},
 	{
 		"chinese": "和母语使用者",
-		"english": "with native speakers",
-		"soundmark": "/wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "he mu yu shi yong zhe",
+		"soundmark": "hé mǔ yǔ shǐ yòng zhě",
+		"englishGloss": "with native speakers"
 	},
 	{
 		"chinese": "他们享受和母语使用者练习他们的英语",
-		"english": "they enjoy practicing their English with native speakers",
-		"soundmark": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"pinyin": "ta men xiang shou he mu yu shi yong zhe lian xi ta men de ying yu",
+		"soundmark": "tā men xiǎng shòu hé mǔ yǔ shǐ yòng zhě liàn xí tā men de yīng yǔ",
+		"englishGloss": "they enjoy practicing their English with native speakers"
 	},
 	{
 		"chinese": "吉他",
-		"english": "guitar",
-		"soundmark": "/ɡɪ'tɑr/"
+		"pinyin": "ji ta",
+		"soundmark": "jí tā",
+		"englishGloss": "guitar"
 	},
 	{
 		"chinese": "技术",
-		"english": "skills",
-		"soundmark": "/'skɪlz/"
+		"pinyin": "ji shu",
+		"soundmark": "jì shù",
+		"englishGloss": "skills"
 	},
 	{
 		"chinese": "吉他技术",
-		"english": "guitar skills",
-		"soundmark": "/ɡɪ'tɑr/ /'skɪlz/"
+		"pinyin": "ji ta ji shu",
+		"soundmark": "jí tā jì shù",
+		"englishGloss": "guitar skills"
 	},
 	{
 		"chinese": "他的吉他技术",
-		"english": "his guitar skills",
-		"soundmark": "/hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+		"pinyin": "ta de ji ta ji shu",
+		"soundmark": "tā de jí tā jì shù",
+		"englishGloss": "his guitar skills"
 	},
 	{
 		"chinese": "练习(ing形式)",
-		"english": "practicing",
-		"soundmark": "/ˈpræktɪsɪŋ/"
+		"pinyin": "lian xi ( i n g xing shi )",
+		"soundmark": "liàn xí ( i n g xíng shì )",
+		"englishGloss": "practicing"
 	},
 	{
 		"chinese": "练习他的吉他技术",
-		"english": "practicing his guitar skills",
-		"soundmark": "/ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+		"pinyin": "lian xi ta de ji ta ji shu",
+		"soundmark": "liàn xí tā de jí tā jì shù",
+		"englishGloss": "practicing his guitar skills"
 	},
 	{
 		"chinese": "他享受",
-		"english": "he enjoys",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/"
+		"pinyin": "ta xiang shou",
+		"soundmark": "tā xiǎng shòu",
+		"englishGloss": "he enjoys"
 	},
 	{
 		"chinese": "他享受练习他的吉他技术",
-		"english": "he enjoys practicing his guitar skills",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+		"pinyin": "ta xiang shou lian xi ta de ji ta ji shu",
+		"soundmark": "tā xiǎng shòu liàn xí tā de jí tā jì shù",
+		"englishGloss": "he enjoys practicing his guitar skills"
 	},
 	{
 		"chinese": "每天",
-		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"pinyin": "mei tian",
+		"soundmark": "měi tiān",
+		"englishGloss": "every day"
 	},
 	{
 		"chinese": "他享受每天练习他的吉他技术",
-		"english": "he enjoys practicing his guitar skills every day",
-		"soundmark": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/ /'ɛvri/ /de/"
+		"pinyin": "ta xiang shou mei tian lian xi ta de ji ta ji shu",
+		"soundmark": "tā xiǎng shòu měi tiān liàn xí tā de jí tā jì shù",
+		"englishGloss": "he enjoys practicing his guitar skills every day"
 	},
 	{
 		"chinese": "你应该",
-		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"pinyin": "ni ying gai",
+		"soundmark": "nǐ yīng gāi",
+		"englishGloss": "you should"
 	},
 	{
 		"chinese": "练习",
-		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"pinyin": "lian xi",
+		"soundmark": "liàn xí",
+		"englishGloss": "to practice"
 	},
 	{
 		"chinese": "你应该练习",
-		"english": "you should practice",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+		"pinyin": "ni ying gai lian xi",
+		"soundmark": "nǐ yīng gāi liàn xí",
+		"englishGloss": "you should practice"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "to dance",
-		"soundmark": "/tə/ /dæns/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "to dance"
 	},
 	{
 		"chinese": "跳舞(ing形式)",
-		"english": "dancing",
-		"soundmark": "/'dænsɪŋ/"
+		"pinyin": "tiao wu ( i n g xing shi )",
+		"soundmark": "tiào wǔ ( i n g xíng shì )",
+		"englishGloss": "dancing"
 	},
 	{
 		"chinese": "你应该练习跳舞",
-		"english": "you should practice dancing",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/"
+		"pinyin": "ni ying gai lian xi tiao wu",
+		"soundmark": "nǐ yīng gāi liàn xí tiào wǔ",
+		"englishGloss": "you should practice dancing"
 	},
 	{
 		"chinese": "更加",
-		"english": "more",
-		"soundmark": "/mɔr/"
+		"pinyin": "geng jia",
+		"soundmark": "gèng jiā",
+		"englishGloss": "more"
 	},
 	{
 		"chinese": "经常",
-		"english": "often",
-		"soundmark": "/'ɔfn/"
+		"pinyin": "jing chang",
+		"soundmark": "jīng cháng",
+		"englishGloss": "often"
 	},
 	{
 		"chinese": "更加经常",
-		"english": "more often",
-		"soundmark": "/mɔr/ /'ɔfn/"
+		"pinyin": "geng jia jing chang",
+		"soundmark": "gèng jiā jīng cháng",
+		"englishGloss": "more often"
 	},
 	{
 		"chinese": "你应该更加经常地练习跳舞",
-		"english": "you should practice dancing more often",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/ /mɔr/ /'ɔfn/"
+		"pinyin": "ni ying gai geng jia jing chang di lian xi tiao wu",
+		"soundmark": "nǐ yīng gāi gèng jiā jīng cháng dì liàn xí tiào wǔ",
+		"englishGloss": "you should practice dancing more often"
 	},
 	{
 		"chinese": "练习",
-		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"pinyin": "lian xi",
+		"soundmark": "liàn xí",
+		"englishGloss": "to practice"
 	},
 	{
 		"chinese": "他需要",
-		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"pinyin": "ta xu yao",
+		"soundmark": "tā xū yào",
+		"englishGloss": "he needs"
 	},
 	{
 		"chinese": "他需要练习",
-		"english": "he needs to practice",
-		"soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/"
+		"pinyin": "ta xu yao lian xi",
+		"soundmark": "tā xū yào liàn xí",
+		"englishGloss": "he needs to practice"
 	},
 	{
 		"chinese": "说",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "说英语",
-		"english": "to speak English",
-		"soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "shuo ying yu",
+		"soundmark": "shuō yīng yǔ",
+		"englishGloss": "to speak English"
 	},
 	{
 		"chinese": "说英语(ing形式)",
-		"english": "speaking English",
-		"soundmark": "/'spikɪŋ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "shuo ying yu ( i n g xing shi )",
+		"soundmark": "shuō yīng yǔ ( i n g xíng shì )",
+		"englishGloss": "speaking English"
 	},
 	{
 		"chinese": "他需要练习",
-		"english": "he needs to practice",
-		"soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/"
+		"pinyin": "ta xu yao lian xi",
+		"soundmark": "tā xū yào liàn xí",
+		"englishGloss": "he needs to practice"
 	},
 	{
 		"chinese": "他需要练习说英语",
-		"english": "he needs to practice speaking English",
-		"soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ta xu yao lian xi shuo ying yu",
+		"soundmark": "tā xū yào liàn xí shuō yīng yǔ",
+		"englishGloss": "he needs to practice speaking English"
 	},
 	{
 		"chinese": "更加经常",
-		"english": "more often",
-		"soundmark": "/mɔr/ /'ɔfn/"
+		"pinyin": "geng jia jing chang",
+		"soundmark": "gèng jiā jīng cháng",
+		"englishGloss": "more often"
 	},
 	{
 		"chinese": "他需要更经常地练习说英语",
-		"english": "he needs to practice speaking English more often",
-		"soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/ /mɔr/ /'ɔfn/"
+		"pinyin": "ta xu yao geng jing chang di lian xi shuo ying yu",
+		"soundmark": "tā xū yào gèng jīng cháng dì liàn xí shuō yīng yǔ",
+		"englishGloss": "he needs to practice speaking English more often"
 	},
 	{
 		"chinese": "你应该",
-		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"pinyin": "ni ying gai",
+		"soundmark": "nǐ yīng gāi",
+		"englishGloss": "you should"
 	},
 	{
 		"chinese": "练习",
-		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"pinyin": "lian xi",
+		"soundmark": "liàn xí",
+		"englishGloss": "to practice"
 	},
 	{
 		"chinese": "你应该练习",
-		"english": "you should practice",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+		"pinyin": "ni ying gai lian xi",
+		"soundmark": "nǐ yīng gāi liàn xí",
+		"englishGloss": "you should practice"
 	},
 	{
 		"chinese": "阅读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "大声的",
-		"english": "aloud",
-		"soundmark": "/ə'laʊd/"
+		"pinyin": "da sheng de",
+		"soundmark": "dà shēng de",
+		"englishGloss": "aloud"
 	},
 	{
 		"chinese": "大声地读",
-		"english": "to read aloud",
-		"soundmark": "/tə/ /rid/ /ə'laʊd/"
+		"pinyin": "da sheng di du",
+		"soundmark": "dà shēng dì dú",
+		"englishGloss": "to read aloud"
 	},
 	{
 		"chinese": "大声地读(ing形式)",
-		"english": "reading aloud",
-		"soundmark": "/'ridɪŋ/ /ə'laʊd/"
+		"pinyin": "da sheng di du ( i n g xing shi )",
+		"soundmark": "dà shēng dì dú ( i n g xíng shì )",
+		"englishGloss": "reading aloud"
 	},
 	{
 		"chinese": "你应该练习",
-		"english": "you should practice",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+		"pinyin": "ni ying gai lian xi",
+		"soundmark": "nǐ yīng gāi liàn xí",
+		"englishGloss": "you should practice"
 	},
 	{
 		"chinese": "你应该练习大声地读",
-		"english": "you should practice reading aloud",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/"
+		"pinyin": "ni ying gai lian xi da sheng di du",
+		"soundmark": "nǐ yīng gāi liàn xí dà shēng dì dú",
+		"englishGloss": "you should practice reading aloud"
 	},
 	{
 		"chinese": "发音",
-		"english": "pronunciation",
-		"soundmark": "/prənʌnsɪ'eʃən/"
+		"pinyin": "fa yin",
+		"soundmark": "fā yīn",
+		"englishGloss": "pronunciation"
 	},
 	{
 		"chinese": "你的发音",
-		"english": "your pronunciation",
-		"soundmark": "/jʊr/ /prənʌnsɪ'eʃən/"
+		"pinyin": "ni de fa yin",
+		"soundmark": "nǐ de fā yīn",
+		"englishGloss": "your pronunciation"
 	},
 	{
 		"chinese": "改善",
-		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"pinyin": "gai shan",
+		"soundmark": "gǎi shàn",
+		"englishGloss": "to improve"
 	},
 	{
 		"chinese": "改善你的发音",
-		"english": "to improve your pronunciation",
-		"soundmark": "/tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/"
+		"pinyin": "gai shan ni de fa yin",
+		"soundmark": "gǎi shàn nǐ de fā yīn",
+		"englishGloss": "to improve your pronunciation"
 	},
 	{
 		"chinese": "你应该练习大声地读",
-		"english": "you should practice reading aloud",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/"
+		"pinyin": "ni ying gai lian xi da sheng di du",
+		"soundmark": "nǐ yīng gāi liàn xí dà shēng dì dú",
+		"englishGloss": "you should practice reading aloud"
 	},
 	{
 		"chinese": "你应该练习大声地读去改善你的发音",
-		"english": "you should practice reading aloud to improve your pronunciation",
-		"soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/ /tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/"
+		"pinyin": "ni ying gai lian xi da sheng di du qu gai shan ni de fa yin",
+		"soundmark": "nǐ yīng gāi liàn xí dà shēng dì dú qù gǎi shàn nǐ de fā yīn",
+		"englishGloss": "you should practice reading aloud to improve your pronunciation"
 	}
 ]

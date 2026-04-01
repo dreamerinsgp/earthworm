@@ -7,9 +7,9 @@ interface Props {
 
 export function Question({ onShowAnswer }: Props) {
   const { currentStatement, checkCorrect } = useCourse();
-  const { chinese = "", english = "" } = currentStatement || {};
+  const { chinese = "", pinyin = "" } = currentStatement || {};
   const word = chinese;
-  const lineNum = english.split(" ").length || 1;
+  const lineNum = pinyin.trim() ? pinyin.trim().split(/\s+/).length : 1;
 
   function handleCheckAnswer(input: string) {
     if (checkCorrect(input)) {

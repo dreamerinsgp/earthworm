@@ -1,752 +1,902 @@
 [
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "递给",
-		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"pinyin": "di gei",
+		"soundmark": "dì gěi",
+		"englishGloss": "to hand"
 	},
 	{
 		"chinese": "握；牵",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； qian",
+		"soundmark": "wò ； qiān",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "手",
-		"english": "hand",
-		"soundmark": "/hænd/"
+		"pinyin": "shou",
+		"soundmark": "shǒu",
+		"englishGloss": "hand"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的手",
-		"english": "my hand",
-		"soundmark": "/maɪ/ /hænd/"
+		"pinyin": "wo de shou",
+		"soundmark": "wǒ de shǒu",
+		"englishGloss": "my hand"
 	},
 	{
 		"chinese": "牵我的手",
-		"english": "to hold my hand",
-		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/"
+		"pinyin": "qian wo de shou",
+		"soundmark": "qiān wǒ de shǒu",
+		"englishGloss": "to hold my hand"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "牵我的手",
-		"english": "to hold my hand",
-		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/"
+		"pinyin": "qian wo de shou",
+		"soundmark": "qiān wǒ de shǒu",
+		"englishGloss": "to hold my hand"
 	},
 	{
 		"chinese": "我想要你牵我的手",
-		"english": "I want you to hold my hand",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/"
+		"pinyin": "wo xiang yao ni qian wo de shou",
+		"soundmark": "wǒ xiǎng yào nǐ qiān wǒ de shǒu",
+		"englishGloss": "I want you to hold my hand"
 	},
 	{
 		"chinese": "握；牵",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； qian",
+		"soundmark": "wò ； qiān",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "牵（ing形式）",
-		"english": "holding",
-		"soundmark": "/'holdɪŋ/"
+		"pinyin": "qian （ i n g xing shi ）",
+		"soundmark": "qiān （ i n g xíng shì ）",
+		"englishGloss": "holding"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在牵着",
-		"english": "be holding",
-		"soundmark": "/bi/ /'holdɪŋ/"
+		"pinyin": "zheng zai qian zhe",
+		"soundmark": "zhèng zài qiān zhe",
+		"englishGloss": "be holding"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我（现在）正在牵着",
-		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"pinyin": "wo （ xian zai ） zheng zai qian zhe",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài qiān zhe",
+		"englishGloss": "I am holding"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "你的手",
-		"english": "your hand",
-		"soundmark": "/jʊr/ /hænd/"
+		"pinyin": "ni de shou",
+		"soundmark": "nǐ de shǒu",
+		"englishGloss": "your hand"
 	},
 	{
 		"chinese": "我（现在）正在牵着你的手",
-		"english": "I am holding your hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/"
+		"pinyin": "wo （ xian zai ） zheng zai qian zhe ni de shou",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài qiān zhe nǐ de shǒu",
+		"englishGloss": "I am holding your hand"
 	},
 	{
 		"chinese": "刀",
-		"english": "knife",
-		"soundmark": "/naɪf/"
+		"pinyin": "dao",
+		"soundmark": "dāo",
+		"englishGloss": "knife"
 	},
 	{
 		"chinese": "我（现在）正在握着",
-		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"pinyin": "wo （ xian zai ） zheng zai wo zhe",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài wò zhe",
+		"englishGloss": "I am holding"
 	},
 	{
 		"chinese": "我（现在）正在握着一把刀",
-		"english": "I am holding a knife",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+		"pinyin": "wo （ xian zai ） zheng zai wo zhe yi ba dao",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài wò zhe yì bǎ dāo",
+		"englishGloss": "I am holding a knife"
 	},
 	{
 		"chinese": "我的手",
-		"english": "my hand",
-		"soundmark": "/maɪ/ /hænd/"
+		"pinyin": "wo de shou",
+		"soundmark": "wǒ de shǒu",
+		"englishGloss": "my hand"
 	},
 	{
 		"chinese": "在......里",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"pinyin": "zai . . . . . . li",
+		"soundmark": "zài . . . . . . lǐ",
+		"englishGloss": "in"
 	},
 	{
 		"chinese": "在我的手里",
-		"english": "in my hand",
-		"soundmark": "/ɪn/ /maɪ/ /hænd/"
+		"pinyin": "zai wo de shou li",
+		"soundmark": "zài wǒ de shǒu lǐ",
+		"englishGloss": "in my hand"
 	},
 	{
 		"chinese": "我（现在）正在在我的手里握着一把刀",
-		"english": "I am holding a knife in my hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/"
+		"pinyin": "wo （ xian zai ） zheng zai zai wo de shou li wo zhe yi ba dao",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài zài wǒ de shǒu lǐ wò zhe yì bǎ dāo",
+		"englishGloss": "I am holding a knife in my hand"
 	},
 	{
 		"chinese": "右",
-		"english": "right",
-		"soundmark": "/raɪt/"
+		"pinyin": "you",
+		"soundmark": "yòu",
+		"englishGloss": "right"
 	},
 	{
 		"chinese": "右手",
-		"english": "right hand",
-		"soundmark": "/raɪt/ /hænd/"
+		"pinyin": "you shou",
+		"soundmark": "yòu shǒu",
+		"englishGloss": "right hand"
 	},
 	{
 		"chinese": "在我的右手里",
-		"english": "in my right hand",
-		"soundmark": "/ɪn/ /maɪ/ /raɪt/ /hænd/"
+		"pinyin": "zai wo de you shou li",
+		"soundmark": "zài wǒ de yòu shǒu lǐ",
+		"englishGloss": "in my right hand"
 	},
 	{
 		"chinese": "我（现在）正在握着一把刀",
-		"english": "I am holding a knife",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+		"pinyin": "wo （ xian zai ） zheng zai wo zhe yi ba dao",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài wò zhe yì bǎ dāo",
+		"englishGloss": "I am holding a knife"
 	},
 	{
 		"chinese": "我（现在）正在在我的右手里握着一把刀",
-		"english": "I am holding a knife in my right hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/"
+		"pinyin": "wo （ xian zai ） zheng zai zai wo de you shou li wo zhe yi ba dao",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài zài wǒ de yòu shǒu lǐ wò zhe yì bǎ dāo",
+		"englishGloss": "I am holding a knife in my right hand"
 	},
 	{
 		"chinese": "叉子",
-		"english": "fork",
-		"soundmark": "/fɔrk/"
+		"pinyin": "cha zi",
+		"soundmark": "chā zi",
+		"englishGloss": "fork"
 	},
 	{
 		"chinese": "我（现在）正在握着",
-		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"pinyin": "wo （ xian zai ） zheng zai wo zhe",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài wò zhe",
+		"englishGloss": "I am holding"
 	},
 	{
 		"chinese": "我（现在）正在握着一把叉子",
-		"english": "I am holding a fork",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+		"pinyin": "wo （ xian zai ） zheng zai wo zhe yi ba cha zi",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài wò zhe yì bǎ chā zi",
+		"englishGloss": "I am holding a fork"
 	},
 	{
 		"chinese": "在我的手里",
-		"english": "in my hand",
-		"soundmark": "/ɪn/ /maɪ/ /hænd/"
+		"pinyin": "zai wo de shou li",
+		"soundmark": "zài wǒ de shǒu lǐ",
+		"englishGloss": "in my hand"
 	},
 	{
 		"chinese": "左",
-		"english": "left",
-		"soundmark": "/lɛft/"
+		"pinyin": "zuo",
+		"soundmark": "zuǒ",
+		"englishGloss": "left"
 	},
 	{
 		"chinese": "在我的左手里",
-		"english": "in my left hand",
-		"soundmark": "/ɪn/ /maɪ/ /lɛft/ /hænd/"
+		"pinyin": "zai wo de zuo shou li",
+		"soundmark": "zài wǒ de zuǒ shǒu lǐ",
+		"englishGloss": "in my left hand"
 	},
 	{
 		"chinese": "我（现在）正在握着一把叉子",
-		"english": "I am holding a fork",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+		"pinyin": "wo （ xian zai ） zheng zai wo zhe yi ba cha zi",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài wò zhe yì bǎ chā zi",
+		"englishGloss": "I am holding a fork"
 	},
 	{
 		"chinese": "我（现在）正在在我的左手里握着一把叉子",
-		"english": "I am holding a fork in my left hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/"
+		"pinyin": "wo （ xian zai ） zheng zai zai wo de zuo shou li wo zhe yi ba cha zi",
+		"soundmark": "wǒ （ xiàn zài ） zhèng zài zài wǒ de zuǒ shǒu lǐ wò zhe yì bǎ chā zi",
+		"englishGloss": "I am holding a fork in my left hand"
 	},
 	{
 		"chinese": "人",
-		"english": "people",
-		"soundmark": "/'pipl/"
+		"pinyin": "ren",
+		"soundmark": "rén",
+		"englishGloss": "people"
 	},
 	{
 		"chinese": "四个",
-		"english": "four",
-		"soundmark": "/fɔr/"
+		"pinyin": "si ge",
+		"soundmark": "sì gè",
+		"englishGloss": "four"
 	},
 	{
 		"chinese": "四个人",
-		"english": "four people",
-		"soundmark": "/fɔr/ /'pipl/"
+		"pinyin": "si ge ren",
+		"soundmark": "sì gè rén",
+		"englishGloss": "four people"
 	},
 	{
 		"chinese": "汽车",
-		"english": "car",
-		"soundmark": "/kɑr/"
+		"pinyin": "qi che",
+		"soundmark": "qì chē",
+		"englishGloss": "car"
 	},
 	{
 		"chinese": "这辆车",
-		"english": "this car",
-		"soundmark": "/ðɪs/ /kɑr/"
+		"pinyin": "zhe liang che",
+		"soundmark": "zhè liàng chē",
+		"englishGloss": "this car"
 	},
 	{
 		"chinese": "握；容纳",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； rong na",
+		"soundmark": "wò ； róng nà",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "容纳四个人",
-		"english": "to hold four people",
-		"soundmark": "/tə/ /hold/ /fɔr/ /'pipl/"
+		"pinyin": "rong na si ge ren",
+		"soundmark": "róng nà sì gè rén",
+		"englishGloss": "to hold four people"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "这辆汽车可以容纳四个人",
-		"english": "this car can hold four people",
-		"soundmark": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/"
+		"pinyin": "zhe liang qi che ke yi rong na si ge ren",
+		"soundmark": "zhè liàng qì chē kě yǐ róng nà sì gè rén",
+		"englishGloss": "this car can hold four people"
 	},
 	{
 		"chinese": "不可以",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu ke yi",
+		"soundmark": "bù kě yǐ",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "这辆汽车不可以容纳四个人",
-		"english": "this car can't hold four people",
-		"soundmark": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/"
+		"pinyin": "zhe liang qi che bu ke yi rong na si ge ren",
+		"soundmark": "zhè liàng qì chē bù kě yǐ róng nà sì gè rén",
+		"englishGloss": "this car can't hold four people"
 	},
 	{
 		"chinese": "人",
-		"english": "people",
-		"soundmark": "/'pipl/"
+		"pinyin": "ren",
+		"soundmark": "rén",
+		"englishGloss": "people"
 	},
 	{
 		"chinese": "十个",
-		"english": "ten",
-		"soundmark": "/tɛn/"
+		"pinyin": "shi ge",
+		"soundmark": "shí gè",
+		"englishGloss": "ten"
 	},
 	{
 		"chinese": "十个人",
-		"english": "ten people",
-		"soundmark": "/tɛn/ /'pipl/"
+		"pinyin": "shi ge ren",
+		"soundmark": "shí gè rén",
+		"englishGloss": "ten people"
 	},
 	{
 		"chinese": "握；容纳",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； rong na",
+		"soundmark": "wò ； róng nà",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "容纳十个人",
-		"english": "to hold ten people",
-		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/"
+		"pinyin": "rong na shi ge ren",
+		"soundmark": "róng nà shí gè rén",
+		"englishGloss": "to hold ten people"
 	},
 	{
 		"chinese": "房间",
-		"english": "room",
-		"soundmark": "/rum/"
+		"pinyin": "fang jian",
+		"soundmark": "fáng jiān",
+		"englishGloss": "room"
 	},
 	{
 		"chinese": "这个房间",
-		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"pinyin": "zhe ge fang jian",
+		"soundmark": "zhè ge fáng jiān",
+		"englishGloss": "this room"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "这个房间可以容纳十个人",
-		"english": "this room can hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/"
+		"pinyin": "zhe ge fang jian ke yi rong na shi ge ren",
+		"soundmark": "zhè ge fáng jiān kě yǐ róng nà shí gè rén",
+		"englishGloss": "this room can hold ten people"
 	},
 	{
 		"chinese": "不可以",
-		"english": "can't",
-		"soundmark": "/kænt/"
+		"pinyin": "bu ke yi",
+		"soundmark": "bù kě yǐ",
+		"englishGloss": "can't"
 	},
 	{
 		"chinese": "这个房间不可以容纳十个人",
-		"english": "this room can't hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/"
+		"pinyin": "zhe ge fang jian bu ke yi rong na shi ge ren",
+		"soundmark": "zhè ge fáng jiān bù kě yǐ róng nà shí gè rén",
+		"englishGloss": "this room can't hold ten people"
 	},
 	{
 		"chinese": "这个房间",
-		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"pinyin": "zhe ge fang jian",
+		"soundmark": "zhè ge fáng jiān",
+		"englishGloss": "this room"
 	},
 	{
 		"chinese": "大的",
-		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"pinyin": "da de",
+		"soundmark": "dà de",
+		"englishGloss": "big"
 	},
 	{
 		"chinese": "是",
-		"english": "is",
-		"soundmark": "/ɪz/"
+		"pinyin": "shi",
+		"soundmark": "shì",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "这个房间是大的",
-		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"pinyin": "zhe ge fang jian shi da de",
+		"soundmark": "zhè ge fáng jiān shì dà de",
+		"englishGloss": "this room is big"
 	},
 	{
 		"chinese": "容纳十个人",
-		"english": "to hold ten people",
-		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/"
+		"pinyin": "rong na shi ge ren",
+		"soundmark": "róng nà shí gè rén",
+		"englishGloss": "to hold ten people"
 	},
 	{
 		"chinese": "足够",
-		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"pinyin": "zu gou",
+		"soundmark": "zú gòu",
+		"englishGloss": "enough"
 	},
 	{
 		"chinese": "足够容纳十个人",
-		"english": "enough to hold ten people",
-		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+		"pinyin": "zu gou rong na shi ge ren",
+		"soundmark": "zú gòu róng nà shí gè rén",
+		"englishGloss": "enough to hold ten people"
 	},
 	{
 		"chinese": "这个房间是大的",
-		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"pinyin": "zhe ge fang jian shi da de",
+		"soundmark": "zhè ge fáng jiān shì dà de",
+		"englishGloss": "this room is big"
 	},
 	{
 		"chinese": "这个房间是大的（大到）足够容纳十个人",
-		"english": "this room is big enough to hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+		"pinyin": "zhe ge fang jian shi da de （ da dao ） zu gou rong na shi ge ren",
+		"soundmark": "zhè ge fáng jiān shì dà de （ dà dào ） zú gòu róng nà shí gè rén",
+		"englishGloss": "this room is big enough to hold ten people"
 	},
 	{
 		"chinese": "这个房间是足够大的",
-		"english": "this room is big enough",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+		"pinyin": "zhe ge fang jian shi zu gou da de",
+		"soundmark": "zhè ge fáng jiān shì zú gòu dà de",
+		"englishGloss": "this room is big enough"
 	},
 	{
 		"chinese": "我们",
-		"english": "us",
-		"soundmark": "/ʌs/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "us"
 	},
 	{
 		"chinese": "对......来说",
-		"english": "for",
-		"soundmark": "/fɝ/"
+		"pinyin": "dui . . . . . . lai shuo",
+		"soundmark": "duì . . . . . . lái shuō",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "对我们来说",
-		"english": "for us",
-		"soundmark": "/fɝ/ /ʌs/"
+		"pinyin": "dui wo men lai shuo",
+		"soundmark": "duì wǒ men lái shuō",
+		"englishGloss": "for us"
 	},
 	{
 		"chinese": "这个房间是足够大的对我们来说",
-		"english": "this room is big enough for us",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/"
+		"pinyin": "zhe ge fang jian shi zu gou da de dui wo men lai shuo",
+		"soundmark": "zhè ge fáng jiān shì zú gòu dà de duì wǒ men lái shuō",
+		"englishGloss": "this room is big enough for us"
 	},
 	{
 		"chinese": "遇见；碰面",
-		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"pinyin": "yu jian ； peng mian",
+		"soundmark": "yù jiàn ； pèng miàn",
+		"englishGloss": "to meet"
 	},
 	{
 		"chinese": "碰面（ing形式）",
-		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"pinyin": "peng mian （ i n g xing shi ）",
+		"soundmark": "pèng miàn （ i n g xíng shì ）",
+		"englishGloss": "meeting"
 	},
 	{
 		"chinese": "会议",
-		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"pinyin": "hui yi",
+		"soundmark": "huì yì",
+		"englishGloss": "meeting"
 	},
 	{
 		"chinese": "握；容纳；举行",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； rong na ； ju xing",
+		"soundmark": "wò ； róng nà ； jǔ xíng",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "举行一次会议",
-		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ju xing yi ci hui yi",
+		"soundmark": "jǔ xíng yí cì huì yì",
+		"englishGloss": "to hold a meeting"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们决定",
-		"english": "we decide",
-		"soundmark": "/wi/ /dɪ'saɪd/"
+		"pinyin": "wo men jue ding",
+		"soundmark": "wǒ men jué dìng",
+		"englishGloss": "we decide"
 	},
 	{
 		"chinese": "我们决定举行一次会议",
-		"english": "we decide to hold a meeting",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "wo men jue ding ju xing yi ci hui yi",
+		"soundmark": "wǒ men jué dìng jǔ xíng yí cì huì yì",
+		"englishGloss": "we decide to hold a meeting"
 	},
 	{
 		"chinese": "在......里",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"pinyin": "zai . . . . . . li",
+		"soundmark": "zài . . . . . . lǐ",
+		"englishGloss": "in"
 	},
 	{
 		"chinese": "这个房间",
-		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"pinyin": "zhe ge fang jian",
+		"soundmark": "zhè ge fáng jiān",
+		"englishGloss": "this room"
 	},
 	{
 		"chinese": "在这个房间里",
-		"english": "in this room",
-		"soundmark": "/ɪn/ /ðɪs/ /rum/"
+		"pinyin": "zai zhe ge fang jian li",
+		"soundmark": "zài zhè ge fáng jiān lǐ",
+		"englishGloss": "in this room"
 	},
 	{
 		"chinese": "我们决定在这个房间里举行一次会议",
-		"english": "we decide to hold a meeting in this room",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"pinyin": "wo men jue ding zai zhe ge fang jian li ju xing yi ci hui yi",
+		"soundmark": "wǒ men jué dìng zài zhè ge fáng jiān lǐ jǔ xíng yí cì huì yì",
+		"englishGloss": "we decide to hold a meeting in this room"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "早上",
-		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"pinyin": "zao shang",
+		"soundmark": "zǎo shàng",
+		"englishGloss": "morning"
 	},
 	{
 		"chinese": "明天早上",
-		"english": "tomorrow morning",
-		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+		"pinyin": "ming tian zao shang",
+		"soundmark": "míng tiān zǎo shàng",
+		"englishGloss": "tomorrow morning"
 	},
 	{
 		"chinese": "我们决定明天早上在这个房间里举行一次会议",
-		"english": "we decide to hold a meeting in this room tomorrow morning",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"pinyin": "wo men jue ding ming tian zao shang zai zhe ge fang jian li ju xing yi ci hui yi",
+		"soundmark": "wǒ men jué dìng míng tiān zǎo shàng zài zhè ge fáng jiān lǐ jǔ xíng yí cì huì yì",
+		"englishGloss": "we decide to hold a meeting in this room tomorrow morning"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我们将会举行一次会议",
-		"english": "we will hold a meeting",
-		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "wo men jiang hui ju xing yi ci hui yi",
+		"soundmark": "wǒ men jiāng huì jǔ xíng yí cì huì yì",
+		"englishGloss": "we will hold a meeting"
 	},
 	{
 		"chinese": "明天早上我们将会在这个房间里举行一次会议",
-		"english": "we will hold a meeting in this room tomorrow morning",
-		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"pinyin": "ming tian zao shang wo men jiang hui zai zhe ge fang jian li ju xing yi ci hui yi",
+		"soundmark": "míng tiān zǎo shàng wǒ men jiāng huì zài zhè ge fáng jiān lǐ jǔ xíng yí cì huì yì",
+		"englishGloss": "we will hold a meeting in this room tomorrow morning"
 	},
 	{
 		"chinese": "大的",
-		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"pinyin": "da de",
+		"soundmark": "dà de",
+		"englishGloss": "big"
 	},
 	{
 		"chinese": "这个房间",
-		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"pinyin": "zhe ge fang jian",
+		"soundmark": "zhè ge fáng jiān",
+		"englishGloss": "this room"
 	},
 	{
 		"chinese": "这个房间是大的",
-		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"pinyin": "zhe ge fang jian shi da de",
+		"soundmark": "zhè ge fáng jiān shì dà de",
+		"englishGloss": "this room is big"
 	},
 	{
 		"chinese": "足够",
-		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"pinyin": "zu gou",
+		"soundmark": "zú gòu",
+		"englishGloss": "enough"
 	},
 	{
 		"chinese": "举行一次会议",
-		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ju xing yi ci hui yi",
+		"soundmark": "jǔ xíng yí cì huì yì",
+		"englishGloss": "to hold a meeting"
 	},
 	{
 		"chinese": "足够举行一次会议",
-		"english": "enough to hold a meeting",
-		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "zu gou ju xing yi ci hui yi",
+		"soundmark": "zú gòu jǔ xíng yí cì huì yì",
+		"englishGloss": "enough to hold a meeting"
 	},
 	{
 		"chinese": "这个房间是大的（大到）足够举行一次会议",
-		"english": "this room is big enough to hold a meeting",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "zhe ge fang jian shi da de （ da dao ） zu gou ju xing yi ci hui yi",
+		"soundmark": "zhè ge fáng jiān shì dà de （ dà dào ） zú gòu jǔ xíng yí cì huì yì",
+		"englishGloss": "this room is big enough to hold a meeting"
 	},
 	{
 		"chinese": "这个房间是足够大的",
-		"english": "this room is big enough",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+		"pinyin": "zhe ge fang jian shi zu gou da de",
+		"soundmark": "zhè ge fáng jiān shì zú gòu dà de",
+		"englishGloss": "this room is big enough"
 	},
 	{
 		"chinese": "小的",
-		"english": "small",
-		"soundmark": "/smɔl/"
+		"pinyin": "xiao de",
+		"soundmark": "xiǎo de",
+		"englishGloss": "small"
 	},
 	{
 		"chinese": "这个房间是小的",
-		"english": "this room is small",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /smɔl/"
+		"pinyin": "zhe ge fang jian shi xiao de",
+		"soundmark": "zhè ge fáng jiān shì xiǎo de",
+		"englishGloss": "this room is small"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "这个房间是非常小的",
-		"english": "this room is very small",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"pinyin": "zhe ge fang jian shi fei chang xiao de",
+		"soundmark": "zhè ge fáng jiān shì fēi cháng xiǎo de",
+		"englishGloss": "this room is very small"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为这个房间是非常小的",
-		"english": "because this room is very small",
-		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"pinyin": "yin wei zhe ge fang jian shi fei chang xiao de",
+		"soundmark": "yīn wèi zhè ge fáng jiān shì fēi cháng xiǎo de",
+		"englishGloss": "because this room is very small"
 	},
 	{
 		"chinese": "会议",
-		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"pinyin": "hui yi",
+		"soundmark": "huì yì",
+		"englishGloss": "meeting"
 	},
 	{
 		"chinese": "握；容纳；举行",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； rong na ； ju xing",
+		"soundmark": "wò ； róng nà ； jǔ xíng",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "举行一次会议",
-		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ju xing yi ci hui yi",
+		"soundmark": "jǔ xíng yí cì huì yì",
+		"englishGloss": "to hold a meeting"
 	},
 	{
 		"chinese": "在......里",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"pinyin": "zai . . . . . . li",
+		"soundmark": "zài . . . . . . lǐ",
+		"englishGloss": "in"
 	},
 	{
 		"chinese": "这个房间",
-		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"pinyin": "zhe ge fang jian",
+		"soundmark": "zhè ge fáng jiān",
+		"englishGloss": "this room"
 	},
 	{
 		"chinese": "在这个房间里",
-		"english": "in this room",
-		"soundmark": "/ɪn/ /ðɪs/ /rum/"
+		"pinyin": "zai zhe ge fang jian li",
+		"soundmark": "zài zhè ge fáng jiān lǐ",
+		"englishGloss": "in this room"
 	},
 	{
 		"chinese": "在这个房间里举行一次会议",
-		"english": "to hold a meeting in this room",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"pinyin": "zai zhe ge fang jian li ju xing yi ci hui yi",
+		"soundmark": "zài zhè ge fáng jiān lǐ jǔ xíng yí cì huì yì",
+		"englishGloss": "to hold a meeting in this room"
 	},
 	{
 		"chinese": "不可能的",
-		"english": "impossible",
-		"soundmark": "/ɪm'pɑsəbl/"
+		"pinyin": "bu ke neng de",
+		"soundmark": "bù kě néng de",
+		"englishGloss": "impossible"
 	},
 	{
 		"chinese": "它；这件事情",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta ； zhe jian shi qing",
+		"soundmark": "tā ； zhè jiàn shì qíng",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "它是不可能的",
-		"english": "it is impossible",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"pinyin": "ta shi bu ke neng de",
+		"soundmark": "tā shì bù kě néng de",
+		"englishGloss": "it is impossible"
 	},
 	{
 		"chinese": "在这个房间里举行一次会议是不可能的",
-		"english": "it is impossible to hold a meeting in this room",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"pinyin": "zai zhe ge fang jian li ju xing yi ci hui yi shi bu ke neng de",
+		"soundmark": "zài zhè ge fáng jiān lǐ jǔ xíng yí cì huì yì shì bù kě néng de",
+		"englishGloss": "it is impossible to hold a meeting in this room"
 	},
 	{
 		"chinese": "因为这个房间是非常小的",
-		"english": "because this room is very small",
-		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"pinyin": "yin wei zhe ge fang jian shi fei chang xiao de",
+		"soundmark": "yīn wèi zhè ge fáng jiān shì fēi cháng xiǎo de",
+		"englishGloss": "because this room is very small"
 	},
 	{
 		"chinese": "在这个房间里举行一次会议是不可能的因为这个房间是非常小的",
-		"english": "it is impossible to hold a meeting in this room because this room is very small",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"pinyin": "zai zhe ge fang jian li ju xing yi ci hui yi shi bu ke neng de yin wei zhe ge fang jian shi fei chang xiao de",
+		"soundmark": "zài zhè gè fáng jiān lǐ jǔ xíng yí cì huì yì shì bù kě néng de yīn wèi zhè ge fáng jiān shì fēi cháng xiǎo de",
+		"englishGloss": "it is impossible to hold a meeting in this room because this room is very small"
 	},
 	{
 		"chinese": "握；容纳；举行",
-		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"pinyin": "wo ； rong na ； ju xing",
+		"soundmark": "wò ； róng nà ； jǔ xíng",
+		"englishGloss": "to hold"
 	},
 	{
 		"chinese": "举行一次会议",
-		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ju xing yi ci hui yi",
+		"soundmark": "jǔ xíng yí cì huì yì",
+		"englishGloss": "to hold a meeting"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/ /（过去）决定 decided/ /dɪ'saɪdɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们（过去）决定",
-		"english": "they decided",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/"
+		"pinyin": "ta men （ guo qu ） jue ding",
+		"soundmark": "tā men （ guò qù ） jué dìng",
+		"englishGloss": "they decided"
 	},
 	{
 		"chinese": "他们（过去）决定举行一次会议",
-		"english": "they decided to hold a meeting",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ta men （ guo qu ） jue ding ju xing yi ci hui yi",
+		"soundmark": "tā men （ guò qù ） jué dìng jǔ xíng yí cì huì yì",
+		"englishGloss": "they decided to hold a meeting"
 	},
 	{
 		"chinese": "脸",
-		"english": "face",
-		"soundmark": "/fes/"
+		"pinyin": "lian",
+		"soundmark": "liǎn",
+		"englishGloss": "face"
 	},
 	{
 		"chinese": "面对",
-		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"pinyin": "mian dui",
+		"soundmark": "miàn duì",
+		"englishGloss": "to face"
 	},
 	{
 		"chinese": "面对(ing形式)",
-		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"pinyin": "mian dui ( i n g xing shi )",
+		"soundmark": "miàn duì ( i n g xíng shì )",
+		"englishGloss": "facing"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在面对",
-		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"pinyin": "zheng zai mian dui",
+		"soundmark": "zhèng zài miàn duì",
+		"englishGloss": "be facing"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/ /(they，现在时)be are/ /ɚ/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们(现在)正在面对",
-		"english": "they are facing",
-		"soundmark": "/ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "ta men ( xian zai ) zheng zai mian dui",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài miàn duì",
+		"englishGloss": "they are facing"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "他们(现在)正在面对的那个问题",
-		"english": "the problem they are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "ta men ( xian zai ) zheng zai mian dui de na ge wen ti",
+		"soundmark": "tā men ( xiàn zài ) zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "the problem they are facing"
 	},
 	{
 		"chinese": "解决",
-		"english": "to solve",
-		"soundmark": "/tə/ /sɔlv/"
+		"pinyin": "jie jue",
+		"soundmark": "jiě jué",
+		"englishGloss": "to solve"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "the problem"
 	},
 	{
 		"chinese": "解决那个问题",
-		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/"
+		"pinyin": "jie jue na ge wen ti",
+		"soundmark": "jiě jué nà ge wèn tí",
+		"englishGloss": "to solve the problem"
 	},
 	{
 		"chinese": "解决他们（现在）正在面对的那个问题",
-		"english": "to solve the problem they are facing",
-		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "jie jue ta men （ xian zai ） zheng zai mian dui de na ge wen ti",
+		"soundmark": "jiě jué tā men （ xiàn zài ） zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "to solve the problem they are facing"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "如何解决他们（现在）正在面对的那个问题",
-		"english": "how to solve the problem they are facing",
-		"soundmark": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "ru he jie jue ta men （ xian zai ） zheng zai mian dui de na ge wen ti",
+		"soundmark": "rú hé jiě jué tā men （ xiàn zài ） zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "how to solve the problem they are facing"
 	},
 	{
 		"chinese": "讨论",
-		"english": "to discuss",
-		"soundmark": "/tə/ /dɪ'skʌs/"
+		"pinyin": "tao lun",
+		"soundmark": "tǎo lùn",
+		"englishGloss": "to discuss"
 	},
 	{
 		"chinese": "讨论如何解决他们（现在）正在面对的那个问题",
-		"english": "to discuss how to solve the problem they are facing",
-		"soundmark": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "tao lun ru he jie jue ta men （ xian zai ） zheng zai mian dui de na ge wen ti",
+		"soundmark": "tǎo lùn rú hé jiě jué tā men （ xiàn zài ） zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "to discuss how to solve the problem they are facing"
 	},
 	{
 		"chinese": "举行一次会议",
-		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ju xing yi ci hui yi",
+		"soundmark": "jǔ xíng yí cì huì yì",
+		"englishGloss": "to hold a meeting"
 	},
 	{
 		"chinese": "他们（过去）决定",
-		"english": "they decided",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/"
+		"pinyin": "ta men （ guo qu ） jue ding",
+		"soundmark": "tā men （ guò qù ） jué dìng",
+		"englishGloss": "they decided"
 	},
 	{
 		"chinese": "他们（过去）决定举行一次会议",
-		"english": "they decided to hold a meeting",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"pinyin": "ta men （ guo qu ） jue ding ju xing yi ci hui yi",
+		"soundmark": "tā men （ guò qù ） jué dìng jǔ xíng yí cì huì yì",
+		"englishGloss": "they decided to hold a meeting"
 	},
 	{
 		"chinese": "他们（过去）决定举行一次会议讨论如何解决他们（现在）正在面对的那个问题",
-		"english": "they decided to hold a meeting to discuss how to solve the problem they are facing",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"pinyin": "ta men （ guo qu ） jue ding ju xing yi ci hui yi tao lun ru he jie jue ta men （ xian zai ） zheng zai mian dui de na ge wen ti",
+		"soundmark": "tā men （ guò qù ） jué dìng jǔ xíng yí cì huì yì tǎo lùn rú hé jiě jué tā men （ xiàn zài ） zhèng zài miàn duì de nà ge wèn tí",
+		"englishGloss": "they decided to hold a meeting to discuss how to solve the problem they are facing"
 	}
 ]

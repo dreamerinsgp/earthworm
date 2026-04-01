@@ -23,8 +23,9 @@ export async function fetchCourse(id: Course["id"]) {
         select: {
           id: true,
           chinese: true,
-          english: true,
+          pinyin: true,
           soundmark: true,
+          englishGloss: true,
           order: true,
         },
         orderBy: {

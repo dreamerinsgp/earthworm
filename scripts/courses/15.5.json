@@ -1,907 +1,1088 @@
 [
 	{
 		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "to eat"
 	},
 	{
 		"chinese": "鸡蛋",
-		"english": "eggs",
-		"soundmark": "/ɛgz/"
+		"pinyin": "ji dan",
+		"soundmark": "jī dàn",
+		"englishGloss": "eggs"
 	},
 	{
 		"chinese": "吃鸡蛋",
-		"english": "to eat eggs",
-		"soundmark": "/tə/ /it/ /ɛgz/"
+		"pinyin": "chi ji dan",
+		"soundmark": "chī jī dàn",
+		"englishGloss": "to eat eggs"
 	},
 	{
 		"chinese": "正在吃",
-		"english": "eating",
-		"soundmark": "/'itɪŋ/"
+		"pinyin": "zheng zai chi",
+		"soundmark": "zhèng zài chī",
+		"englishGloss": "eating"
 	},
 	{
 		"chinese": "正在吃鸡蛋",
-		"english": "eating eggs",
-		"soundmark": "/'itɪŋ/ /ɛgz/"
+		"pinyin": "zheng zai chi ji dan",
+		"soundmark": "zhèng zài chī jī dàn",
+		"englishGloss": "eating eggs"
 	},
 	{
 		"chinese": "我是",
-		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"pinyin": "wo shi",
+		"soundmark": "wǒ shì",
+		"englishGloss": "I am"
 	},
 	{
 		"chinese": "我是星荣",
-		"english": "I am Xingrong",
-		"soundmark": "/aɪ/ /æm/"
+		"pinyin": "wo shi xing rong",
+		"soundmark": "wǒ shì xīng róng",
+		"englishGloss": "I am Xingrong"
 	},
 	{
 		"chinese": "正在吃鸡蛋",
-		"english": "eating eggs",
-		"soundmark": "/'itɪŋ/ /ɛgz/"
+		"pinyin": "zheng zai chi ji dan",
+		"soundmark": "zhèng zài chī jī dàn",
+		"englishGloss": "eating eggs"
 	},
 	{
 		"chinese": "我正在吃鸡蛋",
-		"english": "I am eating eggs",
-		"soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/"
+		"pinyin": "wo zheng zai chi ji dan",
+		"soundmark": "wǒ zhèng zài chī jī dàn",
+		"englishGloss": "I am eating eggs"
 	},
 	{
 		"chinese": "厨房",
-		"english": "the kitchen",
-		"soundmark": "/ðə/ /'kɪtʃɪn/"
+		"pinyin": "chu fang",
+		"soundmark": "chú fáng",
+		"englishGloss": "the kitchen"
 	},
 	{
 		"chinese": "在厨房里",
-		"english": "in the kitchen",
-		"soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+		"pinyin": "zai chu fang li",
+		"soundmark": "zài chú fáng lǐ",
+		"englishGloss": "in the kitchen"
 	},
 	{
 		"chinese": "我在厨房里（现在）正在吃鸡蛋",
-		"english": "I am eating eggs in the kitchen",
-		"soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/ /（I，现在时）be am/ /æm/ /（I，过去时）be was/ /wəz/"
+		"pinyin": "wo zai chu fang li （ xian zai ） zheng zai chi ji dan",
+		"soundmark": "wǒ zài chú fáng lǐ （ xiàn zài ） zhèng zài chī jī dàn",
+		"englishGloss": "I am eating eggs in the kitchen"
 	},
 	{
 		"chinese": "我在厨房里（过去）正在吃鸡蛋",
-		"english": "I was eating eggs in the kitchen",
-		"soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/ /（you，现在时）be are/ /ɚ/"
+		"pinyin": "wo zai chu fang li （ guo qu ） zheng zai chi ji dan",
+		"soundmark": "wǒ zài chú fáng lǐ （ guò qù ） zhèng zài chī jī dàn",
+		"englishGloss": "I was eating eggs in the kitchen"
 	},
 	{
 		"chinese": "你在厨房里（现在）正在吃鸡蛋",
-		"english": "you are eating eggs in the kitchen",
-		"soundmark": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/ /（you，过去时）be were/ /wɚ/"
+		"pinyin": "ni zai chu fang li （ xian zai ） zheng zai chi ji dan",
+		"soundmark": "nǐ zài chú fáng lǐ （ xiàn zài ） zhèng zài chī jī dàn",
+		"englishGloss": "you are eating eggs in the kitchen"
 	},
 	{
 		"chinese": "你在厨房里（过去）正在吃鸡蛋",
-		"english": "you were eating eggs in the kitchen",
-		"soundmark": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"pinyin": "ni zai chu fang li （ guo qu ） zheng zai chi ji dan",
+		"soundmark": "nǐ zài chú fáng lǐ （ guò qù ） zhèng zài chī jī dàn",
+		"englishGloss": "you were eating eggs in the kitchen"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/ /（they，现在时）be are/ /ɚ/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们在厨房里（现在）正在吃鸡蛋",
-		"english": "they are eating eggs in the kitchen",
-		"soundmark": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/ /（they，过去时）be were/ /wɚ/"
+		"pinyin": "ta men zai chu fang li （ xian zai ） zheng zai chi ji dan",
+		"soundmark": "tā men zài chú fáng lǐ （ xiàn zài ） zhèng zài chī jī dàn",
+		"englishGloss": "they are eating eggs in the kitchen"
 	},
 	{
 		"chinese": "他们在厨房里（过去）正在吃鸡蛋",
-		"english": "they were eating eggs in the kitchen",
-		"soundmark": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"pinyin": "ta men zai chu fang li （ guo qu ） zheng zai chi ji dan",
+		"soundmark": "tā men zài chú fáng lǐ （ guò qù ） zhèng zài chī jī dàn",
+		"englishGloss": "they were eating eggs in the kitchen"
 	},
 	{
 		"chinese": "喝",
-		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "to drink"
 	},
 	{
 		"chinese": "茶",
-		"english": "tea",
-		"soundmark": "/ti/"
+		"pinyin": "cha",
+		"soundmark": "chá",
+		"englishGloss": "tea"
 	},
 	{
 		"chinese": "喝茶",
-		"english": "to drink tea",
-		"soundmark": "/tə/ /drɪŋk/ /ti/"
+		"pinyin": "he cha",
+		"soundmark": "hē chá",
+		"englishGloss": "to drink tea"
 	},
 	{
 		"chinese": "正在喝",
-		"english": "drinking",
-		"soundmark": "/'drɪŋkɪŋ/"
+		"pinyin": "zheng zai he",
+		"soundmark": "zhèng zài hē",
+		"englishGloss": "drinking"
 	},
 	{
 		"chinese": "正在喝茶",
-		"english": "drinking tea",
-		"soundmark": "/'drɪŋkɪŋ/ /ti/"
+		"pinyin": "zheng zai he cha",
+		"soundmark": "zhèng zài hē chá",
+		"englishGloss": "drinking tea"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/ /（they，现在时）be are/ /ɚ/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们（现在）正在喝茶",
-		"english": "they are drinking tea",
-		"soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/"
+		"pinyin": "ta men （ xian zai ） zheng zai he cha",
+		"soundmark": "tā men （ xiàn zài ） zhèng zài hē chá",
+		"englishGloss": "they are drinking tea"
 	},
 	{
 		"chinese": "花园",
-		"english": "the garden",
-		"soundmark": "/ðə/ /ˈɡɑrdn/"
+		"pinyin": "hua yuan",
+		"soundmark": "huā yuán",
+		"englishGloss": "the garden"
 	},
 	{
 		"chinese": "在花园里",
-		"english": "in the garden",
-		"soundmark": "/ɪn/ /ðə/ /ˈɡɑrdn/"
+		"pinyin": "zai hua yuan li",
+		"soundmark": "zài huā yuán lǐ",
+		"englishGloss": "in the garden"
 	},
 	{
 		"chinese": "他们在花园里（现在）正在喝",
-		"english": "they are drinking tea in the garden",
-		"soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+		"pinyin": "ta men zai hua yuan li （ xian zai ） zheng zai he",
+		"soundmark": "tā men zài huā yuán lǐ （ xiàn zài ） zhèng zài hē",
+		"englishGloss": "they are drinking tea in the garden"
 	},
 	{
 		"chinese": "茶",
-		"english": "tea",
-		"soundmark": "/tiː/"
+		"pinyin": "cha",
+		"soundmark": "chá",
+		"englishGloss": "tea"
 	},
 	{
 		"chinese": "他们在花园里（过去）正在喝茶",
-		"english": "they were drinking tea in the garden",
-		"soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+		"pinyin": "ta men zai hua yuan li （ guo qu ） zheng zai he cha",
+		"soundmark": "tā men zài huā yuán lǐ （ guò qù ） zhèng zài hē chá",
+		"englishGloss": "they were drinking tea in the garden"
 	},
 	{
 		"chinese": "我在厨房里（过去）正在吃鸡蛋",
-		"english": "I was eating eggs in the kitchen",
-		"soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"pinyin": "wo zai chu fang li （ guo qu ） zheng zai chi ji dan",
+		"soundmark": "wǒ zài chú fáng lǐ （ guò qù ） zhèng zài chī jī dàn",
+		"englishGloss": "I was eating eggs in the kitchen"
 	},
 	{
 		"chinese": "与此同时",
-		"english": "while",
-		"soundmark": "/waɪl/"
+		"pinyin": "yu ci tong shi",
+		"soundmark": "yǔ cǐ tóng shí",
+		"englishGloss": "while"
 	},
 	{
 		"chinese": "他们在花园里（过去）正在喝茶与此同时我在厨房里（过去）正在吃鸡蛋",
-		"english": "they were drinking tea in the garden while I was eating eggs in the kitchen",
-		"soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"pinyin": "ta men zai hua yuan li （ guo qu ） zheng zai he cha yu ci tong shi wo zai chu fang li （ guo qu ） zheng zai chi ji dan",
+		"soundmark": "tā men zài huā yuán lǐ （ guò qù ） zhèng zài hē chá yǔ cǐ tóng shí wǒ zài chú fáng lǐ （ guò qù ） zhèng zài chī jī dàn",
+		"englishGloss": "they were drinking tea in the garden while I was eating eggs in the kitchen"
 	},
 	{
 		"chinese": "教",
-		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "to teach"
 	},
 	{
 		"chinese": "我们",
-		"english": "us",
-		"soundmark": "/ʌs/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "us"
 	},
 	{
 		"chinese": "教我们",
-		"english": "to teach us",
-		"soundmark": "/tə/ /titʃ/ /ʌs/"
+		"pinyin": "jiao wo men",
+		"soundmark": "jiào wǒ men",
+		"englishGloss": "to teach us"
 	},
 	{
 		"chinese": "正在教",
-		"english": "teaching",
-		"soundmark": "/'titʃɪŋ/"
+		"pinyin": "zheng zai jiao",
+		"soundmark": "zhèng zài jiào",
+		"englishGloss": "teaching"
 	},
 	{
 		"chinese": "正在教我们",
-		"english": "teaching us",
-		"soundmark": "/'titʃɪŋ/ /ʌs/"
+		"pinyin": "zheng zai jiao wo men",
+		"soundmark": "zhèng zài jiào wǒ men",
+		"englishGloss": "teaching us"
 	},
 	{
 		"chinese": "说",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"pinyin": "shuo",
+		"soundmark": "shuō",
+		"englishGloss": "to speak"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "说英语",
-		"english": "to speak English",
-		"soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "shuo ying yu",
+		"soundmark": "shuō yīng yǔ",
+		"englishGloss": "to speak English"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "如何说英语",
-		"english": "how to speak English",
-		"soundmark": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "ru he shuo ying yu",
+		"soundmark": "rú hé shuō yīng yǔ",
+		"englishGloss": "how to speak English"
 	},
 	{
 		"chinese": "正在教我们如何说英语",
-		"english": "teaching us how to speak English",
-		"soundmark": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /（he，现在时）be is/ /ɪz/"
+		"pinyin": "zheng zai jiao wo men ru he shuo ying yu",
+		"soundmark": "zhèng zài jiào wǒ men rú hé shuō yīng yǔ",
+		"englishGloss": "teaching us how to speak English"
 	},
 	{
 		"chinese": "星荣正在教我们如何说英语",
-		"english": "Xingrong is teaching us how to speak English",
-		"soundmark": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /（he，过去时）be was/ /wəz/"
+		"pinyin": "xing rong zheng zai jiao wo men ru he shuo ying yu",
+		"soundmark": "xīng róng zhèng zài jiào wǒ men rú hé shuō yīng yǔ",
+		"englishGloss": "Xingrong is teaching us how to speak English"
 	},
 	{
 		"chinese": "星荣（过去）正在教我们如何说英语",
-		"english": "Xingrong was teaching us how to speak English",
-		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "xing rong （ guo qu ） zheng zai jiao wo men ru he shuo ying yu",
+		"soundmark": "xīng róng （ guò qù ） zhèng zài jiào wǒ men rú hé shuō yīng yǔ",
+		"englishGloss": "Xingrong was teaching us how to speak English"
 	},
 	{
 		"chinese": "学习",
-		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "to learn"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "学习英语",
-		"english": "to learn English",
-		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "xue xi ying yu",
+		"soundmark": "xué xí yīng yǔ",
+		"englishGloss": "to learn English"
 	},
 	{
 		"chinese": "正在学习",
-		"english": "learning",
-		"soundmark": "/'lɝnɪŋ/"
+		"pinyin": "zheng zai xue xi",
+		"soundmark": "zhèng zài xué xí",
+		"englishGloss": "learning"
 	},
 	{
 		"chinese": "正在学习英语",
-		"english": "learning English",
-		"soundmark": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /（I，现在时）be am/ /æm/"
+		"pinyin": "zheng zai xue xi ying yu",
+		"soundmark": "zhèng zài xué xí yīng yǔ",
+		"englishGloss": "learning English"
 	},
 	{
 		"chinese": "我正在学习英语",
-		"english": "I am learning English",
-		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "wo zheng zai xue xi ying yu",
+		"soundmark": "wǒ zhèng zài xué xí yīng yǔ",
+		"englishGloss": "I am learning English"
 	},
 	{
 		"chinese": "视频",
-		"english": "videos",
-		"soundmark": "/'vɪdɪoz/"
+		"pinyin": "shi pin",
+		"soundmark": "shì pín",
+		"englishGloss": "videos"
 	},
 	{
 		"chinese": "他的",
-		"english": "his",
-		"soundmark": "/hɪz/"
+		"pinyin": "ta de",
+		"soundmark": "tā de",
+		"englishGloss": "his"
 	},
 	{
 		"chinese": "他的视频",
-		"english": "his videos",
-		"soundmark": "/hɪz/ /'vɪdɪoz/"
+		"pinyin": "ta de shi pin",
+		"soundmark": "tā de shì pín",
+		"englishGloss": "his videos"
 	},
 	{
 		"chinese": "观看",
-		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"pinyin": "guan kan",
+		"soundmark": "guān kàn",
+		"englishGloss": "to watch"
 	},
 	{
 		"chinese": "观看他的视频",
-		"english": "to watch his videos",
-		"soundmark": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/"
+		"pinyin": "guan kan ta de shi pin",
+		"soundmark": "guān kàn tā de shì pín",
+		"englishGloss": "to watch his videos"
 	},
 	{
 		"chinese": "正在观看",
-		"english": "watching",
-		"soundmark": "/'wɑtʃɪŋ/"
+		"pinyin": "zheng zai guan kan",
+		"soundmark": "zhèng zài guān kàn",
+		"englishGloss": "watching"
 	},
 	{
 		"chinese": "正在观看他的视频",
-		"english": "watching his videos",
-		"soundmark": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"pinyin": "zheng zai guan kan ta de shi pin",
+		"soundmark": "zhèng zài guān kàn tā de shì pín",
+		"englishGloss": "watching his videos"
 	},
 	{
 		"chinese": "通过......的方式",
-		"english": "by",
-		"soundmark": "/baɪ/"
+		"pinyin": "tong guo . . . . . . de fang shi",
+		"soundmark": "tōng guò . . . . . . de fāng shì",
+		"englishGloss": "by"
 	},
 	{
 		"chinese": "通过观看他的视频的方式",
-		"english": "by watching his videos",
-		"soundmark": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"pinyin": "tong guo guan kan ta de shi pin de fang shi",
+		"soundmark": "tōng guò guān kàn tā de shì pín de fāng shì",
+		"englishGloss": "by watching his videos"
 	},
 	{
 		"chinese": "我正在学习英语",
-		"english": "I am learning English",
-		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "wo zheng zai xue xi ying yu",
+		"soundmark": "wǒ zhèng zài xué xí yīng yǔ",
+		"englishGloss": "I am learning English"
 	},
 	{
 		"chinese": "我正在通过观看他的视频的方式学习英语",
-		"english": "I am learning English by watching his videos",
-		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/ /（I，过去时）be was/ /wəz/"
+		"pinyin": "wo zheng zai tong guo guan kan ta de shi pin de fang shi xue xi ying yu",
+		"soundmark": "wǒ zhèng zài tōng guò guān kàn tā de shì pín de fāng shì xué xí yīng yǔ",
+		"englishGloss": "I am learning English by watching his videos"
 	},
 	{
 		"chinese": "我（过去）正在通过观看他的视频的方式学习英语",
-		"english": "I was learning English by watching his videos",
-		"soundmark": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"pinyin": "wo （ guo qu ） zheng zai tong guo guan kan ta de shi pin de fang shi xue xi ying yu",
+		"soundmark": "wǒ （ guò qù ） zhèng zài tōng guò guān kàn tā de shì pín de fāng shì xué xí yīng yǔ",
+		"englishGloss": "I was learning English by watching his videos"
 	},
 	{
 		"chinese": "星荣（过去）正在教我们如何说英语",
-		"english": "Xingrong was teaching us how to speak English",
-		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "xing rong （ guo qu ） zheng zai jiao wo men ru he shuo ying yu",
+		"soundmark": "xīng róng （ guò qù ） zhèng zài jiào wǒ men rú hé shuō yīng yǔ",
+		"englishGloss": "Xingrong was teaching us how to speak English"
 	},
 	{
 		"chinese": "与此同时",
-		"english": "while",
-		"soundmark": "/waɪl/"
+		"pinyin": "yu ci tong shi",
+		"soundmark": "yǔ cǐ tóng shí",
+		"englishGloss": "while"
 	},
 	{
 		"chinese": "星荣（过去）正在教我们如何说英语与此同时我（过去）正在通过观看他的视频的方式学习英语",
-		"english": "Xingrong was teaching us how to speak English while I was learning English by watching his videos",
-		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"pinyin": "xing rong （ guo qu ） zheng zai jiao wo men ru he shuo ying yu yu ci tong shi wo （ guo qu ） zheng zai tong guo guan kan ta de shi pin de fang shi xue xi ying yu",
+		"soundmark": "xīng róng （ guò qù ） zhèng zài jiào wǒ men rú hé shuō yīng yǔ yǔ cǐ tóng shí wǒ （ guò qù ） zhèng zài tōng guò guān kàn tā de shì pín de fāng shì xué xí yīng yǔ",
+		"englishGloss": "Xingrong was teaching us how to speak English while I was learning English by watching his videos"
 	},
 	{
 		"chinese": "走路",
-		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"pinyin": "zou lu",
+		"soundmark": "zǒu lù",
+		"englishGloss": "to walk"
 	},
 	{
 		"chinese": "家",
-		"english": "home",
-		"soundmark": "/hom/"
+		"pinyin": "jia",
+		"soundmark": "jiā",
+		"englishGloss": "home"
 	},
 	{
 		"chinese": "走路回家",
-		"english": "to walk home",
-		"soundmark": "/tə/ /wɔk/ /hom/"
+		"pinyin": "zou lu hui jia",
+		"soundmark": "zǒu lù huí jiā",
+		"englishGloss": "to walk home"
 	},
 	{
 		"chinese": "学校",
-		"english": "school",
-		"soundmark": "/skul/"
+		"pinyin": "xue xiao",
+		"soundmark": "xué xiào",
+		"englishGloss": "school"
 	},
 	{
 		"chinese": "从",
-		"english": "from",
-		"soundmark": "/frʌm/"
+		"pinyin": "cong",
+		"soundmark": "cóng",
+		"englishGloss": "from"
 	},
 	{
 		"chinese": "从学校",
-		"english": "from school",
-		"soundmark": "/frʌm/ /skul/"
+		"pinyin": "cong xue xiao",
+		"soundmark": "cóng xué xiào",
+		"englishGloss": "from school"
 	},
 	{
 		"chinese": "从学校走路回家",
-		"english": "to walk home from school",
-		"soundmark": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/"
+		"pinyin": "cong xue xiao zou lu hui jia",
+		"soundmark": "cóng xué xiào zǒu lù huí jiā",
+		"englishGloss": "to walk home from school"
 	},
 	{
 		"chinese": "正在从学校走路回家",
-		"english": "walking home from school",
-		"soundmark": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/ /（I，现在时）be am/ /æm/"
+		"pinyin": "zheng zai cong xue xiao zou lu hui jia",
+		"soundmark": "zhèng zài cóng xué xiào zǒu lù huí jiā",
+		"englishGloss": "walking home from school"
 	},
 	{
 		"chinese": "我正在从学校走路回家",
-		"english": "I am walking home from school",
-		"soundmark": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/ /（I，过去时）be was/ /wəz/"
+		"pinyin": "wo zheng zai cong xue xiao zou lu hui jia",
+		"soundmark": "wǒ zhèng zài cóng xué xiào zǒu lù huí jiā",
+		"englishGloss": "I am walking home from school"
 	},
 	{
 		"chinese": "我（过去）正在从学校走路回家",
-		"english": "I was walking home from school",
-		"soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"pinyin": "wo （ guo qu ） zheng zai cong xue xiao zou lu hui jia",
+		"soundmark": "wǒ （ guò qù ） zhèng zài cóng xué xiào zǒu lù huí jiā",
+		"englishGloss": "I was walking home from school"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "老的",
-		"english": "old",
-		"soundmark": "/old/"
+		"pinyin": "lao de",
+		"soundmark": "lǎo de",
+		"englishGloss": "old"
 	},
 	{
 		"chinese": "一个老朋友",
-		"english": "an old friend",
-		"soundmark": "/ən/ /old/ /frɛnd/"
+		"pinyin": "yi ge lao peng you",
+		"soundmark": "yí gè lǎo péng yǒu",
+		"englishGloss": "an old friend"
 	},
 	{
 		"chinese": "遇见",
-		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"pinyin": "yu jian",
+		"soundmark": "yù jiàn",
+		"englishGloss": "to meet"
 	},
 	{
 		"chinese": "遇见一个老朋友",
-		"english": "to meet an old friend",
-		"soundmark": "/tə/ /mit/ /ən/ /old/ /frɛnd/ /（过去）遇见 met/ /mɛt/ /（过去）遇见一个老朋友 met an old friend/ /mɛt/ /ən/ /old/ /frɛnd/"
+		"pinyin": "yu jian yi ge lao peng you",
+		"soundmark": "yù jiàn yí gè lǎo péng yǒu",
+		"englishGloss": "to meet an old friend"
 	},
 	{
 		"chinese": "我（过去）遇见一个老朋友",
-		"english": "I met an old friend",
-		"soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/"
+		"pinyin": "wo （ guo qu ） yu jian yi ge lao peng you",
+		"soundmark": "wǒ （ guò qù ） yù jiàn yí gè lǎo péng yǒu",
+		"englishGloss": "I met an old friend"
 	},
 	{
 		"chinese": "我（过去）正在从学校走路回家",
-		"english": "I was walking home from school",
-		"soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"pinyin": "wo （ guo qu ） zheng zai cong xue xiao zou lu hui jia",
+		"soundmark": "wǒ （ guò qù ） zhèng zài cóng xué xiào zǒu lù huí jiā",
+		"englishGloss": "I was walking home from school"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我（过去）正在从学校走路回家的时候",
-		"english": "when I was walking home from school",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"pinyin": "dang wo （ guo qu ） zheng zai cong xue xiao zou lu hui jia de shi hou",
+		"soundmark": "dāng wǒ （ guò qù ） zhèng zài cóng xué xiào zǒu lù huí jiā de shí hòu",
+		"englishGloss": "when I was walking home from school"
 	},
 	{
 		"chinese": "当我（过去）正在从学校走路回家的时候我（过去）遇见一个老朋友",
-		"english": "I met an old friend when I was walking home from school",
-		"soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"pinyin": "dang wo （ guo qu ） zheng zai cong xue xiao zou lu hui jia de shi hou wo （ guo qu ） yu jian yi ge lao peng you",
+		"soundmark": "dāng wǒ （ guò qù ） zhèng zài cóng xué xiào zǒu lù huí jiā de shí hòu wǒ （ guò qù ） yù jiàn yí gè lǎo péng yǒu",
+		"englishGloss": "I met an old friend when I was walking home from school"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "to sleep"
 	},
 	{
 		"chinese": "卧室",
-		"english": "the bedroom",
-		"soundmark": "/ðə/ /'bɛdrum/"
+		"pinyin": "wo shi",
+		"soundmark": "wò shì",
+		"englishGloss": "the bedroom"
 	},
 	{
 		"chinese": "在卧室里",
-		"english": "in the bedroom",
-		"soundmark": "/ɪn/ /ðə/ /'bɛdrum/"
+		"pinyin": "zai wo shi li",
+		"soundmark": "zài wò shì lǐ",
+		"englishGloss": "in the bedroom"
 	},
 	{
 		"chinese": "在卧室里睡觉",
-		"english": "to sleep in the bed room",
-		"soundmark": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/"
+		"pinyin": "zai wo shi li shui jiao",
+		"soundmark": "zài wò shì lǐ shuì jiào",
+		"englishGloss": "to sleep in the bed room"
 	},
 	{
 		"chinese": "正在睡觉",
-		"english": "sleeping",
-		"soundmark": "/ˈslipɪŋ/"
+		"pinyin": "zheng zai shui jiao",
+		"soundmark": "zhèng zài shuì jiào",
+		"englishGloss": "sleeping"
 	},
 	{
 		"chinese": "正在在卧室里睡觉",
-		"english": "sleeping in the bedroom",
-		"soundmark": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /（I，现在时）be am/ /æm/"
+		"pinyin": "zheng zai zai wo shi li shui jiao",
+		"soundmark": "zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "sleeping in the bedroom"
 	},
 	{
 		"chinese": "我正在在卧室里睡觉",
-		"english": "I am sleeping in the bedroom",
-		"soundmark": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /（I，过去时）be was/ /wəz/"
+		"pinyin": "wo zheng zai zai wo shi li shui jiao",
+		"soundmark": "wǒ zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "I am sleeping in the bedroom"
 	},
 	{
 		"chinese": "我（过去）正在在卧室里睡觉",
-		"english": "I was sleeping in the bedroom",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"pinyin": "wo （ guo qu ） zheng zai zai wo shi li shui jiao",
+		"soundmark": "wǒ （ guò qù ） zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "I was sleeping in the bedroom"
 	},
 	{
 		"chinese": "打电话",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "打电话给我",
-		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/ /（过去）打电话 called/ /kɔld/ /（过去）打电话给我 called me/ /kɔld/ /mi/"
+		"pinyin": "da dian hua gei wo",
+		"soundmark": "dǎ diàn huà gěi wǒ",
+		"englishGloss": "to call me"
 	},
 	{
 		"chinese": "她",
-		"english": "she",
-		"soundmark": "/ʃi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "she"
 	},
 	{
 		"chinese": "她（过去）打电话给我",
-		"english": "she called me",
-		"soundmark": "/ʃi/ /kɔld/ /mi/"
+		"pinyin": "ta （ guo qu ） da dian hua gei wo",
+		"soundmark": "tā （ guò qù ） dǎ diàn huà gěi wǒ",
+		"englishGloss": "she called me"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当她（过去）打电话给我的时候",
-		"english": "when she called me",
-		"soundmark": "/wɛn/ /ʃi/ /kɔld/ /mi/"
+		"pinyin": "dang ta （ guo qu ） da dian hua gei wo de shi hou",
+		"soundmark": "dāng tā （ guò qù ） dǎ diàn huà gěi wǒ de shí hòu",
+		"englishGloss": "when she called me"
 	},
 	{
 		"chinese": "我（过去）正在在卧室里睡觉",
-		"english": "I was sleeping in the bedroom",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"pinyin": "wo （ guo qu ） zheng zai zai wo shi li shui jiao",
+		"soundmark": "wǒ （ guò qù ） zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "I was sleeping in the bedroom"
 	},
 	{
 		"chinese": "当她打电话给我的时候我（过去）正在在卧室里睡觉",
-		"english": "I was sleeping in the bedroom when she called me",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/"
+		"pinyin": "dang ta da dian hua gei wo de shi hou wo （ guo qu ） zheng zai zai wo shi li shui jiao",
+		"soundmark": "dāng tā dǎ diàn huà gěi wǒ de shí hòu wǒ （ guò qù ） zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "I was sleeping in the bedroom when she called me"
 	},
 	{
 		"chinese": "玩",
-		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"pinyin": "wan",
+		"soundmark": "wán",
+		"englishGloss": "to play"
 	},
 	{
 		"chinese": "钢琴",
-		"english": "the piano",
-		"soundmark": "/ðə/ /pɪ'æno/"
+		"pinyin": "gang qin",
+		"soundmark": "gāng qín",
+		"englishGloss": "the piano"
 	},
 	{
 		"chinese": "弹钢琴",
-		"english": "to play the piano",
-		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+		"pinyin": "tan gang qin",
+		"soundmark": "tán gāng qín",
+		"englishGloss": "to play the piano"
 	},
 	{
 		"chinese": "正在玩",
-		"english": "playing",
-		"soundmark": "/pleɪŋ/"
+		"pinyin": "zheng zai wan",
+		"soundmark": "zhèng zài wán",
+		"englishGloss": "playing"
 	},
 	{
 		"chinese": "正在弹钢琴",
-		"english": "playing the piano",
-		"soundmark": "/pleɪŋ/ /ðə/ /pɪ'æno/ /（她，现在时）be is/ /ɪz/"
+		"pinyin": "zheng zai tan gang qin",
+		"soundmark": "zhèng zài tán gāng qín",
+		"englishGloss": "playing the piano"
 	},
 	{
 		"chinese": "她正在弹钢琴",
-		"english": "she is playing the piano",
-		"soundmark": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /（她，过去时）be was/ /wəz/"
+		"pinyin": "ta zheng zai tan gang qin",
+		"soundmark": "tā zhèng zài tán gāng qín",
+		"englishGloss": "she is playing the piano"
 	},
 	{
 		"chinese": "她（过去）正在弹钢琴",
-		"english": "she was playing the piano",
-		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+		"pinyin": "ta （ guo qu ） zheng zai tan gang qin",
+		"soundmark": "tā （ guò qù ） zhèng zài tán gāng qín",
+		"englishGloss": "she was playing the piano"
 	},
 	{
 		"chinese": "起居室；客厅",
-		"english": "the living room",
-		"soundmark": "/ðə/ /'lɪvɪŋ/ /rum/"
+		"pinyin": "qi ju shi ； ke ting",
+		"soundmark": "qǐ jū shì ； kè tīng",
+		"englishGloss": "the living room"
 	},
 	{
 		"chinese": "在客厅",
-		"english": "in the living room",
-		"soundmark": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+		"pinyin": "zai ke ting",
+		"soundmark": "zài kè tīng",
+		"englishGloss": "in the living room"
 	},
 	{
 		"chinese": "她（过去）正在在客厅弹钢琴",
-		"english": "she was playing the piano in the living room",
-		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+		"pinyin": "ta （ guo qu ） zheng zai zai ke ting tan gang qin",
+		"soundmark": "tā （ guò qù ） zhèng zài zài kè tīng tán gāng qín",
+		"englishGloss": "she was playing the piano in the living room"
 	},
 	{
 		"chinese": "与此同时",
-		"english": "while",
-		"soundmark": "/waɪl/"
+		"pinyin": "yu ci tong shi",
+		"soundmark": "yǔ cǐ tóng shí",
+		"englishGloss": "while"
 	},
 	{
 		"chinese": "我（过去）正在在卧室里睡觉",
-		"english": "I was sleeping in the bedroom",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"pinyin": "wo （ guo qu ） zheng zai zai wo shi li shui jiao",
+		"soundmark": "wǒ （ guò qù ） zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "I was sleeping in the bedroom"
 	},
 	{
 		"chinese": "她（过去）正在在客厅弹钢琴与此同时我（过去）正在在卧室里睡觉",
-		"english": "she was playing the piano in the living room while I was sleeping in the bedroom",
-		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"pinyin": "ta （ guo qu ） zheng zai zai ke ting tan gang qin yu ci tong shi wo （ guo qu ） zheng zai zai wo shi li shui jiao",
+		"soundmark": "tā （ guò qù ） zhèng zài zài kè tīng tán gāng qín yǔ cǐ tóng shí wǒ （ guò qù ） zhèng zài zài wò shì lǐ shuì jiào",
+		"englishGloss": "she was playing the piano in the living room while I was sleeping in the bedroom"
 	},
 	{
 		"chinese": "中文 原形 第三人称单数 过去式想要",
-		"english": "want wants",
-		"soundmark": "/wanted/"
+		"pinyin": "zhong wen   yuan xing   di san ren cheng dan shu   guo qu shi xiang yao",
+		"soundmark": "zhōng wén   yuán xíng   dì sān rén chēng dān shù   guò qù shì xiǎng yào",
+		"englishGloss": "want wants"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like likes",
-		"soundmark": "/liked/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like likes"
 	},
 	{
 		"chinese": "有；(+to)不得不",
-		"english": "have has",
-		"soundmark": "/had/"
+		"pinyin": "you ； ( + t o ) bu de bu",
+		"soundmark": "yǒu ； ( + t o ) bù dé bù",
+		"englishGloss": "have has"
 	},
 	{
 		"chinese": "计划",
-		"english": "plan plans",
-		"soundmark": "/planned/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "plan plans"
 	},
 	{
 		"chinese": "需要",
-		"english": "need needs",
-		"soundmark": "/needed/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need needs"
 	},
 	{
 		"chinese": "做",
-		"english": "do does",
-		"soundmark": "/did/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "do does"
 	},
 	{
 		"chinese": "告诉",
-		"english": "tell tells",
-		"soundmark": "/told/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "tell tells"
 	},
 	{
 		"chinese": "说话",
-		"english": "talk talks",
-		"soundmark": "/talked/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "talk talks"
 	},
 	{
 		"chinese": "是 be（am）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ a m ）",
+		"soundmark": "shì   b e （ a m ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（is ）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ i s   ）",
+		"soundmark": "shì   b e （ i s   ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（are）",
-		"english": "is",
-		"soundmark": "/were/"
+		"pinyin": "shi   b e （ a r e ）",
+		"soundmark": "shì   b e （ a r e ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "看到",
-		"english": "see sees",
-		"soundmark": "/saw/"
+		"pinyin": "kan dao",
+		"soundmark": "kàn dào",
+		"englishGloss": "see sees"
 	},
 	{
 		"chinese": "吃",
-		"english": "eat eats",
-		"soundmark": "/ate/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "eat eats"
 	},
 	{
 		"chinese": "喝",
-		"english": "drink drinks",
-		"soundmark": "/drank/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "drink drinks"
 	},
 	{
 		"chinese": "知道",
-		"english": "know knows",
-		"soundmark": "/knew/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "know knows"
 	},
 	{
 		"chinese": "忘记",
-		"english": "forget forgets",
-		"soundmark": "/forgot/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "forget forgets"
 	},
 	{
 		"chinese": "失去",
-		"english": "lose loses",
-		"soundmark": "/lost/"
+		"pinyin": "shi qu",
+		"soundmark": "shī qù",
+		"englishGloss": "lose loses"
 	},
 	{
 		"chinese": "离开",
-		"english": "leave leaves",
-		"soundmark": "/left/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "leave leaves"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "sleep sleeps",
-		"soundmark": "/slept/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "sleep sleeps"
 	},
 	{
 		"chinese": "明白",
-		"english": "understand understands",
-		"soundmark": "/understood/"
+		"pinyin": "ming bai",
+		"soundmark": "míng bái",
+		"englishGloss": "understand understands"
 	},
 	{
 		"chinese": "买",
-		"english": "buy buys",
-		"soundmark": "/bought/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "buy buys"
 	},
 	{
 		"chinese": "洗",
-		"english": "wash washes",
-		"soundmark": "/washed/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "wash washes"
 	},
 	{
 		"chinese": "打电话",
-		"english": "call calls",
-		"soundmark": "/called/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "call calls"
 	},
 	{
 		"chinese": "帮助",
-		"english": "help helps",
-		"soundmark": "/helped/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "help helps"
 	},
 	{
 		"chinese": "相信",
-		"english": "believe believes",
-		"soundmark": "/believed/"
+		"pinyin": "xiang xin",
+		"soundmark": "xiāng xìn",
+		"englishGloss": "believe believes"
 	},
 	{
 		"chinese": "学习",
-		"english": "study studies",
-		"soundmark": "/studied/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "study studies"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain explains",
-		"soundmark": "/explained/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain explains"
 	},
 	{
 		"chinese": "问",
-		"english": "ask asks",
-		"soundmark": "/asked/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "ask asks"
 	},
 	{
 		"chinese": "飞",
-		"english": "fly flies",
-		"soundmark": "/flew/"
+		"pinyin": "fei",
+		"soundmark": "fēi",
+		"englishGloss": "fly flies"
 	},
 	{
 		"chinese": "阅读",
-		"english": "read reads",
-		"soundmark": "/read/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "read reads"
 	},
 	{
 		"chinese": "走路",
-		"english": "walk walks",
-		"soundmark": "/walked/"
+		"pinyin": "zou lu",
+		"soundmark": "zǒu lù",
+		"englishGloss": "walk walks"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "dance dances",
-		"soundmark": "/danced/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "dance dances"
 	},
 	{
 		"chinese": "回答",
-		"english": "answer answers",
-		"soundmark": "/answered/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "answer answers"
 	},
 	{
 		"chinese": "工作",
-		"english": "work works",
-		"soundmark": "/worked/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work works"
 	},
 	{
 		"chinese": "待在",
-		"english": "stay stays",
-		"soundmark": "/stayed/"
+		"pinyin": "dai zai",
+		"soundmark": "dài zài",
+		"englishGloss": "stay stays"
 	},
 	{
 		"chinese": "支付",
-		"english": "pay pays",
-		"soundmark": "/paid/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "pay pays"
 	},
 	{
 		"chinese": "旅行",
-		"english": "travel travels",
-		"soundmark": "/traveled/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "travel travels"
 	},
 	{
 		"chinese": "给",
-		"english": "give gives",
-		"soundmark": "/gave/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "give gives"
 	},
 	{
 		"chinese": "达到",
-		"english": "get gets",
-		"soundmark": "/got/"
+		"pinyin": "da dao",
+		"soundmark": "dá dào",
+		"englishGloss": "get gets"
 	},
 	{
 		"chinese": "锁",
-		"english": "lock locks",
-		"soundmark": "/locked/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "lock locks"
 	},
 	{
 		"chinese": "记得",
-		"english": "remember remembers",
-		"soundmark": "/remembered/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "remember remembers"
 	},
 	{
 		"chinese": "清理",
-		"english": "clean cleans",
-		"soundmark": "/cleaned/"
+		"pinyin": "qing li",
+		"soundmark": "qīng lǐ",
+		"englishGloss": "clean cleans"
 	},
 	{
 		"chinese": "找到",
-		"english": "find finds",
-		"soundmark": "/found/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "find finds"
 	},
 	{
 		"chinese": "关闭",
-		"english": "close closes",
-		"soundmark": "/closed/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "close closes"
 	},
 	{
 		"chinese": "教",
-		"english": "teach teaches",
-		"soundmark": "/taught/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "teach teaches"
 	},
 	{
 		"chinese": "展示",
-		"english": "show shows",
-		"soundmark": "/showed/"
+		"pinyin": "zhan shi",
+		"soundmark": "zhǎn shì",
+		"englishGloss": "show shows"
 	},
 	{
 		"chinese": "让",
-		"english": "let lets",
-		"soundmark": "/let/"
+		"pinyin": "rang",
+		"soundmark": "ràng",
+		"englishGloss": "let lets"
 	},
 	{
 		"chinese": "休息",
-		"english": "rest rests",
-		"soundmark": "/rested/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "rest rests"
 	},
 	{
 		"chinese": "用",
-		"english": "use uses",
-		"soundmark": "/used/"
+		"pinyin": "yong",
+		"soundmark": "yòng",
+		"englishGloss": "use uses"
 	},
 	{
 		"chinese": "做饭",
-		"english": "cook cooks",
-		"soundmark": "/cooked/"
+		"pinyin": "zuo fan",
+		"soundmark": "zuò fàn",
+		"englishGloss": "cook cooks"
 	},
 	{
 		"chinese": "去",
-		"english": "go goes",
-		"soundmark": "/went/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "go goes"
 	},
 	{
 		"chinese": "决定",
-		"english": "decide decides",
-		"soundmark": "/decided/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "decide decides"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "drive drives",
-		"soundmark": "/drove/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "drive drives"
 	},
 	{
 		"chinese": "改变",
-		"english": "change changes",
-		"soundmark": "/changed/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "change changes"
 	},
 	{
 		"chinese": "尝试",
-		"english": "try tries",
-		"soundmark": "/tried/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "try tries"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop stops",
-		"soundmark": "/Stopped/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop stops"
 	},
 	{
 		"chinese": "参加",
-		"english": "join joins",
-		"soundmark": "/joined/"
+		"pinyin": "can jia",
+		"soundmark": "cān jiā",
+		"englishGloss": "join joins"
 	},
 	{
 		"chinese": "邀请",
-		"english": "invite invites",
-		"soundmark": "/invited/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "invite invites"
 	},
 	{
 		"chinese": "拒绝",
-		"english": "refuse refuses",
-		"soundmark": "/refused/"
+		"pinyin": "ju jue",
+		"soundmark": "jù jué",
+		"englishGloss": "refuse refuses"
 	},
 	{
 		"chinese": "接受",
-		"english": "accept accepts",
-		"soundmark": "/accepted/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "accept accepts"
 	},
 	{
 		"chinese": "学习",
-		"english": "learn learns",
-		"soundmark": "/learnt/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "learn learns"
 	},
 	{
 		"chinese": "完成",
-		"english": "finish finishes",
-		"soundmark": "/finished/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "finish finishes"
 	},
 	{
 		"chinese": "看",
-		"english": "watch watches",
-		"soundmark": "/watched/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "watch watches"
 	},
 	{
 		"chinese": "游泳",
-		"english": "swim swims",
-		"soundmark": "/swam/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "swim swims"
 	},
 	{
 		"chinese": "掌握",
-		"english": "master masters",
-		"soundmark": "/mastered/"
+		"pinyin": "zhang wo",
+		"soundmark": "zhǎng wò",
+		"englishGloss": "master masters"
 	}
 ]

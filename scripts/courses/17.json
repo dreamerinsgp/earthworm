@@ -1,1002 +1,1202 @@
 [
 	{
 		"chinese": "购物",
-		"english": "to shop",
-		"soundmark": "/tə/ /ʃɑp/"
+		"pinyin": "gou wu",
+		"soundmark": "gòu wù",
+		"englishGloss": "to shop"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们想要",
-		"english": "we want",
-		"soundmark": "/wi/ /wɑnt/"
+		"pinyin": "wo men xiang yao",
+		"soundmark": "wǒ men xiǎng yào",
+		"englishGloss": "we want"
 	},
 	{
 		"chinese": "我们想要购物",
-		"english": "we want to shop",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /ʃɑp/"
+		"pinyin": "wo men xiang yao gou wu",
+		"soundmark": "wǒ men xiǎng yào gòu wù",
+		"englishGloss": "we want to shop"
 	},
 	{
 		"chinese": "市场",
-		"english": "the market",
-		"soundmark": "/ðə/ /'mɑrkɪt/"
+		"pinyin": "shi chang",
+		"soundmark": "shì chǎng",
+		"englishGloss": "the market"
 	},
 	{
 		"chinese": "在",
-		"english": "at",
-		"soundmark": "/ət/"
+		"pinyin": "zai",
+		"soundmark": "zài",
+		"englishGloss": "at"
 	},
 	{
 		"chinese": "在市场",
-		"english": "at the market",
-		"soundmark": "/ət/ /ðə/ /'mɑrkɪt/"
+		"pinyin": "zai shi chang",
+		"soundmark": "zài shì chǎng",
+		"englishGloss": "at the market"
 	},
 	{
 		"chinese": "购物",
-		"english": "to shop",
-		"soundmark": "/tə/ /ʃɑp/"
+		"pinyin": "gou wu",
+		"soundmark": "gòu wù",
+		"englishGloss": "to shop"
 	},
 	{
 		"chinese": "在市场购物",
-		"english": "to shop at the market",
-		"soundmark": "/tə/ /ʃɑp/ /ət/ /ðə/ /'mɑrkɪt/"
+		"pinyin": "zai shi chang gou wu",
+		"soundmark": "zài shì chǎng gòu wù",
+		"englishGloss": "to shop at the market"
 	},
 	{
 		"chinese": "我们想要在市场购物",
-		"english": "we want to shop at the market",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /ʃɑp/ /ət/ /ðə/ /'mɑrkɪt/"
+		"pinyin": "wo men xiang yao zai shi chang gou wu",
+		"soundmark": "wǒ men xiǎng yào zài shì chǎng gòu wù",
+		"englishGloss": "we want to shop at the market"
 	},
 	{
 		"chinese": "超级",
-		"english": "super",
-		"soundmark": "/'sʊpɚ/"
+		"pinyin": "chao ji",
+		"soundmark": "chāo jí",
+		"englishGloss": "super"
 	},
 	{
 		"chinese": "超级市场",
-		"english": "supermarket",
-		"soundmark": "/'sʊpɚmɑrkɪt/"
+		"pinyin": "chao ji shi chang",
+		"soundmark": "chāo jí shì chǎng",
+		"englishGloss": "supermarket"
 	},
 	{
 		"chinese": "在超市",
-		"english": "at the supermarket",
-		"soundmark": "/ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "zai chao shi",
+		"soundmark": "zài chāo shì",
+		"englishGloss": "at the supermarket"
 	},
 	{
 		"chinese": "我们想要在超市购物",
-		"english": "we want to shop at the supermarket",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /ʃɑp/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "wo men xiang yao zai chao shi gou wu",
+		"soundmark": "wǒ men xiǎng yào zài chāo shì gòu wù",
+		"englishGloss": "we want to shop at the supermarket"
 	},
 	{
 		"chinese": "我们在超市购物",
-		"english": "we shop at the supermarket",
-		"soundmark": "/wi/ /ʃɑp/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "wo men zai chao shi gou wu",
+		"soundmark": "wǒ men zài chāo shì gòu wù",
+		"englishGloss": "we shop at the supermarket"
 	},
 	{
 		"chinese": "购物(ing形式)",
-		"english": "shopping",
-		"soundmark": "/'ʃɑpɪŋ/"
+		"pinyin": "gou wu ( i n g xing shi )",
+		"soundmark": "gòu wù ( i n g xíng shì )",
+		"englishGloss": "shopping"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在购物",
-		"english": "be shopping",
-		"soundmark": "/bi/"
+		"pinyin": "zheng zai gou wu",
+		"soundmark": "zhèng zài gòu wù",
+		"englishGloss": "be shopping"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们(现在)正在购物",
-		"english": "we are shopping",
-		"soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai gou wu",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài gòu wù",
+		"englishGloss": "we are shopping"
 	},
 	{
 		"chinese": "在超市",
-		"english": "at the supermarket",
-		"soundmark": "/ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "zai chao shi",
+		"soundmark": "zài chāo shì",
+		"englishGloss": "at the supermarket"
 	},
 	{
 		"chinese": "我们(现在)正在在超市购物",
-		"english": "we are shopping at the supermarket",
-		"soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "wo men ( xian zai ) zheng zai zai chao shi gou wu",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài zài chāo shì gòu wù",
+		"englishGloss": "we are shopping at the supermarket"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我们现在正在在超市购物",
-		"english": "we are shopping at the supermarket now",
-		"soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /naʊ/ /(we，过去时)be were/ /wɚ/"
+		"pinyin": "wo men xian zai zheng zai zai chao shi gou wu",
+		"soundmark": "wǒ men xiàn zài zhèng zài zài chāo shì gòu wù",
+		"englishGloss": "we are shopping at the supermarket now"
 	},
 	{
 		"chinese": "我们(过去)正在在超市购物",
-		"english": "we were shopping at the supermarket",
-		"soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "wo men ( guo qu ) zheng zai zai chao shi gou wu",
+		"soundmark": "wǒ men ( guò qù ) zhèng zài zài chāo shì gòu wù",
+		"englishGloss": "we were shopping at the supermarket"
 	},
 	{
 		"chinese": "打电话",
-		"english": "to call",
-		"soundmark": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "to call"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/ /(过去)打电话给我 called me/ /kɔld/ /mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "你(过去)打电话给我",
-		"english": "you called me",
-		"soundmark": "/ju/ /kɔld/ /mi/"
+		"pinyin": "ni ( guo qu ) da dian hua gei wo",
+		"soundmark": "nǐ ( guò qù ) dǎ diàn huà gěi wǒ",
+		"englishGloss": "you called me"
 	},
 	{
 		"chinese": "当......的时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . de shi hou",
+		"soundmark": "dāng . . . . . . de shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当你(过去)打电话给我的时候",
-		"english": "when you called me",
-		"soundmark": "/wɛn/ /ju/ /kɔld/ /mi/"
+		"pinyin": "dang ni ( guo qu ) da dian hua gei wo de shi hou",
+		"soundmark": "dāng nǐ ( guò qù ) dǎ diàn huà gěi wǒ de shí hòu",
+		"englishGloss": "when you called me"
 	},
 	{
 		"chinese": "星期天",
-		"english": "Sunday",
-		"soundmark": "/ˈsʌnde/"
+		"pinyin": "xing qi tian",
+		"soundmark": "xīng qī tiān",
+		"englishGloss": "Sunday"
 	},
 	{
 		"chinese": "上一个",
-		"english": "last",
-		"soundmark": "/læst/"
+		"pinyin": "shang yi ge",
+		"soundmark": "shàng yí gè",
+		"englishGloss": "last"
 	},
 	{
 		"chinese": "上周日",
-		"english": "last Sunday",
-		"soundmark": "/læst/ /ˈsʌnde/"
+		"pinyin": "shang zhou ri",
+		"soundmark": "shàng zhōu rì",
+		"englishGloss": "last Sunday"
 	},
 	{
 		"chinese": "当你上周日打电话给我的时候",
-		"english": "when you called me last Sunday",
-		"soundmark": "/wɛn/ /ju/ /kɔld/ /mi/ /læst/ /ˈsʌnde/"
+		"pinyin": "dang ni shang zhou ri da dian hua gei wo de shi hou",
+		"soundmark": "dāng nǐ shàng zhōu rì dǎ diàn huà gěi wǒ de shí hòu",
+		"englishGloss": "when you called me last Sunday"
 	},
 	{
 		"chinese": "我们(过去)正在在超市购物当你上周日打电话给我的时候",
-		"english": "we were shopping at the supermarket when you called me last Sunday",
-		"soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /wɛn/ /ju/ /kɔld/ /mi/ /læst/ /ˈsʌnde/"
+		"pinyin": "wo men ( guo qu ) zheng zai zai chao shi gou wu dang ni shang zhou ri da dian hua gei wo de shi hou",
+		"soundmark": "wǒ men ( guò qù ) zhèng zài zài chāo shì gòu wù dāng nǐ shàng zhōu rì dǎ diàn huà gěi wǒ de shí hòu",
+		"englishGloss": "we were shopping at the supermarket when you called me last Sunday"
 	},
 	{
 		"chinese": "我们上周日正在在超市购物",
-		"english": "we were shopping at the supermarket last Sunday",
-		"soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /læst/ /ˈsʌnde/"
+		"pinyin": "wo men shang zhou ri zheng zai zai chao shi gou wu",
+		"soundmark": "wǒ men shàng zhōu rì zhèng zài zài chāo shì gòu wù",
+		"englishGloss": "we were shopping at the supermarket last Sunday"
 	},
 	{
 		"chinese": "我们(过去)正在购物",
-		"english": "we were shopping",
-		"soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "wo men ( guo qu ) zheng zai gou wu",
+		"soundmark": "wǒ men ( guò qù ) zhèng zài gòu wù",
+		"englishGloss": "we were shopping"
 	},
 	{
 		"chinese": "我们(现在)正在购物",
-		"english": "we are shopping",
-		"soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai gou wu",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài gòu wù",
+		"englishGloss": "we are shopping"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我们将会正在购物",
-		"english": "we will be shopping",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'ʃɑpɪŋ/"
+		"pinyin": "wo men jiang hui zheng zai gou wu",
+		"soundmark": "wǒ men jiāng huì zhèng zài gòu wù",
+		"englishGloss": "we will be shopping"
 	},
 	{
 		"chinese": "在超市",
-		"english": "at the supermarket",
-		"soundmark": "/ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "zai chao shi",
+		"soundmark": "zài chāo shì",
+		"englishGloss": "at the supermarket"
 	},
 	{
 		"chinese": "我们将会正在在超市购物",
-		"english": "we will be shopping at the supermarket",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+		"pinyin": "wo men jiang hui zheng zai zai chao shi gou wu",
+		"soundmark": "wǒ men jiāng huì zhèng zài zài chāo shì gòu wù",
+		"englishGloss": "we will be shopping at the supermarket"
 	},
 	{
 		"chinese": "星期一",
-		"english": "Monday",
-		"soundmark": "/ˈmʌnde/"
+		"pinyin": "xing qi yi",
+		"soundmark": "xīng qī yī",
+		"englishGloss": "Monday"
 	},
 	{
 		"chinese": "下一个",
-		"english": "next",
-		"soundmark": "/nɛkst/"
+		"pinyin": "xia yi ge",
+		"soundmark": "xià yí gè",
+		"englishGloss": "next"
 	},
 	{
 		"chinese": "下周一",
-		"english": "next Monday",
-		"soundmark": "/nɛkst/ /ˈmʌnde/"
+		"pinyin": "xia zhou yi",
+		"soundmark": "xià zhōu yī",
+		"englishGloss": "next Monday"
 	},
 	{
 		"chinese": "我们将会在下周一正在在超市购物",
-		"english": "we will be shopping at the supermarket next Monday",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /nɛkst/ /ˈmʌnde/"
+		"pinyin": "wo men jiang hui zai xia zhou yi zheng zai zai chao shi gou wu",
+		"soundmark": "wǒ men jiāng huì zài xià zhōu yī zhèng zài zài chāo shì gòu wù",
+		"englishGloss": "we will be shopping at the supermarket next Monday"
 	},
 	{
 		"chinese": "等待",
-		"english": "to wait",
-		"soundmark": "/tə/ /wet/"
+		"pinyin": "deng dai",
+		"soundmark": "děng dài",
+		"englishGloss": "to wait"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我需要等待",
-		"english": "I need to wait",
-		"soundmark": "/aɪ/ /nid/ /tə/ /wet/"
+		"pinyin": "wo xu yao deng dai",
+		"soundmark": "wǒ xū yào děng dài",
+		"englishGloss": "I need to wait"
 	},
 	{
 		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"pinyin": "peng you",
+		"soundmark": "péng yǒu",
+		"englishGloss": "friend"
 	},
 	{
 		"chinese": "我的",
-		"english": "my",
-		"soundmark": "/maɪ/"
+		"pinyin": "wo de",
+		"soundmark": "wǒ de",
+		"englishGloss": "my"
 	},
 	{
 		"chinese": "我的朋友",
-		"english": "my friend",
-		"soundmark": "/maɪ/ /frɛnd/"
+		"pinyin": "wo de peng you",
+		"soundmark": "wǒ de péng yǒu",
+		"englishGloss": "my friend"
 	},
 	{
 		"chinese": "为了",
-		"english": "for",
-		"soundmark": "/fɝ/"
+		"pinyin": "wei le",
+		"soundmark": "wèi le",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "为了我的朋友",
-		"english": "for my friend",
-		"soundmark": "/fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wei le wo de peng you",
+		"soundmark": "wèi le wǒ de péng yǒu",
+		"englishGloss": "for my friend"
 	},
 	{
 		"chinese": "我需要为了我的朋友等待",
-		"english": "I need to wait for my friend",
-		"soundmark": "/aɪ/ /nid/ /tə/ /wet/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo xu yao wei le wo de peng you deng dai",
+		"soundmark": "wǒ xū yào wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I need to wait for my friend"
 	},
 	{
 		"chinese": "我为了我的朋友等待",
-		"english": "I wait for my friend",
-		"soundmark": "/aɪ/ /wet/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo wei le wo de peng you deng dai",
+		"soundmark": "wǒ wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I wait for my friend"
 	},
 	{
 		"chinese": "等待(ing形式)",
-		"english": "waiting",
-		"soundmark": "/'wetɪŋ/"
+		"pinyin": "deng dai ( i n g xing shi )",
+		"soundmark": "děng dài ( i n g xíng shì )",
+		"englishGloss": "waiting"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在等待",
-		"english": "be waiting",
-		"soundmark": "/bi/ /'wetɪŋ/"
+		"pinyin": "zheng zai deng dai",
+		"soundmark": "zhèng zài děng dài",
+		"englishGloss": "be waiting"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我(现在)正在等待",
-		"english": "I am waiting",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai deng dai",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài děng dài",
+		"englishGloss": "I am waiting"
 	},
 	{
 		"chinese": "为了我的朋友",
-		"english": "for my friend",
-		"soundmark": "/fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wei le wo de peng you",
+		"soundmark": "wèi le wǒ de péng yǒu",
+		"englishGloss": "for my friend"
 	},
 	{
 		"chinese": "我(现在)正在为了我的朋友等待",
-		"english": "I am waiting for my friend",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo ( xian zai ) zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I am waiting for my friend"
 	},
 	{
 		"chinese": "公交车",
-		"english": "the bus",
-		"soundmark": "/ðə/ /bʌs/"
+		"pinyin": "gong jiao che",
+		"soundmark": "gōng jiāo chē",
+		"englishGloss": "the bus"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop",
-		"soundmark": "/stɑp/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop"
 	},
 	{
 		"chinese": "公交车站",
-		"english": "the bus stop",
-		"soundmark": "/ðə/ /bʌs/ /stɑp/"
+		"pinyin": "gong jiao che zhan",
+		"soundmark": "gōng jiāo chē zhàn",
+		"englishGloss": "the bus stop"
 	},
 	{
 		"chinese": "在",
-		"english": "at",
-		"soundmark": "/ət/"
+		"pinyin": "zai",
+		"soundmark": "zài",
+		"englishGloss": "at"
 	},
 	{
 		"chinese": "在公交车站",
-		"english": "at the bus stop",
-		"soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "zai gong jiao che zhan",
+		"soundmark": "zài gōng jiāo chē zhàn",
+		"englishGloss": "at the bus stop"
 	},
 	{
 		"chinese": "我在公交车站(现在)正在为了我的朋友等待",
-		"english": "I am waiting for my friend at the bus stop",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "wo zai gong jiao che zhan ( xian zai ) zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ zài gōng jiāo chē zhàn ( xiàn zài ) zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I am waiting for my friend at the bus stop"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "我现在在公交车站正在为了我的朋友等待",
-		"english": "I am waiting for my friend at the bus stop now",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /naʊ/ /(I，过去时)be was/ /wəz/"
+		"pinyin": "wo xian zai zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ xiàn zài zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I am waiting for my friend at the bus stop now"
 	},
 	{
 		"chinese": "我在公交车站(过去)正在为了我的朋友等待",
-		"english": "I was waiting for my friend at the bus stop",
-		"soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "wo zai gong jiao che zhan ( guo qu ) zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ zài gōng jiāo chē zhàn ( guò qù ) zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I was waiting for my friend at the bus stop"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "我昨天在公交车站正在为了我的朋友等待",
-		"english": "I was waiting for my friend at the bus stop yesterday",
-		"soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /'jɛstɚde/"
+		"pinyin": "wo zuo tian zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ zuó tiān zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I was waiting for my friend at the bus stop yesterday"
 	},
 	{
 		"chinese": "时间；时候",
-		"english": "time",
-		"soundmark": "/taɪm/"
+		"pinyin": "shi jian ； shi hou",
+		"soundmark": "shí jiān ； shí hòu",
+		"englishGloss": "time"
 	},
 	{
 		"chinese": "这个",
-		"english": "this",
-		"soundmark": "/ðɪs/"
+		"pinyin": "zhe ge",
+		"soundmark": "zhè ge",
+		"englishGloss": "this"
 	},
 	{
 		"chinese": "这个时候",
-		"english": "this time",
-		"soundmark": "/ðɪs/ /taɪm/"
+		"pinyin": "zhe ge shi hou",
+		"soundmark": "zhè ge shí hòu",
+		"englishGloss": "this time"
 	},
 	{
 		"chinese": "在",
-		"english": "at",
-		"soundmark": "/ət/"
+		"pinyin": "zai",
+		"soundmark": "zài",
+		"englishGloss": "at"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "在昨天这个时候",
-		"english": "at this time yesterday",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"pinyin": "zai zuo tian zhe ge shi hou",
+		"soundmark": "zài zuó tiān zhè ge shí hòu",
+		"englishGloss": "at this time yesterday"
 	},
 	{
 		"chinese": "我在昨天这个时候在公交车站正在为了我的朋友等待",
-		"english": "I was waiting for my friend at the bus stop at this time yesterday",
-		"soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"pinyin": "wo zai zuo tian zhe ge shi hou zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ zài zuó tiān zhè ge shí hòu zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I was waiting for my friend at the bus stop at this time yesterday"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在昨天之前",
-		"english": "before yesterday",
-		"soundmark": "/bɪ'fɔr/ /'jɛstɚde/"
+		"pinyin": "zai zuo tian zhi qian",
+		"soundmark": "zài zuó tiān zhī qián",
+		"englishGloss": "before yesterday"
 	},
 	{
 		"chinese": "那一天",
-		"english": "the day",
-		"soundmark": "/ðə/ /de/"
+		"pinyin": "na yi tian",
+		"soundmark": "nà yì tiān",
+		"englishGloss": "the day"
 	},
 	{
 		"chinese": "在昨天之前的那一天(前天)",
-		"english": "the day before yesterday",
-		"soundmark": "/ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+		"pinyin": "zai zuo tian zhi qian de na yi tian ( qian tian )",
+		"soundmark": "zài zuó tiān zhī qián de nà yì tiān ( qián tiān )",
+		"englishGloss": "the day before yesterday"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "在前天这个时候",
-		"english": "at this time the day before yesterday",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+		"pinyin": "zai qian tian zhe ge shi hou",
+		"soundmark": "zài qián tiān zhè ge shí hòu",
+		"englishGloss": "at this time the day before yesterday"
 	},
 	{
 		"chinese": "我在前天这个时候在公交车站正在为了我的朋友等待",
-		"english": "I was waiting for my friend at the bus stop at this time the day before yesterday",
-		"soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+		"pinyin": "wo zai qian tian zhe ge shi hou zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ zài qián tiān zhè ge shí hòu zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I was waiting for my friend at the bus stop at this time the day before yesterday"
 	},
 	{
 		"chinese": "我(过去)正在为了我的朋友等待",
-		"english": "I was waiting for my friend",
-		"soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo ( guo qu ) zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ ( guò qù ) zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I was waiting for my friend"
 	},
 	{
 		"chinese": "我(现在)正在为了我的朋友等待",
-		"english": "I am waiting for my friend",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo ( xian zai ) zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I am waiting for my friend"
 	},
 	{
 		"chinese": "将来",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang lai",
+		"soundmark": "jiāng lái",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我将会正在为了我的朋友等待",
-		"english": "I will be waiting for my friend",
-		"soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo jiang hui zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ jiāng huì zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I will be waiting for my friend"
 	},
 	{
 		"chinese": "公交车",
-		"english": "the bus",
-		"soundmark": "/ðə/ /bʌs/"
+		"pinyin": "gong jiao che",
+		"soundmark": "gōng jiāo chē",
+		"englishGloss": "the bus"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop",
-		"soundmark": "/stɑp/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop"
 	},
 	{
 		"chinese": "公交车站",
-		"english": "the bus stop",
-		"soundmark": "/ðə/ /bʌs/ /stɑp/"
+		"pinyin": "gong jiao che zhan",
+		"soundmark": "gōng jiāo chē zhàn",
+		"englishGloss": "the bus stop"
 	},
 	{
 		"chinese": "在公交车站",
-		"english": "at the bus stop",
-		"soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "zai gong jiao che zhan",
+		"soundmark": "zài gōng jiāo chē zhàn",
+		"englishGloss": "at the bus stop"
 	},
 	{
 		"chinese": "我将会在公交车站正在为了我的朋友等待",
-		"english": "I will be waiting for my friend at the bus stop",
-		"soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/"
+		"pinyin": "wo jiang hui zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ jiāng huì zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I will be waiting for my friend at the bus stop"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "在明天这个时候",
-		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"pinyin": "zai ming tian zhe ge shi hou",
+		"soundmark": "zài míng tiān zhè ge shí hòu",
+		"englishGloss": "at this time tomorrow"
 	},
 	{
 		"chinese": "我将会在明天这个时候在公交车站正在为了我的朋友等待",
-		"english": "I will be waiting for my friend at the bus stop at this time tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"pinyin": "wo jiang hui zai ming tian zhe ge shi hou zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ jiāng huì zài míng tiān zhè ge shí hòu zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I will be waiting for my friend at the bus stop at this time tomorrow"
 	},
 	{
 		"chinese": "在......之后",
-		"english": "after",
-		"soundmark": "/'æftɚ/"
+		"pinyin": "zai . . . . . . zhi hou",
+		"soundmark": "zài . . . . . . zhī hòu",
+		"englishGloss": "after"
 	},
 	{
 		"chinese": "在明天之后",
-		"english": "after tomorrow",
-		"soundmark": "/'æftɚ/ /tə'mɔro/"
+		"pinyin": "zai ming tian zhi hou",
+		"soundmark": "zài míng tiān zhī hòu",
+		"englishGloss": "after tomorrow"
 	},
 	{
 		"chinese": "那一天",
-		"english": "the day",
-		"soundmark": "/ðə/ /de/"
+		"pinyin": "na yi tian",
+		"soundmark": "nà yì tiān",
+		"englishGloss": "the day"
 	},
 	{
 		"chinese": "在明天之后的那一天(后天)",
-		"english": "the day after tomorrow",
-		"soundmark": "/ðə/ /de/ /'æftɚ/ /tə'mɔro/"
+		"pinyin": "zai ming tian zhi hou de na yi tian ( hou tian )",
+		"soundmark": "zài míng tiān zhī hòu de nà yì tiān ( hòu tiān )",
+		"englishGloss": "the day after tomorrow"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "后天这个时候",
-		"english": "at this time the day after tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /'æftɚ/ /tə'mɔro/"
+		"pinyin": "hou tian zhe ge shi hou",
+		"soundmark": "hòu tiān zhè ge shí hòu",
+		"englishGloss": "at this time the day after tomorrow"
 	},
 	{
 		"chinese": "我将会在后天这个时候在公交车站正在为了我的朋友等待",
-		"english": "I will be waiting for my friend at the bus stop at this time the day after tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /'æftɚ/ /tə'mɔro/"
+		"pinyin": "wo jiang hui zai hou tian zhe ge shi hou zai gong jiao che zhan zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ jiāng huì zài hòu tiān zhè ge shí hòu zài gōng jiāo chē zhàn zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I will be waiting for my friend at the bus stop at this time the day after tomorrow"
 	},
 	{
 		"chinese": "我将会为了我的朋友正在等待",
-		"english": "I will be waiting for my friend",
-		"soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo jiang hui wei le wo de peng you zheng zai deng dai",
+		"soundmark": "wǒ jiāng huì wèi le wǒ de péng yǒu zhèng zài děng dài",
+		"englishGloss": "I will be waiting for my friend"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他将会为了我的朋友正在等待",
-		"english": "he will be waiting for my friend",
-		"soundmark": "/hi/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "ta jiang hui wei le wo de peng you zheng zai deng dai",
+		"soundmark": "tā jiāng huì wèi le wǒ de péng yǒu zhèng zài děng dài",
+		"englishGloss": "he will be waiting for my friend"
 	},
 	{
 		"chinese": "他们",
-		"english": "they",
-		"soundmark": "/ðe/"
+		"pinyin": "ta men",
+		"soundmark": "tā men",
+		"englishGloss": "they"
 	},
 	{
 		"chinese": "他们将会为了我的朋友正在等待",
-		"english": "they will be waiting for my friend",
-		"soundmark": "/ðe/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "ta men jiang hui wei le wo de peng you zheng zai deng dai",
+		"soundmark": "tā men jiāng huì wèi le wǒ de péng yǒu zhèng zài děng dài",
+		"englishGloss": "they will be waiting for my friend"
 	},
 	{
 		"chinese": "我(现在)正在为了我的朋友等待",
-		"english": "I am waiting for my friend",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+		"pinyin": "wo ( xian zai ) zheng zai wei le wo de peng you deng dai",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài wèi le wǒ de péng yǒu děng dài",
+		"englishGloss": "I am waiting for my friend"
 	},
 	{
 		"chinese": "我(现在)正在等待",
-		"english": "I am waiting",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/"
+		"pinyin": "wo ( xian zai ) zheng zai deng dai",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài děng dài",
+		"englishGloss": "I am waiting"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "为了",
-		"english": "for",
-		"soundmark": "/fɝ/"
+		"pinyin": "wei le",
+		"soundmark": "wèi le",
+		"englishGloss": "for"
 	},
 	{
 		"chinese": "为了你",
-		"english": "for you",
-		"soundmark": "/fɝ/ /ju/"
+		"pinyin": "wei le ni",
+		"soundmark": "wèi le nǐ",
+		"englishGloss": "for you"
 	},
 	{
 		"chinese": "我(现在)正在为了你等待",
-		"english": "I am waiting for you",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /ju/"
+		"pinyin": "wo ( xian zai ) zheng zai wei le ni deng dai",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài wèi le nǐ děng dài",
+		"englishGloss": "I am waiting for you"
 	},
 	{
 		"chinese": "问",
-		"english": "to ask",
-		"soundmark": "/tə/ /æsk/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "to ask"
 	},
 	{
 		"chinese": "我",
-		"english": "me",
-		"soundmark": "/mi/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "me"
 	},
 	{
 		"chinese": "问我",
-		"english": "to ask me",
-		"soundmark": "/tə/ /æsk/ /mi/"
+		"pinyin": "wen wo",
+		"soundmark": "wèn wǒ",
+		"englishGloss": "to ask me"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "问题",
-		"english": "question",
-		"soundmark": "/'kwɛstʃən/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "question"
 	},
 	{
 		"chinese": "那个问题",
-		"english": "that question",
-		"soundmark": "/ðæt/ /'kwɛstʃən/"
+		"pinyin": "na ge wen ti",
+		"soundmark": "nà ge wèn tí",
+		"englishGloss": "that question"
 	},
 	{
 		"chinese": "问我那个问题",
-		"english": "to ask me that question",
-		"soundmark": "/tə/ /æsk/ /mi/ /ðæt/ /'kwɛstʃən/"
+		"pinyin": "wen wo na ge wen ti",
+		"soundmark": "wèn wǒ nà ge wèn tí",
+		"englishGloss": "to ask me that question"
 	},
 	{
 		"chinese": "我(现在)正在等你问我",
-		"english": "I am waiting for you to ask me",
-		"soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /ju/ /tə/ /æsk/ /mi/"
+		"pinyin": "wo ( xian zai ) zheng zai deng ni wen wo",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài děng nǐ wèn wǒ",
+		"englishGloss": "I am waiting for you to ask me"
 	},
 	{
 		"chinese": "中文 原形 第三人称单数 过去式想要",
-		"english": "want wants",
-		"soundmark": "/wanted/"
+		"pinyin": "zhong wen   yuan xing   di san ren cheng dan shu   guo qu shi xiang yao",
+		"soundmark": "zhōng wén   yuán xíng   dì sān rén chēng dān shù   guò qù shì xiǎng yào",
+		"englishGloss": "want wants"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like likes",
-		"soundmark": "/liked/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like likes"
 	},
 	{
 		"chinese": "有；(+to)不得不",
-		"english": "have has",
-		"soundmark": "/had/"
+		"pinyin": "you ； ( + t o ) bu de bu",
+		"soundmark": "yǒu ； ( + t o ) bù dé bù",
+		"englishGloss": "have has"
 	},
 	{
 		"chinese": "计划",
-		"english": "plan plans",
-		"soundmark": "/planned/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "plan plans"
 	},
 	{
 		"chinese": "需要",
-		"english": "need needs",
-		"soundmark": "/needed/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need needs"
 	},
 	{
 		"chinese": "做",
-		"english": "do does",
-		"soundmark": "/did/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "do does"
 	},
 	{
 		"chinese": "告诉",
-		"english": "tell tells",
-		"soundmark": "/told/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "tell tells"
 	},
 	{
 		"chinese": "说话",
-		"english": "talk talks",
-		"soundmark": "/talked/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "talk talks"
 	},
 	{
 		"chinese": "是 be（am）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ a m ）",
+		"soundmark": "shì   b e （ a m ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（is ）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ i s   ）",
+		"soundmark": "shì   b e （ i s   ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（are）",
-		"english": "is",
-		"soundmark": "/were/"
+		"pinyin": "shi   b e （ a r e ）",
+		"soundmark": "shì   b e （ a r e ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "看到",
-		"english": "see sees",
-		"soundmark": "/saw/"
+		"pinyin": "kan dao",
+		"soundmark": "kàn dào",
+		"englishGloss": "see sees"
 	},
 	{
 		"chinese": "吃",
-		"english": "eat eats",
-		"soundmark": "/ate/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "eat eats"
 	},
 	{
 		"chinese": "喝",
-		"english": "drink drinks",
-		"soundmark": "/drank/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "drink drinks"
 	},
 	{
 		"chinese": "知道",
-		"english": "know knows",
-		"soundmark": "/knew/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "know knows"
 	},
 	{
 		"chinese": "忘记",
-		"english": "forget forgets",
-		"soundmark": "/forgot/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "forget forgets"
 	},
 	{
 		"chinese": "失去",
-		"english": "lose loses",
-		"soundmark": "/lost/"
+		"pinyin": "shi qu",
+		"soundmark": "shī qù",
+		"englishGloss": "lose loses"
 	},
 	{
 		"chinese": "离开",
-		"english": "leave leaves",
-		"soundmark": "/left/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "leave leaves"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "sleep sleeps",
-		"soundmark": "/slept/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "sleep sleeps"
 	},
 	{
 		"chinese": "明白",
-		"english": "understand understands",
-		"soundmark": "/understood/"
+		"pinyin": "ming bai",
+		"soundmark": "míng bái",
+		"englishGloss": "understand understands"
 	},
 	{
 		"chinese": "买",
-		"english": "buy buys",
-		"soundmark": "/bought/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "buy buys"
 	},
 	{
 		"chinese": "洗",
-		"english": "wash washes",
-		"soundmark": "/washed/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "wash washes"
 	},
 	{
 		"chinese": "打电话",
-		"english": "call calls",
-		"soundmark": "/called/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "call calls"
 	},
 	{
 		"chinese": "帮助",
-		"english": "help helps",
-		"soundmark": "/helped/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "help helps"
 	},
 	{
 		"chinese": "相信",
-		"english": "believe believes",
-		"soundmark": "/believed/"
+		"pinyin": "xiang xin",
+		"soundmark": "xiāng xìn",
+		"englishGloss": "believe believes"
 	},
 	{
 		"chinese": "学习",
-		"english": "study studies",
-		"soundmark": "/studied/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "study studies"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain explains",
-		"soundmark": "/explained/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain explains"
 	},
 	{
 		"chinese": "问",
-		"english": "ask asks",
-		"soundmark": "/asked/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "ask asks"
 	},
 	{
 		"chinese": "飞",
-		"english": "fly flies",
-		"soundmark": "/flew/"
+		"pinyin": "fei",
+		"soundmark": "fēi",
+		"englishGloss": "fly flies"
 	},
 	{
 		"chinese": "问题",
-		"english": "that question",
-		"soundmark": "/ðæt/ /'kwɛstʃən/ /(I，过去时)be was/ /wəz/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "that question"
 	},
 	{
 		"chinese": "我(过去)正在等你问我那个问题",
-		"english": "I was waiting for you to ask me that question",
-		"soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /ju/ /tə/ /æsk/ /mi/ /ðæt/ /'kwɛstʃən/"
+		"pinyin": "wo ( guo qu ) zheng zai deng ni wen wo na ge wen ti",
+		"soundmark": "wǒ ( guò qù ) zhèng zài děng nǐ wèn wǒ nà ge wèn tí",
+		"englishGloss": "I was waiting for you to ask me that question"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我将会正在等你问我那个问题",
-		"english": "I will be waiting for you to ask me that question",
-		"soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /ju/ /tə/ /æsk/ /mi/ /ðæt/ /'kwɛstʃən/"
+		"pinyin": "wo jiang hui zheng zai deng ni wen wo na ge wen ti",
+		"soundmark": "wǒ jiāng huì zhèng zài děng nǐ wèn wǒ nà ge wèn tí",
+		"englishGloss": "I will be waiting for you to ask me that question"
 	},
 	{
 		"chinese": "阅读",
-		"english": "read reads",
-		"soundmark": "/read/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "read reads"
 	},
 	{
 		"chinese": "走路",
-		"english": "walk walks",
-		"soundmark": "/walked/"
+		"pinyin": "zou lu",
+		"soundmark": "zǒu lù",
+		"englishGloss": "walk walks"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "dance dances",
-		"soundmark": "/danced/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "dance dances"
 	},
 	{
 		"chinese": "回答",
-		"english": "answer answers",
-		"soundmark": "/answered/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "answer answers"
 	},
 	{
 		"chinese": "工作",
-		"english": "work works",
-		"soundmark": "/worked/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work works"
 	},
 	{
 		"chinese": "待在",
-		"english": "stay stays",
-		"soundmark": "/stayed/"
+		"pinyin": "dai zai",
+		"soundmark": "dài zài",
+		"englishGloss": "stay stays"
 	},
 	{
 		"chinese": "支付",
-		"english": "pay pays",
-		"soundmark": "/paid/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "pay pays"
 	},
 	{
 		"chinese": "旅行",
-		"english": "travel travels",
-		"soundmark": "/traveled/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "travel travels"
 	},
 	{
 		"chinese": "给",
-		"english": "give gives",
-		"soundmark": "/gave/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "give gives"
 	},
 	{
 		"chinese": "达到",
-		"english": "get gets",
-		"soundmark": "/got/"
+		"pinyin": "da dao",
+		"soundmark": "dá dào",
+		"englishGloss": "get gets"
 	},
 	{
 		"chinese": "锁",
-		"english": "lock locks",
-		"soundmark": "/locked/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "lock locks"
 	},
 	{
 		"chinese": "记得",
-		"english": "remember remembers",
-		"soundmark": "/Remembered/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "remember remembers"
 	},
 	{
 		"chinese": "清理",
-		"english": "clean cleans",
-		"soundmark": "/cleaned/"
+		"pinyin": "qing li",
+		"soundmark": "qīng lǐ",
+		"englishGloss": "clean cleans"
 	},
 	{
 		"chinese": "找到",
-		"english": "find finds",
-		"soundmark": "/found/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "find finds"
 	},
 	{
 		"chinese": "关闭",
-		"english": "close closes",
-		"soundmark": "/closed/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "close closes"
 	},
 	{
 		"chinese": "教",
-		"english": "teach teaches",
-		"soundmark": "/taught/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "teach teaches"
 	},
 	{
 		"chinese": "展示",
-		"english": "show shows",
-		"soundmark": "/showed/"
+		"pinyin": "zhan shi",
+		"soundmark": "zhǎn shì",
+		"englishGloss": "show shows"
 	},
 	{
 		"chinese": "让",
-		"english": "let lets",
-		"soundmark": "/let/"
+		"pinyin": "rang",
+		"soundmark": "ràng",
+		"englishGloss": "let lets"
 	},
 	{
 		"chinese": "休息",
-		"english": "rest rests",
-		"soundmark": "/rested/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "rest rests"
 	},
 	{
 		"chinese": "用",
-		"english": "use uses",
-		"soundmark": "/used/"
+		"pinyin": "yong",
+		"soundmark": "yòng",
+		"englishGloss": "use uses"
 	},
 	{
 		"chinese": "做饭",
-		"english": "cook cooks",
-		"soundmark": "/cooked/"
+		"pinyin": "zuo fan",
+		"soundmark": "zuò fàn",
+		"englishGloss": "cook cooks"
 	},
 	{
 		"chinese": "去",
-		"english": "go goes",
-		"soundmark": "/went/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "go goes"
 	},
 	{
 		"chinese": "决定",
-		"english": "decide decides",
-		"soundmark": "/decided/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "decide decides"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "drive drives",
-		"soundmark": "/drove/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "drive drives"
 	},
 	{
 		"chinese": "改变",
-		"english": "change changes",
-		"soundmark": "/changed/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "change changes"
 	},
 	{
 		"chinese": "尝试",
-		"english": "try tries",
-		"soundmark": "/tried/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "try tries"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop stops",
-		"soundmark": "/Stopped/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop stops"
 	},
 	{
 		"chinese": "参加",
-		"english": "join joins",
-		"soundmark": "/joined/"
+		"pinyin": "can jia",
+		"soundmark": "cān jiā",
+		"englishGloss": "join joins"
 	},
 	{
 		"chinese": "邀请",
-		"english": "invite invites",
-		"soundmark": "/invited/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "invite invites"
 	},
 	{
 		"chinese": "拒绝",
-		"english": "refuse refuses",
-		"soundmark": "/refused/"
+		"pinyin": "ju jue",
+		"soundmark": "jù jué",
+		"englishGloss": "refuse refuses"
 	},
 	{
 		"chinese": "接受",
-		"english": "accept accepts",
-		"soundmark": "/accepted/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "accept accepts"
 	},
 	{
 		"chinese": "学习",
-		"english": "learn learns",
-		"soundmark": "/learnt/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "learn learns"
 	},
 	{
 		"chinese": "完成",
-		"english": "finish finishes",
-		"soundmark": "/finished/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "finish finishes"
 	},
 	{
 		"chinese": "看",
-		"english": "watch watches",
-		"soundmark": "/watched/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "watch watches"
 	},
 	{
 		"chinese": "游泳",
-		"english": "swim swims",
-		"soundmark": "/swam/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "swim swims"
 	},
 	{
 		"chinese": "掌握",
-		"english": "master masters",
-		"soundmark": "/mastered/"
+		"pinyin": "zhang wo",
+		"soundmark": "zhǎng wò",
+		"englishGloss": "master masters"
 	},
 	{
 		"chinese": "购物",
-		"english": "shop shops",
-		"soundmark": "/shopped/"
+		"pinyin": "gou wu",
+		"soundmark": "gòu wù",
+		"englishGloss": "shop shops"
 	},
 	{
 		"chinese": "等待",
-		"english": "wait waits",
-		"soundmark": "/waited/"
+		"pinyin": "deng dai",
+		"soundmark": "děng dài",
+		"englishGloss": "wait waits"
 	}
 ]

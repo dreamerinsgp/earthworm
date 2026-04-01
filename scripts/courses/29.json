@@ -1,667 +1,800 @@
 [
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我在这里",
-		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"pinyin": "wo zai zhe li",
+		"soundmark": "wǒ zài zhè lǐ",
+		"englishGloss": "I am here"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我在这里",
-		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"pinyin": "wo zai zhe li",
+		"soundmark": "wǒ zài zhè lǐ",
+		"englishGloss": "I am here"
 	},
 	{
 		"chinese": "我想要在这里",
-		"english": "I want to be here",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"pinyin": "wo xiang yao zai zhe li",
+		"soundmark": "wǒ xiǎng yào zài zhè lǐ",
+		"englishGloss": "I want to be here"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "我不想在这里",
-		"english": "I don't want to be here",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"pinyin": "wo bu xiang zai zhe li",
+		"soundmark": "wǒ bù xiǎng zài zhè lǐ",
+		"englishGloss": "I don't want to be here"
 	},
 	{
 		"chinese": "那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
+		"pinyin": "na li",
+		"soundmark": "nà lǐ",
+		"englishGloss": "there"
 	},
 	{
 		"chinese": "我不想去那里",
-		"english": "I don't want to be there",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"pinyin": "wo bu xiang qu na li",
+		"soundmark": "wǒ bù xiǎng qù nà lǐ",
+		"englishGloss": "I don't want to be there"
 	},
 	{
 		"chinese": "我想要去那里",
-		"english": "I want to be there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"pinyin": "wo xiang yao qu na li",
+		"soundmark": "wǒ xiǎng yào qù nà lǐ",
+		"englishGloss": "I want to be there"
 	},
 	{
 		"chinese": "我不想在这里我想要去那里",
-		"english": "I don't want to be here, I want to be there",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"pinyin": "wo bu xiang zai zhe li wo xiang yao qu na li",
+		"soundmark": "wǒ bù xiǎng zài zhè lǐ wǒ xiǎng yào qù nà lǐ",
+		"englishGloss": "I don't want to be here, I want to be there"
 	},
 	{
 		"chinese": "我在这里",
-		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"pinyin": "wo zai zhe li",
+		"soundmark": "wǒ zài zhè lǐ",
+		"englishGloss": "I am here"
 	},
 	{
 		"chinese": "当......时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . shi hou",
+		"soundmark": "dāng . . . . . . shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我在这里的时候",
-		"english": "when I am here",
-		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/"
+		"pinyin": "dang wo zai zhe li de shi hou",
+		"soundmark": "dāng wǒ zài zhè lǐ de shí hòu",
+		"englishGloss": "when I am here"
 	},
 	{
 		"chinese": "我想要去那里",
-		"english": "I want to be there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"pinyin": "wo xiang yao qu na li",
+		"soundmark": "wǒ xiǎng yào qù nà lǐ",
+		"englishGloss": "I want to be there"
 	},
 	{
 		"chinese": "当我在这里的时候，我想要去那里",
-		"english": "when I am here, I want to be there",
-		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"pinyin": "dang wo zai zhe li de shi hou ， wo xiang yao qu na li",
+		"soundmark": "dāng wǒ zài zhè lǐ de shí hòu ， wǒ xiǎng yào qù nà lǐ",
+		"englishGloss": "when I am here, I want to be there"
 	},
 	{
 		"chinese": "当我(过去)在这里的时候，我(过去)想要去那里",
-		"english": "when I was here, I wanted to be there",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/"
+		"pinyin": "dang wo ( guo qu ) zai zhe li de shi hou ， wo ( guo qu ) xiang yao qu na li",
+		"soundmark": "dāng wǒ ( guò qù ) zài zhè lǐ de shí hòu ， wǒ ( guò qù ) xiǎng yào qù nà lǐ",
+		"englishGloss": "when I was here, I wanted to be there"
 	},
 	{
 		"chinese": "老师",
-		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"pinyin": "lao shi",
+		"soundmark": "lǎo shī",
+		"englishGloss": "teacher"
 	},
 	{
 		"chinese": "我是一名老师",
-		"english": "I am a teacher",
-		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+		"pinyin": "wo shi yi ming lao shi",
+		"soundmark": "wǒ shì yì míng lǎo shī",
+		"englishGloss": "I am a teacher"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要成为一名老师",
-		"english": "I want to be a teacher",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"pinyin": "wo xiang yao cheng wei yi ming lao shi",
+		"soundmark": "wǒ xiǎng yào chéng wéi yì míng lǎo shī",
+		"englishGloss": "I want to be a teacher"
 	},
 	{
 		"chinese": "富有的",
-		"english": "rich",
-		"soundmark": "/rɪtʃ/"
+		"pinyin": "fu you de",
+		"soundmark": "fù yǒu de",
+		"englishGloss": "rich"
 	},
 	{
 		"chinese": "我是富有的",
-		"english": "I am rich",
-		"soundmark": "/aɪ/ /æm/ /rɪtʃ/"
+		"pinyin": "wo shi fu you de",
+		"soundmark": "wǒ shì fù yǒu de",
+		"englishGloss": "I am rich"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "我想要变得富有",
-		"english": "I want to be rich",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/"
+		"pinyin": "wo xiang yao bian de fu you",
+		"soundmark": "wǒ xiǎng yào biàn de fù yǒu",
+		"englishGloss": "I want to be rich"
 	},
 	{
 		"chinese": "我在这里",
-		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/ /(I，过去时)be was/ /wəz/"
+		"pinyin": "wo zai zhe li",
+		"soundmark": "wǒ zài zhè lǐ",
+		"englishGloss": "I am here"
 	},
 	{
 		"chinese": "我(过去)在这里",
-		"english": "I was here",
-		"soundmark": "/aɪ/ /wəz/ /hɪr/"
+		"pinyin": "wo ( guo qu ) zai zhe li",
+		"soundmark": "wǒ ( guò qù ) zài zhè lǐ",
+		"englishGloss": "I was here"
 	},
 	{
 		"chinese": "当......时候",
-		"english": "when",
-		"soundmark": "/wɛn/"
+		"pinyin": "dang . . . . . . shi hou",
+		"soundmark": "dāng . . . . . . shí hòu",
+		"englishGloss": "when"
 	},
 	{
 		"chinese": "当我(过去)在这里的时候",
-		"english": "when I was here",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/"
+		"pinyin": "dang wo ( guo qu ) zai zhe li de shi hou",
+		"soundmark": "dāng wǒ ( guò qù ) zài zhè lǐ de shí hòu",
+		"englishGloss": "when I was here"
 	},
 	{
 		"chinese": "在......之前；以前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian ； yi qian",
+		"soundmark": "zài . . . . . . zhī qián ； yǐ qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "当我以前在这里的时候",
-		"english": "when I was here before",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"pinyin": "dang wo yi qian zai zhe li de shi hou",
+		"soundmark": "dāng wǒ yǐ qián zài zhè lǐ de shí hòu",
+		"englishGloss": "when I was here before"
 	},
 	{
 		"chinese": "注意到；察觉到",
-		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"pinyin": "zhu yi dao ； cha jue dao",
+		"soundmark": "zhù yì dào ； chá jué dào",
+		"englishGloss": "to notice"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我注意到",
-		"english": "I notice",
-		"soundmark": "/aɪ/ /ˈnotɪs/"
+		"pinyin": "wo zhu yi dao",
+		"soundmark": "wǒ zhù yì dào",
+		"englishGloss": "I notice"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "我注意到那个",
-		"english": "I notice that",
-		"soundmark": "/aɪ/ /ˈnotɪs/ /ðæt/ /(过去)注意到 noticed/ /ˈnotɪst/"
+		"pinyin": "wo zhu yi dao na ge",
+		"soundmark": "wǒ zhù yì dào nà ge",
+		"englishGloss": "I notice that"
 	},
 	{
 		"chinese": "我(过去)注意到那个",
-		"english": "I noticed that",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /(过去)没有 didn't/ /ˈdɪdnt/"
+		"pinyin": "wo ( guo qu ) zhu yi dao na ge",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào nà ge",
+		"englishGloss": "I noticed that"
 	},
 	{
 		"chinese": "我(过去)没有注意到那个",
-		"english": "I didn't notice that",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/"
+		"pinyin": "wo ( guo qu ) mei you zhu yi dao na ge",
+		"soundmark": "wǒ ( guò qù ) méi yǒu zhù yì dào nà ge",
+		"englishGloss": "I didn't notice that"
 	},
 	{
 		"chinese": "当我以前在这里的时候",
-		"english": "when I was here before",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"pinyin": "dang wo yi qian zai zhe li de shi hou",
+		"soundmark": "dāng wǒ yǐ qián zài zhè lǐ de shí hòu",
+		"englishGloss": "when I was here before"
 	},
 	{
 		"chinese": "我(过去)没有注意那个当我以前在这里的时候",
-		"english": "I didn't notice that when I was here before",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"pinyin": "wo ( guo qu ) mei you zhu yi na ge dang wo yi qian zai zhe li de shi hou",
+		"soundmark": "wǒ ( guò qù ) méi yǒu zhù yì nà ge dāng wǒ yǐ qián zài zhè lǐ de shí hòu",
+		"englishGloss": "I didn't notice that when I was here before"
 	},
 	{
 		"chinese": "我(过去)注意到",
-		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"pinyin": "wo ( guo qu ) zhu yi dao",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào",
+		"englishGloss": "I noticed"
 	},
 	{
 		"chinese": "某个东西",
-		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"pinyin": "mou ge dong xi",
+		"soundmark": "mǒu gè dōng xī",
+		"englishGloss": "something"
 	},
 	{
 		"chinese": "错误的",
-		"english": "wrong",
-		"soundmark": "/rɔŋ/"
+		"pinyin": "cuo wu de",
+		"soundmark": "cuò wù de",
+		"englishGloss": "wrong"
 	},
 	{
 		"chinese": "错误的某个东西",
-		"english": "something wrong",
-		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/"
+		"pinyin": "cuo wu de mou ge dong xi",
+		"soundmark": "cuò wù de mǒu gè dōng xī",
+		"englishGloss": "something wrong"
 	},
 	{
 		"chinese": "那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
+		"pinyin": "na li",
+		"soundmark": "nà lǐ",
+		"englishGloss": "there"
 	},
 	{
 		"chinese": "错误的某个东西在那里",
-		"english": "something wrong is there",
-		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/"
+		"pinyin": "cuo wu de mou ge dong xi zai na li",
+		"soundmark": "cuò wù de mǒu gè dōng xī zài nà lǐ",
+		"englishGloss": "something wrong is there"
 	},
 	{
 		"chinese": "存在",
-		"english": "there is",
-		"soundmark": "/ðɛr/ /ɪz/"
+		"pinyin": "cun zai",
+		"soundmark": "cún zài",
+		"englishGloss": "there is"
 	},
 	{
 		"chinese": "存在错误的某个东西",
-		"english": "there is something wrong",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/"
+		"pinyin": "cun zai cuo wu de mou ge dong xi",
+		"soundmark": "cún zài cuò wù de mǒu gè dōng xī",
+		"englishGloss": "there is something wrong"
 	},
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "这里有错误的某个东西",
-		"english": "there is something wrong here",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/ /(过去)存在 there was/ /ðɛr/ /wəz/"
+		"pinyin": "zhe li you cuo wu de mou ge dong xi",
+		"soundmark": "zhè lǐ yǒu cuò wù de mǒu gè dōng xī",
+		"englishGloss": "there is something wrong here"
 	},
 	{
 		"chinese": "这里(过去)有错误的某个东西",
-		"english": "there was something wrong here",
-		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"pinyin": "zhe li ( guo qu ) you cuo wu de mou ge dong xi",
+		"soundmark": "zhè lǐ ( guò qù ) yǒu cuò wù de mǒu gè dōng xī",
+		"englishGloss": "there was something wrong here"
 	},
 	{
 		"chinese": "我(过去)注意到",
-		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"pinyin": "wo ( guo qu ) zhu yi dao",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào",
+		"englishGloss": "I noticed"
 	},
 	{
 		"chinese": "我(过去)注意到这里(过去)有错误的某个东西",
-		"english": "I noticed there was something wrong here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"pinyin": "wo ( guo qu ) zhu yi dao zhe li ( guo qu ) you cuo wu de mou ge dong xi",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào zhè lǐ ( guò qù ) yǒu cuò wù de mǒu gè dōng xī",
+		"englishGloss": "I noticed there was something wrong here"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "我(过去)注意到(那个)这里(过去)有错误的某个东西",
-		"english": "I noticed that there was something wrong here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"pinyin": "wo ( guo qu ) zhu yi dao ( na ge ) zhe li ( guo qu ) you cuo wu de mou ge dong xi",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào ( nà ge ) zhè lǐ ( guò qù ) yǒu cuò wù de mǒu gè dōng xī",
+		"englishGloss": "I noticed that there was something wrong here"
 	},
 	{
 		"chinese": "不同的",
-		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"pinyin": "bu tong de",
+		"soundmark": "bù tóng de",
+		"englishGloss": "different"
 	},
 	{
 		"chinese": "某个东西",
-		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"pinyin": "mou ge dong xi",
+		"soundmark": "mǒu gè dōng xī",
+		"englishGloss": "something"
 	},
 	{
 		"chinese": "不同的某个东西",
-		"english": "something different",
-		"soundmark": "/'sʌmθɪŋ/ /'dɪfrənt/"
+		"pinyin": "bu tong de mou ge dong xi",
+		"soundmark": "bù tóng de mǒu gè dōng xī",
+		"englishGloss": "something different"
 	},
 	{
 		"chinese": "存在不同的某个东西",
-		"english": "there is something different",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/"
+		"pinyin": "cun zai bu tong de mou ge dong xi",
+		"soundmark": "cún zài bù tóng de mǒu gè dōng xī",
+		"englishGloss": "there is something different"
 	},
 	{
 		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"pinyin": "zhe li",
+		"soundmark": "zhè lǐ",
+		"englishGloss": "here"
 	},
 	{
 		"chinese": "这里有不同的某个东西",
-		"english": "there is something different here",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/ /(过去)存在 there was/ /ðɛr/ /wəz/"
+		"pinyin": "zhe li you bu tong de mou ge dong xi",
+		"soundmark": "zhè lǐ yǒu bù tóng de mǒu gè dōng xī",
+		"englishGloss": "there is something different here"
 	},
 	{
 		"chinese": "这里(过去)有不同的某个东西",
-		"english": "there was something different here",
-		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"pinyin": "zhe li ( guo qu ) you bu tong de mou ge dong xi",
+		"soundmark": "zhè lǐ ( guò qù ) yǒu bù tóng de mǒu gè dōng xī",
+		"englishGloss": "there was something different here"
 	},
 	{
 		"chinese": "我(过去)注意到",
-		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"pinyin": "wo ( guo qu ) zhu yi dao",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào",
+		"englishGloss": "I noticed"
 	},
 	{
 		"chinese": "我(过去)注意到这里(过去)存在不同的某个东西",
-		"english": "I noticed there was something different here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"pinyin": "wo ( guo qu ) zhu yi dao zhe li ( guo qu ) cun zai bu tong de mou ge dong xi",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào zhè lǐ ( guò qù ) cún zài bù tóng de mǒu gè dōng xī",
+		"englishGloss": "I noticed there was something different here"
 	},
 	{
 		"chinese": "那个",
-		"english": "that",
-		"soundmark": "/ðæt/"
+		"pinyin": "na ge",
+		"soundmark": "nà ge",
+		"englishGloss": "that"
 	},
 	{
 		"chinese": "我(过去)注意到(那个)这里(过去)存在不同的某个东西",
-		"english": "I noticed that there was something different here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"pinyin": "wo ( guo qu ) zhu yi dao ( na ge ) zhe li ( guo qu ) cun zai bu tong de mou ge dong xi",
+		"soundmark": "wǒ ( guò qù ) zhù yì dào ( nà ge ) zhè lǐ ( guò qù ) cún zài bù tóng de mǒu gè dōng xī",
+		"englishGloss": "I noticed that there was something different here"
 	},
 	{
 		"chinese": "不同的",
-		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"pinyin": "bu tong de",
+		"soundmark": "bù tóng de",
+		"englishGloss": "different"
 	},
 	{
 		"chinese": "不同之处",
-		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"pinyin": "bu tong zhi chu",
+		"soundmark": "bù tóng zhī chù",
+		"englishGloss": "difference"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "和",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "he",
+		"soundmark": "hé",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "你和我",
-		"english": "you and me",
-		"soundmark": "/ju/ /ənd/ /mi/"
+		"pinyin": "ni he wo",
+		"soundmark": "nǐ hé wǒ",
+		"englishGloss": "you and me"
 	},
 	{
 		"chinese": "在你和我之间",
-		"english": "between you and me",
-		"soundmark": "/bɪ'twin/ /ju/ /ənd/ /mi/"
+		"pinyin": "zai ni he wo zhi jian",
+		"soundmark": "zài nǐ hé wǒ zhī jiān",
+		"englishGloss": "between you and me"
 	},
 	{
 		"chinese": "在你和我之间的不同",
-		"english": "difference between you and me",
-		"soundmark": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"pinyin": "zai ni he wo zhi jian de bu tong",
+		"soundmark": "zài nǐ hé wǒ zhī jiān de bù tóng",
+		"englishGloss": "difference between you and me"
 	},
 	{
 		"chinese": "大的",
-		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"pinyin": "da de",
+		"soundmark": "dà de",
+		"englishGloss": "big"
 	},
 	{
 		"chinese": "一个大的不同",
-		"english": "a big difference",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/"
+		"pinyin": "yi ge da de bu tong",
+		"soundmark": "yí gè dà de bù tóng",
+		"englishGloss": "a big difference"
 	},
 	{
 		"chinese": "在你和我之间的一个大的不同",
-		"english": "a big difference between you and me",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"pinyin": "zai ni he wo zhi jian de yi ge da de bu tong",
+		"soundmark": "zài nǐ hé wǒ zhī jiān de yí gè dà de bù tóng",
+		"englishGloss": "a big difference between you and me"
 	},
 	{
 		"chinese": "那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
+		"pinyin": "na li",
+		"soundmark": "nà lǐ",
+		"englishGloss": "there"
 	},
 	{
 		"chinese": "在你和我之间的一个大的不同在那里",
-		"english": "a big difference between you and me is there",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/"
+		"pinyin": "zai ni he wo zhi jian de yi ge da de bu tong zai na li",
+		"soundmark": "zài nǐ hé wǒ zhī jiān de yí gè dà de bù tóng zài nà lǐ",
+		"englishGloss": "a big difference between you and me is there"
 	},
 	{
 		"chinese": "存在",
-		"english": "there is",
-		"soundmark": "/ðɛr/ /ɪz/"
+		"pinyin": "cun zai",
+		"soundmark": "cún zài",
+		"englishGloss": "there is"
 	},
 	{
 		"chinese": "存在在你和我之间的一个大的不同",
-		"english": "there is a big difference between you and me",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"pinyin": "cun zai zai ni he wo zhi jian de yi ge da de bu tong",
+		"soundmark": "cún zài zài nǐ hé wǒ zhī jiān de yí gè dà de bù tóng",
+		"englishGloss": "there is a big difference between you and me"
 	},
 	{
 		"chinese": "武器",
-		"english": "weapon",
-		"soundmark": "/ˈwɛpən/"
+		"pinyin": "wu qi",
+		"soundmark": "wǔ qì",
+		"englishGloss": "weapon"
 	},
 	{
 		"chinese": "工具",
-		"english": "tool",
-		"soundmark": "/tul/"
+		"pinyin": "gong ju",
+		"soundmark": "gōng jù",
+		"englishGloss": "tool"
 	},
 	{
 		"chinese": "一个武器和一个工具",
-		"english": "a weapon and a tool",
-		"soundmark": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"pinyin": "yi ge wu qi he yi ge gong ju",
+		"soundmark": "yí gè wǔ qì hé yí gè gōng jù",
+		"englishGloss": "a weapon and a tool"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "在一个武器和一个工具之间",
-		"english": "between a weapon and a tool",
-		"soundmark": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"pinyin": "zai yi ge wu qi he yi ge gong ju zhi jian",
+		"soundmark": "zài yí gè wǔ qì hé yí gè gōng jù zhī jiān",
+		"englishGloss": "between a weapon and a tool"
 	},
 	{
 		"chinese": "存在一个大的不同",
-		"english": "there is a big difference",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/"
+		"pinyin": "cun zai yi ge da de bu tong",
+		"soundmark": "cún zài yí gè dà de bù tóng",
+		"englishGloss": "there is a big difference"
 	},
 	{
 		"chinese": "存在在一个武器和一个工具之间的一个大的不同",
-		"english": "there is a big difference between a weapon and a tool",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"pinyin": "cun zai zai yi ge wu qi he yi ge gong ju zhi jian de yi ge da de bu tong",
+		"soundmark": "cún zài zài yí gè wǔ qì hé yí gè gōng jù zhī jiān de yí gè dà de bù tóng",
+		"englishGloss": "there is a big difference between a weapon and a tool"
 	},
 	{
 		"chinese": "正确",
-		"english": "right",
-		"soundmark": "/raɪt/"
+		"pinyin": "zheng que",
+		"soundmark": "zhèng què",
+		"englishGloss": "right"
 	},
 	{
 		"chinese": "错误",
-		"english": "wrong",
-		"soundmark": "/rɔŋ/"
+		"pinyin": "cuo wu",
+		"soundmark": "cuò wù",
+		"englishGloss": "wrong"
 	},
 	{
 		"chinese": "正确和错误",
-		"english": "right and wrong",
-		"soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zheng que he cuo wu",
+		"soundmark": "zhèng què hé cuò wù",
+		"englishGloss": "right and wrong"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "在对和错之间",
-		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zai dui he cuo zhi jian",
+		"soundmark": "zài duì hé cuò zhī jiān",
+		"englishGloss": "between right and wrong"
 	},
 	{
 		"chinese": "不同之处",
-		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"pinyin": "bu tong zhi chu",
+		"soundmark": "bù tóng zhī chù",
+		"englishGloss": "difference"
 	},
 	{
 		"chinese": "那个不同之处(区别)",
-		"english": "the difference",
-		"soundmark": "/ðə/ /'dɪfrəns/"
+		"pinyin": "na ge bu tong zhi chu ( qu bie )",
+		"soundmark": "nà ge bù tóng zhī chù ( qū bié )",
+		"englishGloss": "the difference"
 	},
 	{
 		"chinese": "在对和错之间的区别",
-		"english": "the difference between right and wrong",
-		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zai dui he cuo zhi jian de qu bie",
+		"soundmark": "zài duì hé cuò zhī jiān de qū bié",
+		"englishGloss": "the difference between right and wrong"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "知道对与错的区别",
-		"english": "to know the difference between right and wrong",
-		"soundmark": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zhi dao dui yu cuo de qu bie",
+		"soundmark": "zhī dào duì yǔ cuò de qū bié",
+		"englishGloss": "to know the difference between right and wrong"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们知道",
-		"english": "we know",
-		"soundmark": "/wi/ /no/"
+		"pinyin": "wo men zhi dao",
+		"soundmark": "wǒ men zhī dào",
+		"englishGloss": "we know"
 	},
 	{
 		"chinese": "所有；全部",
-		"english": "all",
-		"soundmark": "/ɔl/"
+		"pinyin": "suo you ； quan bu",
+		"soundmark": "suǒ yǒu ； quán bù",
+		"englishGloss": "all"
 	},
 	{
 		"chinese": "我们都知道",
-		"english": "we all know",
-		"soundmark": "/wi/ /ɔl/ /no/"
+		"pinyin": "wo men dou zhi dao",
+		"soundmark": "wǒ men dōu zhī dào",
+		"englishGloss": "we all know"
 	},
 	{
 		"chinese": "我们都知道对与错的区别",
-		"english": "we all know the difference between right and wrong",
-		"soundmark": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "wo men dou zhi dao dui yu cuo de qu bie",
+		"soundmark": "wǒ men dōu zhī dào duì yǔ cuò de qū bié",
+		"englishGloss": "we all know the difference between right and wrong"
 	},
 	{
 		"chinese": "你必须知道",
-		"english": "you have to know",
-		"soundmark": "/ju/ /hæv/ /tə/ /no/"
+		"pinyin": "ni bi xu zhi dao",
+		"soundmark": "nǐ bì xū zhī dào",
+		"englishGloss": "you have to know"
 	},
 	{
 		"chinese": "你必须知道对与错的区别",
-		"english": "you have to know the difference between right and wrong",
-		"soundmark": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "ni bi xu zhi dao dui yu cuo de qu bie",
+		"soundmark": "nǐ bì xū zhī dào duì yǔ cuò de qū bié",
+		"englishGloss": "you have to know the difference between right and wrong"
 	},
 	{
 		"chinese": "告诉",
-		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "to tell"
 	},
 	{
 		"chinese": "区别",
-		"english": "the difference",
-		"soundmark": "/ðə/ /'dɪfrəns/"
+		"pinyin": "qu bie",
+		"soundmark": "qū bié",
+		"englishGloss": "the difference"
 	},
 	{
 		"chinese": "分辨区别",
-		"english": "to tell the difference",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+		"pinyin": "fen bian qu bie",
+		"soundmark": "fēn biàn qū bié",
+		"englishGloss": "to tell the difference"
 	},
 	{
 		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"pinyin": "zai . . . . . . zhi jian",
+		"soundmark": "zài . . . . . . zhī jiān",
+		"englishGloss": "between"
 	},
 	{
 		"chinese": "正确和错误",
-		"english": "right and wrong",
-		"soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zheng que he cuo wu",
+		"soundmark": "zhèng què hé cuò wù",
+		"englishGloss": "right and wrong"
 	},
 	{
 		"chinese": "在对和错之间",
-		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zai dui he cuo zhi jian",
+		"soundmark": "zài duì hé cuò zhī jiān",
+		"englishGloss": "between right and wrong"
 	},
 	{
 		"chinese": "对与错的区别",
-		"english": "the difference between right and wrong",
-		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "dui yu cuo de qu bie",
+		"soundmark": "duì yǔ cuò de qū bié",
+		"englishGloss": "the difference between right and wrong"
 	},
 	{
 		"chinese": "分辨是非",
-		"english": "to tell the difference between right and wrong",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "fen bian shi fei",
+		"soundmark": "fēn biàn shì fēi",
+		"englishGloss": "to tell the difference between right and wrong"
 	},
 	{
 		"chinese": "年龄大的；老的",
-		"english": "old",
-		"soundmark": "/old/"
+		"pinyin": "nian ling da de ； lao de",
+		"soundmark": "nián líng dà de ； lǎo de",
+		"englishGloss": "old"
 	},
 	{
 		"chinese": "足够",
-		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"pinyin": "zu gou",
+		"soundmark": "zú gòu",
+		"englishGloss": "enough"
 	},
 	{
 		"chinese": "足够年龄大",
-		"english": "old enough",
-		"soundmark": "/old/ /ɪ'nʌf/"
+		"pinyin": "zu gou nian ling da",
+		"soundmark": "zú gòu nián líng dà",
+		"englishGloss": "old enough"
 	},
 	{
 		"chinese": "你是",
-		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"pinyin": "ni shi",
+		"soundmark": "nǐ shì",
+		"englishGloss": "you are"
 	},
 	{
 		"chinese": "你是足够年龄大的",
-		"english": "you are old enough",
-		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/"
+		"pinyin": "ni shi zu gou nian ling da de",
+		"soundmark": "nǐ shì zú gòu nián líng dà de",
+		"englishGloss": "you are old enough"
 	},
 	{
 		"chinese": "你是年龄大的足够分辨是非",
-		"english": "you are old enough to tell the difference between right and wrong",
-		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "ni shi nian ling da de zu gou fen bian shi fei",
+		"soundmark": "nǐ shì nián líng dà de zú gòu fēn biàn shì fēi",
+		"englishGloss": "you are old enough to tell the difference between right and wrong"
 	},
 	{
 		"chinese": "孩子",
-		"english": "child",
-		"soundmark": "/tʃaɪld/"
+		"pinyin": "hai zi",
+		"soundmark": "hái zi",
+		"englishGloss": "child"
 	},
 	{
 		"chinese": "孩子们",
-		"english": "children",
-		"soundmark": "/'tʃɪldrən/"
+		"pinyin": "hai zi men",
+		"soundmark": "hái zi men",
+		"englishGloss": "children"
 	},
 	{
 		"chinese": "我们的",
-		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"pinyin": "wo men de",
+		"soundmark": "wǒ men de",
+		"englishGloss": "our"
 	},
 	{
 		"chinese": "我们的孩子们",
-		"english": "our children",
-		"soundmark": "/'aʊɚ/ /'tʃɪldrən/"
+		"pinyin": "wo men de hai zi men",
+		"soundmark": "wǒ men de hái zi men",
+		"englishGloss": "our children"
 	},
 	{
 		"chinese": "教",
-		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "to teach"
 	},
 	{
 		"chinese": "我们需要",
-		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"pinyin": "wo men xu yao",
+		"soundmark": "wǒ men xū yào",
+		"englishGloss": "we need"
 	},
 	{
 		"chinese": "我们需要教",
-		"english": "we need to teach",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/"
+		"pinyin": "wo men xu yao jiao",
+		"soundmark": "wǒ men xū yào jiào",
+		"englishGloss": "we need to teach"
 	},
 	{
 		"chinese": "我们需要教我们的孩子们",
-		"english": "we need to teach our children",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/"
+		"pinyin": "wo men xu yao jiao wo men de hai zi men",
+		"soundmark": "wǒ men xū yào jiào wǒ men de hái zi men",
+		"englishGloss": "we need to teach our children"
 	},
 	{
 		"chinese": "分辨区别",
-		"english": "to tell the difference",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+		"pinyin": "fen bian qu bie",
+		"soundmark": "fēn biàn qū bié",
+		"englishGloss": "to tell the difference"
 	},
 	{
 		"chinese": "在对和错之间",
-		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "zai dui he cuo zhi jian",
+		"soundmark": "zài duì hé cuò zhī jiān",
+		"englishGloss": "between right and wrong"
 	},
 	{
 		"chinese": "辨别是非",
-		"english": "to tell the difference between right and wrong",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "bian bie shi fei",
+		"soundmark": "biàn bié shì fēi",
+		"englishGloss": "to tell the difference between right and wrong"
 	},
 	{
 		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"pinyin": "ru he",
+		"soundmark": "rú hé",
+		"englishGloss": "how"
 	},
 	{
 		"chinese": "如何辨别是非",
-		"english": "how to tell the difference between right and wrong",
-		"soundmark": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "ru he bian bie shi fei",
+		"soundmark": "rú hé biàn bié shì fēi",
+		"englishGloss": "how to tell the difference between right and wrong"
 	},
 	{
 		"chinese": "我们需要教我们的孩子们如何辨别是非",
-		"english": "we need to teach our children how to tell the difference between right and wrong",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"pinyin": "wo men xu yao jiao wo men de hai zi men ru he bian bie shi fei",
+		"soundmark": "wǒ men xū yào jiào wǒ men de hái zi men rú hé biàn bié shì fēi",
+		"englishGloss": "we need to teach our children how to tell the difference between right and wrong"
 	}
 ]

@@ -1,1022 +1,1226 @@
 [
 	{
 		"chinese": "支付；付出",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "zhi fu ； fu chu",
+		"soundmark": "zhī fù ； fù chū",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "注意力",
-		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/ /(付出注意力)注意 to pay attention/ /tə/ /pe/ /ə'tɛnʃən/"
+		"pinyin": "zhu yi li",
+		"soundmark": "zhù yì lì",
+		"englishGloss": "attention"
 	},
 	{
 		"chinese": "需要",
-		"english": "need",
-		"soundmark": "/nid/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你需要注意",
-		"english": "you need to pay attention",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/"
+		"pinyin": "ni xu yao zhu yi",
+		"soundmark": "nǐ xū yào zhù yì",
+		"englishGloss": "you need to pay attention"
 	},
 	{
 		"chinese": "问题",
-		"english": "question",
-		"soundmark": "/'kwɛstʃən/"
+		"pinyin": "wen ti",
+		"soundmark": "wèn tí",
+		"englishGloss": "question"
 	},
 	{
 		"chinese": "这个",
-		"english": "this",
-		"soundmark": "/ðɪs/"
+		"pinyin": "zhe ge",
+		"soundmark": "zhè ge",
+		"englishGloss": "this"
 	},
 	{
 		"chinese": "这个问题",
-		"english": "this question",
-		"soundmark": "/ðɪs/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "this question"
 	},
 	{
 		"chinese": "注意",
-		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"pinyin": "zhu yi",
+		"soundmark": "zhù yì",
+		"englishGloss": "to pay attention"
 	},
 	{
 		"chinese": "注意这个问题",
-		"english": "to pay attention to this question",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"pinyin": "zhu yi zhe ge wen ti",
+		"soundmark": "zhù yì zhè ge wèn tí",
+		"englishGloss": "to pay attention to this question"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你需要注意这个问题",
-		"english": "you need to pay attention to this question",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"pinyin": "ni xu yao zhu yi zhe ge wen ti",
+		"soundmark": "nǐ xū yào zhù yì zhè ge wèn tí",
+		"englishGloss": "you need to pay attention to this question"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你不需要注意这个问题",
-		"english": "you don't need to pay attention to this question",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/ /(过去)需要 needed/ /nidɪd/"
+		"pinyin": "ni bu xu yao zhu yi zhe ge wen ti",
+		"soundmark": "nǐ bù xū yào zhù yì zhè ge wèn tí",
+		"englishGloss": "you don't need to pay attention to this question"
 	},
 	{
 		"chinese": "你(过去)需要注意这个问题",
-		"english": "you needed to pay attention to this question",
-		"soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/ /(过去)不 didn't/ /ˈdɪdnt/"
+		"pinyin": "ni ( guo qu ) xu yao zhu yi zhe ge wen ti",
+		"soundmark": "nǐ ( guò qù ) xū yào zhù yì zhè ge wèn tí",
+		"englishGloss": "you needed to pay attention to this question"
 	},
 	{
 		"chinese": "你(过去)不需要注意这个问题",
-		"english": "you didn't need to pay attention to this question",
-		"soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"pinyin": "ni ( guo qu ) bu xu yao zhu yi zhe ge wen ti",
+		"soundmark": "nǐ ( guò qù ) bù xū yào zhù yì zhè ge wèn tí",
+		"englishGloss": "you didn't need to pay attention to this question"
 	},
 	{
 		"chinese": "你需要注意这个问题",
-		"english": "you need to pay attention to this question",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"pinyin": "ni xu yao zhu yi zhe ge wen ti",
+		"soundmark": "nǐ xū yào zhù yì zhè ge wèn tí",
+		"englishGloss": "you need to pay attention to this question"
 	},
 	{
 		"chinese": "信息",
-		"english": "information",
-		"soundmark": "/ɪnfɚ'meʃən/"
+		"pinyin": "xin xi",
+		"soundmark": "xìn xī",
+		"englishGloss": "information"
 	},
 	{
 		"chinese": "这个",
-		"english": "this",
-		"soundmark": "/ðɪs/"
+		"pinyin": "zhe ge",
+		"soundmark": "zhè ge",
+		"englishGloss": "this"
 	},
 	{
 		"chinese": "这个信息",
-		"english": "this information",
-		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "zhe ge xin xi",
+		"soundmark": "zhè ge xìn xī",
+		"englishGloss": "this information"
 	},
 	{
 		"chinese": "你需要注意这个信息",
-		"english": "you need to pay attention to this information",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ni xu yao zhu yi zhe ge xin xi",
+		"soundmark": "nǐ xū yào zhù yì zhè ge xìn xī",
+		"englishGloss": "you need to pay attention to this information"
 	},
 	{
 		"chinese": "你注意这个信息",
-		"english": "you pay attention to this information",
-		"soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ni zhu yi zhe ge xin xi",
+		"soundmark": "nǐ zhù yì zhè ge xìn xī",
+		"englishGloss": "you pay attention to this information"
 	},
 	{
 		"chinese": "不",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "don't"
 	},
 	{
 		"chinese": "你没有注意这个信息",
-		"english": "you don't pay attention to this information",
-		"soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /(过去)付出 paid/ /ped/"
+		"pinyin": "ni mei you zhu yi zhe ge xin xi",
+		"soundmark": "nǐ méi yǒu zhù yì zhè ge xìn xī",
+		"englishGloss": "you don't pay attention to this information"
 	},
 	{
 		"chinese": "注意力",
-		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/ /(过去)付出注意力 paid attention/ /ped/ /ə'tɛnʃən/"
+		"pinyin": "zhu yi li",
+		"soundmark": "zhù yì lì",
+		"englishGloss": "attention"
 	},
 	{
 		"chinese": "你(过去)注意这个信息",
-		"english": "you paid attention to this information",
-		"soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /(过去)不 didn't/ /ˈdɪdnt/"
+		"pinyin": "ni ( guo qu ) zhu yi zhe ge xin xi",
+		"soundmark": "nǐ ( guò qù ) zhù yì zhè ge xìn xī",
+		"englishGloss": "you paid attention to this information"
 	},
 	{
 		"chinese": "你(过去)没有注意这个信息",
-		"english": "you didn't pay attention to this information",
-		"soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ni ( guo qu ) mei you zhu yi zhe ge xin xi",
+		"soundmark": "nǐ ( guò qù ) méi yǒu zhù yì zhè ge xìn xī",
+		"englishGloss": "you didn't pay attention to this information"
 	},
 	{
 		"chinese": "应该",
-		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"pinyin": "ying gai",
+		"soundmark": "yīng gāi",
+		"englishGloss": "should"
 	},
 	{
 		"chinese": "你应该",
-		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"pinyin": "ni ying gai",
+		"soundmark": "nǐ yīng gāi",
+		"englishGloss": "you should"
 	},
 	{
 		"chinese": "你应该注意这个信息",
-		"english": "you should pay attention to this information",
-		"soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ni ying gai zhu yi zhe ge xin xi",
+		"soundmark": "nǐ yīng gāi zhù yì zhè ge xìn xī",
+		"englishGloss": "you should pay attention to this information"
 	},
 	{
 		"chinese": "你不应该",
-		"english": "you should not",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/"
+		"pinyin": "ni bu ying gai",
+		"soundmark": "nǐ bú yīng gāi",
+		"englishGloss": "you should not"
 	},
 	{
 		"chinese": "你不应该注意这个信息",
-		"english": "you should not pay attention to this information",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ni bu ying gai zhu yi zhe ge xin xi",
+		"soundmark": "nǐ bú yīng gāi zhù yì zhè ge xìn xī",
+		"englishGloss": "you should not pay attention to this information"
 	},
 	{
 		"chinese": "支付；付出(ing形式)",
-		"english": "paying",
-		"soundmark": "/peɪŋ/"
+		"pinyin": "zhi fu ； fu chu ( i n g xing shi )",
+		"soundmark": "zhī fù ； fù chū ( i n g xíng shì )",
+		"englishGloss": "paying"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在付出",
-		"english": "be paying",
-		"soundmark": "/bi/ /peɪŋ/"
+		"pinyin": "zheng zai fu chu",
+		"soundmark": "zhèng zài fù chū",
+		"englishGloss": "be paying"
 	},
 	{
 		"chinese": "注意力",
-		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"pinyin": "zhu yi li",
+		"soundmark": "zhù yì lì",
+		"englishGloss": "attention"
 	},
 	{
 		"chinese": "正在注意(付出注意力)",
-		"english": "be paying attention",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+		"pinyin": "zheng zai zhu yi ( fu chu zhu yi li )",
+		"soundmark": "zhèng zài zhù yì ( fù chū zhù yì lì )",
+		"englishGloss": "be paying attention"
 	},
 	{
 		"chinese": "信息",
-		"english": "information",
-		"soundmark": "/ɪnfɚ'meʃən/"
+		"pinyin": "xin xi",
+		"soundmark": "xìn xī",
+		"englishGloss": "information"
 	},
 	{
 		"chinese": "这个信息",
-		"english": "this information",
-		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "zhe ge xin xi",
+		"soundmark": "zhè ge xìn xī",
+		"englishGloss": "this information"
 	},
 	{
 		"chinese": "正在注意这个信息",
-		"english": "be paying attention to this information",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "be paying attention to this information"
 	},
 	{
 		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/ /(you，现在时)be are/ /ɚ/"
+		"pinyin": "ni",
+		"soundmark": "nǐ",
+		"englishGloss": "you"
 	},
 	{
 		"chinese": "你(现在)正在注意这个信息",
-		"english": "you are paying attention to this information",
-		"soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ni ( xian zai ) zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "nǐ ( xiàn zài ) zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "you are paying attention to this information"
 	},
 	{
 		"chinese": "我",
-		"english": "I",
-		"soundmark": "/aɪ/ /(I，现在时)be am/ /æm/"
+		"pinyin": "wo",
+		"soundmark": "wǒ",
+		"englishGloss": "I"
 	},
 	{
 		"chinese": "我(现在)正在注意这个信息",
-		"english": "I am paying attention to this information",
-		"soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "wo ( xian zai ) zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "wǒ ( xiàn zài ) zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "I am paying attention to this information"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/ /(he，现在时)be is/ /ɪz/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他(现在)正在注意这个信息",
-		"english": "he is paying attention to this information",
-		"soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ta ( xian zai ) zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "tā ( xiàn zài ) zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "he is paying attention to this information"
 	},
 	{
 		"chinese": "不",
-		"english": "not",
-		"soundmark": "/nɑt/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "not"
 	},
 	{
 		"chinese": "他(现在)没有正在注意这个信息",
-		"english": "he is not paying attention to this information",
-		"soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /(he，过去时)be was/ /wəz/"
+		"pinyin": "ta ( xian zai ) mei you zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "tā ( xiàn zài ) méi yǒu zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "he is not paying attention to this information"
 	},
 	{
 		"chinese": "他(过去)正在注意这个信息",
-		"english": "he was paying attention to this information",
-		"soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ta ( guo qu ) zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "tā ( guò qù ) zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "he was paying attention to this information"
 	},
 	{
 		"chinese": "不",
-		"english": "not",
-		"soundmark": "/nɑt/"
+		"pinyin": "bu",
+		"soundmark": "bù",
+		"englishGloss": "not"
 	},
 	{
 		"chinese": "他(过去)没有正在注意这个信息",
-		"english": "he was not paying attention to this information",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ta ( guo qu ) mei you zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "tā ( guò qù ) méi yǒu zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "he was not paying attention to this information"
 	},
 	{
 		"chinese": "昨天",
-		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"pinyin": "zuo tian",
+		"soundmark": "zuó tiān",
+		"englishGloss": "yesterday"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "在昨天这个时候",
-		"english": "at this time yesterday",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"pinyin": "zai zuo tian zhe ge shi hou",
+		"soundmark": "zài zuó tiān zhè ge shí hòu",
+		"englishGloss": "at this time yesterday"
 	},
 	{
 		"chinese": "他在昨天这个时候没有注意到这个信息",
-		"english": "he was not paying attention to this information at this time yesterday",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"pinyin": "ta zai zuo tian zhe ge shi hou mei you zhu yi dao zhe ge xin xi",
+		"soundmark": "tā zài zuó tiān zhè ge shí hòu méi yǒu zhù yì dào zhè ge xìn xī",
+		"englishGloss": "he was not paying attention to this information at this time yesterday"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在注意(付出注意力)",
-		"english": "be paying attention",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+		"pinyin": "zheng zai zhu yi ( fu chu zhu yi li )",
+		"soundmark": "zhèng zài zhù yì ( fù chū zhù yì lì )",
+		"englishGloss": "be paying attention"
 	},
 	{
 		"chinese": "正在注意这个信息",
-		"english": "be paying attention to this information",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "be paying attention to this information"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "他将会",
-		"english": "he will",
-		"soundmark": "/hi/ /wɪl/"
+		"pinyin": "ta jiang hui",
+		"soundmark": "tā jiāng huì",
+		"englishGloss": "he will"
 	},
 	{
 		"chinese": "他将会正在注意这个信息",
-		"english": "he will be paying attention to this information",
-		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"pinyin": "ta jiang hui zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "tā jiāng huì zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "he will be paying attention to this information"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "在明天这个时候",
-		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"pinyin": "zai ming tian zhe ge shi hou",
+		"soundmark": "zài míng tiān zhè ge shí hòu",
+		"englishGloss": "at this time tomorrow"
 	},
 	{
 		"chinese": "他在明天这个时候将会正在注意这个信息",
-		"english": "he will be paying attention to this information at this time tomorrow",
-		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"pinyin": "ta zai ming tian zhe ge shi hou jiang hui zheng zai zhu yi zhe ge xin xi",
+		"soundmark": "tā zài míng tiān zhè ge shí hòu jiāng huì zhèng zài zhù yì zhè ge xìn xī",
+		"englishGloss": "he will be paying attention to this information at this time tomorrow"
 	},
 	{
 		"chinese": "细节",
-		"english": "the detail",
-		"soundmark": "/ðə/ /ˈditel/"
+		"pinyin": "xi jie",
+		"soundmark": "xì jié",
+		"englishGloss": "the detail"
 	},
 	{
 		"chinese": "细节(复数)",
-		"english": "the details",
-		"soundmark": "/ðə/ /ˈditelz/"
+		"pinyin": "xi jie ( fu shu )",
+		"soundmark": "xì jié ( fù shù )",
+		"englishGloss": "the details"
 	},
 	{
 		"chinese": "所有的",
-		"english": "all",
-		"soundmark": "/ɔl/"
+		"pinyin": "suo you de",
+		"soundmark": "suǒ yǒu de",
+		"englishGloss": "all"
 	},
 	{
 		"chinese": "所有的细节",
-		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"pinyin": "suo you de xi jie",
+		"soundmark": "suǒ yǒu de xì jié",
+		"englishGloss": "all the details"
 	},
 	{
 		"chinese": "支付；付出",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"pinyin": "zhi fu ； fu chu",
+		"soundmark": "zhī fù ； fù chū",
+		"englishGloss": "to pay"
 	},
 	{
 		"chinese": "注意力",
-		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"pinyin": "zhu yi li",
+		"soundmark": "zhù yì lì",
+		"englishGloss": "attention"
 	},
 	{
 		"chinese": "注意(付出注意力)",
-		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"pinyin": "zhu yi ( fu chu zhu yi li )",
+		"soundmark": "zhù yì ( fù chū zhù yì lì )",
+		"englishGloss": "to pay attention"
 	},
 	{
 		"chinese": "注意所有的细节",
-		"english": "to pay attention to all the details",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+		"pinyin": "zhu yi suo you de xi jie",
+		"soundmark": "zhù yì suǒ yǒu de xì jié",
+		"englishGloss": "to pay attention to all the details"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "它",
-		"english": "it",
-		"soundmark": "/ɪt/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "it"
 	},
 	{
 		"chinese": "它是重要的",
-		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi zhong yao de",
+		"soundmark": "tā shì zhòng yào de",
+		"englishGloss": "it is important"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "它是非常重要的",
-		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi fei chang zhong yao de",
+		"soundmark": "tā shì fēi cháng zhòng yào de",
+		"englishGloss": "it is very important"
 	},
 	{
 		"chinese": "注意所有的细节(它)是非常重要的",
-		"english": "it is very important to pay attention to all the details",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+		"pinyin": "zhu yi suo you de xi jie ( ta ) shi fei chang zhong yao de",
+		"soundmark": "zhù yì suǒ yǒu de xì jié ( tā ) shì fēi cháng zhòng yào de",
+		"englishGloss": "it is very important to pay attention to all the details"
 	},
 	{
 		"chinese": "讨论",
-		"english": "to discuss",
-		"soundmark": "/tə/ /dɪ'skʌs/"
+		"pinyin": "tao lun",
+		"soundmark": "tǎo lùn",
+		"englishGloss": "to discuss"
 	},
 	{
 		"chinese": "某件事情",
-		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"pinyin": "mou jian shi qing",
+		"soundmark": "mǒu jiàn shì qíng",
+		"englishGloss": "something"
 	},
 	{
 		"chinese": "讨论某件事情",
-		"english": "to discuss something",
-		"soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+		"pinyin": "tao lun mou jian shi qing",
+		"soundmark": "tǎo lùn mǒu jiàn shì qíng",
+		"englishGloss": "to discuss something"
 	},
 	{
 		"chinese": "想要(直接地)",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao ( zhi jie di )",
+		"soundmark": "xiǎng yào ( zhí jiē dì )",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "愿意;想要(委婉地)",
-		"english": "would like",
-		"soundmark": "/wʊd/ /laɪk/"
+		"pinyin": "yuan yi ; xiang yao ( wei wan di )",
+		"soundmark": "yuàn yì ; xiǎng yào ( wěi wǎn dì )",
+		"englishGloss": "would like"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I would like",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I would like"
 	},
 	{
 		"chinese": "我想要讨论某件事情",
-		"english": "I would like to discuss something",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+		"pinyin": "wo xiang yao tao lun mou jian shi qing",
+		"soundmark": "wǒ xiǎng yào tǎo lùn mǒu jiàn shì qíng",
+		"englishGloss": "I would like to discuss something"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "重要的某件事情",
-		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de mou jian shi qing",
+		"soundmark": "zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "something important"
 	},
 	{
 		"chinese": "我想要讨论重要的某件事情",
-		"english": "I would like to discuss something important",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "wo xiang yao tao lun zhong yao de mou jian shi qing",
+		"soundmark": "wǒ xiǎng yào tǎo lùn zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "I would like to discuss something important"
 	},
 	{
 		"chinese": "和......一起",
-		"english": "with",
-		"soundmark": "/wɪð/"
+		"pinyin": "he . . . . . . yi qi",
+		"soundmark": "hé . . . . . . yì qǐ",
+		"englishGloss": "with"
 	},
 	{
 		"chinese": "和你一起",
-		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"pinyin": "he ni yi qi",
+		"soundmark": "hé nǐ yì qǐ",
+		"englishGloss": "with you"
 	},
 	{
 		"chinese": "我想要和你一起讨论重要的某件事情",
-		"english": "I would like to discuss something important with you",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/"
+		"pinyin": "wo xiang yao he ni yi qi tao lun zhong yao de mou jian shi qing",
+		"soundmark": "wǒ xiǎng yào hé nǐ yì qǐ tǎo lùn zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "I would like to discuss something important with you"
 	},
 	{
 		"chinese": "我们",
-		"english": "we",
-		"soundmark": "/wi/"
+		"pinyin": "wo men",
+		"soundmark": "wǒ men",
+		"englishGloss": "we"
 	},
 	{
 		"chinese": "我们想要讨论重要的某件事情",
-		"english": "we would like to discuss something important",
-		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "wo men xiang yao tao lun zhong yao de mou jian shi qing",
+		"soundmark": "wǒ men xiǎng yào tǎo lùn zhòng yào de mǒu jiàn shì qíng",
+		"englishGloss": "we would like to discuss something important"
 	},
 	{
 		"chinese": "我们讨论",
-		"english": "we discuss",
-		"soundmark": "/wi/ /dɪ'skʌs/"
+		"pinyin": "wo men tao lun",
+		"soundmark": "wǒ men tǎo lùn",
+		"englishGloss": "we discuss"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kən/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "我们可以讨论",
-		"english": "we can discuss",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/"
+		"pinyin": "wo men ke yi tao lun",
+		"soundmark": "wǒ men kě yǐ tǎo lùn",
+		"englishGloss": "we can discuss"
 	},
 	{
 		"chinese": "所有的",
-		"english": "all",
-		"soundmark": "/ɔl/"
+		"pinyin": "suo you de",
+		"soundmark": "suǒ yǒu de",
+		"englishGloss": "all"
 	},
 	{
 		"chinese": "细节(复数)",
-		"english": "the details",
-		"soundmark": "/ðə/ /ˈditelz/"
+		"pinyin": "xi jie ( fu shu )",
+		"soundmark": "xì jié ( fù shù )",
+		"englishGloss": "the details"
 	},
 	{
 		"chinese": "所有的细节",
-		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"pinyin": "suo you de xi jie",
+		"soundmark": "suǒ yǒu de xì jié",
+		"englishGloss": "all the details"
 	},
 	{
 		"chinese": "我们可以讨论所有的细节",
-		"english": "we can discuss all the details",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/"
+		"pinyin": "wo men ke yi tao lun suo you de xi jie",
+		"soundmark": "wǒ men kě yǐ tǎo lùn suǒ yǒu de xì jié",
+		"englishGloss": "we can discuss all the details"
 	},
 	{
 		"chinese": "这个计划",
-		"english": "the plan",
-		"soundmark": "/ðə/ /plæn/"
+		"pinyin": "zhe ge ji hua",
+		"soundmark": "zhè ge jì huà",
+		"englishGloss": "the plan"
 	},
 	{
 		"chinese": "所有的细节",
-		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"pinyin": "suo you de xi jie",
+		"soundmark": "suǒ yǒu de xì jié",
+		"englishGloss": "all the details"
 	},
 	{
 		"chinese": "这个计划的所有的细节",
-		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"pinyin": "zhe ge ji hua de suo you de xi jie",
+		"soundmark": "zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "all the details of the plan"
 	},
 	{
 		"chinese": "我们可以讨论这个计划的所有的细节",
-		"english": "we can discuss all the details of the plan",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"pinyin": "wo men ke yi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men kě yǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we can discuss all the details of the plan"
 	},
 	{
 		"chinese": "一起",
-		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"pinyin": "yi qi",
+		"soundmark": "yì qǐ",
+		"englishGloss": "together"
 	},
 	{
 		"chinese": "我们可以一起讨论这个计划的所有的细节",
-		"english": "we can discuss all the details of the plan together",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men ke yi yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men kě yǐ yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we can discuss all the details of the plan together"
 	},
 	{
 		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"pinyin": "jiang hui",
+		"soundmark": "jiāng huì",
+		"englishGloss": "will"
 	},
 	{
 		"chinese": "我们将会一起讨论这个计划的所有的细节",
-		"english": "we will discuss all the details of the plan together",
-		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men jiāng huì yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we will discuss all the details of the plan together"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "早上",
-		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"pinyin": "zao shang",
+		"soundmark": "zǎo shàng",
+		"englishGloss": "morning"
 	},
 	{
 		"chinese": "明天早上",
-		"english": "tomorrow morning",
-		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+		"pinyin": "ming tian zao shang",
+		"soundmark": "míng tiān zǎo shàng",
+		"englishGloss": "tomorrow morning"
 	},
 	{
 		"chinese": "我们明天早上将会一起讨论这个计划的所有的细节",
-		"english": "we will discuss all the details of the plan together tomorrow morning",
-		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"pinyin": "wo men ming tian zao shang jiang hui yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men míng tiān zǎo shàng jiàng huì yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we will discuss all the details of the plan together tomorrow morning"
 	},
 	{
 		"chinese": "讨论(ing形式)",
-		"english": "discussing",
-		"soundmark": "/dɪ'skʌsɪŋ/"
+		"pinyin": "tao lun ( i n g xing shi )",
+		"soundmark": "tǎo lùn ( i n g xíng shì )",
+		"englishGloss": "discussing"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在讨论",
-		"english": "be discussing",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+		"pinyin": "zheng zai tao lun",
+		"soundmark": "zhèng zài tǎo lùn",
+		"englishGloss": "be discussing"
 	},
 	{
 		"chinese": "这个计划的所有的细节",
-		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"pinyin": "zhe ge ji hua de suo you de xi jie",
+		"soundmark": "zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "all the details of the plan"
 	},
 	{
 		"chinese": "正在讨论这个计划的所有细节",
-		"english": "be discussing all the details of the plan",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"pinyin": "zheng zai tao lun zhe ge ji hua de suo you xi jie",
+		"soundmark": "zhèng zài tǎo lùn zhè ge jì huà de suǒ yǒu xì jié",
+		"englishGloss": "be discussing all the details of the plan"
 	},
 	{
 		"chinese": "一起",
-		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"pinyin": "yi qi",
+		"soundmark": "yì qǐ",
+		"englishGloss": "together"
 	},
 	{
 		"chinese": "正在一起讨论这个计划的所有细节",
-		"english": "be discussing all the details of the plan together",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /(we，现在时)be are/ /ɚ/"
+		"pinyin": "zheng zai yi qi tao lun zhe ge ji hua de suo you xi jie",
+		"soundmark": "zhèng zài yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu xì jié",
+		"englishGloss": "be discussing all the details of the plan together"
 	},
 	{
 		"chinese": "我们(现在)正在讨论",
-		"english": "we are discussing",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/"
+		"pinyin": "wo men ( xian zai ) zheng zai tao lun",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài tǎo lùn",
+		"englishGloss": "we are discussing"
 	},
 	{
 		"chinese": "这个计划的所有的细节",
-		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"pinyin": "zhe ge ji hua de suo you de xi jie",
+		"soundmark": "zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "all the details of the plan"
 	},
 	{
 		"chinese": "我们(现在)正在讨论这个计划",
-		"english": "we are discussing all the details",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/"
+		"pinyin": "wo men ( xian zai ) zheng zai tao lun zhe ge ji hua",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài tǎo lùn zhè ge jì huà",
+		"englishGloss": "we are discussing all the details"
 	},
 	{
 		"chinese": "的所有的细节",
-		"english": "of the plan",
-		"soundmark": "/ðə/ /plæn/"
+		"pinyin": "de suo you de xi jie",
+		"soundmark": "de suǒ yǒu de xì jié",
+		"englishGloss": "of the plan"
 	},
 	{
 		"chinese": "一起",
-		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"pinyin": "yi qi",
+		"soundmark": "yì qǐ",
+		"englishGloss": "together"
 	},
 	{
 		"chinese": "我们(现在)正在一起讨论这个计划的所有的细节",
-		"english": "we are discussing all the details of the plan together",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /(we，过去时)be were/ /wɚ/"
+		"pinyin": "wo men ( xian zai ) zheng zai yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men ( xiàn zài ) zhèng zài yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we are discussing all the details of the plan together"
 	},
 	{
 		"chinese": "我们(过去)正在一起讨论这个计划的所有的细节",
-		"english": "we were discussing all the details of the plan together",
-		"soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men ( guo qu ) zheng zai yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men ( guò qù ) zhèng zài yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we were discussing all the details of the plan together"
 	},
 	{
 		"chinese": "是；赋值(原型)",
-		"english": "be",
-		"soundmark": "/bi/"
+		"pinyin": "shi ； fu zhi ( yuan xing )",
+		"soundmark": "shì ； fù zhí ( yuán xíng )",
+		"englishGloss": "be"
 	},
 	{
 		"chinese": "正在讨论",
-		"english": "be discussing",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+		"pinyin": "zheng zai tao lun",
+		"soundmark": "zhèng zài tǎo lùn",
+		"englishGloss": "be discussing"
 	},
 	{
 		"chinese": "正在一起讨论这个计划的所有细节",
-		"english": "be discussing all the details of the plan together",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"pinyin": "zheng zai yi qi tao lun zhe ge ji hua de suo you xi jie",
+		"soundmark": "zhèng zài yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu xì jié",
+		"englishGloss": "be discussing all the details of the plan together"
 	},
 	{
 		"chinese": "我们将会",
-		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"pinyin": "wo men jiang hui",
+		"soundmark": "wǒ men jiāng huì",
+		"englishGloss": "we will"
 	},
 	{
 		"chinese": "我们将会正在一起讨论这个计划的所有的细节",
-		"english": "we will be discussing all the details of the plan together",
-		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"pinyin": "wo men jiang hui zheng zai yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men jiāng huì zhèng zài yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we will be discussing all the details of the plan together"
 	},
 	{
 		"chinese": "明天",
-		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"pinyin": "ming tian",
+		"soundmark": "míng tiān",
+		"englishGloss": "tomorrow"
 	},
 	{
 		"chinese": "在这个时候",
-		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"pinyin": "zai zhe ge shi hou",
+		"soundmark": "zài zhè ge shí hòu",
+		"englishGloss": "at this time"
 	},
 	{
 		"chinese": "在明天这个时候",
-		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"pinyin": "zai ming tian zhe ge shi hou",
+		"soundmark": "zài míng tiān zhè ge shí hòu",
+		"englishGloss": "at this time tomorrow"
 	},
 	{
 		"chinese": "我们在明天这个时候将会正在一起讨论这个计划的所有的细节",
-		"english": "we will be discussing all the details of the plan together at this time tomorrow",
-		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"pinyin": "wo men zai ming tian zhe ge shi hou jiang hui zheng zai yi qi tao lun zhe ge ji hua de suo you de xi jie",
+		"soundmark": "wǒ men zài míng tiān zhè ge shí hòu jiāng huì zhèng zài yì qǐ tǎo lùn zhè ge jì huà de suǒ yǒu de xì jié",
+		"englishGloss": "we will be discussing all the details of the plan together at this time tomorrow"
 	},
 	{
 		"chinese": "中文 原形 第三人称单数 过去式想要",
-		"english": "want wants",
-		"soundmark": "/wanted/"
+		"pinyin": "zhong wen   yuan xing   di san ren cheng dan shu   guo qu shi xiang yao",
+		"soundmark": "zhōng wén   yuán xíng   dì sān rén chēng dān shù   guò qù shì xiǎng yào",
+		"englishGloss": "want wants"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like likes",
-		"soundmark": "/liked/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like likes"
 	},
 	{
 		"chinese": "有；(+to)不得不",
-		"english": "have has",
-		"soundmark": "/had/"
+		"pinyin": "you ； ( + t o ) bu de bu",
+		"soundmark": "yǒu ； ( + t o ) bù dé bù",
+		"englishGloss": "have has"
 	},
 	{
 		"chinese": "计划",
-		"english": "plan plans",
-		"soundmark": "/planned/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "plan plans"
 	},
 	{
 		"chinese": "需要",
-		"english": "need needs",
-		"soundmark": "/needed/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need needs"
 	},
 	{
 		"chinese": "做",
-		"english": "do does",
-		"soundmark": "/did/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "do does"
 	},
 	{
 		"chinese": "告诉",
-		"english": "tell tells",
-		"soundmark": "/told/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "tell tells"
 	},
 	{
 		"chinese": "说话",
-		"english": "talk talks",
-		"soundmark": "/talked/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "talk talks"
 	},
 	{
 		"chinese": "是",
-		"english": "be(am) is",
-		"soundmark": "/was/"
+		"pinyin": "shi",
+		"soundmark": "shì",
+		"englishGloss": "be(am) is"
 	},
 	{
 		"chinese": "是",
-		"english": "be(is ) is",
-		"soundmark": "/was/"
+		"pinyin": "shi",
+		"soundmark": "shì",
+		"englishGloss": "be(is ) is"
 	},
 	{
 		"chinese": "是",
-		"english": "be(are) is",
-		"soundmark": "/were/"
+		"pinyin": "shi",
+		"soundmark": "shì",
+		"englishGloss": "be(are) is"
 	},
 	{
 		"chinese": "看到",
-		"english": "see sees",
-		"soundmark": "/saw/"
+		"pinyin": "kan dao",
+		"soundmark": "kàn dào",
+		"englishGloss": "see sees"
 	},
 	{
 		"chinese": "吃",
-		"english": "eat eats",
-		"soundmark": "/ate/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "eat eats"
 	},
 	{
 		"chinese": "喝",
-		"english": "drink drinks",
-		"soundmark": "/drank/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "drink drinks"
 	},
 	{
 		"chinese": "知道",
-		"english": "know knows",
-		"soundmark": "/knew/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "know knows"
 	},
 	{
 		"chinese": "忘记",
-		"english": "forget forgets",
-		"soundmark": "/forgot/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "forget forgets"
 	},
 	{
 		"chinese": "失去",
-		"english": "lose loses",
-		"soundmark": "/lost/"
+		"pinyin": "shi qu",
+		"soundmark": "shī qù",
+		"englishGloss": "lose loses"
 	},
 	{
 		"chinese": "离开",
-		"english": "leave leaves",
-		"soundmark": "/left/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "leave leaves"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "sleep sleeps",
-		"soundmark": "/slept/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "sleep sleeps"
 	},
 	{
 		"chinese": "明白",
-		"english": "understand understands",
-		"soundmark": "/understood/"
+		"pinyin": "ming bai",
+		"soundmark": "míng bái",
+		"englishGloss": "understand understands"
 	},
 	{
 		"chinese": "买",
-		"english": "buy buys",
-		"soundmark": "/bought/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "buy buys"
 	},
 	{
 		"chinese": "洗",
-		"english": "wash washes",
-		"soundmark": "/washed/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "wash washes"
 	},
 	{
 		"chinese": "打电话",
-		"english": "call calls",
-		"soundmark": "/called/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "call calls"
 	},
 	{
 		"chinese": "帮助",
-		"english": "help helps",
-		"soundmark": "/helped/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "help helps"
 	},
 	{
 		"chinese": "相信",
-		"english": "believe believes",
-		"soundmark": "/believed/"
+		"pinyin": "xiang xin",
+		"soundmark": "xiāng xìn",
+		"englishGloss": "believe believes"
 	},
 	{
 		"chinese": "学习",
-		"english": "study studies",
-		"soundmark": "/studied/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "study studies"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain explains",
-		"soundmark": "/explained/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain explains"
 	},
 	{
 		"chinese": "问",
-		"english": "ask asks",
-		"soundmark": "/asked/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "ask asks"
 	},
 	{
 		"chinese": "飞",
-		"english": "fly flies",
-		"soundmark": "/flew/"
+		"pinyin": "fei",
+		"soundmark": "fēi",
+		"englishGloss": "fly flies"
 	},
 	{
 		"chinese": "阅读",
-		"english": "read reads",
-		"soundmark": "/read/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "read reads"
 	},
 	{
 		"chinese": "走路",
-		"english": "walk walks",
-		"soundmark": "/walked/"
+		"pinyin": "zou lu",
+		"soundmark": "zǒu lù",
+		"englishGloss": "walk walks"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "dance dances",
-		"soundmark": "/danced/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "dance dances"
 	},
 	{
 		"chinese": "回答",
-		"english": "answer answers",
-		"soundmark": "/answered/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "answer answers"
 	},
 	{
 		"chinese": "工作",
-		"english": "work works",
-		"soundmark": "/worked/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work works"
 	},
 	{
 		"chinese": "待在",
-		"english": "stay stays",
-		"soundmark": "/stayed/"
+		"pinyin": "dai zai",
+		"soundmark": "dài zài",
+		"englishGloss": "stay stays"
 	},
 	{
 		"chinese": "支付",
-		"english": "pay pays",
-		"soundmark": "/paid/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "pay pays"
 	},
 	{
 		"chinese": "旅行",
-		"english": "travel travels",
-		"soundmark": "/traveled/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "travel travels"
 	},
 	{
 		"chinese": "给",
-		"english": "give gives",
-		"soundmark": "/gave/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "give gives"
 	},
 	{
 		"chinese": "达到",
-		"english": "get gets",
-		"soundmark": "/got/"
+		"pinyin": "da dao",
+		"soundmark": "dá dào",
+		"englishGloss": "get gets"
 	},
 	{
 		"chinese": "锁",
-		"english": "lock locks",
-		"soundmark": "/locked/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "lock locks"
 	},
 	{
 		"chinese": "记得",
-		"english": "remember remembers",
-		"soundmark": "/Remembered/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "remember remembers"
 	},
 	{
 		"chinese": "清理",
-		"english": "clean cleans",
-		"soundmark": "/cleaned/"
+		"pinyin": "qing li",
+		"soundmark": "qīng lǐ",
+		"englishGloss": "clean cleans"
 	},
 	{
 		"chinese": "找到",
-		"english": "find finds",
-		"soundmark": "/found/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "find finds"
 	},
 	{
 		"chinese": "关闭",
-		"english": "close closes",
-		"soundmark": "/closed/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "close closes"
 	},
 	{
 		"chinese": "教",
-		"english": "teach teaches",
-		"soundmark": "/taught/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "teach teaches"
 	},
 	{
 		"chinese": "展示",
-		"english": "show shows",
-		"soundmark": "/showed/"
+		"pinyin": "zhan shi",
+		"soundmark": "zhǎn shì",
+		"englishGloss": "show shows"
 	},
 	{
 		"chinese": "让",
-		"english": "let lets",
-		"soundmark": "/let/"
+		"pinyin": "rang",
+		"soundmark": "ràng",
+		"englishGloss": "let lets"
 	},
 	{
 		"chinese": "休息",
-		"english": "rest rests",
-		"soundmark": "/rested/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "rest rests"
 	},
 	{
 		"chinese": "用",
-		"english": "use uses",
-		"soundmark": "/used/"
+		"pinyin": "yong",
+		"soundmark": "yòng",
+		"englishGloss": "use uses"
 	},
 	{
 		"chinese": "做饭",
-		"english": "cook cooks",
-		"soundmark": "/cooked/"
+		"pinyin": "zuo fan",
+		"soundmark": "zuò fàn",
+		"englishGloss": "cook cooks"
 	},
 	{
 		"chinese": "去",
-		"english": "go goes",
-		"soundmark": "/went/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "go goes"
 	},
 	{
 		"chinese": "决定",
-		"english": "decide decides",
-		"soundmark": "/decided/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "decide decides"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "drive drives",
-		"soundmark": "/drove/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "drive drives"
 	},
 	{
 		"chinese": "改变",
-		"english": "change changes",
-		"soundmark": "/changed/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "change changes"
 	},
 	{
 		"chinese": "尝试",
-		"english": "try tries",
-		"soundmark": "/tried/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "try tries"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop stops",
-		"soundmark": "/Stopped/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop stops"
 	},
 	{
 		"chinese": "参加",
-		"english": "join joins",
-		"soundmark": "/joined/"
+		"pinyin": "can jia",
+		"soundmark": "cān jiā",
+		"englishGloss": "join joins"
 	},
 	{
 		"chinese": "邀请",
-		"english": "invite invites",
-		"soundmark": "/invited/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "invite invites"
 	},
 	{
 		"chinese": "拒绝",
-		"english": "refuse refuses",
-		"soundmark": "/refused/"
+		"pinyin": "ju jue",
+		"soundmark": "jù jué",
+		"englishGloss": "refuse refuses"
 	},
 	{
 		"chinese": "接受",
-		"english": "accept accepts",
-		"soundmark": "/accepted/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "accept accepts"
 	},
 	{
 		"chinese": "学习",
-		"english": "learn learns",
-		"soundmark": "/learnt/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "learn learns"
 	},
 	{
 		"chinese": "完成",
-		"english": "finish finishes",
-		"soundmark": "/finished/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "finish finishes"
 	},
 	{
 		"chinese": "看",
-		"english": "watch watches",
-		"soundmark": "/watched/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "watch watches"
 	},
 	{
 		"chinese": "游泳",
-		"english": "swim swims",
-		"soundmark": "/swam/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "swim swims"
 	},
 	{
 		"chinese": "掌握",
-		"english": "master masters",
-		"soundmark": "/mastered/"
+		"pinyin": "zhang wo",
+		"soundmark": "zhǎng wò",
+		"englishGloss": "master masters"
 	},
 	{
 		"chinese": "购物",
-		"english": "shop shops",
-		"soundmark": "/shopped/"
+		"pinyin": "gou wu",
+		"soundmark": "gòu wù",
+		"englishGloss": "shop shops"
 	},
 	{
 		"chinese": "等待",
-		"english": "wait waits",
-		"soundmark": "/waited/"
+		"pinyin": "deng dai",
+		"soundmark": "děng dài",
+		"englishGloss": "wait waits"
 	},
 	{
 		"chinese": "讨论",
-		"english": "discuss discusses",
-		"soundmark": "/discussed/"
+		"pinyin": "tao lun",
+		"soundmark": "tǎo lùn",
+		"englishGloss": "discuss discusses"
 	}
 ]

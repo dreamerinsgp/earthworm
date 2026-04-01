@@ -1,1017 +1,1220 @@
 [
 	{
 		"chinese": "我们的",
-		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"pinyin": "wo men de",
+		"soundmark": "wǒ men de",
+		"englishGloss": "our"
 	},
 	{
 		"chinese": "团队",
-		"english": "team",
-		"soundmark": "/tim/"
+		"pinyin": "tuan dui",
+		"soundmark": "tuán duì",
+		"englishGloss": "team"
 	},
 	{
 		"chinese": "我们的团队",
-		"english": "our team",
-		"soundmark": "/'aʊɚ/ /tim/"
+		"pinyin": "wo men de tuan dui",
+		"soundmark": "wǒ men de tuán duì",
+		"englishGloss": "our team"
 	},
 	{
 		"chinese": "加入",
-		"english": "to join",
-		"soundmark": "/tə/ /dʒɔɪn/"
+		"pinyin": "jia ru",
+		"soundmark": "jiā rù",
+		"englishGloss": "to join"
 	},
 	{
 		"chinese": "加入我们的团队",
-		"english": "to join our team",
-		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jia ru wo men de tuan dui",
+		"soundmark": "jiā rù wǒ men de tuán duì",
+		"englishGloss": "to join our team"
 	},
 	{
 		"chinese": "决定",
-		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "to decide"
 	},
 	{
 		"chinese": "决定加入我们的团队",
-		"english": "to decide to join our team",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jue ding jia ru wo men de tuan dui",
+		"soundmark": "jué dìng jiā rù wǒ men de tuán duì",
+		"englishGloss": "to decide to join our team"
 	},
 	{
 		"chinese": "他决定加入我们的团队",
-		"english": "he decides to join our team",
-		"soundmark": "/hi/ /dɪ'saɪdz/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "ta jue ding jia ru wo men de tuan dui",
+		"soundmark": "tā jué dìng jiā rù wǒ men de tuán duì",
+		"englishGloss": "he decides to join our team"
 	},
 	{
 		"chinese": "他（过去）决定加入我们的团队",
-		"english": "he decided to join our team",
-		"soundmark": "/hi/ /dɪ'saɪdɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "ta （ guo qu ） jue ding jia ru wo men de tuan dui",
+		"soundmark": "tā （ guò qù ） jué dìng jiā rù wǒ men de tuán duì",
+		"englishGloss": "he decided to join our team"
 	},
 	{
 		"chinese": "邀请",
-		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "to invite"
 	},
 	{
 		"chinese": "邀请（名词）",
-		"english": "invitation",
-		"soundmark": "/ɪnvɪ'teʃən/"
+		"pinyin": "yao qing （ ming ci ）",
+		"soundmark": "yāo qǐng （ míng cí ）",
+		"englishGloss": "invitation"
 	},
 	{
 		"chinese": "这个邀请",
-		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"pinyin": "zhe ge yao qing",
+		"soundmark": "zhè ge yāo qǐng",
+		"englishGloss": "the invitation"
 	},
 	{
 		"chinese": "接受",
-		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "to accept"
 	},
 	{
 		"chinese": "接受这个邀请",
-		"english": "to accept the invitation",
-		"soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/"
+		"pinyin": "jie shou zhe ge yao qing",
+		"soundmark": "jiē shòu zhè ge yāo qǐng",
+		"englishGloss": "to accept the invitation"
 	},
 	{
 		"chinese": "加入我们的团队",
-		"english": "to join our team",
-		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jia ru wo men de tuan dui",
+		"soundmark": "jiā rù wǒ men de tuán duì",
+		"englishGloss": "to join our team"
 	},
 	{
 		"chinese": "加入我们的团队的邀请",
-		"english": "the invitation to join our team",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jia ru wo men de tuan dui de yao qing",
+		"soundmark": "jiā rù wǒ men de tuán duì de yāo qǐng",
+		"englishGloss": "the invitation to join our team"
 	},
 	{
 		"chinese": "接受加入我们团队的邀请",
-		"english": "to accept the invitation to join our team",
-		"soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "jie shou jia ru wo men tuan dui de yao qing",
+		"soundmark": "jiē shòu jiā rù wǒ men tuán duì de yāo qǐng",
+		"englishGloss": "to accept the invitation to join our team"
 	},
 	{
 		"chinese": "他接受加入我们团队的邀请",
-		"english": "he accepts the invitation to join our team",
-		"soundmark": "/hi/ /ək'sɛpts/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "ta jie shou jia ru wo men tuan dui de yao qing",
+		"soundmark": "tā jiē shòu jiā rù wǒ men tuán duì de yāo qǐng",
+		"englishGloss": "he accepts the invitation to join our team"
 	},
 	{
 		"chinese": "他不接受加入我们团队的邀请",
-		"english": "he doesn't accept the invitation to join our team",
-		"soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "ta bu jie shou jia ru wo men tuan dui de yao qing",
+		"soundmark": "tā bù jiē shòu jiā rù wǒ men tuán duì de yāo qǐng",
+		"englishGloss": "he doesn't accept the invitation to join our team"
 	},
 	{
 		"chinese": "他接受了加入我们团队的邀请",
-		"english": "he accepted the invitation to join our team",
-		"soundmark": "/hi/ /ək'sɛptɪd/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "ta jie shou le jia ru wo men tuan dui de yao qing",
+		"soundmark": "tā jiē shòu le jiā rù wǒ men tuán duì de yāo qǐng",
+		"englishGloss": "he accepted the invitation to join our team"
 	},
 	{
 		"chinese": "他（过去）没有接受加入我们团队的邀请",
-		"english": "he didn't accept the invitation to join our team",
-		"soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"pinyin": "ta （ guo qu ） mei you jie shou jia ru wo men tuan dui de yao qing",
+		"soundmark": "tā （ guò qù ） méi yǒu jiē shòu jiā rù wǒ men tuán duì de yāo qǐng",
+		"englishGloss": "he didn't accept the invitation to join our team"
 	},
 	{
 		"chinese": "这个礼物",
-		"english": "the gift",
-		"soundmark": "/ðə/ /ɡɪft/"
+		"pinyin": "zhe ge li wu",
+		"soundmark": "zhè ge lǐ wù",
+		"englishGloss": "the gift"
 	},
 	{
 		"chinese": "接受",
-		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "to accept"
 	},
 	{
 		"chinese": "接受这个礼物",
-		"english": "to accept the gift",
-		"soundmark": "/tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "jie shou zhe ge li wu",
+		"soundmark": "jiē shòu zhè ge lǐ wù",
+		"englishGloss": "to accept the gift"
 	},
 	{
 		"chinese": "他",
-		"english": "he",
-		"soundmark": "/hi/"
+		"pinyin": "ta",
+		"soundmark": "tā",
+		"englishGloss": "he"
 	},
 	{
 		"chinese": "他接受这个礼物",
-		"english": "he accepts the gift",
-		"soundmark": "/hi/ /ək'sɛpts/ /ðə/ /ɡɪft/"
+		"pinyin": "ta jie shou zhe ge li wu",
+		"soundmark": "tā jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he accepts the gift"
 	},
 	{
 		"chinese": "他不接受这个礼物",
-		"english": "he doesn't accept the gift",
-		"soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "ta bu jie shou zhe ge li wu",
+		"soundmark": "tā bù jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he doesn't accept the gift"
 	},
 	{
 		"chinese": "他（过去）接受这个礼物",
-		"english": "he accepted the gift",
-		"soundmark": "/hi/ /ək'sɛptɪd/ /ðə/ /ɡɪft/"
+		"pinyin": "ta （ guo qu ） jie shou zhe ge li wu",
+		"soundmark": "tā （ guò qù ） jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he accepted the gift"
 	},
 	{
 		"chinese": "他（过去）没有接受这个礼物",
-		"english": "he didn't accept the gift",
-		"soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "ta （ guo qu ） mei you jie shou zhe ge li wu",
+		"soundmark": "tā （ guò qù ） méi yǒu jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he didn't accept the gift"
 	},
 	{
 		"chinese": "他想要",
-		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "he wants"
 	},
 	{
 		"chinese": "他想要接受这个礼物",
-		"english": "he wants to accept the gift",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "ta xiang yao jie shou zhe ge li wu",
+		"soundmark": "tā xiǎng yào jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he wants to accept the gift"
 	},
 	{
 		"chinese": "他不想接受这个礼物",
-		"english": "he doesn't want to accept the gift",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "ta bu xiang jie shou zhe ge li wu",
+		"soundmark": "tā bù xiǎng jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he doesn't want to accept the gift"
 	},
 	{
 		"chinese": "他（过去）想要接受这个礼物",
-		"english": "he wanted to accept the gift",
-		"soundmark": "/hi/ /wɑntɪd/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "ta （ guo qu ） xiang yao jie shou zhe ge li wu",
+		"soundmark": "tā （ guò qù ） xiǎng yào jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he wanted to accept the gift"
 	},
 	{
 		"chinese": "他（过去）不想接受这个礼物",
-		"english": "he didn't want to accept the gift",
-		"soundmark": "/hi/ /ˈdɪdnt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"pinyin": "ta （ guo qu ） bu xiang jie shou zhe ge li wu",
+		"soundmark": "tā （ guò qù ） bù xiǎng jiē shòu zhè ge lǐ wù",
+		"englishGloss": "he didn't want to accept the gift"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "你的",
-		"english": "your",
-		"soundmark": "/jʊr/"
+		"pinyin": "ni de",
+		"soundmark": "nǐ de",
+		"englishGloss": "your"
 	},
 	{
 		"chinese": "家庭作业",
-		"english": "homework",
-		"soundmark": "/'hom'wɝk/"
+		"pinyin": "jia ting zuo ye",
+		"soundmark": "jiā tíng zuò yè",
+		"englishGloss": "homework"
 	},
 	{
 		"chinese": "你的家庭作业",
-		"english": "your homework",
-		"soundmark": "/jʊr/ /'hom'wɝk/"
+		"pinyin": "ni de jia ting zuo ye",
+		"soundmark": "nǐ de jiā tíng zuò yè",
+		"englishGloss": "your homework"
 	},
 	{
 		"chinese": "完成你的家庭作业",
-		"english": "to finish your homework",
-		"soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+		"pinyin": "wan cheng ni de jia ting zuo ye",
+		"soundmark": "wán chéng nǐ de jiā tíng zuò yè",
+		"englishGloss": "to finish your homework"
 	},
 	{
 		"chinese": "我想要你",
-		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"pinyin": "wo xiang yao ni",
+		"soundmark": "wǒ xiǎng yào nǐ",
+		"englishGloss": "I want you"
 	},
 	{
 		"chinese": "我想要你完成你的家庭作业",
-		"english": "I want you to finish your homework",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+		"pinyin": "wo xiang yao ni wan cheng ni de jia ting zuo ye",
+		"soundmark": "wǒ xiǎng yào nǐ wán chéng nǐ de jiā tíng zuò yè",
+		"englishGloss": "I want you to finish your homework"
 	},
 	{
 		"chinese": "看",
-		"english": "to watch",
-		"soundmark": "/tə/ /wɔtʃ/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "to watch"
 	},
 	{
 		"chinese": "电视",
-		"english": "TV",
-		"soundmark": "/ˈtiˈvi/"
+		"pinyin": "dian shi",
+		"soundmark": "diàn shì",
+		"englishGloss": "TV"
 	},
 	{
 		"chinese": "看电视",
-		"english": "to watch TV",
-		"soundmark": "/tə/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "kan dian shi",
+		"soundmark": "kàn diàn shì",
+		"englishGloss": "to watch TV"
 	},
 	{
 		"chinese": "你看电视",
-		"english": "you watch TV",
-		"soundmark": "/ju/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "ni kan dian shi",
+		"soundmark": "nǐ kàn diàn shì",
+		"englishGloss": "you watch TV"
 	},
 	{
 		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"pinyin": "zai . . . . . . zhi qian",
+		"soundmark": "zài . . . . . . zhī qián",
+		"englishGloss": "before"
 	},
 	{
 		"chinese": "在你看电视之前",
-		"english": "before you watch TV",
-		"soundmark": "/bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "zai ni kan dian shi zhi qian",
+		"soundmark": "zài nǐ kàn diàn shì zhī qián",
+		"englishGloss": "before you watch TV"
 	},
 	{
 		"chinese": "我想要你完成你的家庭作业",
-		"english": "I want you to finish your homework",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+		"pinyin": "wo xiang yao ni wan cheng ni de jia ting zuo ye",
+		"soundmark": "wǒ xiǎng yào nǐ wán chéng nǐ de jiā tíng zuò yè",
+		"englishGloss": "I want you to finish your homework"
 	},
 	{
 		"chinese": "我想要你完成你的家庭作业在你看电视之前",
-		"english": "I want you to finish your homework before you watch TV",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/ /bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "wo xiang yao ni wan cheng ni de jia ting zuo ye zai ni kan dian shi zhi qian",
+		"soundmark": "wǒ xiǎng yào nǐ wán chéng nǐ de jiā tíng zuò yè zài nǐ kàn diàn shì zhī qián",
+		"englishGloss": "I want you to finish your homework before you watch TV"
 	},
 	{
 		"chinese": "可以",
-		"english": "can",
-		"soundmark": "/kæn/"
+		"pinyin": "ke yi",
+		"soundmark": "kě yǐ",
+		"englishGloss": "can"
 	},
 	{
 		"chinese": "你可以",
-		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"pinyin": "ni ke yi",
+		"soundmark": "nǐ kě yǐ",
+		"englishGloss": "you can"
 	},
 	{
 		"chinese": "你可以看电视",
-		"english": "you can watch TV",
-		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "ni ke yi kan dian shi",
+		"soundmark": "nǐ kě yǐ kàn diàn shì",
+		"englishGloss": "you can watch TV"
 	},
 	{
 		"chinese": "你不可以看电视",
-		"english": "you can not watch TV",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "ni bu ke yi kan dian shi",
+		"soundmark": "nǐ bù kě yǐ kàn diàn shì",
+		"englishGloss": "you can not watch TV"
 	},
 	{
 		"chinese": "想要",
-		"english": "want",
-		"soundmark": "/wɑnt/"
+		"pinyin": "xiang yao",
+		"soundmark": "xiǎng yào",
+		"englishGloss": "want"
 	},
 	{
 		"chinese": "你想要",
-		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"pinyin": "ni xiang yao",
+		"soundmark": "nǐ xiǎng yào",
+		"englishGloss": "you want"
 	},
 	{
 		"chinese": "是否；如果",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou ； ru guo",
+		"soundmark": "shì fǒu ； rú guǒ",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "如果你想的话",
-		"english": "if you want",
-		"soundmark": "/ɪf/ /ju/ /wɑnt/"
+		"pinyin": "ru guo ni xiang de hua",
+		"soundmark": "rú guǒ nǐ xiǎng de huà",
+		"englishGloss": "if you want"
 	},
 	{
 		"chinese": "你可以看电视",
-		"english": "you can watch TV",
-		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+		"pinyin": "ni ke yi kan dian shi",
+		"soundmark": "nǐ kě yǐ kàn diàn shì",
+		"englishGloss": "you can watch TV"
 	},
 	{
 		"chinese": "你可以看电视如果你想的话",
-		"english": "you can watch TV if you want",
-		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/ /ɪf/ /ju/ /wɑnt/"
+		"pinyin": "ni ke yi kan dian shi ru guo ni xiang de hua",
+		"soundmark": "nǐ kě yǐ kàn diàn shì rú guǒ nǐ xiǎng de huà",
+		"englishGloss": "you can watch TV if you want"
 	},
 	{
 		"chinese": "回答",
-		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "to answer"
 	},
 	{
 		"chinese": "这个问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "回答这个问题",
-		"english": "to answer the question",
-		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "hui da zhe ge wen ti",
+		"soundmark": "huí dá zhè ge wèn tí",
+		"englishGloss": "to answer the question"
 	},
 	{
 		"chinese": "拒绝",
-		"english": "to refuse",
-		"soundmark": "/tə/ /ri'fjuz/"
+		"pinyin": "ju jue",
+		"soundmark": "jù jué",
+		"englishGloss": "to refuse"
 	},
 	{
 		"chinese": "拒绝回答这个问题",
-		"english": "to refuse to answer the question",
-		"soundmark": "/tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "ju jue hui da zhe ge wen ti",
+		"soundmark": "jù jué huí dá zhè ge wèn tí",
+		"englishGloss": "to refuse to answer the question"
 	},
 	{
 		"chinese": "我想拒绝回答这个问题",
-		"english": "I want to refuse to answer the question",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo xiang ju jue hui da zhe ge wen ti",
+		"soundmark": "wǒ xiǎng jù jué huí dá zhè ge wèn tí",
+		"englishGloss": "I want to refuse to answer the question"
 	},
 	{
 		"chinese": "我拒绝回答这个问题",
-		"english": "I refuse to answer the question",
-		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo ju jue hui da zhe ge wen ti",
+		"soundmark": "wǒ jù jué huí dá zhè ge wèn tí",
+		"englishGloss": "I refuse to answer the question"
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题",
-		"english": "I refused to answer the question",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo （ guo qu ） ju jue hui da zhe ge wen ti",
+		"soundmark": "wǒ （ guò qù ） jù jué huí dá zhè ge wèn tí",
+		"englishGloss": "I refused to answer the question"
 	},
 	{
 		"chinese": "这个问题",
-		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"pinyin": "zhe ge wen ti",
+		"soundmark": "zhè ge wèn tí",
+		"englishGloss": "the question"
 	},
 	{
 		"chinese": "困难的",
-		"english": "difficult",
-		"soundmark": "/'dɪfɪkəlt/"
+		"pinyin": "kun nan de",
+		"soundmark": "kùn nán de",
+		"englishGloss": "difficult"
 	},
 	{
 		"chinese": "这个问题是困难的",
-		"english": "the question is difficult",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'dɪfɪkəlt/"
+		"pinyin": "zhe ge wen ti shi kun nan de",
+		"soundmark": "zhè ge wèn tí shì kùn nán de",
+		"englishGloss": "the question is difficult"
 	},
 	{
 		"chinese": "这个问题（过去）是困难的",
-		"english": "the question was difficult",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'dɪfɪkəlt/"
+		"pinyin": "zhe ge wen ti （ guo qu ） shi kun nan de",
+		"soundmark": "zhè ge wèn tí （ guò qù ） shì kùn nán de",
+		"englishGloss": "the question was difficult"
 	},
 	{
 		"chinese": "非常",
-		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"pinyin": "fei chang",
+		"soundmark": "fēi cháng",
+		"englishGloss": "very"
 	},
 	{
 		"chinese": "这个问题（过去）是非常困难的",
-		"english": "the question was very difficult",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/"
+		"pinyin": "zhe ge wen ti （ guo qu ） shi fei chang kun nan de",
+		"soundmark": "zhè ge wèn tí （ guò qù ） shì fēi cháng kùn nán de",
+		"englishGloss": "the question was very difficult"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "这个问题（过去）是非常困难的对我来说",
-		"english": "the question was very difficult for me",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"pinyin": "zhe ge wen ti （ guo qu ） shi fei chang kun nan de dui wo lai shuo",
+		"soundmark": "zhè ge wèn tí （ guò qù ） shì fēi cháng kùn nán de duì wǒ lái shuō",
+		"englishGloss": "the question was very difficult for me"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为这个问题（过去）是非常困难的对我来说",
-		"english": "because the question was very difficult for me",
-		"soundmark": "/bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"pinyin": "yin wei zhe ge wen ti （ guo qu ） shi fei chang kun nan de dui wo lai shuo",
+		"soundmark": "yīn wèi zhè ge wèn tí （ guò qù ） shì fēi cháng kùn nán de duì wǒ lái shuō",
+		"englishGloss": "because the question was very difficult for me"
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题",
-		"english": "I refused to answer the question",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"pinyin": "wo （ guo qu ） ju jue hui da zhe ge wen ti",
+		"soundmark": "wǒ （ guò qù ） jù jué huí dá zhè ge wèn tí",
+		"englishGloss": "I refused to answer the question"
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题因为这个问题（过去）是非常困难的对我来说",
-		"english": "I refused to answer the question because the question was very difficult for me",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"pinyin": "wo （ guo qu ） ju jue hui da zhe ge wen ti yin wei zhe ge wen ti （ guo qu ） shi fei chang kun nan de dui wo lai shuo",
+		"soundmark": "wǒ （ guò qù ） jù jué huí dá zhè ge wèn tí yīn wèi zhè ge wèn tí （ guò qù ） shì fēi cháng kùn nán de duì wǒ lái shuō",
+		"englishGloss": "I refused to answer the question because the question was very difficult for me"
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题因为它（过去）是非常困难的对我来说",
-		"english": "I refused to answer the question because it was very difficult for me",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ɪt/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"pinyin": "wo （ guo qu ） ju jue hui da zhe ge wen ti yin wei ta （ guo qu ） shi fei chang kun nan de dui wo lai shuo",
+		"soundmark": "wǒ （ guò qù ） jù jué huí dá zhè ge wèn tí yīn wèi tā （ guò qù ） shì fēi cháng kùn nán de duì wǒ lái shuō",
+		"englishGloss": "I refused to answer the question because it was very difficult for me"
 	},
 	{
 		"chinese": "困难的",
-		"english": "difficult",
-		"soundmark": "/'dɪfɪkəlt/"
+		"pinyin": "kun nan de",
+		"soundmark": "kùn nán de",
+		"englishGloss": "difficult"
 	},
 	{
 		"chinese": "它是困难的",
-		"english": "it is difficult",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+		"pinyin": "ta shi kun nan de",
+		"soundmark": "tā shì kùn nán de",
+		"englishGloss": "it is difficult"
 	},
 	{
 		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "to finish"
 	},
 	{
 		"chinese": "这个工作",
-		"english": "the work",
-		"soundmark": "/ðə/ /wɝk/"
+		"pinyin": "zhe ge gong zuo",
+		"soundmark": "zhè ge gōng zuò",
+		"englishGloss": "the work"
 	},
 	{
 		"chinese": "完成这个工作",
-		"english": "to finish the work",
-		"soundmark": "/tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+		"pinyin": "wan cheng zhe ge gong zuo",
+		"soundmark": "wán chéng zhè ge gōng zuò",
+		"englishGloss": "to finish the work"
 	},
 	{
 		"chinese": "完成这个工作（它）是困难的",
-		"english": "it is difficult to finish the work",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+		"pinyin": "wan cheng zhe ge gong zuo （ ta ） shi kun nan de",
+		"soundmark": "wán chéng zhè ge gōng zuò （ tā ） shì kùn nán de",
+		"englishGloss": "it is difficult to finish the work"
 	},
 	{
 		"chinese": "一天",
-		"english": "a day",
-		"soundmark": "/ə/ /de/"
+		"pinyin": "yi tian",
+		"soundmark": "yì tiān",
+		"englishGloss": "a day"
 	},
 	{
 		"chinese": "在一天内",
-		"english": "in a day",
-		"soundmark": "/ɪn/ /ə/ /de/"
+		"pinyin": "zai yi tian nei",
+		"soundmark": "zài yì tiān nèi",
+		"englishGloss": "in a day"
 	},
 	{
 		"chinese": "在一天内完成这个工作（它）是困难的",
-		"english": "it is difficult to finish the work in a day",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/ /ɪn/ /ə/ /de/"
+		"pinyin": "zai yi tian nei wan cheng zhe ge gong zuo （ ta ） shi kun nan de",
+		"soundmark": "zài yì tiān nèi wán chéng zhè ge gōng zuò （ tā ） shì kùn nán de",
+		"englishGloss": "it is difficult to finish the work in a day"
 	},
 	{
 		"chinese": "危险的",
-		"english": "dangerous",
-		"soundmark": "/'dendʒərəs/"
+		"pinyin": "wei xian de",
+		"soundmark": "wēi xiǎn de",
+		"englishGloss": "dangerous"
 	},
 	{
 		"chinese": "它是危险的",
-		"english": "it is dangerous",
-		"soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/"
+		"pinyin": "ta shi wei xian de",
+		"soundmark": "tā shì wēi xiǎn de",
+		"englishGloss": "it is dangerous"
 	},
 	{
 		"chinese": "游泳",
-		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "to swim"
 	},
 	{
 		"chinese": "大海",
-		"english": "the sea",
-		"soundmark": "/ðə/ /si/"
+		"pinyin": "da hai",
+		"soundmark": "dà hǎi",
+		"englishGloss": "the sea"
 	},
 	{
 		"chinese": "在大海里",
-		"english": "in the sea",
-		"soundmark": "/ɪn/ /ðə/ /si/"
+		"pinyin": "zai da hai li",
+		"soundmark": "zài dà hǎi lǐ",
+		"englishGloss": "in the sea"
 	},
 	{
 		"chinese": "在大海里游泳",
-		"english": "to swim in the sea",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"pinyin": "zai da hai li you yong",
+		"soundmark": "zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "to swim in the sea"
 	},
 	{
 		"chinese": "在大海里游泳（它）是危险的",
-		"english": "it is dangerous to swim in the sea",
-		"soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"pinyin": "zai da hai li you yong （ ta ） shi wei xian de",
+		"soundmark": "zài dà hǎi lǐ yóu yǒng （ tā ） shì wēi xiǎn de",
+		"englishGloss": "it is dangerous to swim in the sea"
 	},
 	{
 		"chinese": "认为",
-		"english": "think",
-		"soundmark": "/θɪŋk/"
+		"pinyin": "ren wei",
+		"soundmark": "rèn wéi",
+		"englishGloss": "think"
 	},
 	{
 		"chinese": "我认为",
-		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"pinyin": "wo ren wei",
+		"soundmark": "wǒ rèn wéi",
+		"englishGloss": "I think"
 	},
 	{
 		"chinese": "我认为在大海里游泳（它）是危险的",
-		"english": "I think it is dangerous to swim in the sea",
-		"soundmark": "/aɪ/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"pinyin": "wo ren wei zai da hai li you yong （ ta ） shi wei xian de",
+		"soundmark": "wǒ rèn wéi zài dà hǎi lǐ yóu yǒng （ tā ） shì wēi xiǎn de",
+		"englishGloss": "I think it is dangerous to swim in the sea"
 	},
 	{
 		"chinese": "我不认为在大海里游泳（它）是危险的",
-		"english": "I don't think it is dangerous to swim in the sea",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"pinyin": "wo bu ren wei zai da hai li you yong （ ta ） shi wei xian de",
+		"soundmark": "wǒ bú rèn wéi zài dà hǎi lǐ yóu yǒng （ tā ） shì wēi xiǎn de",
+		"englishGloss": "I don't think it is dangerous to swim in the sea"
 	},
 	{
 		"chinese": "我拒绝",
-		"english": "I refuse",
-		"soundmark": "/aɪ/ /ri'fjuz/"
+		"pinyin": "wo ju jue",
+		"soundmark": "wǒ jù jué",
+		"englishGloss": "I refuse"
 	},
 	{
 		"chinese": "我拒绝在大海里游泳",
-		"english": "I refuse to swim in the sea",
-		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"pinyin": "wo ju jue zai da hai li you yong",
+		"soundmark": "wǒ jù jué zài dà hǎi lǐ yóu yǒng",
+		"englishGloss": "I refuse to swim in the sea"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "因为它是危险的",
-		"english": "because it is dangerous",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+		"pinyin": "yin wei ta shi wei xian de",
+		"soundmark": "yīn wèi tā shì wēi xiǎn de",
+		"englishGloss": "because it is dangerous"
 	},
 	{
 		"chinese": "我拒绝在大海里游泳因为它是危险的",
-		"english": "I refuse to swim in the sea because it is dangerous",
-		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+		"pinyin": "wo ju jue zai da hai li you yong yin wei ta shi wei xian de",
+		"soundmark": "wǒ jù jué zài dà hǎi lǐ yóu yǒng yīn wèi tā shì wēi xiǎn de",
+		"englishGloss": "I refuse to swim in the sea because it is dangerous"
 	},
 	{
 		"chinese": "接受",
-		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "to accept"
 	},
 	{
 		"chinese": "这个挑战",
-		"english": "the challenge",
-		"soundmark": "/ðə/ /'tʃælɪndʒ/"
+		"pinyin": "zhe ge tiao zhan",
+		"soundmark": "zhè ge tiǎo zhàn",
+		"englishGloss": "the challenge"
 	},
 	{
 		"chinese": "接受这个挑战",
-		"english": "to accept the challenge",
-		"soundmark": "/tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "jie shou zhe ge tiao zhan",
+		"soundmark": "jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "to accept the challenge"
 	},
 	{
 		"chinese": "我必须接受这个挑战",
-		"english": "I have to accept the challenge",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo bi xu jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ bì xū jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I have to accept the challenge"
 	},
 	{
 		"chinese": "我（过去）必须接受这个挑战",
-		"english": "I had to accept the challenge",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo （ guo qu ） bi xu jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ （ guò qù ） bì xū jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I had to accept the challenge"
 	},
 	{
 		"chinese": "我（过去）不必接受这个挑战",
-		"english": "I didn't have to accept the challenge",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo （ guo qu ） bu bi jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ （ guò qù ） bú bì jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I didn't have to accept the challenge"
 	},
 	{
 		"chinese": "我接受这个挑战",
-		"english": "I accept the challenge",
-		"soundmark": "/aɪ/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I accept the challenge"
 	},
 	{
 		"chinese": "我不接受这个挑战",
-		"english": "I don't accept the challenge",
-		"soundmark": "/aɪ/ /dont/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo bu jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ bù jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I don't accept the challenge"
 	},
 	{
 		"chinese": "我（过去）接受这个挑战",
-		"english": "I accepted the challenge",
-		"soundmark": "/aɪ/ /ək'sɛptɪd/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo （ guo qu ） jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ （ guò qù ） jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I accepted the challenge"
 	},
 	{
 		"chinese": "我（过去）不接受这个挑战",
-		"english": "I didn't accept the challenge",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"pinyin": "wo （ guo qu ） bu jie shou zhe ge tiao zhan",
+		"soundmark": "wǒ （ guò qù ） bù jiē shòu zhè ge tiǎo zhàn",
+		"englishGloss": "I didn't accept the challenge"
 	},
 	{
 		"chinese": "大的",
-		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"pinyin": "da de",
+		"soundmark": "dà de",
+		"englishGloss": "big"
 	},
 	{
 		"chinese": "一个大的挑战",
-		"english": "a big challenge",
-		"soundmark": "/ə/ /bɪɡ/ /'tʃælɪndʒ/"
+		"pinyin": "yi ge da de tiao zhan",
+		"soundmark": "yí gè dà de tiǎo zhàn",
+		"englishGloss": "a big challenge"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "英语是一个大的挑战",
-		"english": "English is a big challenge",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/"
+		"pinyin": "ying yu shi yi ge da de tiao zhan",
+		"soundmark": "yīng yǔ shì yí gè dà de tiǎo zhàn",
+		"englishGloss": "English is a big challenge"
 	},
 	{
 		"chinese": "对我来说",
-		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"pinyin": "dui wo lai shuo",
+		"soundmark": "duì wǒ lái shuō",
+		"englishGloss": "for me"
 	},
 	{
 		"chinese": "英语是一个大的挑战对我来说",
-		"english": "English is a big challenge for me",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+		"pinyin": "ying yu shi yi ge da de tiao zhan dui wo lai shuo",
+		"soundmark": "yīng yǔ shì yí gè dà de tiǎo zhàn duì wǒ lái shuō",
+		"englishGloss": "English is a big challenge for me"
 	},
 	{
 		"chinese": "英语不是一个大的挑战对我来说",
-		"english": "English is not a big challenge for me",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+		"pinyin": "ying yu bu shi yi ge da de tiao zhan dui wo lai shuo",
+		"soundmark": "yīng yǔ bú shì yí gè dà de tiǎo zhàn duì wǒ lái shuō",
+		"englishGloss": "English is not a big challenge for me"
 	},
 	{
 		"chinese": "掌握",
-		"english": "to master",
-		"soundmark": "/tə/ /'mæstɚ/"
+		"pinyin": "zhang wo",
+		"soundmark": "zhǎng wò",
+		"englishGloss": "to master"
 	},
 	{
 		"chinese": "英语",
-		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"pinyin": "ying yu",
+		"soundmark": "yīng yǔ",
+		"englishGloss": "English"
 	},
 	{
 		"chinese": "掌握英语",
-		"english": "to master English",
-		"soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "zhang wo ying yu",
+		"soundmark": "zhǎng wò yīng yǔ",
+		"englishGloss": "to master English"
 	},
 	{
 		"chinese": "我将会",
-		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"pinyin": "wo jiang hui",
+		"soundmark": "wǒ jiāng huì",
+		"englishGloss": "I will"
 	},
 	{
 		"chinese": "我将会掌握英语",
-		"english": "I will master English",
-		"soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"pinyin": "wo jiang hui zhang wo ying yu",
+		"soundmark": "wǒ jiāng huì zhǎng wò yīng yǔ",
+		"englishGloss": "I will master English"
 	},
 	{
 		"chinese": "将来",
-		"english": "the future",
-		"soundmark": "/ðə/ /'fjʊtʃɚ/"
+		"pinyin": "jiang lai",
+		"soundmark": "jiāng lái",
+		"englishGloss": "the future"
 	},
 	{
 		"chinese": "在将来",
-		"english": "in the future",
-		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"pinyin": "zai jiang lai",
+		"soundmark": "zài jiāng lái",
+		"englishGloss": "in the future"
 	},
 	{
 		"chinese": "不远的",
-		"english": "near",
-		"soundmark": "/nɪr/"
+		"pinyin": "bu yuan de",
+		"soundmark": "bù yuǎn de",
+		"englishGloss": "near"
 	},
 	{
 		"chinese": "在不远的将来",
-		"english": "in the near future",
-		"soundmark": "/ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"pinyin": "zai bu yuan de jiang lai",
+		"soundmark": "zài bù yuǎn de jiāng lái",
+		"englishGloss": "in the near future"
 	},
 	{
 		"chinese": "我将会在不远的将来掌握英语",
-		"english": "I will master English in the near future",
-		"soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"pinyin": "wo jiang hui zai bu yuan de jiang lai zhang wo ying yu",
+		"soundmark": "wǒ jiāng huì zài bù yuǎn de jiāng lái zhǎng wò yīng yǔ",
+		"englishGloss": "I will master English in the near future"
 	},
 	{
 		"chinese": "我知道",
-		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"pinyin": "wo zhi dao",
+		"soundmark": "wǒ zhī dào",
+		"englishGloss": "I know"
 	},
 	{
 		"chinese": "我知道我将会在不远的将来掌握英语",
-		"english": "I know I will master English in the near future",
-		"soundmark": "/aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"pinyin": "wo zhi dao wo jiang hui zai bu yuan de jiang lai zhang wo ying yu",
+		"soundmark": "wǒ zhī dào wǒ jiāng huì zài bù yuǎn de jiāng lái zhǎng wò yīng yǔ",
+		"englishGloss": "I know I will master English in the near future"
 	},
 	{
 		"chinese": "而且",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "er qie",
+		"soundmark": "ér qiě",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "而且我知道我将会在不远的将来掌握英语",
-		"english": "and I know I will master english in the near future",
-		"soundmark": "/ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"pinyin": "er qie wo zhi dao wo jiang hui zai bu yuan de jiang lai zhang wo ying yu",
+		"soundmark": "ér qiě wǒ zhī dào wǒ jiāng huì zài bù yuǎn de jiāng lái zhǎng wò yīng yǔ",
+		"englishGloss": "and I know I will master english in the near future"
 	},
 	{
 		"chinese": "英语不是一个大的挑战对我来说",
-		"english": "English is not a big challenge for me",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+		"pinyin": "ying yu bu shi yi ge da de tiao zhan dui wo lai shuo",
+		"soundmark": "yīng yǔ bú shì yí gè dà de tiǎo zhàn duì wǒ lái shuō",
+		"englishGloss": "English is not a big challenge for me"
 	},
 	{
 		"chinese": "英语不是一个大的挑战对我来说而且我知道我将会在不远的将来掌握英语",
-		"english": "English is not a big challenge for me and I know I will master english in the near future",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/ /ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"pinyin": "ying yu bu shi yi ge da de tiao zhan dui wo lai shuo er qie wo zhi dao wo jiang hui zai bu yuan de jiang lai zhang wo ying yu",
+		"soundmark": "yīng yǔ bú shì yí gè dà de tiǎo zhàn duì wǒ lái shuō ér qiě wǒ zhī dào wǒ jiāng huì zài bù yuǎn de jiāng lái zhǎng wò yīng yǔ",
+		"englishGloss": "English is not a big challenge for me and I know I will master english in the near future"
 	},
 	{
 		"chinese": "中文 原形 第三人称单数 过去式想要",
-		"english": "want wants",
-		"soundmark": "/wanted/"
+		"pinyin": "zhong wen   yuan xing   di san ren cheng dan shu   guo qu shi xiang yao",
+		"soundmark": "zhōng wén   yuán xíng   dì sān rén chēng dān shù   guò qù shì xiǎng yào",
+		"englishGloss": "want wants"
 	},
 	{
 		"chinese": "喜欢",
-		"english": "like likes",
-		"soundmark": "/liked/"
+		"pinyin": "xi huan",
+		"soundmark": "xǐ huan",
+		"englishGloss": "like likes"
 	},
 	{
 		"chinese": "有；(+to)不得不",
-		"english": "have has",
-		"soundmark": "/had/"
+		"pinyin": "you ； ( + t o ) bu de bu",
+		"soundmark": "yǒu ； ( + t o ) bù dé bù",
+		"englishGloss": "have has"
 	},
 	{
 		"chinese": "计划",
-		"english": "plan plans",
-		"soundmark": "/planned/"
+		"pinyin": "ji hua",
+		"soundmark": "jì huà",
+		"englishGloss": "plan plans"
 	},
 	{
 		"chinese": "需要",
-		"english": "need needs",
-		"soundmark": "/needed/"
+		"pinyin": "xu yao",
+		"soundmark": "xū yào",
+		"englishGloss": "need needs"
 	},
 	{
 		"chinese": "做",
-		"english": "do does",
-		"soundmark": "/did/"
+		"pinyin": "zuo",
+		"soundmark": "zuò",
+		"englishGloss": "do does"
 	},
 	{
 		"chinese": "告诉",
-		"english": "tell tells",
-		"soundmark": "/told/"
+		"pinyin": "gao su",
+		"soundmark": "gào sù",
+		"englishGloss": "tell tells"
 	},
 	{
 		"chinese": "说话",
-		"english": "talk talks",
-		"soundmark": "/talked/"
+		"pinyin": "shuo hua",
+		"soundmark": "shuō huà",
+		"englishGloss": "talk talks"
 	},
 	{
 		"chinese": "是 be（am）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ a m ）",
+		"soundmark": "shì   b e （ a m ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（is ）",
-		"english": "is",
-		"soundmark": "/was/"
+		"pinyin": "shi   b e （ i s   ）",
+		"soundmark": "shì   b e （ i s   ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "是 be（are）",
-		"english": "is",
-		"soundmark": "/were/"
+		"pinyin": "shi   b e （ a r e ）",
+		"soundmark": "shì   b e （ a r e ）",
+		"englishGloss": "is"
 	},
 	{
 		"chinese": "看到",
-		"english": "see sees",
-		"soundmark": "/saw/"
+		"pinyin": "kan dao",
+		"soundmark": "kàn dào",
+		"englishGloss": "see sees"
 	},
 	{
 		"chinese": "吃",
-		"english": "eat eats",
-		"soundmark": "/ate/"
+		"pinyin": "chi",
+		"soundmark": "chī",
+		"englishGloss": "eat eats"
 	},
 	{
 		"chinese": "喝",
-		"english": "drink drinks",
-		"soundmark": "/drank/"
+		"pinyin": "he",
+		"soundmark": "hē",
+		"englishGloss": "drink drinks"
 	},
 	{
 		"chinese": "知道",
-		"english": "know knows",
-		"soundmark": "/knew/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "know knows"
 	},
 	{
 		"chinese": "忘记",
-		"english": "forget forgets",
-		"soundmark": "/forgot/"
+		"pinyin": "wang ji",
+		"soundmark": "wàng jì",
+		"englishGloss": "forget forgets"
 	},
 	{
 		"chinese": "失去",
-		"english": "lose loses",
-		"soundmark": "/lost/"
+		"pinyin": "shi qu",
+		"soundmark": "shī qù",
+		"englishGloss": "lose loses"
 	},
 	{
 		"chinese": "离开",
-		"english": "leave leaves",
-		"soundmark": "/left/"
+		"pinyin": "li kai",
+		"soundmark": "lí kāi",
+		"englishGloss": "leave leaves"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "sleep sleeps",
-		"soundmark": "/slept/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "sleep sleeps"
 	},
 	{
 		"chinese": "明白",
-		"english": "understand understands",
-		"soundmark": "/understood/"
+		"pinyin": "ming bai",
+		"soundmark": "míng bái",
+		"englishGloss": "understand understands"
 	},
 	{
 		"chinese": "买",
-		"english": "buy buys",
-		"soundmark": "/bought/"
+		"pinyin": "mai",
+		"soundmark": "mǎi",
+		"englishGloss": "buy buys"
 	},
 	{
 		"chinese": "洗",
-		"english": "wash washes",
-		"soundmark": "/washed/"
+		"pinyin": "xi",
+		"soundmark": "xǐ",
+		"englishGloss": "wash washes"
 	},
 	{
 		"chinese": "打电话",
-		"english": "call calls",
-		"soundmark": "/called/"
+		"pinyin": "da dian hua",
+		"soundmark": "dǎ diàn huà",
+		"englishGloss": "call calls"
 	},
 	{
 		"chinese": "帮助",
-		"english": "help helps",
-		"soundmark": "/helped/"
+		"pinyin": "bang zhu",
+		"soundmark": "bāng zhù",
+		"englishGloss": "help helps"
 	},
 	{
 		"chinese": "相信",
-		"english": "believe believes",
-		"soundmark": "/believed/"
+		"pinyin": "xiang xin",
+		"soundmark": "xiāng xìn",
+		"englishGloss": "believe believes"
 	},
 	{
 		"chinese": "学习",
-		"english": "study studies",
-		"soundmark": "/studied/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "study studies"
 	},
 	{
 		"chinese": "解释",
-		"english": "explain explains",
-		"soundmark": "/explained/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "explain explains"
 	},
 	{
 		"chinese": "问",
-		"english": "ask asks",
-		"soundmark": "/asked/"
+		"pinyin": "wen",
+		"soundmark": "wèn",
+		"englishGloss": "ask asks"
 	},
 	{
 		"chinese": "飞",
-		"english": "fly flies",
-		"soundmark": "/flew/"
+		"pinyin": "fei",
+		"soundmark": "fēi",
+		"englishGloss": "fly flies"
 	},
 	{
 		"chinese": "阅读",
-		"english": "read reads",
-		"soundmark": "/read/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "read reads"
 	},
 	{
 		"chinese": "走路",
-		"english": "walk walks",
-		"soundmark": "/walked/"
+		"pinyin": "zou lu",
+		"soundmark": "zǒu lù",
+		"englishGloss": "walk walks"
 	},
 	{
 		"chinese": "跳舞",
-		"english": "dance dances",
-		"soundmark": "/danced/"
+		"pinyin": "tiao wu",
+		"soundmark": "tiào wǔ",
+		"englishGloss": "dance dances"
 	},
 	{
 		"chinese": "回答",
-		"english": "answer answers",
-		"soundmark": "/answered/"
+		"pinyin": "hui da",
+		"soundmark": "huí dá",
+		"englishGloss": "answer answers"
 	},
 	{
 		"chinese": "工作",
-		"english": "work works",
-		"soundmark": "/worked/"
+		"pinyin": "gong zuo",
+		"soundmark": "gōng zuò",
+		"englishGloss": "work works"
 	},
 	{
 		"chinese": "待在",
-		"english": "stay stays",
-		"soundmark": "/stayed/"
+		"pinyin": "dai zai",
+		"soundmark": "dài zài",
+		"englishGloss": "stay stays"
 	},
 	{
 		"chinese": "支付",
-		"english": "pay pays",
-		"soundmark": "/paid/"
+		"pinyin": "zhi fu",
+		"soundmark": "zhī fù",
+		"englishGloss": "pay pays"
 	},
 	{
 		"chinese": "旅行",
-		"english": "travel travels",
-		"soundmark": "/traveled/"
+		"pinyin": "lü xing",
+		"soundmark": "lǚ xíng",
+		"englishGloss": "travel travels"
 	},
 	{
 		"chinese": "给",
-		"english": "give gives",
-		"soundmark": "/gave/"
+		"pinyin": "gei",
+		"soundmark": "gěi",
+		"englishGloss": "give gives"
 	},
 	{
 		"chinese": "达到",
-		"english": "get gets",
-		"soundmark": "/got/"
+		"pinyin": "da dao",
+		"soundmark": "dá dào",
+		"englishGloss": "get gets"
 	},
 	{
 		"chinese": "锁",
-		"english": "lock locks",
-		"soundmark": "/locked/"
+		"pinyin": "suo",
+		"soundmark": "suǒ",
+		"englishGloss": "lock locks"
 	},
 	{
 		"chinese": "记得",
-		"english": "remember remembers",
-		"soundmark": "/remembered/"
+		"pinyin": "ji de",
+		"soundmark": "jì de",
+		"englishGloss": "remember remembers"
 	},
 	{
 		"chinese": "清理",
-		"english": "clean cleans",
-		"soundmark": "/cleaned/"
+		"pinyin": "qing li",
+		"soundmark": "qīng lǐ",
+		"englishGloss": "clean cleans"
 	},
 	{
 		"chinese": "找到",
-		"english": "find finds",
-		"soundmark": "/found/"
+		"pinyin": "zhao dao",
+		"soundmark": "zhǎo dào",
+		"englishGloss": "find finds"
 	},
 	{
 		"chinese": "关闭",
-		"english": "close closes",
-		"soundmark": "/closed/"
+		"pinyin": "guan bi",
+		"soundmark": "guān bì",
+		"englishGloss": "close closes"
 	},
 	{
 		"chinese": "教",
-		"english": "teach teaches",
-		"soundmark": "/taught/"
+		"pinyin": "jiao",
+		"soundmark": "jiào",
+		"englishGloss": "teach teaches"
 	},
 	{
 		"chinese": "展示",
-		"english": "show shows",
-		"soundmark": "/showed/"
+		"pinyin": "zhan shi",
+		"soundmark": "zhǎn shì",
+		"englishGloss": "show shows"
 	},
 	{
 		"chinese": "让",
-		"english": "let lets",
-		"soundmark": "/let/"
+		"pinyin": "rang",
+		"soundmark": "ràng",
+		"englishGloss": "let lets"
 	},
 	{
 		"chinese": "休息",
-		"english": "rest rests",
-		"soundmark": "/rested/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "rest rests"
 	},
 	{
 		"chinese": "用",
-		"english": "use uses",
-		"soundmark": "/used/"
+		"pinyin": "yong",
+		"soundmark": "yòng",
+		"englishGloss": "use uses"
 	},
 	{
 		"chinese": "做饭",
-		"english": "cook cooks",
-		"soundmark": "/cooked/"
+		"pinyin": "zuo fan",
+		"soundmark": "zuò fàn",
+		"englishGloss": "cook cooks"
 	},
 	{
 		"chinese": "去",
-		"english": "go goes",
-		"soundmark": "/went/"
+		"pinyin": "qu",
+		"soundmark": "qù",
+		"englishGloss": "go goes"
 	},
 	{
 		"chinese": "决定",
-		"english": "decide decides",
-		"soundmark": "/decided/"
+		"pinyin": "jue ding",
+		"soundmark": "jué dìng",
+		"englishGloss": "decide decides"
 	},
 	{
 		"chinese": "驾驶",
-		"english": "drive drives",
-		"soundmark": "/drove/"
+		"pinyin": "jia shi",
+		"soundmark": "jià shǐ",
+		"englishGloss": "drive drives"
 	},
 	{
 		"chinese": "改变",
-		"english": "change changes",
-		"soundmark": "/changed/"
+		"pinyin": "gai bian",
+		"soundmark": "gǎi biàn",
+		"englishGloss": "change changes"
 	},
 	{
 		"chinese": "尝试",
-		"english": "try tries",
-		"soundmark": "/tried/"
+		"pinyin": "chang shi",
+		"soundmark": "cháng shì",
+		"englishGloss": "try tries"
 	},
 	{
 		"chinese": "停止",
-		"english": "stop stops",
-		"soundmark": "/Stopped/"
+		"pinyin": "ting zhi",
+		"soundmark": "tíng zhǐ",
+		"englishGloss": "stop stops"
 	},
 	{
 		"chinese": "参加",
-		"english": "join joins",
-		"soundmark": "/joined/"
+		"pinyin": "can jia",
+		"soundmark": "cān jiā",
+		"englishGloss": "join joins"
 	},
 	{
 		"chinese": "邀请",
-		"english": "invite invites",
-		"soundmark": "/invited/"
+		"pinyin": "yao qing",
+		"soundmark": "yāo qǐng",
+		"englishGloss": "invite invites"
 	},
 	{
 		"chinese": "拒绝",
-		"english": "refuse refuses",
-		"soundmark": "/refused/"
+		"pinyin": "ju jue",
+		"soundmark": "jù jué",
+		"englishGloss": "refuse refuses"
 	},
 	{
 		"chinese": "接受",
-		"english": "accept accepts",
-		"soundmark": "/accepted/"
+		"pinyin": "jie shou",
+		"soundmark": "jiē shòu",
+		"englishGloss": "accept accepts"
 	},
 	{
 		"chinese": "学习",
-		"english": "learn learns",
-		"soundmark": "/learnt/"
+		"pinyin": "xue xi",
+		"soundmark": "xué xí",
+		"englishGloss": "learn learns"
 	},
 	{
 		"chinese": "完成",
-		"english": "finish finishes",
-		"soundmark": "/finished/"
+		"pinyin": "wan cheng",
+		"soundmark": "wán chéng",
+		"englishGloss": "finish finishes"
 	},
 	{
 		"chinese": "看",
-		"english": "watch watches",
-		"soundmark": "/watched/"
+		"pinyin": "kan",
+		"soundmark": "kàn",
+		"englishGloss": "watch watches"
 	},
 	{
 		"chinese": "游泳",
-		"english": "swim swims",
-		"soundmark": "/swam/"
+		"pinyin": "you yong",
+		"soundmark": "yóu yǒng",
+		"englishGloss": "swim swims"
 	},
 	{
 		"chinese": "掌握",
-		"english": "master masters",
-		"soundmark": "/mastered/"
+		"pinyin": "zhang wo",
+		"soundmark": "zhǎng wò",
+		"englishGloss": "master masters"
 	}
 ]

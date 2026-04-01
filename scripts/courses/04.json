@@ -1,732 +1,878 @@
 [
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "我不需要",
-		"english": "I don't need",
-		"soundmark": "/aɪ/ /dont/ /nid/"
+		"pinyin": "wo bu xu yao",
+		"soundmark": "wǒ bù xū yào",
+		"englishGloss": "I don't need"
 	},
 	{
 		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"pinyin": "zuo zhe jian shi",
+		"soundmark": "zuò zhè jiàn shì",
+		"englishGloss": "to do it"
 	},
 	{
 		"chinese": "我不需要做这件事",
-		"english": "I don't need to do it",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bu xu yao zuo zhe jian shi",
+		"soundmark": "wǒ bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "I don't need to do it"
 	},
 	{
 		"chinese": "今天",
-		"english": "today",
-		"soundmark": "/tə'de/"
+		"pinyin": "jin tian",
+		"soundmark": "jīn tiān",
+		"englishGloss": "today"
 	},
 	{
 		"chinese": "我今天不需要做这件事",
-		"english": "I don't need to do it today",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+		"pinyin": "wo jin tian bu xu yao zuo zhe jian shi",
+		"soundmark": "wǒ jīn tiān bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "I don't need to do it today"
 	},
 	{
 		"chinese": "重要的",
-		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de",
+		"soundmark": "zhòng yào de",
+		"englishGloss": "important"
 	},
 	{
 		"chinese": "不重要的",
-		"english": "not important",
-		"soundmark": "/nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "bu zhong yao de",
+		"soundmark": "bú zhòng yào de",
+		"englishGloss": "not important"
 	},
 	{
 		"chinese": "它是不重要的",
-		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi bu zhong yao de",
+		"soundmark": "tā shì bú zhòng yào de",
+		"englishGloss": "it is not important"
 	},
 	{
 		"chinese": "所以",
-		"english": "so",
-		"soundmark": "/so/"
+		"pinyin": "suo yi",
+		"soundmark": "suǒ yǐ",
+		"englishGloss": "so"
 	},
 	{
 		"chinese": "它是不重要的所以我今天不需要做这件事",
-		"english": "it is not important so I don't need to do it today",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+		"pinyin": "ta shi bu zhong yao de suo yi wo jin tian bu xu yao zuo zhe jian shi",
+		"soundmark": "tā shì bú zhòng yào de suǒ yǐ wǒ jīn tiān bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "it is not important so I don't need to do it today"
 	},
 	{
 		"chinese": "你需要",
-		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"pinyin": "ni xu yao",
+		"soundmark": "nǐ xū yào",
+		"englishGloss": "you need"
 	},
 	{
 		"chinese": "你不需要",
-		"english": "you don't need",
-		"soundmark": "/ju/ /dont/ /nid/"
+		"pinyin": "ni bu xu yao",
+		"soundmark": "nǐ bù xū yào",
+		"englishGloss": "you don't need"
 	},
 	{
 		"chinese": "你不需要做这件事",
-		"english": "you don't need to do it",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni bu xu yao zuo zhe jian shi",
+		"soundmark": "nǐ bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "you don't need to do it"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "你现在不需要做这件事",
-		"english": "you don't need to do it now",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ni xian zai bu xu yao zuo zhe jian shi",
+		"soundmark": "nǐ xiàn zài bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "you don't need to do it now"
 	},
 	{
 		"chinese": "紧急的",
-		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"pinyin": "jin ji de",
+		"soundmark": "jǐn jí de",
+		"englishGloss": "urgent"
 	},
 	{
 		"chinese": "它是紧急的",
-		"english": "it is urgent",
-		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/"
+		"pinyin": "ta shi jin ji de",
+		"soundmark": "tā shì jǐn jí de",
+		"englishGloss": "it is urgent"
 	},
 	{
 		"chinese": "而且",
-		"english": "and",
-		"soundmark": "/ənd/"
+		"pinyin": "er qie",
+		"soundmark": "ér qiě",
+		"englishGloss": "and"
 	},
 	{
 		"chinese": "它是紧急的而且你需要现在做这件事",
-		"english": "it is urgent and you need to do it now",
-		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/ /ənd/ /ju/ /nid/ /tə/ /du/ /ɪt/ /naʊ/"
+		"pinyin": "ta shi jin ji de er qie ni xu yao xian zai zuo zhe jian shi",
+		"soundmark": "tā shì jǐn jí de ér qiě nǐ xū yào xiàn zài zuò zhè jiàn shì",
+		"englishGloss": "it is urgent and you need to do it now"
 	},
 	{
 		"chinese": "他需要",
-		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"pinyin": "ta xu yao",
+		"soundmark": "tā xū yào",
+		"englishGloss": "he needs"
 	},
 	{
 		"chinese": "他需要做这件事",
-		"english": "he needs to do it",
-		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta xu yao zuo zhe jian shi",
+		"soundmark": "tā xū yào zuò zhè jiàn shì",
+		"englishGloss": "he needs to do it"
 	},
 	{
 		"chinese": "他不需要",
-		"english": "he doesn't need",
-		"soundmark": "/hi/ /ˈdʌznt/ /nid/"
+		"pinyin": "ta bu xu yao",
+		"soundmark": "tā bù xū yào",
+		"englishGloss": "he doesn't need"
 	},
 	{
 		"chinese": "他不需要做这件事",
-		"english": "he doesn't need to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xu yao zuo zhe jian shi",
+		"soundmark": "tā bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "he doesn't need to do it"
 	},
 	{
 		"chinese": "她不需要做这件事",
-		"english": "she doesn't need to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xu yao zuo zhe jian shi",
+		"soundmark": "tā bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "she doesn't need to do it"
 	},
 	{
 		"chinese": "它不需要做这件事",
-		"english": "it doesn't need to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xu yao zuo zhe jian shi",
+		"soundmark": "tā bù xū yào zuò zhè jiàn shì",
+		"englishGloss": "it doesn't need to do it"
 	},
 	{
 		"chinese": "星荣不需要做这件事情",
-		"english": "Xingrong doesn't need to do it",
-		"soundmark": "/ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"pinyin": "xing rong bu xu yao zuo zhe jian shi qing",
+		"soundmark": "xīng róng bù xū yào zuò zhè jiàn shì qíng",
+		"englishGloss": "Xingrong doesn't need to do it"
 	},
 	{
 		"chinese": "我想要",
-		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"pinyin": "wo xiang yao",
+		"soundmark": "wǒ xiǎng yào",
+		"englishGloss": "I want"
 	},
 	{
 		"chinese": "我想要做这件事",
-		"english": "I want to do it",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo xiang yao zuo zhe jian shi",
+		"soundmark": "wǒ xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "I want to do it"
 	},
 	{
 		"chinese": "我不想要",
-		"english": "I don't want",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/"
+		"pinyin": "wo bu xiang yao",
+		"soundmark": "wǒ bù xiǎng yào",
+		"englishGloss": "I don't want"
 	},
 	{
 		"chinese": "我不想要做这件事",
-		"english": "I don't want to do it",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bu xiang yao zuo zhe jian shi",
+		"soundmark": "wǒ bù xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "I don't want to do it"
 	},
 	{
 		"chinese": "你想要",
-		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"pinyin": "ni xiang yao",
+		"soundmark": "nǐ xiǎng yào",
+		"englishGloss": "you want"
 	},
 	{
 		"chinese": "你不想要",
-		"english": "you don't want",
-		"soundmark": "/ju/ /dont/ /wɑnt/"
+		"pinyin": "ni bu xiang yao",
+		"soundmark": "nǐ bù xiǎng yào",
+		"englishGloss": "you don't want"
 	},
 	{
 		"chinese": "你不想要做这件事",
-		"english": "you don't want to do it",
-		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni bu xiang yao zuo zhe jian shi",
+		"soundmark": "nǐ bù xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "you don't want to do it"
 	},
 	{
 		"chinese": "他想要",
-		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "he wants"
 	},
 	{
 		"chinese": "他想要做这件事",
-		"english": "he wants to do it",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta xiang yao zuo zhe jian shi",
+		"soundmark": "tā xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "he wants to do it"
 	},
 	{
 		"chinese": "我需要",
-		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"pinyin": "wo xu yao",
+		"soundmark": "wǒ xū yào",
+		"englishGloss": "I need"
 	},
 	{
 		"chinese": "知道",
-		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"pinyin": "zhi dao",
+		"soundmark": "zhī dào",
+		"englishGloss": "to know"
 	},
 	{
 		"chinese": "我需要知道",
-		"english": "I need to know",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/"
+		"pinyin": "wo xu yao zhi dao",
+		"soundmark": "wǒ xū yào zhī dào",
+		"englishGloss": "I need to know"
 	},
 	{
 		"chinese": "是否",
-		"english": "if",
-		"soundmark": "/ɪf/"
+		"pinyin": "shi fou",
+		"soundmark": "shì fǒu",
+		"englishGloss": "if"
 	},
 	{
 		"chinese": "我需要知道是否他想要做这件事",
-		"english": "I need to know if he wants to do it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /hi/ /wɑnts/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo xu yao zhi dao shi fou ta xiang yao zuo zhe jian shi",
+		"soundmark": "wǒ xū yào zhī dào shì fǒu tā xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "I need to know if he wants to do it"
 	},
 	{
 		"chinese": "他不想要",
-		"english": "he doesn't want",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/"
+		"pinyin": "ta bu xiang yao",
+		"soundmark": "tā bù xiǎng yào",
+		"englishGloss": "he doesn't want"
 	},
 	{
 		"chinese": "他不想要做这件事",
-		"english": "he doesn't want to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xiang yao zuo zhe jian shi",
+		"soundmark": "tā bù xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "he doesn't want to do it"
 	},
 	{
 		"chinese": "因为",
-		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"pinyin": "yin wei",
+		"soundmark": "yīn wèi",
+		"englishGloss": "because"
 	},
 	{
 		"chinese": "它是不重要的",
-		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta shi bu zhong yao de",
+		"soundmark": "tā shì bú zhòng yào de",
+		"englishGloss": "it is not important"
 	},
 	{
 		"chinese": "他不想做这件事因为它是不重要的",
-		"english": "he doesn't want to do it because it is not important",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"pinyin": "ta bu xiang zuo zhe jian shi yin wei ta shi bu zhong yao de",
+		"soundmark": "tā bù xiǎng zuò zhè jiàn shì yīn wèi tā shì bú zhòng yào de",
+		"englishGloss": "he doesn't want to do it because it is not important"
 	},
 	{
 		"chinese": "她不想要做这件事",
-		"english": "she doesn't want to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xiang yao zuo zhe jian shi",
+		"soundmark": "tā bù xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "she doesn't want to do it"
 	},
 	{
 		"chinese": "它不想要做这件事",
-		"english": "it doesn't want to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xiang yao zuo zhe jian shi",
+		"soundmark": "tā bù xiǎng yào zuò zhè jiàn shì",
+		"englishGloss": "it doesn't want to do it"
 	},
 	{
 		"chinese": "我喜欢",
-		"english": "I like",
-		"soundmark": "/aɪ/ /laɪk/"
+		"pinyin": "wo xi huan",
+		"soundmark": "wǒ xǐ huan",
+		"englishGloss": "I like"
 	},
 	{
 		"chinese": "我喜欢做这件事",
-		"english": "I like to do it",
-		"soundmark": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo xi huan zuo zhe jian shi",
+		"soundmark": "wǒ xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "I like to do it"
 	},
 	{
 		"chinese": "我不喜欢",
-		"english": "I don't like",
-		"soundmark": "/aɪ/ /dont/ /laɪk/"
+		"pinyin": "wo bu xi huan",
+		"soundmark": "wǒ bù xǐ huan",
+		"englishGloss": "I don't like"
 	},
 	{
 		"chinese": "我不喜欢做这件事",
-		"english": "I don't like to do it",
-		"soundmark": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bu xi huan zuo zhe jian shi",
+		"soundmark": "wǒ bù xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "I don't like to do it"
 	},
 	{
 		"chinese": "你喜欢",
-		"english": "you like",
-		"soundmark": "/ju/ /laɪk/"
+		"pinyin": "ni xi huan",
+		"soundmark": "nǐ xǐ huan",
+		"englishGloss": "you like"
 	},
 	{
 		"chinese": "你不喜欢",
-		"english": "you don't like",
-		"soundmark": "/ju/ /dont/ /laɪk/"
+		"pinyin": "ni bu xi huan",
+		"soundmark": "nǐ bù xǐ huan",
+		"englishGloss": "you don't like"
 	},
 	{
 		"chinese": "你不喜欢做这件事",
-		"english": "you don't like to do it",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni bu xi huan zuo zhe jian shi",
+		"soundmark": "nǐ bù xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "you don't like to do it"
 	},
 	{
 		"chinese": "他喜欢",
-		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"pinyin": "ta xi huan",
+		"soundmark": "tā xǐ huan",
+		"englishGloss": "he likes"
 	},
 	{
 		"chinese": "他不喜欢",
-		"english": "he doesn't like",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/"
+		"pinyin": "ta bu xi huan",
+		"soundmark": "tā bù xǐ huan",
+		"englishGloss": "he doesn't like"
 	},
 	{
 		"chinese": "他不喜欢做这件事",
-		"english": "he doesn't like to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xi huan zuo zhe jian shi",
+		"soundmark": "tā bù xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "he doesn't like to do it"
 	},
 	{
 		"chinese": "她不喜欢做这件事",
-		"english": "she doesn't like to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xi huan zuo zhe jian shi",
+		"soundmark": "tā bù xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "she doesn't like to do it"
 	},
 	{
 		"chinese": "它不喜欢做这件事",
-		"english": "it doesn't like to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu xi huan zuo zhe jian shi",
+		"soundmark": "tā bù xǐ huan zuò zhè jiàn shì",
+		"englishGloss": "it doesn't like to do it"
 	},
 	{
 		"chinese": "我必须做这件事",
-		"english": "I have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bi xu zuo zhe jian shi",
+		"soundmark": "wǒ bì xū zuò zhè jiàn shì",
+		"englishGloss": "I have to do it"
 	},
 	{
 		"chinese": "我不必做这件事",
-		"english": "I don't have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "wo bu bi zuo zhe jian shi",
+		"soundmark": "wǒ bú bì zuò zhè jiàn shì",
+		"englishGloss": "I don't have to do it"
 	},
 	{
 		"chinese": "你必须做这件事",
-		"english": "you have to do it",
-		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni bi xu zuo zhe jian shi",
+		"soundmark": "nǐ bì xū zuò zhè jiàn shì",
+		"englishGloss": "you have to do it"
 	},
 	{
 		"chinese": "你不必做这件事",
-		"english": "you don't have to do it",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "ni bu bi zuo zhe jian shi",
+		"soundmark": "nǐ bú bì zuò zhè jiàn shì",
+		"englishGloss": "you don't have to do it"
 	},
 	{
 		"chinese": "他必须做这件事",
-		"english": "he has to do it",
-		"soundmark": "/hi/ /hæz/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bi xu zuo zhe jian shi",
+		"soundmark": "tā bì xū zuò zhè jiàn shì",
+		"englishGloss": "he has to do it"
 	},
 	{
 		"chinese": "他不必做这件事",
-		"english": "he doesn't have to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu bi zuo zhe jian shi",
+		"soundmark": "tā bú bì zuò zhè jiàn shì",
+		"englishGloss": "he doesn't have to do it"
 	},
 	{
 		"chinese": "她必须做这件事",
-		"english": "she has to do it",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bi xu zuo zhe jian shi",
+		"soundmark": "tā bì xū zuò zhè jiàn shì",
+		"englishGloss": "she has to do it"
 	},
 	{
 		"chinese": "她不必做这件事",
-		"english": "she doesn't have to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu bi zuo zhe jian shi",
+		"soundmark": "tā bú bì zuò zhè jiàn shì",
+		"englishGloss": "she doesn't have to do it"
 	},
 	{
 		"chinese": "它必须做这件事",
-		"english": "it has to do it",
-		"soundmark": "/ɪt/ /hæz/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bi xu zuo zhe jian shi",
+		"soundmark": "tā bì xū zuò zhè jiàn shì",
+		"englishGloss": "it has to do it"
 	},
 	{
 		"chinese": "它不必做这件事",
-		"english": "it doesn't have to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/"
+		"pinyin": "ta bu bi zuo zhe jian shi",
+		"soundmark": "tā bú bì zuò zhè jiàn shì",
+		"englishGloss": "it doesn't have to do it"
 	},
 	{
 		"chinese": "它需要",
-		"english": "it needs",
-		"soundmark": "/ɪt/ /nidz/"
+		"pinyin": "ta xu yao",
+		"soundmark": "tā xū yào",
+		"englishGloss": "it needs"
 	},
 	{
 		"chinese": "它不需要",
-		"english": "it doesn't need",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/"
+		"pinyin": "ta bu xu yao",
+		"soundmark": "tā bù xū yào",
+		"englishGloss": "it doesn't need"
 	},
 	{
 		"chinese": "吃这个食物",
-		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"pinyin": "chi zhe ge shi wu",
+		"soundmark": "chī zhè ge shí wù",
+		"englishGloss": "to eat the food"
 	},
 	{
 		"chinese": "它需要吃这个食物",
-		"english": "it needs to eat the food",
-		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/"
+		"pinyin": "ta xu yao chi zhe ge shi wu",
+		"soundmark": "tā xū yào chī zhè ge shí wù",
+		"englishGloss": "it needs to eat the food"
 	},
 	{
 		"chinese": "现在",
-		"english": "now",
-		"soundmark": "/naʊ/"
+		"pinyin": "xian zai",
+		"soundmark": "xiàn zài",
+		"englishGloss": "now"
 	},
 	{
 		"chinese": "它需要现在吃这个食物",
-		"english": "it needs to eat the food now",
-		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "ta xu yao xian zai chi zhe ge shi wu",
+		"soundmark": "tā xū yào xiàn zài chī zhè ge shí wù",
+		"englishGloss": "it needs to eat the food now"
 	},
 	{
 		"chinese": "它不需要现在吃这个食物",
-		"english": "it doesn't need to eat the food now",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"pinyin": "ta bu xu yao xian zai chi zhe ge shi wu",
+		"soundmark": "tā bù xū yào xiàn zài chī zhè ge shí wù",
+		"englishGloss": "it doesn't need to eat the food now"
 	},
 	{
 		"chinese": "星荣需要",
-		"english": "Xingrong needs",
-		"soundmark": "/nidz/"
+		"pinyin": "xing rong xu yao",
+		"soundmark": "xīng róng xū yào",
+		"englishGloss": "Xingrong needs"
 	},
 	{
 		"chinese": "休息",
-		"english": "to rest",
-		"soundmark": "/tə/ /rɛst/"
+		"pinyin": "xiu xi",
+		"soundmark": "xiū xi",
+		"englishGloss": "to rest"
 	},
 	{
 		"chinese": "星荣需要休息",
-		"english": "Xingrong needs to rest",
-		"soundmark": "/nidz/ /tə/ /rɛst/"
+		"pinyin": "xing rong xu yao xiu xi",
+		"soundmark": "xīng róng xū yào xiū xi",
+		"englishGloss": "Xingrong needs to rest"
 	},
 	{
 		"chinese": "星荣不需要",
-		"english": "Xingrong doesn't need",
-		"soundmark": "/ˈdʌznt/ /nid/"
+		"pinyin": "xing rong bu xu yao",
+		"soundmark": "xīng róng bù xū yào",
+		"englishGloss": "Xingrong doesn't need"
 	},
 	{
 		"chinese": "星荣不需要休息",
-		"english": "Xingrong doesn't need to rest",
-		"soundmark": "/ˈdʌznt/ /nid/ /tə/ /rɛst/"
+		"pinyin": "xing rong bu xu yao xiu xi",
+		"soundmark": "xīng róng bù xū yào xiū xi",
+		"englishGloss": "Xingrong doesn't need to rest"
 	},
 	{
 		"chinese": "他想要",
-		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"pinyin": "ta xiang yao",
+		"soundmark": "tā xiǎng yào",
+		"englishGloss": "he wants"
 	},
 	{
 		"chinese": "他不想",
-		"english": "he doesn't want",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/"
+		"pinyin": "ta bu xiang",
+		"soundmark": "tā bù xiǎng",
+		"englishGloss": "he doesn't want"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "to tell me"
 	},
 	{
 		"chinese": "重要的某事",
-		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "zhong yao de mou shi",
+		"soundmark": "zhòng yào de mǒu shì",
+		"englishGloss": "something important"
 	},
 	{
 		"chinese": "他想要告诉我重要的某事",
-		"english": "he wants to tell me something important",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "ta xiang yao gao su wo zhong yao de mou shi",
+		"soundmark": "tā xiǎng yào gào sù wǒ zhòng yào de mǒu shì",
+		"englishGloss": "he wants to tell me something important"
 	},
 	{
 		"chinese": "他不想告诉我重要的某件事",
-		"english": "he doesn't want to tell me something important",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"pinyin": "ta bu xiang gao su wo zhong yao de mou jian shi",
+		"soundmark": "tā bù xiǎng gào sù wǒ zhòng yào de mǒu jiàn shì",
+		"englishGloss": "he doesn't want to tell me something important"
 	},
 	{
 		"chinese": "她想",
-		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"pinyin": "ta xiang",
+		"soundmark": "tā xiǎng",
+		"englishGloss": "she wants"
 	},
 	{
 		"chinese": "她不想",
-		"english": "she doesn't want",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/"
+		"pinyin": "ta bu xiang",
+		"soundmark": "tā bù xiǎng",
+		"englishGloss": "she doesn't want"
 	},
 	{
 		"chinese": "解释",
-		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "to explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "to explain the reason"
 	},
 	{
 		"chinese": "她想要解释原因",
-		"english": "she wants to explain the reason",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta xiang yao jie shi yuan yin",
+		"soundmark": "tā xiǎng yào jiě shì yuán yīn",
+		"englishGloss": "she wants to explain the reason"
 	},
 	{
 		"chinese": "她不想解释原因",
-		"english": "she doesn't want to explain the reason",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bu xiang jie shi yuan yin",
+		"soundmark": "tā bù xiǎng jiě shì yuán yīn",
+		"englishGloss": "she doesn't want to explain the reason"
 	},
 	{
 		"chinese": "问我",
-		"english": "to ask me",
-		"soundmark": "/tə/ /æsk/ /mi/"
+		"pinyin": "wen wo",
+		"soundmark": "wèn wǒ",
+		"englishGloss": "to ask me"
 	},
 	{
 		"chinese": "一个问题",
-		"english": "a question",
-		"soundmark": "/ə/ /'kwɛstʃən/"
+		"pinyin": "yi ge wen ti",
+		"soundmark": "yí gè wèn tí",
+		"englishGloss": "a question"
 	},
 	{
 		"chinese": "问我一个问题",
-		"english": "to ask me a question",
-		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"pinyin": "wen wo yi ge wen ti",
+		"soundmark": "wèn wǒ yí gè wèn tí",
+		"englishGloss": "to ask me a question"
 	},
 	{
 		"chinese": "她想要问我一个问题",
-		"english": "she wants to ask me a question",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"pinyin": "ta xiang yao wen wo yi ge wen ti",
+		"soundmark": "tā xiǎng yào wèn wǒ yí gè wèn tí",
+		"englishGloss": "she wants to ask me a question"
 	},
 	{
 		"chinese": "她不想问我一个问题",
-		"english": "she doesn't want to ask me a question",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"pinyin": "ta bu xiang wen wo yi ge wen ti",
+		"soundmark": "tā bù xiǎng wèn wǒ yí gè wèn tí",
+		"englishGloss": "she doesn't want to ask me a question"
 	},
 	{
 		"chinese": "它想",
-		"english": "it wants",
-		"soundmark": "/ɪt/ /wɑnts/"
+		"pinyin": "ta xiang",
+		"soundmark": "tā xiǎng",
+		"englishGloss": "it wants"
 	},
 	{
 		"chinese": "它不想",
-		"english": "it doesn't want",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/"
+		"pinyin": "ta bu xiang",
+		"soundmark": "tā bù xiǎng",
+		"englishGloss": "it doesn't want"
 	},
 	{
 		"chinese": "飞翔",
-		"english": "to fly",
-		"soundmark": "/tə/ /flaɪ/"
+		"pinyin": "fei xiang",
+		"soundmark": "fēi xiáng",
+		"englishGloss": "to fly"
 	},
 	{
 		"chinese": "在天空中",
-		"english": "in the sky",
-		"soundmark": "/ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zai tian kong zhong",
+		"soundmark": "zài tiān kōng zhōng",
+		"englishGloss": "in the sky"
 	},
 	{
 		"chinese": "在天空中飞翔",
-		"english": "to fly in the sky",
-		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "zai tian kong zhong fei xiang",
+		"soundmark": "zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "to fly in the sky"
 	},
 	{
 		"chinese": "它想在天空中飞翔",
-		"english": "it wants to fly in the sky",
-		"soundmark": "/ɪt/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "ta xiang zai tian kong zhong fei xiang",
+		"soundmark": "tā xiǎng zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "it wants to fly in the sky"
 	},
 	{
 		"chinese": "它不想在天空中飞翔",
-		"english": "it doesn't want to fly in the sky",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"pinyin": "ta bu xiang zai tian kong zhong fei xiang",
+		"soundmark": "tā bù xiǎng zài tiān kōng zhōng fēi xiáng",
+		"englishGloss": "it doesn't want to fly in the sky"
 	},
 	{
 		"chinese": "他喜欢",
-		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"pinyin": "ta xi huan",
+		"soundmark": "tā xǐ huan",
+		"englishGloss": "he likes"
 	},
 	{
 		"chinese": "他不喜欢",
-		"english": "he doesn't like",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/"
+		"pinyin": "ta bu xi huan",
+		"soundmark": "tā bù xǐ huan",
+		"englishGloss": "he doesn't like"
 	},
 	{
 		"chinese": "散步",
-		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"pinyin": "san bu",
+		"soundmark": "sàn bù",
+		"englishGloss": "to walk"
 	},
 	{
 		"chinese": "在公园里",
-		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li",
+		"soundmark": "zài gōng yuán lǐ",
+		"englishGloss": "in the park"
 	},
 	{
 		"chinese": "在公园里散步",
-		"english": "to walk in the park",
-		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "zai gong yuan li san bu",
+		"soundmark": "zài gōng yuán lǐ sàn bù",
+		"englishGloss": "to walk in the park"
 	},
 	{
 		"chinese": "他喜欢在公园里散步",
-		"english": "he likes to walk in the park",
-		"soundmark": "/hi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "ta xi huan zai gong yuan li san bu",
+		"soundmark": "tā xǐ huan zài gōng yuán lǐ sàn bù",
+		"englishGloss": "he likes to walk in the park"
 	},
 	{
 		"chinese": "他不喜欢在公园里散步",
-		"english": "he doesn't like to walk in the park",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"pinyin": "ta bu xi huan zai gong yuan li san bu",
+		"soundmark": "tā bù xǐ huan zài gōng yuán lǐ sàn bù",
+		"englishGloss": "he doesn't like to walk in the park"
 	},
 	{
 		"chinese": "她喜欢",
-		"english": "she likes",
-		"soundmark": "/ʃi/ /laɪks/"
+		"pinyin": "ta xi huan",
+		"soundmark": "tā xǐ huan",
+		"englishGloss": "she likes"
 	},
 	{
 		"chinese": "她不喜欢",
-		"english": "she doesn't like",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/"
+		"pinyin": "ta bu xi huan",
+		"soundmark": "tā bù xǐ huan",
+		"englishGloss": "she doesn't like"
 	},
 	{
 		"chinese": "阅读",
-		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"pinyin": "yue du",
+		"soundmark": "yuè dú",
+		"englishGloss": "to read"
 	},
 	{
 		"chinese": "在家里",
-		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"pinyin": "zai jia li",
+		"soundmark": "zài jiā lǐ",
+		"englishGloss": "at home"
 	},
 	{
 		"chinese": "在家里阅读",
-		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"pinyin": "zai jia li yue du",
+		"soundmark": "zài jiā lǐ yuè dú",
+		"englishGloss": "to read at home"
 	},
 	{
 		"chinese": "她喜欢在家里阅读",
-		"english": "she likes to read at home",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"pinyin": "ta xi huan zai jia li yue du",
+		"soundmark": "tā xǐ huan zài jiā lǐ yuè dú",
+		"englishGloss": "she likes to read at home"
 	},
 	{
 		"chinese": "她不喜欢在家里阅读",
-		"english": "she doesn't like to read at home",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/ /tə/ /rid/ /ət/ /hom/"
+		"pinyin": "ta bu xi huan zai jia li yue du",
+		"soundmark": "tā bù xǐ huan zài jiā lǐ yuè dú",
+		"englishGloss": "she doesn't like to read at home"
 	},
 	{
 		"chinese": "它喜欢",
-		"english": "it likes",
-		"soundmark": "/ɪt/ /laɪks/"
+		"pinyin": "ta xi huan",
+		"soundmark": "tā xǐ huan",
+		"englishGloss": "it likes"
 	},
 	{
 		"chinese": "它不喜欢",
-		"english": "it doesn't like",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/"
+		"pinyin": "ta bu xi huan",
+		"soundmark": "tā bù xǐ huan",
+		"englishGloss": "it doesn't like"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "to sleep"
 	},
 	{
 		"chinese": "在床上",
-		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang",
+		"soundmark": "zài chuáng shàng",
+		"englishGloss": "on the bed"
 	},
 	{
 		"chinese": "在床上睡觉",
-		"english": "to sleep on the bed",
-		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang shui jiao",
+		"soundmark": "zài chuáng shàng shuì jiào",
+		"englishGloss": "to sleep on the bed"
 	},
 	{
 		"chinese": "它喜欢在床上睡觉",
-		"english": "it likes to sleep on the bed",
-		"soundmark": "/ɪt/ /laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ta xi huan zai chuang shang shui jiao",
+		"soundmark": "tā xǐ huan zài chuáng shàng shuì jiào",
+		"englishGloss": "it likes to sleep on the bed"
 	},
 	{
 		"chinese": "它不喜欢在床上睡觉",
-		"english": "it doesn't like to sleep on the bed",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ta bu xi huan zai chuang shang shui jiao",
+		"soundmark": "tā bù xǐ huan zài chuáng shàng shuì jiào",
+		"englishGloss": "it doesn't like to sleep on the bed"
 	},
 	{
 		"chinese": "解释",
-		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"pinyin": "jie shi",
+		"soundmark": "jiě shì",
+		"englishGloss": "to explain"
 	},
 	{
 		"chinese": "原因",
-		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"pinyin": "yuan yin",
+		"soundmark": "yuán yīn",
+		"englishGloss": "the reason"
 	},
 	{
 		"chinese": "解释原因",
-		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "jie shi yuan yin",
+		"soundmark": "jiě shì yuán yīn",
+		"englishGloss": "to explain the reason"
 	},
 	{
 		"chinese": "他必须解释原因",
-		"english": "he has to explain the reason",
-		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bi xu jie shi yuan yin",
+		"soundmark": "tā bì xū jiě shì yuán yīn",
+		"englishGloss": "he has to explain the reason"
 	},
 	{
 		"chinese": "他不必解释原因",
-		"english": "he doesn't have to explain the reason",
-		"soundmark": "/hi/ /ˈdʌznt/ /hæv/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"pinyin": "ta bu bi jie shi yuan yin",
+		"soundmark": "tā bú bì jiě shì yuán yīn",
+		"englishGloss": "he doesn't have to explain the reason"
 	},
 	{
 		"chinese": "在家里阅读",
-		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"pinyin": "zai jia li yue du",
+		"soundmark": "zài jiā lǐ yuè dú",
+		"englishGloss": "to read at home"
 	},
 	{
 		"chinese": "她不必在家里阅读",
-		"english": "she doesn't have to read at home",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /rid/ /ət/ /hom/"
+		"pinyin": "ta bu bi zai jia li yue du",
+		"soundmark": "tā bú bì zài jiā lǐ yuè dú",
+		"englishGloss": "she doesn't have to read at home"
 	},
 	{
 		"chinese": "告诉我",
-		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"pinyin": "gao su wo",
+		"soundmark": "gào sù wǒ",
+		"englishGloss": "to tell me"
 	},
 	{
 		"chinese": "事实",
-		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"pinyin": "shi shi",
+		"soundmark": "shì shí",
+		"englishGloss": "the truth"
 	},
 	{
 		"chinese": "告诉我事实",
-		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "gao su wo shi shi",
+		"soundmark": "gào sù wǒ shì shí",
+		"englishGloss": "to tell me the truth"
 	},
 	{
 		"chinese": "她必须告诉我事实",
-		"english": "she has to tell me the truth",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ta bi xu gao su wo shi shi",
+		"soundmark": "tā bì xū gào sù wǒ shì shí",
+		"englishGloss": "she has to tell me the truth"
 	},
 	{
 		"chinese": "她不必告诉我事实",
-		"english": "she doesn't have to tell me the truth",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"pinyin": "ta bu bi gao su wo shi shi",
+		"soundmark": "tā bú bì gào sù wǒ shì shí",
+		"englishGloss": "she doesn't have to tell me the truth"
 	},
 	{
 		"chinese": "睡觉",
-		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"pinyin": "shui jiao",
+		"soundmark": "shuì jiào",
+		"englishGloss": "to sleep"
 	},
 	{
 		"chinese": "在床上",
-		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang",
+		"soundmark": "zài chuáng shàng",
+		"englishGloss": "on the bed"
 	},
 	{
 		"chinese": "在床上睡觉",
-		"english": "to sleep on the bed",
-		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "zai chuang shang shui jiao",
+		"soundmark": "zài chuáng shàng shuì jiào",
+		"englishGloss": "to sleep on the bed"
 	},
 	{
 		"chinese": "它必须在床上睡觉",
-		"english": "it has to sleep on the bed",
-		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ta bi xu zai chuang shang shui jiao",
+		"soundmark": "tā bì xū zài chuáng shàng shuì jiào",
+		"englishGloss": "it has to sleep on the bed"
 	},
 	{
 		"chinese": "它不必",
-		"english": "it doesn't have to",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/"
+		"pinyin": "ta bu bi",
+		"soundmark": "tā bú bì",
+		"englishGloss": "it doesn't have to"
 	},
 	{
 		"chinese": "它不必现在在床上睡觉",
-		"english": "it doesn't have to sleep on the bed",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"pinyin": "ta bu bi xian zai zai chuang shang shui jiao",
+		"soundmark": "tā bú bì xiàn zài zài chuáng shàng shuì jiào",
+		"englishGloss": "it doesn't have to sleep on the bed"
 	}
 ]

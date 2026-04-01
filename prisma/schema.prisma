@@ -30,13 +30,17 @@ model Course {
 }
 
 model Statement {
-  id        Int     @id @default(autoincrement())
-  order     Int     @unique
-  chinese   String
-  english   String
-  soundmark String
-  courseId  Int?
-  courses   Course? @relation(fields: [courseId], references: [id])
+  id           Int     @id @default(autoincrement())
+  order        Int     @unique
+  chinese      String
+  /// Space-separated answer key (toneless or any style; compared via normalizePinyin)
+  pinyin       String  @db.VarChar(512)
+  /// Tone-marked pinyin shown after reveal
+  soundmark    String  @db.VarChar(512)
+  /// Optional English translation on answer screen
+  englishGloss String? @db.VarChar(512)
+  courseId     Int?
+  courses      Course? @relation(fields: [courseId], references: [id])
 
   @@index([courseId], map: "Statement_courseId_fkey")
   @@map("statements")
